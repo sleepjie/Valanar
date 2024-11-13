@@ -1,6 +1,4 @@
-Valanar Superdocument 2.0
 # Foreword
-
 This superdocument is intended as a reference sheet for every component that makes up the world of Valanar. Written from the perspective of archivists during the [[#The Age of Strife]], this document is the culmination of all available (preserved) historical accounts and pieces of scripture. Much of the information is therefore obtained from contemporary sources.
 # History
 
@@ -18,7 +16,7 @@ This superdocument is intended as a reference sheet for every component that mak
 The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
 
 **The Celestial Calendar**
-The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honor of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
+The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
 
 - Year 1 - Year of the Dawn
 - Year 2 - Year of the Lamprey
@@ -58,7 +56,7 @@ In the Astral Ocean, stars were not merely physical objects but represented idea
 
 Next, the Elder Gods deigned to reproduce that which kept themselves astute, their constant battle between order and chaos. They looked introspectively, deciding to truncate a single part of each of themselves to engender the planes of Praesidium and Kaas. Praesidium was sculpted to be pristine - chalky marble architecture whose fingers dip beyond the clouds, and impossible structures made of shimmering glass - a domain crafted with precision beyond mortal capabilities. Kaas was an affront to logic, an inhospitable place where time and place have no meaning; an overflowing cauldron containing all of the ingredients for life, but with no direction. The battle waged between these planes in the mind of all living things would be one of the very few constants in the Material Plane: the intrinsic need for design and order, and the base instinct to tear it all down.
 
-**III. The Titans & The Pillars of Creation**
+ **III. The Titans & The Pillars of Creation**
 The canvas was set, and with the material plane primed for beings to inhabit it, the Elder Gods naturally began experimenting with consciousness; their first creations were rudimentary beings, bereft of free will and severely lacking in depth or congruent thought. These dull, grotesque entities were hollow mirrors of the basest understanding of life, a crude forgery of mechanical predator instinct and flesh. 
 
 Their failure only led to further refinement; with each successive creation, the Elder Gods' craftsmanship improved, and they grew more adept at blending Manamaterium with Metamaterium, infusing their creations with the ability to think, choose, and grow. Their final triumph was the creation of the Titans, nine great beings of immense power who could exist simultaneously in both the Material Plane and the metaphysical realms.
@@ -116,13 +114,12 @@ Some scholars and priests believe that the Primordials perished in the act of se
 “The world is full of intensely magical things patiently waiting for our wits to grow sharper.” - Father Cordell Kirchner, High Cleric
 ### The Age of Mist
 A large majority of the Age of Mists remain obfuscated and thus all dates are approximate estimations based on contemporary sources.
-
 - **2500+BR** - The Great Exodus
 - **1903BR** - The Primordial Sacrifice
 - **1900BR** - The Desolation of Malyria
 - **1850BR** - Fall of Doyverd
 - **500BR** - Eruption of Mt. Zephyra 
-	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of [Dwarrow]() and forcing the rest into the Worldcaves and beyond. 
+	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of Dwarrow and forcing the rest into the Worldcaves and beyond. 
 - **330BR/320BR** - The Witzian Civil War 
 	Colloquially referred to as ‘The Ten Year War’, a bloody conflict which spanned approximately a decade, concludes.
 - **317BR** - Exile of the Ende'hel
@@ -144,8 +141,7 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **3BR** - The Great Exile 
 	The Serende’hel lose their sacred capital and are forced to flee from the Fane. This event would come to be known as the Great Exile, as the remaining Elves spread out all across the world. 
 ---
-## The Age of Ascension
-
+### The Age of Ascension
 Characterised by the rise and fall of various kingdoms and empires, the Age of Ascension begins with the Serende’hel Reformation, a cultural renaissance. 
 - **0SR** - The Serende'hel Reformation 
 	The Draymond Calendar is created and instituted across Valanar. With the boon of primeval comprehension, old intellectualism is replaced with new-wave lines of thought, granting an economic boost never before seen. With the aid of the Serende’hel, the world is ushered into an age of enlightenment. As people settle into their roles and humanity finds its footing in Kingdoms and Empires, the path is paved for the world to become what it is today.
@@ -172,8 +168,8 @@ Characterised by the rise and fall of various kingdoms and empires, the Age of A
 - **220SR** - The Khard Civil War 
 	Fuelled by generations of internal conflict and greed, the Khard Civil War lasted for four of the longest years in the Dwarrow's history. 
 ---
-## The Age of Heroes
-
+### The Age of Heroes
+As the kingdoms of the world settle into a time of relative peace, the Age of Heroes is characterised not by the movements of Empires but individuals. 
 - **278SR** - 
 	The Age of Heroes begins. The world is rife with knowledge and awe inspiring sights - people aspire to one day discover these for themselves. An age of prosperity and heroism is starting.
 - **300SR** - 
@@ -193,45 +189,41 @@ Characterised by the rise and fall of various kingdoms and empires, the Age of A
 	Those left behind were left to herald their own fates - creating a new age of Man. In the aftermath of Valanar’s first great war nothing was left unchanged; Einartoft’s southern ocean was frozen over, magical beings rose to power in their respective realms, and many powerful entities were banished amongst the planes.
 
 ---
-## The Age of Man
-
+### The Age of Man
+In the aftermath of the Great God War
 - **925SR** - 
 	The Age of Man begins. The remaining Gods begin to help humanity rebuild itself, this time with a less heavy handed approach - beings are left to try and find their ways on their own, with the subtle guidance of the Gods. Men experiment and build, creating a society and world for themselves. In this age a man truly does forge his own fate. 
 - **942SR** - 
 	King of Einartoft is assassinated, his only son, Eryk, immediately assumes the throne at the age of sixteen.
 - **950SR** - Einartoft Invades Draymond
 	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
-
 ---
-## The Age of War
-
+### The Age of War
 - **2283SR/2284AV** - The Age of War
 	A powerful Lich known as Dalamar takes control of eight extremely powerful Dragons, using them to wipe out the Holy City of Nassau. The Draymond Empire surrenders shortly after, and Dalamar is free to summon the God-Queen, Verassi.
-- **2363AV** - [The Battle of Snowden](https://docs.google.com/document/d/1bJw1jRO2cFUGI1Q0TSB7HqOqCcldNSYNmDZ6a1IJWcM/edit?usp=sharing). 
-- **2365AV** - [The Assault on Sadrak](https://docs.google.com/document/d/1p-1uETtPSk1Wpjj80GrOo4D7oM00j8DJrZ2ZBWyNF_w/edit). 
+- **2363AV** - The Battle of Snowden 
+	Snowden is besieged by Verassi's forces and are eventually repelled. 
+- **2365AV** - Assault on Sadurak
 - **2366AV** - 
 	The Order of the Hammer, led by a man known as “The Abbot”, quickly takes control over what remains of Draymond’s military forces and makes concerted efforts towards rebuilding civilization. This enables them to enforce their dogmatic creed onto the public, outlawing magics and religion, amongst other things. 
 - **2399AV** - The Age of Strife Begins
 	The dissolution of Verassi’s empire leads to a time of great change and turmoil, including mass famines and genocides across the world. This is known as the era of darkness, as the days progressively grew shorter and the sun grew dimmer, until all that was left… was strife.
-## The Age of Strife
-
 ---
-2400AV - From the ashes of the old world, and the shadows of the last great war, the last of Man remains huddled in overcrowded cities, fighting against the encroaching tides of decay. 
-
-The world was shattered by magic; plains became deserts, mountains crumbled, storms raged. Where once was law, order and empire, now only hardship and savagery remain. In a time where a man's worth is measured by his word, might makes right, and a quick death is a mercy, only those who are foolish or brave venture far from home.
-
-2414AV - Earthquakes cause irrevocable change as the mountain valleys of Einartoft shift and crack, destroying towns and cities all across the Snow Kingdom. Communities are either divided or wiped out; in many cases citizens flee to Snowden where conditions were not much better. King Willhelm V declares martial law and closes the gates to the city.   
-
-2415AV -
-Serpent’s Pass is felled, as the Dwarves seal Khard off from the rest of the world. 
-
-The Capital City of the Elven Isle collapses into the ocean, after years of inclement weather decimating the landscape. Once again left without a home, the Elves scatter to the far corners of the world.
-
-Witches and heretics are burned in the streets.
-
+### The Age of Strife
+- **2400AV** - 
+	From the ashes of the old world, and the shadows of the last great war, the last of Man remains huddled in overcrowded cities, fighting against the encroaching tides of decay. 
+	
+	The world was shattered by magic; plains became deserts, mountains crumbled, storms raged. Where once was law, order and empire, now only hardship and savagery remain. In a time where a man's worth is measured by his word, might makes right, and a quick death is a mercy, only those who are foolish or brave venture far from home.
+- **2414AV** - 
+	Earthquakes cause irrevocable change as the mountain valleys of Einartoft shift and crack, destroying towns and cities all across the Snow Kingdom. Communities are either divided or wiped out; in many cases citizens flee to Snowden where conditions were not much better. King Willhelm V declares martial law and closes the gates to the city.   
+- **2415AV** -
+	Serpent’s Pass is felled, as the Dwarves seal Khard off from the rest of the world. 
+	
+	The Capital City of the Elven Isle collapses into the ocean, after years of inclement weather decimating the landscape. Once again left without a home, the Elves scatter to the far corners of the world.
+	
+	Witches and heretics are burned in the streets.
 ---
-## The Age of Ash
-
+### The Age of Ash
 When the Elder Gods, the mightiest of all beings, created the Titans and had their first attempt at granting life, they watched and observed. As their children worked to paint the details on the grand canvas their creators had given them, they noticed a fatal flaw in their design; for the Titans were immortal, and their world was too grand, their picture too perfect. The Elder Gods created the concept of chaos to balance order, night to balance the day, winter to balance the summer, and death to balance life. All things were made of magic; the sun, the Gods which would become the stars, the flowers, the creatures, but even the most powerful of magic is finite, and thus the Elder God’s creation was finally put in perfect balance, for in time, all magic would begin to fade.
 
 The Gods, creatures of incredible magic, protectors to all of the life the Titans had crafted and guardians of mankind, disappeared from the world. Their planes, which themselves were magical representations of the roles they played in this dance of order and chaos, fade into the void from whence the Elder Gods came. The stars no longer shine in the night sky, and almost as a cruel metaphor, the days are dim and the nights pitch black.
@@ -245,15 +237,15 @@ The magical essence in all life begins to fade; crops cease to grow, roving band
 One day, the Elder Gods may return, and in their infinite wisdom, see it fit to continue their experiment. A plant will grow, a baby will be born, a lone star will appear in the night sky. 
 
 Or, perhaps not. Who could possibly know?
+
+---
 # Geography
-
+Valanar is home to six continents and dozens of small island nations. In the far east, the hellish dunes of the Sah'Raza 
 ## Dol-Calandria
-
 The largest and most temperate continent in Valanar, home to the ‘Black Empire’ of Draymond and previously the seat of the old Doyverd Kingdom, which the vast majority of human civilisations can trace their roots back to.
 ### Draymond
 ##### Population and Demographics 
 Draymond is the largest and most diverse cultural centre on Dol’Calandria, often referred to as the "melting pot" of Valanar. The population is primarily Human, with a significant number of Elves who migrated during various historical periods, particularly after the Serende'hel Reformation. The union of these two races gave rise to a notable population of Half-Elves, many of whom occupy significant roles in the empire’s political, academic, and military spheres. Other races, such as the Dwarrow and the Glimmerhin, are also present, though fewer in number. These higher races are not only accepted but often welcomed for their unique contributions to the empire’s complex society.
-
 ##### History and Founding
 Founded by Human settlers before recorded time, Draymond’s origins as a kingdom go as far back as the first men; although records are limited, evidence within the Illuminator Archives suggests a primitive nation known as Doyverd was the first civilisation to call the continent home, spreading out from what is now the country of Draymond into the rest of the continent, essentially forming the first Empire of Man. Doyverd's rise to power began with its formidable warriors and advanced agriculture, allowing the fledgling kingdom to spread across what is now Draymond and into surrounding territories. These early settlers worshipped a pantheon of Titans and Old Gods, whose influence still lingers in Draymondian culture, though much of it has been overtaken by the more modern worship of the High Pantheon.
 
@@ -294,7 +286,6 @@ Prior to the Serende’hel Reformation, bathhouses existed mostly as private ins
 Access to these bathhouses is, on average, very affordable. Some bathhouses are more lavish or pampered than others, but most will get the job done and are maintained and cleaned by law. Private bath houses operated by criminal syndicates sometimes offer ‘alternative’ services, though the legality of these services can only be described as questionable at best. 
 ##### Geography and Landmarks 
 A mostly temperate climate, Draymond is flanked by two mountain ranges with verdant forests toward the northern border of Florence and sparse stretches of hills and plains in the south. Most of the cities and larger settlements are located in the warmer and more fertile northern regions, though there are many older settlements in the south which have been built upon over the centuries. 
-
 ##### Settlements & Structures
 Illuminator HQ
 Secretive meetings are often held here as ambassadors from every walk of life are treated with neutrality. Within the walls of the Illuminator’s vast fortress of knowledge and magic, one can find themselves lost amidst a sea of ancient texts, artefacts, and long kept secrets. It is here that the Grand Illuminators are honoured with statues depicting their visage, lining the courtyards of the meticulously kept gardens at the front of the castle, where all different kinds of plants, flowers and herbs are cultivated.
@@ -313,9 +304,9 @@ Though not the first to utilise magic for naval purposes, Draymond’s Navy were
 ##### Population and Demographics 
 Text here.
 ##### History and Founding
-Nassau was constructed around 500BR. 
+Nassau was constructed around 500BR. It is widely considered to be the birthplace of theology. 
 ##### Economy and Curreny
-Text here.
+Thousands make pilgrimage to the Holy City each year, contributing massively to the country's growth and economic stability. 
 ##### Culture and Society 
 Text here.
 ##### Geography and Landmarks 
@@ -339,13 +330,8 @@ Text here.
 Text here.
 ##### Military and Naval Power 
 Text here.
-
-  
-
 ### Florence
-
 ##### Population and Demographics 
-
 The majority population of Florence is Humans, followed closely by Ende’hel and Mirende’hel, many of whom migrated following the Serende’hel Reformation A minority population of Lithfolk also reside here after many migrated from the Westerlands during the spread of Bloodfire in 342SR. 
 ##### History and Founding
 Florence was founded in the fertile valleys of southern Dol-Calandria by refugees fleeing the collapse of the Doyverd Kingdom. This early settlement quickly grew into a prosperous city-state, thanks to its rich agricultural lands and strategic location. The Florentines, known for their expertise in viticulture and trade, transformed their homeland into a haven of culture and refinement. The capital city, La Fiora, became renowned for its stunning architecture, lush vineyards, and thriving artistic community.  
@@ -391,7 +377,7 @@ The Morovian Highlands are teeming with wild game and
 ##### Military and Naval Power 
 
 ### Blythe Coast
-
+The Blythe Coast is a fishing and 
 ##### Population and Demographics 
 The Blythe Coast is predominantly inhabited by a mixed population of Humans and Ende’hel Elves. While the Ende’hel settled here before the Serende’hel Reformation, the human population has grown steadily, forming the majority.
 ##### History and Founding
@@ -510,549 +496,238 @@ Rotahn, The Enlightened was believed to have been a soldier in the battle of Nay
 ##### Economy and Currency
 Plates are the standard form of currency in Nauska; precious metals are smelted into thin rectangular bars with a hole in the middle for stacking onto an abacus. These plates can vary in size and weight but are standardised as 3x5 inches and weighing 1lb per plate for foreign trade. 
 
-  
-
 The Shogunate employs a structured approach to trade and resource management, maximising efficiency and state control over key assets. Socially, they promote meritocracy within the bounds of their stringent class system, allowing upward mobility for common Kanin who demonstrate exceptional ability, particularly in areas beneficial to the state such as military service, scholarship, or craftsmanship; Nauskan swordsmiths for example are particularly famous for their knowledge of katana forging and are often employed by the Shogunate. 
-
-  
 
 Markets are strictly regulated by the Shogunate and therefore free trade of various items are impermissible without paying tax on each transaction, however bartering with food is fairly commonplace and acceptable as far as open trade is concerned. 
 
 Nauska has one port town which is used for trade with Brutayne and merchants from Drak’Thill known as Nayakami Bay. Foreign trade is 
-
-  
-
 ##### Culture and Society 
-
 The Kanin live relatively frugal lives and their culture of shared pragmatism and duty has kept Nauska unified throughout times of strife. 
-
-  
 
 The Lady of Wolves has many devout followers and shrines dedicated to her throughout Nauska. Hunting, farming and agriculture are big parts of Kanin life as they live on simple diets but eat quite a lot due to their physicality. 
 
-  
-
-The feudal lords of Nauska employ a stern, iron-fisted approach to law and order with a deep commitment to justice and equity. While they champion the arts and intellectual pursuits, their governance is underpinned by a strong, centralised authority that does not hesitate to enforce its will to maintain stability and control. Their rule is dictatorial when necessary, especially in matters of security and law enforcement, ensuring that their directives are executed without fail.
-
-  
+The feudal lords of Nauska employ a stern, iron-fisted approach to law and order with a deep commitment to justice and equity. While they champion the arts and intellectual pursuits, their governance is underpinned by a strong, centralised authority that does not hesitate to enforce its will to maintain stability and control. Their rule is dictatorial when necessary, especially in matters of security and law enforcement, ensuring that their directives are executed without fail.  
 
 The Kanin have established a distinct societal structure where the Samurai class enjoys privileges and responsibilities far removed from those of the common Kanin. Samurai serve not only as military and administrative officers but also as arbiters of the Shogunate’s laws and enforcers of its will. They are educated in the Hanari academies, where they learn the arts of governance, diplomacy, and military strategy, in stark contrast to the commoners who are more often engaged in agriculture, craftsmanship, and trade.
 
-  
-
 Nauska’s leadership is characterised by its pragmatic approach to governance; they are unyieldingly fair in their administration, yet uncompromising in their enforcement of the law. This pragmatic authoritarianism ensures that while the society thrives on cultural and intellectual fronts, it remains tightly controlled, with little room for dissent or deviation from the established order.
 
-  
-
 Bloodlines and ancestry are often seen as the primary means of not only conflict but also categorising social groups; peasant families rarely rise beyond their station and powerful clans stay powerful for as long as there is someone in the family carrying the banner. 
-
-  
-
 ##### Geography and Landmarks 
-
 The trees in Nauska are famously very tall, 
 
-  
-
 The lakes of Nauska are rich with gold, leading many to take up gold panning.
-
-  
-
 There are several species of sweet plants and fruits which are native to Nauska. 
 
-  
-
 Nauska sees more rainfall on average than most other countries per year, resulting in canyons and valleys that flood and drain throughout the seasons. This has many ecological implications including the hibernation and migration patterns of not only the
-
-  
-
 ##### Settlements & Structures
-
 The capital of Nauska is Doku, the only settlement large enough to be considered a city by the standards of any other country. Doku was the birthplace and fiefdom of Lord Sadao before he established it as his seat of power during his period as Shogun. 
-
-  
 
 Shrines to Eldain are particularly common throughout the Nauskan highlands. The mountains are viewed as sacred territory and as a result poaching or hunting without a writ of permission from a local Lord is considered a serious crime. 
 
-  
-
 Due to the mountainous terrain, most Kanin settlements are sprinkled throughout the peaks and valleys. 
 
-  
-
-The villages closer to the borders are inhabited by a higher percentage of Humans and act as proxies for trade with Vitgaard and Khard by extension. 
-
-  
-
+The villages closer to the borders ar inhabited by a higher percentage of Humans and act as proxies for trade with Vitgaard and Khard by extension. 
 ##### Military and Naval Power 
-
 Nauska does not have a standing army however each of the clans often have hundreds of samurai on retainer to act as their day to day peacekeeping force as well as levys conscripted by their feudal lord. 
-
-  
 
 The Kanin have a deeply intimate understanding of space and distance and this enables them to use the mountainous terrain of Nauska to their ultimate advantage, making it virtually impossible for foreign invaders to adapt; their preference for hit and run style ambushes works against any type of infantry, even other Kanin. 
 
-  
-  
-
 Commoners are permitted ownership and open carry of swords as long as they are hiltless as well as being both worn on the back and concealed within a cloth bag in order to increase their draw time - fractions of seconds that could spell the difference between life and death. This policy was enacted by the Hanari Shogunate as both a means to militarise the populace as well as reduce the rates of impulsive violence - especially between commoners and the samurai themselves. 
 
-  
-
 The Kanin have an extremely small naval force, with only one operational port out of Nayakami Bay. 
-
-  
-
 ### Terracotta Landmass
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
 
 ##### Military and Naval Power 
-
 Text here.
-
 ### Tohren Isle
-
 ##### Population and Demographics 
-
 The island is almost exclusively inhabited by Humans and Hilgyr, who have had a long standing relationship as mutual benefactors; the Gyr are excellent 
-
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
-  
-
 ### The Elven Isle
-
 ##### Population and Demographics 
-
 As the island’s name implies, the Elven Isle consists almost entirely of Ende’hel, with a minority population of Enadriel (approximately one quarter of the total population by 1000SR). Until the Age of Man, entry to the country was heavily monitored at every port; as a result, Humans and other races are often viewed with varying degrees of suspicion or even outright hostility in more rural areas of the country. 
-
-  
-
 ##### History and Founding
-
 Previously thought to be uninhabitable by Draymondian cartographers, the Elven Isle was discovered by charter boats on the northern sea. It remains unknown whether or not there were other inhabitants of the island before the Ende’hel made it their home in the Age of Ascension, though there is evidence to suggest an outpost or similar structure was erected by sailors from the Doyverd Kingdom before being abandoned and eventually destroyed by the weather. 
-
-  
 
 By the time the Serende’hel Reformation came to pass there were thousands of Ende'hel who had decided to remain in Draymond after having fully integrated into Dol’Calandrian society; many spread outward to other parts of the world and found new homes, however, many had also died fighting the Empire’s battles, and an increasing number of Ende’hel grew malcontented as tensions began to bubble. Tairon Silverbark, the Lord of the Elves, was eventually granted passage and rewarded all of the resources he had been promised almost a century prior, and the thousands of Ende’hel who had remained with their lord once again set off toward foreign shores under his leadership. 
 
-  
-
 The elves became masters of their environment, developing architectural techniques to withstand the island’s natural disasters and agricultural practices that ensured self-sufficiency. Their society was structured around a loose caste system, with different roles assigned based on magical ability, knowledge, and contributions to the community. 
 
-  
-
 Shortly after the construction of New Tairon, the Ende’hel were swift to their borders and enacted various isolationist policies to protect the cultural homogeneity of their newfound home. 
-
-  
-
 ##### Economy and Currency
-
 The currency of the Elven Isle is the Endelian Denar, which is a gold plated coin which comes in denominations of one, two, five and ten denar. They are thinner than a Draymond ducat by half an inch and the vast majority of the coins in circulation contain a depiction of Tairon Silverbark on one side and the national emblem on the other. 
 
-  
-
 While the isle itself is plenty rich in beauty, it isn’t known for having any particularly rare natural resources save for perhaps jadestone and a particularly fragrant halite which is collected from coastal estuaries. 
-
-  
-
 ##### Culture and Society 
-
 One need only take a cursory look at Ende’hel society to see a trend toward a more meritocratic society than any other race, similar to their Enadriel cousins; their pragmatic and 
 
-  
-
 The average diet of an Elven commoner consists of fish, rice and a handful of native vegetables. 
-
-  
-
 ##### Geography and Landmarks
-
 Despite the island’s relatively small surface area, there are two mountains to the north and south of the country which are regarded as sacred landmarks; Mt. Astrid and Mt. Kalan, the latter being a dormant volcano. Much of the fertile ground 
 
 There 
-
 ##### Settlements & Structures
 
-  
-
 ##### Military and Naval Power 
-
 While the Ende’hel are not particularly militaristic, it is common for Ende’hel males to be learned in at least the fundamentals of swordplay. 
-
-  
 
 ## Dol-Calenon
 
 ### Brutayne
 
-  
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
-  
 
 ### The Westerlands
-
 ##### Population and Demographics 
-
 Mostly Halflings, some Humans and a very minor population of Ende’hel. 
-
-  
-
 ##### Economy and Currency
-
 Very affluent country, exporting lots of produce, artisan and animal products each year. With few wars or conflicts to speak of, the Westerlands has always been prosperous and well known for 
-
-  
-
 ##### Culture and Society 
-
 The Lithfolk largely follow the Old Faith, 
 
-  
-
 The judicial system is operated by the clergy and is the only other governing body of authority with the power to arbitrate over executive decisions and laws passed by regional leaders. They likewise have the power to arrest or execute lawbreakers at their discretion. 
-
-  
-
 ##### Geography and Landmarks 
-
 Verdant plains and rolling green hills for miles. 
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 The Westerlands has little to no military presence or history of military warfare to speak of, though this is not to say that they are defenceless against foreign invasion; their citizens have been known to organise into guerilla militias and the Trade Guilds often keep thousands of peacekeeping associates in their employ. What they lack in physical stature, they are more than prepared to account for any situation through exorbitant spending on defences and political alliances. 
 
 ### The Unforgiving Lands
-
 ##### Population and Demographics
-
 The Unforgiving Lands are aptly named, for almost no one willingly makes their home in this barren, icy expanse. However, for those few souls who do reside in the frozen north, survival is a testament to their resilience. The population is predominantly Human, though there are healthy portions of Dwarrow, Glimmerhin, and Orkryn who eke out a living amid the frost and the towering forests. 
 
 The harsh conditions attract only those hardened by nature or necessity. Many are descendants of ancient settlers, born into this land where the bitter cold has etched itself into their bones. Nomadic clans, pirates, and reavers also occasionally pass through, finding temporary refuge in the more accessible southern regions before pushing deeper into the wilderness or retreating southward.
-
 ##### Economy and Currency
-
-  
-
 There is no formal economy in the Unforgiving Lands. Barter is the only means of trade between the scattered, isolated groups who brave the icy wastelands. There are no established markets or currency, and coin holds little value in a place where survival depends on warmth and sustenance. What little commerce exists is conducted in goods such as fur, meat, firewood, and other essentials. 
 
-  
-
 The seaports along the southern coast attract the occasional pirate or reaver, and the trade that does occur is often tainted by violence and exploitation. Those who venture here to trade do so at great personal risk, for the roads are treacherous, and the cold is relentless, with little to gain from the exchange besides mere survival.
-
 ##### Culture and Society
-
-  
-
 The society of the Unforgiving Lands is defined by a brutal reality: only the strong and the cunning survive. In this land, there is no overarching government or ruling body; instead, scattered clans, small settlements, and nomadic tribes form loose, tenuous communities. The harsh environment fosters a culture of independence and self-reliance, where every man, woman, and child must contribute to the community’s survival. The people here are deeply pragmatic, with no room for idealism. They value hard work, resourcefulness, and above all, endurance.
 
-  
-
 There are whispered legends of the forgotten kingdom in the far northern mountains, a realm of ice dragon lords and dark gods. The people of the Unforgiving Lands still hold fragments of these old myths in reverence, and some secretive cults devoted to these forgotten powers exist in the deeper wilderness, where even the harshest elements cannot reach. In the more isolated areas, the smallfolk maintain ancient traditions, passed down through generations, honouring the frozen earth and its unseen spirits.
-
 ##### Geography and Landmarks
-
-  
-
 The Unforgiving Lands stretch across a vast, arctic landmass, bordered to the north by freezing mountains shrouded in perpetual mist. These mountains are said to be the last bastion of the old forgotten kingdom, whose ruins lie buried beneath the ice, hidden from all but the most daring or foolish adventurers. Beyond these peaks, at the very tip of the world, lies the Sea of Eldraga, a frozen, treacherous ocean believed to be home to the last of the ice dragons—ancient creatures that once ruled the skies with the mages of the forgotten kingdom.
 
-  
-
 The southern border of the Unforgiving Lands is marked by a series of fortresses and watchtowers maintained by Brutayne, whose forces guard the border between the southern realms and the freezing north. Beyond these towers, thick forests stretch for miles, home to isolated smallfolk and trappers who occasionally trade with Brutayne’s soldiers. Past the woods lies the Frozen Wastes, a barren, wind-swept desert of ice where temperatures plummet far below freezing, and few have dared to venture. Scattered throughout this wasteland are the ruins of old human settlements, remnants of an age when brave explorers sought to push northward in hopes of discovering riches, only to be consumed by the ice.
-
-  
-
 ##### Settlements and Structures
-
 Settlements in the Unforgiving Lands are few and far between, and those that exist are often little more than hardened outposts clinging to the edge of civilization. Brutayne's fortifications mark the most southern of these structures, a line of towers and walls designed to protect the warmer realms from the dangers of the north. Just beyond this fortified border, in the dense woods, are a few small settlements where hardy smallfolk live in symbiosis with the land, foraging and hunting while trading sporadically with Brutayne’s garrison.
 
 Further north, near the coastline, are a few sea ports, each a den of pirates, slavers, and reavers, who use these locations as staging points for their raids. Life in these ports is harsh and lawless, with power determined by strength and cunning rather than law or lineage. Beyond the coast, at the heart of the freezing mountains, are the ruins of the forgotten kingdom—Varakhal, the once-great city of ice dragon lords. This city, now buried beneath layers of snow and ice, is said to be the seat of unimaginable power, where the last kings of the north once communed with dark gods and ruled over the land with the help of ancient, powerful magic.
-
 ##### Military and Naval Power
-
 There is no organised military force in the Unforgiving Lands aside from the fortifications manned by Brutayne. These border garrisons are the first and last defence against any incursions from the north, though their role is primarily to prevent the dangers of the Frozen Wastes from spilling southward. The soldiers of Brutayne are hardened veterans, accustomed to the bitter cold and well-versed in holding their positions against both the natural dangers of the region and the occasional raids from reavers.
 
 The seaports along the coast have their own form of military power, though it is more accurately described as pirate fleets and raiding parties. These ships are crude but effective, and they raid the nearby shores when the seas aren’t frozen over, returning to their hidden ports to split the spoils of their conquests. They are not a coordinated force but a loose confederation of opportunistic crews, led by charismatic captains who hold sway through violence and the promise of plunder.
-
 ## Dol-Quoralis
-
 ### Jarred
-
 ##### Population and Demographics 
-
 Despite its proximity to the Snow Kingdom, Jarred is largely homogenous to the Glimmerhin alone, closely followed by the Enadriel. Some Humans exist in smaller pockets on the surface. 
-
-  
-
 ##### History and Founding
-
-  
-  
 
 ##### Economy and Currency
-
 Ghelrost's economy is primarily based on the rich mineral resources found within the mountains. Skilled Glimmerhín miners extract precious stones and metals, which are then processed and crafted into a variety of goods. 
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Ghelrost is the largest and most prominent city of the Glimmerhín, bordering the Gomodo Valley. Its name means 'Mountain's Heart' in ancient glimmertongue. Ghelrost is a bustling, industrious city, filled with the hum of industry, the rhythm of pickaxes, and the golden glow of forge fires. The city is a maze of interconnected tunnels, caverns, and chambers, housing a population of thousands.
-
-  
-
 ##### Military and Naval Power 
-
 Text here.
-
 ### Einartoft
-
 ##### Population and Demographics 
-
 Most of the land is occupied by Humans, especially in the southernmost parts of the country, however plenty of Orkryn and Half Orcs live in the northern regions. There is a significant population of Gnifalgyr who occupy the mountainous areas of the Primordial Valley and the Foreverwinter Tundra. 
-
-  
-
 ##### History and Founding
-
 Einartoft was settled by nomads from all across Dol-Calandria sometime during the Doyverd Empire as part of an expedition led by Lord Kel Salvatore, the brother-in-law of Emperor Darius Salvatore. 
-
-  
 
 The mountain regions of Einartoft were originally inhabited by Orcs and Giants, who constantly feuded over territory and the fertile ground at the base of the Primordial Valley. The Orcs received significant military aid from the Humans and the Giants were overthrown soon after, establishing the first of many victories shared between the two species. 
 
-  
-
 Native tribes of barbarians who were known to worship old Gods, contemporary beings of great strength from the mythology of their ancestors, were initially extremely resilient to foreign invasion and wrought havoc upon Lord Kel’s ranks. They proved a great hindrance to the initial settling, attacking supply lines and setting up traps along well-travelled roads. In spite of the counsel given by his Generals, Lord Kel subscribed to a rather famously bold tactic; he travelled with a small contingent of personal bodyguards to one of the largest camps of barbarians belonging to the Einar Tribe, where he was led to their chieftain. Outnumbered almost one hundred to one, the barbarian lord humoured the brash young lord to a private audience, where Kel proved himself both a wise negotiator and talented orator; 
-
-  
-
 ##### Economy and Currency
-
 Historically, Einartoft has never been a particularly affluent country; despite this, or perhaps as a consequence, 
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
 
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 While their navy leaves much to be desired, Einartoft has always possessed a formidable military since its inception; the country itself being settled after generations of conquest and war. The Snow Kingdom uses conscription when engaged in wars, enforcing mandatory service from the ages of sixteen to eighteen for all of its citizens - in most cases, not even nobility are spared the draft, though they often occupy officer positions or more ministerial roles. 
-
-  
 
 Their preparedness for warfare is sparked by centuries of conflict with not only the many barbarian clans who roam the lawless valleys and tundras but also the Black Empire, who have historically attempted to reclaim their vassal state by force numerous times throughout the Ages. 
 
 ### Skaal
 
 ##### Population and Demographics 
-
 Many creatures call Skaal their home, despite the extreme temperature. Orcs, Humans and Giants are the three dominant races of Skaal, with the Humans and Orcs constantly struggling against the latter. 
-
-  
-
 ##### History and Founding
-
 The last of the barbarian clans not to be assimilated into the Snow Kingdom made their home in Skaal after being forced out of their lands and into exile. 
 
-  
-
 It remains a mystery who the original inhabitants of Skaal were, but it is believed to have been officially ‘settled’ at the height of the Doyverd Kingdom. 
-
-  
-
 ##### Economy and Currency
-
 Skaal’s economy is largely self-sustaining, with little in the way of exports due to its remote location and harsh climate. Most of the population lives off the land through fishing and small-scale lumber production, using the hardy trees that grow along the southern edges of the tundra. The scarcity of fertile land makes agriculture nearly impossible, so hunting and trapping are also crucial to survival. 
 
-  
-
-During the annual borealis thaw, when the ice temporarily recedes, traders from Einartoft and other regions arrive to barter goods. Pelts, whale oil, and frozen fish are exchanged for metals, tools, and preserved food. The citizens of Skaal typically rely on a barter system for local transactions, though rare trade goods are sometimes exchanged using coins.
-
-  
-  
-
+During the annual borealis thaw, when the ice temporarily recedes, traders from Einartoft and other regions arrive to barter goods. Pelts, whale oil, and frozen fish are exchanged for metals, tools, and preserved food. The citizens of Skaal typically rely on a barter system for local transactions, though rare trade goods are sometimes exchanged using coins.  
 ##### Culture and Society 
-
 Skaal has few laws and many dangers; the climate alone would be enough to make settling there a challenge, let alone the presence of the Ice Gyr. Despite this, the citizens of Skaal are united in common strife, bound to watch over each other in tight knit communities; hardly thriving - but living all the same. 
 
-  
-
 Skaal natives are reportedly not as hostile to outsiders as one would imagine, mostly allowing anybody to migrate and settle in any plot of land that hasn’t been claimed by another, so long as they cause no trouble, of course. 
-
-  
-
 ##### Geography and Landmarks 
-
 Skaal is dominated by a vast, frozen tundra that stretches for hundreds of miles, broken only by jagged mountain ranges and deep, snow-filled valleys. The landscape is harsh and unforgiving, with snowstorms that can last for days and temperatures that plummet far below freezing. The tundra itself is marked by enormous snowdrifts that form labyrinthine corridors, where even seasoned hunters can become lost during a storm.
-
-  
-
 ##### Settlements & Structures
-
 Due to the hostile environment, permanent settlements in Skaal are few and far between. Most of these are small, isolated villages, built into natural shelters such as caves or nestled in the shadow of mountain ranges to shield them from the worst of the winter winds. 
 
-  
-
-Some of the oldest man-made ruins lie in Skaal, preserved in a blanket of ice. 
-
-  
+Some of the oldest man-made ruins lie in Skaal, preserved in a blanket of ice.
 
 ##### Military and Naval Power 
-
 Skaal lacks a formalised military, as the inhabitants are too scattered and resources too limited to sustain a standing army. Instead, each clan or settlement is responsible for its own defence, and most able-bodied men and women are expected to fight when necessary. 
 
-  
-
 Naval power is likewise virtually non-existent due to the region’s ice-locked seas. However, small fishing boats are used during the borealis thaw, and on rare occasions, these boats are refitted for raids on rival settlements or passing ships. 
-
 ## Dol-Volkhiir
-
 ### Khard
-
 ##### Population and Demographics 
-
 Khard is the ancestral homeland of the Dwarrow, encompassing almost half of the continent of Dol’Volkhiir. Though the country was divided into Khard and Eastern Rakia some time in the Age of Mists, there has not been any indication found from salvaged records and accounts to suggest that they were ever at war with one another.
-
-  
 
 Enadriel make up a quarter of the population. Historically, the Enadriel who first travelled to Khard seeking asylum disagreed with Nashandra and struck out on their own, finding a successful relationship with the Dwarrow of Eastern Rakia. 
 
-  
-
 Khard is home to many species of chitinous creatures who resemble common insects (despite often being larger than most other creatures) who live in a delicate ecosystem with the Dwarrow. The carapaces and shells of these creatures are often valued highly for their many uses in construction and armour smithing. 
-
-  
-
 ##### History and Founding
-
 Kard’Rhakthel (commonly abbreviated as ‘Khard’) was a Dwarven Kingdom which existed in the Age of Mists. While much of their history remains lost to the annals, it is well known that the continent was once a lush and verdant continent before the eruption of Mount Zephyra sometime around 500BR. 
 
-  
-
 Sometime after the eruption, small communities of surviving Dwarrow began to rebuild on the surface. 
-
-  
-
 ##### Economy and Currency
-
 While historically isolated in terms of global trade, Khard has thrived through its mastery of subterranean resources. The kingdom’s wealth is primarily derived from its extensive mining operations, which extract not only precious metals and gems but also rare minerals unique to its volcanic geography.
 
 The Dwarrow of Khard have developed unique metallurgical techniques that allow them to create tools, weapons, and armour of unparalleled quality. 
@@ -1060,377 +735,172 @@ The Dwarrow of Khard have developed unique metallurgical techniques that allow t
 Khard’s currency, the Rakian Steelmark, is minted from a rare alloy that can only be forged in the volcanic fires of Mount Rakia. This makes their currency incredibly durable and difficult to counterfeit.
 
 ##### Culture and Society 
-
 Khard is a relatively homogenous society with many cultural differences to that of Dol’Calandria. 
-
-  
 
 The Dwarrow tend to be much more communal than other races, making Khard a very self-sufficient country on all fronts. On an observational note, Dwarrow are similar to Orkryn in that they lean toward tribalist tendencies, with males sometimes organising themselves into ‘firms’ or ‘families’ in which the most aggressive aspects of Dwarrow patriarchy rear their head.  
 
-  
-
 Each of the Great Houses controlled different sections of Khard as established and agreed upon by the first Four Kings of Kard’Rhakthel, a pact that stood until the Khard Civil War in 220SR.  
-
-  
-  
-
 ##### Geography and Landmarks 
-
 The myriad of dangers and threats present in everyday life have forced every inhabitant of Khard to adapt in order to survive; the harsh climate, seismic activity and hostile wildlife all make Khard an impossible nation to control for any but its most ancient inhabitants. 
-
-  
 
 Mount Zephyra is the largest volcano in the world and its eruption caused a dramatic and permanent change to Khard’s geography; the northernmost parts of Khard remain both barren and completely covered in ash which combine with the often inclement weather to create ash clouds and black tornados, making the region extremely dangerous for the uninitiated. 
 
-  
-
 The south east quadrant of Khard is known as Eastern Rakia, named after Mount Rakia, the home of the Forgelords. Rakia was the only volcano not to be set off in the chain of eruptions catalysed by the eruption of Mount Zephyra, and many believe this to be as a result of the relationship the Forgelords have with their deity, Azamuth.  
-
-  
-
 ##### Settlements & Structures
-
 The few villages that are in Khard are usually built close to surface entrances to the nearest undercity. 
 
-  
-
 The largest of Khard’s undercities is Luperron, believed to have been named after the Dwarrow’s ancestral birthplace. Despite the relative wealth of each city, Dwarrow architecture has never been particularly flashy or focused on aesthetics; as one might expect, their focus instead lies in practicality and structural integrity. Signs are often carved into stone right above doorways as opposed to hanging overhead and the streets of their undercities are smooth pathways of abraded cobblestone. 
-
-  
-
 ##### Military and Naval Power 
-
-  
-
 ### Malarian Isles
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
 ### Nazkuga
-
 ##### Population and Demographics 
-
 Nazkuga’s society is fragmented and harsh, with little to no cohesion between its various inhabitants. The country’s largest sentient demographic, the Pale Orcs live in tightly-knit, secretive conclaves beneath the surface, bound by tradition and a deep-seated mistrust of outsiders. Their society is tribal, with each conclave ruled by a council of elders who make decisions based on ancient customs and survival needs; whatever might appear as cohesion between these races from the outside is often little other than the newest iteration of a plot or scheme. 
 
-  
-
-The Vampire Lords, on the other hand, maintain a feudal system above ground, where they act as lords over small, isolated villages. These villages are grim places, where the human population lives in fear of their vampire masters. The culture here revolves around servitude and survival, with little room for joy or art. The vampires themselves are focused on maintaining their power and indulging in their dark appetites, rarely interacting with other lords unless driven by necessity.
-
-  
-  
-
+The Vampire Lords, on the other hand, maintain a feudal system above ground, where they act as lords over small, isolated villages. These villages are grim places, where the human population lives in fear of their vampire masters. The culture here revolves around servitude and survival, with little room for joy or art. The vampires themselves are focused on maintaining their power and indulging in their dark appetites, rarely interacting with other lords unless driven by necessity.  
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
 ## Sah’Raza
 
 ### Drak’Thill
-
 ##### Population and Demographics 
-
 There exists a population of Goblinoids who face rampant discrimination and abuse from the higher races, but are nonetheless allowed to reside within city limits and are even often sought after for menial labour (whether they like it or not). 
 
-  
-
 The Hado Tribes are a nomadic people who have passed down knowledge of the Hado through multiple generations, using it 
-
-  
-
 ##### History and Founding
-
-  
-  
-
 ##### Economy and Currency
-
 Despite the staggering rate of poverty in Drak’Thill, though Drak’Thill’s merchants trade in the same gold-standard as everywhere else, most of the actual population of Drak’Thill use francs in everyday trading. 
 
-  
-
-The port cities of Dandebar and One of Drak’Thill’s primary exports is silk, harvested from the larvae of silkwyrms. 
-
-  
-
+The port cities of Dandebar and One of Drak’Thill’s primary exports is silk, harvested from the larvae of silkwyrms.   
 ##### Culture and Society 
-
 Many grapple with exploitation at the hands of the Paschas; the monopolisation of economic resources by these crime syndicates forces many into illegal and often dangerous work, perpetuating a cycle of poverty and dependency. Living in isolated cities with limited access to fresh water and other natural resources compounds these hardships, as the scarcity of essential resources leads to frequent conflicts and makes self-sufficiency a constant struggle.
 
-  
-
-Given not only the climate but also the lack of any centralised government or formalised laws outside of the rules and dictates of the Triarchy who rule Dandebar (and by extension most of the main trade routes and roads), daily life in Drak’Thill has always been a fight for survival. Its citizens, often born into impoverished families, live very frugal lives due to the immense disparity in wealth between the common folk and the Paschas; gentrified merchants and ganglords.  
-
-  
+Given not only the climate but also the lack of any centralised government or formalised laws outside of the rules and dictates of the Triarchy who rule Dandebar (and by extension most of the main trade routes and roads), daily life in Drak’Thill has always been a fight for survival. Its citizens, often born into impoverished families, live very frugal lives due to the immense disparity in wealth between the common folk and the Paschas; gentrified merchants and ganglords.    
 
 The crime rate in Drak’Thill is significantly higher than anywhere else in the world as a direct consequence of this inequality; in a land where might makes right, the ultimate path to earning anything is to take it from someone else. Violence is a common aspect of daily life in Drak’Thill, as its people must navigate a world where personal security is tenuous, and justice is arbitrary, often depending on the whims of their nearest Pascha. 
-
 ##### Geography and Landmarks 
 
-  
-  
-
 ##### Settlements & Structures
-
 Dandebar was the first city to be settled in the Age of Mists by the famed Khagan Drago Yilmaz and later nicknamed “The Emerald City'' by merchants who commonly visited the city to trade some of its many fineries. 
 
-  
-
 Saladaar’s Garden was a grand monument to hedonism and debauchery constructed with the help of very powerful magic and an exorbitant amount of gold believed to have been raided from Draymond payloads. 
-
 ##### Military and Naval Power 
-
 The Bladedancers were a private military outfit which served as the Triarchy’s peacekeeping force in Dandebar for nearly three centuries. To join their ranks was to endure a rigorous selection process and commitment to a lifetime of service. 
-
 ### The Free Cities
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### History and Founding
 
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
-  
-
 ### The Dry Sea
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### History and Founding
 
-  
-
 ##### Economy and Currency
-
 Clans trade with one another but largely the 
 
-  
-
 ##### Culture and Society 
-
 The ecology of the desert is unlike any other place in the world; sand wyrms of varying species and sizes make the desert their home, tunnelling miles beneath the sand and appearing merely as seismic movements, preying on anything foolish enough to cross their lands.  
-
-  
-
 ##### Geography and Landmarks 
-
 Thousands of miles of untamed land are all that await any bold enough to travel across the vast expanses of the Sah’Raza desert. Characterised by sun scorched cliffs and mesas hundreds of feet tall.  
-
-  
-  
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
 ## The Ancient Isles
-
 Believed to have been home to the first settlers of Valanar some time into the Age of Mists, the Ancient Isles consists of five independent nations. 
-
 ### Nydessa
 
-  
-
 ##### Population and Demographics 
-
-  
-
 Though predominantly inhabited by Humans, Nydessa is something of a melting pot for various demographics. 
-
-  
 
 Nydessa also boasts a significant Dwarrow population who settled in the Age of Ascension within the underground city of Kraghammer following the Khard Civil War.
 
-  
-
-The original inhabitants, Orcs, now reside in remnants within the Thornwood Forest, a vestige of the five major Orc tribes that once ruled the land. 
-
-  
+The original inhabitants, Orcs, now reside in remnants within the Thornwood Forest, a vestige of the five major Orc tribes that once ruled the land.   
 
 There also exists a significant population of Enadriel, who fled to Nydessa following the War of the Elves. It wasn’t until 162SR that King Brandon Steel struck an accord with King Haydn Duskryn which allowed the Enadriel to return to the surface. For many centuries prior, the Enadriel resided in the Worldcaves beneath the Ancient Isles, living in exile as a hidden enemy to the surface kingdoms under the doctrines of the Serpent Queen, Nashandra Vermilithis. 
-
-  
-
 ##### History and Founding
 Founded in the year 145BV through right of conquest, Nydessa has evolved from its tumultuous beginnings into a dominant force, particularly in maritime prowess. 
-
 ##### Economy and Currency
 The economy of Nydessa thrives on its mastery of the seas and its rich natural resources. The currency, Krowns, supports a market heavily influenced by the trade of ironwood, a resource coveted for its durability and flame-retardant properties, ideal for constructing cities and ships alike. The Break Iron Mines, enriched with minerals like iron and mithril, further bolster Nydessa's economy, despite the haunted tales that shroud them.
-
 ##### Culture and Society 
 
-
-Geography and Landmarks 
+##### Geography and Landmarks 
 Nydessa's geography is as varied as its history. From the treacherous Snag, a rocky valley filled with shipwrecks, to the lush, impenetrable Thornwood Forest, which provides sanctuary to the remaining Orcs. The Firewoods, known for their dry, flammable trees and unique flora and fauna, contrast sharply with the fertile, yet blood-soaked Bogwood, scene of the kingdom's bloodiest battles.
 
 ##### Settlements & Structures
-- Kraghammer: An underground city symbolising Dwarven resilience and craftsmanship.
-    
+The Capital City of Nydessa is Hardale Hall, the first and largest Human settlement to be constructed in the country. 
+
+Ironrath is the second largest city in the country and historically accounts for over a third of the country's military force; as the home of the Iron Banner, which was established by Lord William Hawthorne 
+
+- Kraghammer: An underground city symbolising Dwarven resilience and craftsmanship. 
 - The Break Iron Mines and The Overgrowth: Rich in minerals and surrounded by hazardous thickets, home to untold creatures.
-    
 - Drahk Cove: A hub of trade and history, once central to Orcish culture.
-    
 - The Marsh and The Bogwood: Ecologically diverse regions critical to Nydessa's commerce and history.
-    
 - The King’s Woods: Sacred grounds reserved for royal coronations, embodying Nydessa's conquest and legacy.
-    
 - Whaler’s Bay
-    
 
 ##### Military and Naval Power 
 Much of the Nydessan military’s modus operandi originates from the Draymond Empire. 
 
 The construction of indomitable warships made almost exclusively from ironwood positions Nydessa as a formidable naval power, a legacy rooted in its history as excellent seafarers; many history’s most notable admirals and generals have been Nydessan stock. This advantage on the seas, combined with its geographical location and strong military tradition, ensures Nydessa's continued dominance and influence in the region.
 
-  
-
 ### Thanem
-
 ##### Population and Demographics 
-
 Avian races. 
-
-  
-
 ##### History and Founding
-
-  
-
+Thanem has long been the home of the Avian races and was likely the first region of the Ancient Isles to be settled, though the country was not officially declared as such until 145SR. 
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
-  
-
 ### Agrassilla’Kunthropia
 Officially founded in 150BV, its history dates back to at least 145BV with the presence of Dragonborn. 
-
 ##### Population and Demographics  
 Predominantly inhabited by Dragonborn, Agrassilla’Kunthropia consists of both metallic and chromatic Dragonborn. However, Humans were known to have migrated from Wodin after the Unification War. 
-
 ##### History and Founding 
 Initially two separate entities, Agrassilla and Kunthropia were founded on opposite sides of Stedmann’s Divide. The chromatic Dragonborn inhabited Agrassilla, while Kunthropia was home to metallic Dragonborn. A brutal five-year crusade led by Kunthropia against Agrassilla resulted in the unification of the lands under the name Agrassilla’Kunthropia.
 
-  
 In the history of Agrassilla'Kunthropia, the relationship between the metallic and chromatic Draconians is marked by deep-seated racial tensions, ultimately leading to the dominance of the metallic Draconians and the subjugation of their chromatic counterparts. This conflict stems from ideological zealotry and deeply ingrained prejudices, which culminate in a structured hierarchy that places the metallic Draconians in a position of superiority.
-
 ##### Economy and Currency  
 The currency, known as Imperial krowns (or krimps for short), sustains an economy heavily influenced by its groundbreaking floating cities and extensive mining operations. The Slag Pits and Drunmülf Gorge, the latter notorious for its perilous conditions, are testament to the land's rich mineral resources.
 
 Trade with neighbouring countries has always been critical in order to sustain the magnificent flying cities and their constant consumption of resources. 
-
 ##### Culture and Society  
 The society of Agrassilla’Kunthropia grapples with deep-seated racial divisions between chromatic and metallic Dragonborn. The ritualistic removal of tails among chromatic Dragonborn at birth underscores the enduring strife and resistance within the populace.
 
@@ -1450,309 +920,142 @@ Agrassilla’Kunthropia is a land of contrasts, from the awe-inspiring floating 
 - Ivory Crag and Tempest Bluffs: Mountainous areas rich in history and natural danger.
 - Baator’s Quarries: Renowned for their geothermal activity, offering tourist attractions like hot springs and geysers.
 ##### Settlements & Structures
-
 Agrassilla’Kunthropia is renowned for its magical advancements, particularly in sustaining objects in flight, as seen in their floating cities and sky ships. This technological prowess extends to their military capabilities, with Greywharf acting as a strategic naval checkpoint.
-
 ##### Military and Naval Power  
-  
-  
+The Draconian Empire boasts perhaps the most powerful military force in all of Valanar. For many millenia since their construction, their flying cities 
 
 ### Wodin
-
-  
-
 ##### Population and Demographics 
-
 Text here.
-
-  
-
 ##### History and Founding 
-
 Founded in the Age of Mists by nomadic settlers who were driven from their homes in Nydessa by the increasingly territorial Orkryn natives. 
-
-  
-
 ##### Economy and Currency
-
 Text here.
-
-  
-
 ##### Culture and Society 
-
 Text here.
-
-  
-
 ##### Geography and Landmarks 
-
 Text here.
-
-  
-
 ##### Settlements & Structures
-
 Text here.
-
 ##### Military and Naval Power 
-
 Text here.
-
-  
-
 ### Iprosea
-
-  
-
 ##### Population and Demographics 
-
 Iprosea is a melting pot of races and cultures, primarily consisting of refugees, exiles, and adventurers who fled turmoil in their homelands. Iprosea’s demographics are incredibly diverse, with little regard for racial hierarchies or nobility; survival and skill determine one’s place in society.
-
-  
-
 ##### History and Founding
-
 While small tribes of Humans were known to have occupied the island territories from as early as 300BR, it wasn’t until 151SR that the nation would be considered a sovereign kingdom on the world stage. 
-
-  
-  
-
 ##### Economy and Currency
-
 Iprosean society is a complex blend of organised mercantile rule and chaotic self-governance; on the mainland and the larger islands, merchant lords maintain some semblance of order, overseeing trade and ensuring their territories remain stable. However, the true character of Iprosea lies in its vast network of smaller islands and its waters, where laws are often flexible, and authority changes hands regularly.
-
-  
 
 It comes as no surprise that piracy, privateering, and smuggling are common, and many Iproseans see these activities as necessary for survival. Law enforcement is patchwork at best; on the seas, power lies in the hands of whoever commands the strongest fleet. Merchants often rely on hired mercenaries for protection, particularly when navigating dangerous island channels and dealing with rival factions.
 
-  
-
 In its prime, Iprosea would become a bustling trading capital, acting as the world’s market for all things; magical, illicit, exotic, the country of Iprosea is all of these things, and all countries enjoy the benefits of its independence, despite the occasional conflict of interest. 
-
-  
-
 ##### Culture and Society 
-
 Although the mainland is generally safer than the seas and enjoys some formalised laws, the merchant lords only have a tentative grip on the island territories; in reality, when on the seas one is only beholden to the local authority, if any. Outside of any formalised judicial system, Iprosea’s citizens are largely left to govern themselves. 
 
-  
-
 Merchants who travel to Iprosea often hire mercenary companies to protect their cargo as well as escorting their ships in and around the island channels.
-
-  
-
 ##### Geography and Landmarks
-
 The Iprosean archipelago is composed of hundreds of islands, ranging from large, fertile territories to small, barren rocks. The islands are connected by narrow, treacherous channels, and the seas around them are notorious for hidden reefs, strong currents, and unpredictable weather. This makes navigation difficult, even for experienced sailors, but also serves as a natural defence against invaders.
-
-  
-
 ##### Settlements & Structures
-
 Bloodstone, the largest settlement on the island of Navalavega, stands as the political and economic heart of Iprosea; its docks are always bustling with activity, accommodating everything from merchant galleons to pirate sloops. 
-
-  
 
 Seconded only by Cacao in size, Bloodstone was once one of many smaller settlements ruled by gentrified merchant lords before it was liberated by Captain Shira Dyer, who commanded over 5,000 pirates at the height of her power and was famous for pulling off multiple raids on Draymond warships and supply lines. 
 
-  
-
 Major cities feature a mix of towering stone fortresses, hastily built wooden shacks, and repurposed ships docked permanently as floating markets. The older parts of these cities are walled, with narrow streets leading to large market squares and sprawling shipyards. On smaller islands, settlements are often simple and built from local resources—driftwood huts, canvas tents, or even hollowed-out caverns used as homes and warehouses. Wealthier merchant lords and pirates often build lavish mansions perched on cliffs overlooking the sea, secured against attack by private militias and ringed with hidden watchtowers.
-
-  
-
 ##### Military and Naval Power  
-
 Despite a lack of any centralised government or standing army, Iprosea is still widely considered to possess one of the most fearsome marine forces in the world; self-serving sea rogues they may be, but when organised, these corsairs are unrivalled in naval warfare. Iprosean captains are known for their mastery of the region’s treacherous waters, making them difficult to outmanoeuvre or ambush.
 
-  
-
 The most powerful pirate captains often employ their own private forces, equipped with fast, heavily armed vessels capable of both trade escort and naval warfare. In times of external threat, rival factions in Iprosea can rally together, forming a loose coalition to defend the archipelago, though internal conflict is not uncommon even during such alliances.
-
   
-  
-
 ---
 
 # Theology
 
 ## The Elder Gods
-
 Little is known about the Elder Gods. They are the supposed creators of the Titans, and the cosmos as a whole, though little to no evidence of their existence exists or has ever been found. 
 
 ## The Titans
-
 The Titans are the scions of balance and life, created by the Elder Gods to bear the flame of creation. These nine beings are believed to have once walked the planes in mortal form, before conceiving the High Pantheon and ultimately departing from the physical world for good. Their respective Pillars of Creation are the only evidence humanity has of their existence. 
 
 ### Malkis
-
 Nicknames - Death, The Master of Chaos, The First Heretic, The Tidebringer
-
 Portfolio - Death, Murder, Evil, Chaos, Chance, Fear, Souls
-
 Domain - Death
-
 Pillar - Horn of Malkis; a gnarled black horn 4 inches long - implanted to the skull of its wielder, the horn allows the user to harness the souls of the dead and send them to their resting places. The horn can send the souls into other bodies, empowering that body or instilling the soul with new life. The horn is said to send its wielder mad.
-
-  
 
 Malkis was the patriarch of the Titans, the Father of the Gods, and the figure from whom much of the cosmic order descended. Unlike the later portrayals of him as a figure of pure evil, Malkis was the shepherd of death, ensuring the natural transition of souls and the cyclical balance of the cosmos. He did not revel in chaos for its own sake but understood that death and disorder were necessary components of creation’s grand design. The Horn of Malkis allowed him to guide souls through the planes as the custodian of their final journeys. His connection to chaos was not malevolent but a reflection of the unpredictable forces of fate and chance.
 
 Malkis’ most significant legacy was the creation of the cycle of life and death. He stood at the cusp of creation and dissolution, maintaining a cosmic order that no other being could. His union with Paletress birthed the Higher Pantheon, and though Malkis was a figure feared by many, he was also revered as the Father of the Gods. It was his guidance that led to the creation of the first souls, and his power over the forces of death ensured that the natural order endured throughout the aeons. The balance between life and death, creation and destruction, was a sacred bond that Malkis maintained, long before the gods arose to claim their dominions.
 
 ### Du’Vall
-
 Nicknames - The Defiler, The Archmage
-
 Portfolio - Magic, Intelligence, Evocation, Revolution
-
 Domain - Magic
-
 Pillars - Sceptre of the Defiler; a five foot staff made of pure mithril, on each end three gemstones orbit the tips - the sceptre imbues the wielder with the power to cast spells long forgotten, as well as with the power to sense any and all magic in the world.
 
-  
-
 Du'Vall was the first master of magic, shaping the raw arcane forces of the cosmos into the systems that the world still uses today. His Sceptre of the Defiler was not merely a tool of power but a cosmic key that allowed Du'Vall to manipulate the weave of reality itself. Where the other Titans worked to shape the physical elements of the world, Du'Vall wove the unseen forces of magic into existence, making possible the art of spellcasting, enchantment, and the manipulation of reality. His intelligence and arcane mastery were so far beyond the comprehension of mortals that entire schools of magic are said to have been inspired by just glimpses of his experiments. Though later mortals would speak of magic as something they could study and control, Du'Vall was its ultimate creator, having defined and shaped the very arcane laws that govern reality.
-
 ### Samson
-
 Nicknames - The Mason, The Stoneweaver, The Bronze
-
 Portfolio - Earth, Stone, Minerals, Manufacture, Lava
-
 Domain - Earth
-
 Pillar - Tidestone Gauntlets; a pair of large bronze gauntlets with runes all across it which pulse softly with energy - the gauntlets meld to the wielder’s body, making their skin turn a deep bronze colour and their hair fall out, they give the wielder the power to move earth and stone to their will, as well as giving them the ability to create raw minerals. 
 
-  
-
 Samson was the Titan of Earth, shaping the very bones of the Material Plane. His power over stone, minerals, and lava allowed him to create the mountain ranges, valleys, and caverns that would form the foundation of the world. With his Tidestone Gauntlets, Samson could raise entire continents from the depths of the oceans, carve great mountain ranges, and mould lava flows into solid stone with a mere gesture.
-
-  
-
 ### Dalatrass
-
 Nicknames -  The First God, The Bringer of Rain 
-
 Portfolio - Water, Animals, Weather
-
 Domain - Water
-
 Pillar - Darkshore Trident; a five foot jewel encrusted brass trident, it is freezing to the touch, but once wielded becomes comfortable in the wielder’s grip. The wielder grows gills, and gains the ability to breathe underwater, as well as speak to any animals that live there. The trident holds the power to manipulating any and all liquids.
 
-  
-
 Dalatrass was the most fluid and adaptable of the Titans, ruling over the oceans, rivers, and weather. Often referred to as The First God, Dalatrass shaped the oceans and seas of the Material Plane, filling them with life. His role was to ensure that the world’s weather patterns were balanced, that the rains brought fertility and that the seas remained tame. Dalatrass was a peaceful being, content to watch over the creatures of the sea. However, his gentle nature was often seen as a weakness by the other Titans, and he remained a neutral observer even as chaos began to creep into their ranks.
-
-  
-
 ### Paletress
-
 Nicknames - The Mother, The Confessor, The High Priest, The Absolute
-
 Portfolio - Life, Creation, Growth, Evolution
-
 Domain - Life
-
 Pillar - Verdant Oath; a three foot long heavy rod emblazoned with ageless emblems, it has a skull sprouting wings resting on the top, made entirely of gold. The wielder of this rod gains very pale skin, as well as pupil-less eyes - they also gain the ability to grant any being a soul (and thus life). They can also detect any life, choosing to make it more powerful or healthy.
-
-  
-
 ### King Reeve
-
 Nicknames - The Storm King, King of the Titans
-
 Portfolio - Wind, Lightning, Rain, Weather, Cold
-
 Domain - Wind
-
 Pillar - Storm King’s Crown; a rusted golden crown - the crown is so heavy that it embeds itself into the wearer’s head, causing their hair to turn old and grey. It gives the wearer the ability to create hurricanes, tornados, and vicious storms, as well as manipulate gas and wind, as well as lightning. This artefact also grants the wearer flight.
 
-  
-
 ### Upir
-
 Nicknames - The Expunged
-
 Portfolio - Knowledge, Fate, [Expunged]
-
 Domain - Knowledge
-
 Pillar - The Lost Pillar; not much is known about this pillar, apart from the fact that using it grant’s the wielder knowledge of everything that has been, will be, and could be.
-
-  
-
 ### Verdonis
-
 Nicknames - The Willow, The Wise, The Dutiful
-
 Portfolio - Nature, Animals
-
 Domain - Nature
-
 Pillar - Horn of the Willow; a large white horn with ancient carvings lining its side which if paid close attention to, tells a story - The horn is only usable by its master, who is the last person to have blown the horn. In order for the horn to obtain new ownership, its previous master must be killed. This artefact grants its master control over all nature. This includes the manipulation of trees, grass, and all other natural terrain. The horn also allows a strong bond and communication with animals, as well as control and summoning of any and all natural animals.
-
-  
-
 ### Zelius
-
 Nicknames - Father of Time, The Father, The Fated One, The Eternal
-
 Portfolio - Time, Fate, Facts, Science, Patience
-
 Domain - Time
-
 Pillar - Zelius’ Hourglass; a large pendant of thin silver lace, carrying a glass hourglass filled with sand. No matter how long the hourglass is left, the sand never completely runs out - this pendant freezes the wielder’s ageing process. The wielder of the pendant can move through time at will. The pendant prevents the wielder from dying by ageing. 
 
 ## The High Pantheon
-
 The direct descendants of the Titans, the High Pantheon are the creators and shepherds of all sentient life. They each reside in their respective realms of thought, existing metaphysically as constellations in the night sky. 
-
-  
-
 ### Bælthatrax
-
 Nicknames - The Archon
-
 Alignment - Lawful Good
-
 Portfolio - Dragons, Wind, Dragonborn
-
 Domains - Air, Dragon, Good, Luck, Nobility, Patience, Storms
-
 Symbol - Star inside Nebula
-
 Prayer - “Father of Dragons, Lord of the Winds, may your presence hover over me in my times of troubles. Of this I pray to you, Good Dragon.”
 
-  
-
 The First Dragon, sire to the Primordial Dragons and progenitor of all Draconids. 
-
-  
-
 ### Balthazar
-
 Nicknames - The Archmage, The Author
-
 Alignment - Neutral
-
 Portfolio - Magic, Arcane Knowledge, Foresight, Balance
-
 Weapon - Quarterstaff, ‘Staff of Binding’
-
 Domains - Knowledge, Magic, Mind, Oracle, Trickery
-
 Symbol - Pentagram w/ an Eye in the Middle
-
 Prayer - “Lord of Magic, protector of balance, I ask thee, grant me the wisdom needed to overcome my woes. The days grow shorter and the nights long, I ask you to grant me but a fraction of your ever expansive knowledge. 
 
-  
-
 Worshipped as the keeper of the cosmic balance between the three essences, and the Father of knowledge. Balthazar is all knowing 
-
-  
-
 ##### Worship Practices
 
 ##### Rituals & Ceremonies
@@ -1788,26 +1091,19 @@ Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
   
 
 ### Seradriel
-
 Nicknames - Creator of Elves, First of the Serende’hel, King of the East Coast
-
 Alignment - Lawful Neutral
-
 Portfolio - Elves, Magic, Music, Arts, Poetry, Bards
-
 Weapon - Longsword, ‘Seredren’
-
 Domains - Chaos, Community, Good, Magic, Pride, Protection, Zeal
-
 Symbol - Crescent Moon
-
 Prayer - “Oh Good God of the Elves, bless me with your grace and mirth, for I am now and ever will be in need of it.”
 
-  
+The Father of the Ende’hel and the Enadriel. He directed the Serende’hel in their exodus from Morrowsea to Valanar, leading them to the Fane. 
 
 ##### Worship Practices
 
-Clean and often well-maintained temples and pagodas with heavy Elven influence, shrines and temples to Seradriel can most commonly be found in Elven households, cities and towns across Dol’Calandria and the rest of the world. These structures are often modest and house a single idol of Seradriel.  
+Clean and often well-maintained temples and pagodas with heavy Elven influence, shrines and temples to Seradriel can most commonly be found in Elven households, cities and towns across Dol-Calandria and the rest of the world. These structures are often modest and house a single idol of Seradriel.  
 
 ##### Rituals & Ceremonies
 
@@ -1860,7 +1156,6 @@ Seradriel is typically depicted as a tall Seren’el whose body is divided into 
 #### Sects & Paladin Orders
 
 ##### Sisters of the Waking Wood
-
 A relatively minor cult of fanatics who follow the Sisters, a coven of extraordinarily powerful witches who corrupted the Waking Wood, which is the mythological birthplace of the Serende’hel themselves. Despite their sacrilegious acts and complete desecration of the holy land, the Sisters are worshipped by some as the caretakers - or perhaps protectors - of the Ende’hel’s ancestral homeland.
 
 Focus: Protecting the Waking Wood, by any means necessary.  
@@ -1869,14 +1164,10 @@ Distinct Practices: A ritual involving sacrificial bloodletting and the ritualis
 Differences in Worship: Through their acts of worship, the followers of the Sisters are branded as heretics due to their application of blood magic and blasphemous rhetoric. 
 
 ##### Order of the Silver Hand
-
 The Silver Hand were an order of proud and zealous paladins who vehemently detested the lesser races, with their cousins the Enadriel being numbered among the lesser races. For many years, members of the Silver Hand used the Worldcaves as hunting grounds, kidnapping and killing Enadriel.
 
 The Silver Hand’s ultimate goal was to cleanse the world of the lesser races, particularly the Enadriel, through what they believed to be a holy crusade. They sought to purify the world and restore what they considered to be the natural hierarchy, with their race standing at the top. In their view, this "divine order" was necessary for maintaining balance and preventing chaos from spreading.  
-  
-
 ##### Heldogs
-
 An order which established itself sometime in the Age of Mists, the Heldogs have well kept records and a deep lineage dating back over a millenia. Famed for 
 
 Focus: [Primary focus or mission of the order]  
@@ -1884,14 +1175,7 @@ Purpose: [Goal or reason for the order's existence]
 Tenets: [Core beliefs and principles of the order]  
 Distinct Practices: [Unique rituals, training, and practices that differentiate this order from others]
 
-Tairon is a very common name. Many believe the origins of the name to rest with Lord Tairon Silverbark himself, however this is not the case - they lie instead with the ruins of the birthplace of the Serende’hel, the City of Tairon, which Silverbark himself was named after. Though the city is now merely a place of myth along with the majority of Morrowsea, the exploits of Seradriel were believed to have been first chronicled there. 
-
-  
-
-The Father of the Ende’hel and the Enadriel. He directed the Serende’hel in their exodus from Morrowsea to Valanar, leading them to the Fane. 
-
-  
-
+Tairon is a very common name. Many believe the origins of the name to rest with Lord Tairon Silverbark himself, however this is not the case - they lie instead with the ruins of the birthplace of the Serende’hel, the City of Tairon, which Silverbark himself was named after. Though the city is now merely a place of myth along with the majority of Morrowsea, the exploits of Seradriel were believed to have been first chronicled there.
 ### Eldain
 
 Nicknames - Lady of Wolves
@@ -3260,7 +2544,7 @@ Due to their ancestry, Drakkahn are almost always above six feet in height, and 
 ##### Physical Traits
 Nifalgyr, or Ice Giants, can be recognised by their distinctly pale skin, which they are believed to have adapted in order to better blend into snowstorms and the cover of mountains despite their massive frames. 
 ##### Heritage & History
-In some places, Giants have developed close kinships with local races, rooted in a shared reverence for ancient gods or survival in harsh climates. For example, on Tohren Isle both Hilgyr and Humans share an ancestral bond tied to their shared worship and veneration of the Titans; a relationship which is reinforced through mutual respect, cooperation in defence and shared cultural traditions. The Stonegyr of The Fane formed a historic alliance with the Orkryn clans they had once warred with, bound by their common hatred of the Elves, while in Einartoft, Nifalgyr are largely isolationist; wary of foreign influence and deeply committed to the ancient traditions that have bound their clans together for untold centuries. 
+In some places, Giants have developed close kinships with local races, rooted in a shared reverence for ancient gods or survival in harsh climates. For example, on Tohren Isle both Hilgyr and Humans share an ancestral bond tied to their shared worship and veneration of the Titans; a relationship which is reinforced through mutual respect, cooperation in defence and shared cultural traditions. The Stonegyr of The Fane formed a historic alliance with the Orkryn clans they had once warred with, bound by their common hatred of the Elves, while in Einartoft, the Nifalgyr are largely isolationist; wary of foreign influence and deeply committed to the ancient traditions that have bound their clans together for untold centuries. 
 ##### Society
 While usually territorial to the point of ferocity, Giants are not generally expansionist; their societies are deeply rooted in the preservation of their lands and traditions rather than conquest or empire-building. Giants rarely involve themselves in the politics of other races unless absolutely necessary, though they may act as arbiters or protectors when called upon. Their natural authority and strength grant them a unique role as respected elders or wardens of tradition, particularly in regions where alliances are forged with local communities.
 
@@ -3268,7 +2552,7 @@ Giant culture places immense value on oral tradition and the passing down of anc
 
 Whereas Hill Giants on Tohren Isle embrace cooperative bonds with local Humans, many Frost and Stone Giant clans live in isolated tribal structures with limited external interaction.
 ##### Geography
-The Gyr are known 
+The Gyr are known to occupy cold to temperate climates. 
 
 ---
 ## Factions & Organisations
@@ -3562,6 +2846,8 @@ Otherwise known as the material plane. 
 ##### Limbo
 The seat of the positive Arbiter, souls that wash up here are to be judged.
 ### Negative Energy Planes
+
+
 
 ## The Astral Ocean
 
