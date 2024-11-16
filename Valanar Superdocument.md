@@ -99,9 +99,9 @@ But as the ages passed, the Primordials came to realise the limitations of their
 
 It was in this moment of foresight that the Primordial Dragons came together and made a decision that would forever shape the fate of Valanar: they would exchange their immortality for the ability to procreate. The logic was simple, yet profound: their children, unlike themselves, would be able to grow, to adapt, and to multiply. Each generation would be stronger than the last, evolving to meet the rising challenges of the universe.
 
-As the centuries wore on, a day came when the sky itself was torn open. A rift, blacker than the darkest night, appeared above Valanar, and from it poured forth the twisted, unspeakable creatures of the Abyssal Planes—chaos given form, seeking to consume the world. The very fabric of reality seemed on the verge of collapse, as these creatures spilled into the Material Plane, threatening to undo all that the Gods and the Primordials had worked so hard to protect.
-
 They petitioned Bælthatrax, the overseer of their kind and a wise and revered force among the dragons. Understanding the gravity of their request, Bælthatrax granted them this sacrifice, allowing the Primordials to become the first mortal dragons. In doing so, the Primordials set the stage for the birth of dragonkind—a lineage that would extend far beyond their own time, ensuring that Valanar would be defended for millennia to come.
+
+As the centuries wore on, a day came when the sky itself was torn open. A rift, blacker than the darkest night, appeared above Valanar, and from it poured forth the twisted, unspeakable creatures of the Abyssal Planes—chaos given form, seeking to consume the world. The very fabric of reality seemed on the verge of collapse, as these creatures spilled into the Material Plane, threatening to undo all that the Gods and the Primordials had worked so hard to protect.
 
 The Primordial Dragons, despite their newfound mortality, rose to meet this final challenge. Knowing that even they could not fight this endless tide of Abyssal horrors, they made the ultimate sacrifice. Together, they flew into the rift, plunging into the heart of the Abyss, carrying with them the power to seal the breach. As they entered the void, the rift closed behind them, forever cutting them off from the Material Plane.
 
@@ -115,9 +115,11 @@ Some scholars and priests believe that the Primordials perished in the act of se
 ### The Age of Mist
 A large majority of the Age of Mists remain obfuscated and thus all dates are approximate estimations based on contemporary sources.
 - **2500+BR** - The Great Exodus
+	The Gods lead the higher races from the mythological land known as Morrowsea to the shores of Valanar.
 - **1903BR** - The Primordial Sacrifice
 - **1900BR** - The Desolation of Malyria
 - **1850BR** - Fall of Doyverd
+	The world's largest empire crumbles as the 
 - **500BR** - Eruption of Mt. Zephyra 
 	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of Dwarrow and forcing the rest into the Worldcaves and beyond. 
 - **330BR/320BR** - The Witzian Civil War 
@@ -547,7 +549,6 @@ Text here.
 Text here.
 ##### Settlements & Structures
 Text here.
-
 ##### Military and Naval Power 
 Text here.
 ### Tohren Isle
@@ -590,15 +591,16 @@ There 
 
 ##### Military and Naval Power 
 While the Ende’hel are not particularly militaristic, it is common for Ende’hel males to be learned in at least the fundamentals of swordplay. 
-
 ## Dol-Calenon
 
 ### Brutayne
-
 ##### Population and Demographics 
-Text here.
+Much like Dol-Calandria, Brutayne accounts for a significant portion of the Human population with a few of the other higher races following closely behind, namely the Dwarrow and the Orkryn, but also a healthy population of Lithfolk as well, given the country's proximity to the Westerlands. 
+
+##### History and Founding
+Brutayne was first discovered in the Age of Mists but remained largely unsettled and uninhabited until some time before the Serende'hel Reformation. 
 ##### Economy and Currency
-Text here.
+As the largest kingdom in the world, Brutayne 
 ##### Culture and Society 
 Text here.
 ##### Geography and Landmarks 
@@ -973,10 +975,8 @@ The most powerful pirate captains often employ their own private forces, equippe
 
 ## The Elder Gods
 Little is known about the Elder Gods. They are the supposed creators of the Titans, and the cosmos as a whole, though little to no evidence of their existence exists or has ever been found. 
-
 ## The Titans
 The Titans are the scions of balance and life, created by the Elder Gods to bear the flame of creation. These nine beings are believed to have once walked the planes in mortal form, before conceiving the High Pantheon and ultimately departing from the physical world for good. Their respective Pillars of Creation are the only evidence humanity has of their existence. 
-
 ### Malkis
 Nicknames - Death, The Master of Chaos, The First Heretic, The Tidebringer
 Portfolio - Death, Murder, Evil, Chaos, Chance, Fear, Souls
@@ -1057,39 +1057,23 @@ Prayer - “Lord of Magic, protector of balance, I ask thee, grant me the wisdom
 
 Worshipped as the keeper of the cosmic balance between the three essences, and the Father of knowledge. Balthazar is all knowing 
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
-  
-
 ### Seradriel
 Nicknames - Creator of Elves, First of the Serende’hel, King of the East Coast
 Alignment - Lawful Neutral
@@ -1100,61 +1084,36 @@ Symbol - Crescent Moon
 Prayer - “Oh Good God of the Elves, bless me with your grace and mirth, for I am now and ever will be in need of it.”
 
 The Father of the Ende’hel and the Enadriel. He directed the Serende’hel in their exodus from Morrowsea to Valanar, leading them to the Fane. 
-
 ##### Worship Practices
-
 Clean and often well-maintained temples and pagodas with heavy Elven influence, shrines and temples to Seradriel can most commonly be found in Elven households, cities and towns across Dol-Calandria and the rest of the world. These structures are often modest and house a single idol of Seradriel.  
-
 ##### Rituals & Ceremonies
-
-  
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]
-
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 Seradriel’s worshippers and most devout followers aspire to the ideals of moderation, balance and self-discipline. The Ende’hel in particular believe Seradriel meant for them to guide the kingdoms of Men following the great exodus in which they travelled from Morrowsea to Valanar. 
 
 - Forbearance - To consider all things thoroughly and live life in no haste.
-    
 - Moderation - To enjoy all of life without becoming gluttonous. 
-    
 - Guidance - Acting as the guiding star for the other sentient races. 
-    
 - Resilience - Fortitude in the face of adversity, acceptance of the impermanent nature of existence. 
-    
 
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
 
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
-  
-
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 Libraries and archives dedicated to Seradriel are repositories of cultural heritage, housing collections of texts, artefacts, and artworks from across the ages. These institutions ensure that the wisdom of the past is preserved and accessible, allowing future generations to learn from the achievements and mistakes of their ancestors.
 
 Seradriel is typically depicted as a tall Seren’el whose body is divided into two halves down the centre; one half for each of his progenitor races, the Ende’hel and the Enadriel, with some more dogmatic depictions showing him as one or the other. Regardless of this, he is often depicted as having long blonde, platinum or silver hair, and always with his famous longsword: Seredren, ‘The Blade of the Elves’. He is often depicted in two forms of dress; flowing robes of silver and his mithril hauberk. 
-
 #### Sects & Paladin Orders
-
 ##### Sisters of the Waking Wood
 A relatively minor cult of fanatics who follow the Sisters, a coven of extraordinarily powerful witches who corrupted the Waking Wood, which is the mythological birthplace of the Serende’hel themselves. Despite their sacrilegious acts and complete desecration of the holy land, the Sisters are worshipped by some as the caretakers - or perhaps protectors - of the Ende’hel’s ancestral homeland.
 
@@ -1162,7 +1121,6 @@ Focus: Protecting the Waking Wood, by any means necessary.
 Purpose: To spread the truth of the Sisters of the Waking Wood and expand their domain of influence.  
 Distinct Practices: A ritual involving sacrificial bloodletting and the ritualistic painting of a bleeding eye onto the bark of tree trunks and rock faces, believed to be intended as a way to grant the Sisters influence over the forests and feed their lifeforce with the psionic energy they need to keep the Waking Wood as their domain - and their domain alone.  
 Differences in Worship: Through their acts of worship, the followers of the Sisters are branded as heretics due to their application of blood magic and blasphemous rhetoric. 
-
 ##### Order of the Silver Hand
 The Silver Hand were an order of proud and zealous paladins who vehemently detested the lesser races, with their cousins the Enadriel being numbered among the lesser races. For many years, members of the Silver Hand used the Worldcaves as hunting grounds, kidnapping and killing Enadriel.
 
@@ -1177,453 +1135,234 @@ Distinct Practices: [Unique rituals, training, and practices that differentiate 
 
 Tairon is a very common name. Many believe the origins of the name to rest with Lord Tairon Silverbark himself, however this is not the case - they lie instead with the ruins of the birthplace of the Serende’hel, the City of Tairon, which Silverbark himself was named after. Though the city is now merely a place of myth along with the majority of Morrowsea, the exploits of Seradriel were believed to have been first chronicled there.
 ### Eldain
-
 Nicknames - Lady of Wolves
-
 Alignment - Neutral Good
-
 Portfolio - Forests, Flora, Fauna, Fertility
-
 Weapon - Longbow, ‘Jenevier’
-
 Domains - Animal, Celerity, Good, Hunt, Plant, Sun, Temperance
-
 Symbol - Wolf’s Head
-
 Prayer - “Lady of the Forest, though I feel your presence all around me, I ask that you light my way, and that you bless the paths I walk upon with flowers without thorn.”
 
-  
-
 Sometimes known as “The Lady of the Hunt”, Eldain is the creator of all beasts and wildlife. Her symbol is believed to bring good luck when carved into wood and worn as a trinket. It is common for hunters to have their arrowheads blessed by a priest of Eldain. 
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
 
-  
-  
-
 ### Shōdahn
-
 Nicknames - The Many Faced God
-
 Alignment - Chaotic Evil
-
 Portfolio - Change, Chaos, Pain
-
 Weapon - [Glaive, ‘Malice’](https://docs.google.com/document/u/0/d/1aDq5CIJTOxbrWcjZw-njN9MWwD_INRTdjOPS1hE-XQ0/edit)
-
 Domains - Chaos, Evil, Madness, Trickery, War, Wrath
-
 Symbol - Monstrous Face
-
 Prayer - “Puppeteer of chaos and director of woe, the time of change is always at hand, and I come to you in search of divine guidance. Point me in the right direction and I will march.”
 
-  
-
 While the worship of Shōdahn has never been particularly popular, Her followers are known to exist in most nations. The teachings Her followers espouse consist of stoicism and courage in the face of unrelenting chaos and evil. Only the strong will survive in Shōdahn’s domain. 
-
-  
-  
-
 ##### Worship Practices
-
-  
-
 They often subject themselves to ritualistic self-mutilation or extreme trials of endurance to gain their god’s favour. To endure suffering without complaint is seen as a sign of strength, while those who flee from it are considered weak. Some cults of Shodahn practice ceremonial beatings, scarification, or exposure to extreme elements as rites of passage. 
 
 ##### Rituals & Ceremonies
-
 Followers of Shodahn engage in rituals that symbolise renewal and transformation, often through destruction. Burning old icons, destroying relics, or ritualistically tearing down structures (literal or metaphorical) is seen as an offering to Shodahn. In some cults, followers undergo physical transformations, such as scarring or body modifications, to show their willingness to evolve. They often subject themselves to ritualistic self-mutilation or extreme trials of endurance to gain their god’s favour; To endure suffering without complaint is seen as a sign of strength, while those who flee from it are considered weak. Likewise, other cults of Shodahn practice ceremonial beatings, scarification, or exposure to extreme elements as rites of passage. 
 
 ##### Teachings and Doctrines
-
 ​​To Shodahn’s followers, suffering is the source of strength. Pain, both physical and emotional, is a gift from Shodahn. It tempers the body and spirit, making the individual stronger. To survive pain is to prove one’s worth, and to inflict it is to show dominance. 
 
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Shōdahn’s worship does not have a heavy presence among the common people, as her followers are often part of secret societies or warbands that thrive on conflict. However, in times of great suffering or upheaval, rumours of Shōdahn’s cults emerge, feeding on the fears and desperation of the downtrodden.
 
 It is common among the superstitious to whisper about the “Faces of Chaos,” attributing any sudden misfortunes, plagues, or devastating wars to Shōdahn's unseen hand. It is said that those who embrace her teachings in such times may rise from the ashes stronger, but they do so at the cost of their humanity.
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
 
-  
-  
-
 ### Nox 
-
 Nicknames - The Dweller on the Horizon
-
 Alignment - Lawful Neutral
-
 Portfolio - Roads, Travel, Distance
-
 Weapon - Quarterstaff, ‘Traveller's Aide’
-
 Domains - Balance, Celerity, Generosity, Luck, Portal, Protection, Travel, Weather
-
 Symbol - Disk w/ a Horizon Line & Sliver of Moon over it
-
 Prayer - “To Nox, watcher of mile and wind. While I do not yet know every path, I ask that you guide my steps, so that I may never step foot on ill-tread roads.”
-
-  
-  
-
 ##### Worship Practices
-
-  
-
 Nox is known to have many waystones across well travelled paths and roads, believed to have been erected all across the world as early as the Age of Mists by his most devout clerics. Travelers stop at these waystones to offer coins, flowers, or even words of gratitude for protection, hoping for Nox’s watchful eyes to guide them; while Nox is not known for requiring grand temples or intricate rituals, his presence is felt in these simple acts of prayer and offering performed along roadsides, at waystones, before journeys begin and right as they end. 
-
 ##### Rituals & Ceremonies
-
 The rituals of Nox’s followers are often private, practiced by individuals or small groups. Rituals focus on the act of travel itself, offering Nox their intentions before embarking on any significant journey. Pilgrims and travelling merchants alike will stop at the first available waystone or shrine of Nox to recite his prayer, asking for favourable weather, clear paths, and protection from thieves and dangers on the road.
 
 In the many churches where an altar of Nox is present, priests maintain meditation ceremonies that guide the spirits of those lost or travelling through the spiritual realm. The offerings made here are often maps, shoes, or tools of the traveller, symbolising the journey they have yet to complete.
-
 ##### Teachings and Doctrines
-
 The journey, not the destination, is what holds the most value. To walk a road, whether well-worn or untraveled, is to experience the world as Nox intended. His followers are taught to respect all roads and paths, never to block or sabotage them, for that would be disrupting the natural order of travel.
 
-  
-
 - Generosity – On the road, everyone is a fellow traveller. Help those in need along the way, for one day, you may need their help in return.
-    
 - Adaptability – No path remains constant forever. Travellers must be able to adapt to changing conditions, be it weather, fortune, or personal obstacles.
-    
 - Endurance – The road will often be long and hard. Followers of Nox must endure its challenges without complaint. To stop or give up is to dishonour the journey itself.
-    
 - Preparedness – While the future is unknown, those who follow Nox prepare for all possibilities through forethought, careful planning, and the gathering of resources—both material and spiritual.
-    
 
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Scholars of Nox are often skilled cartographers or astronomers, deeply involved in mapping the world, studying the stars, and ensuring that the paths of the world remain connected. They also play a key role in studying portals and gateways, believing that Nox oversees not only physical roads but also the metaphysical pathways between realms.
-
 ##### Common Folk
-
 For most, Nox is a household name; the everyday impact of his worship is seen in the small shrines found at crossroads and waystones as common folk leave behind tokens of gratitude—a copper coin, a scrap of fabric, or even food for animals—as offerings to Nox.
 
 The culture surrounding Nox places a great deal of emphasis on hospitality and generosity. It is a common practice in many cultures to offer shelter and food to travellers; to deny them would be to deny Nox himself. 
-
 ##### Political Influence
-
 As far as political disputes are concerned the followers of Nox often find service as advisors and mediators, helping governments and local rulers maintain their infrastructure and ensuring that roads and trade routes remain open. Their neutrality makes them trusted negotiators in disputes between kingdoms, often helping to resolve territorial conflicts over road access or trade.
 
 Their knowledge of weather patterns and safe routes makes them invaluable to governments reliant on trade and movement. Noxians act as mediators in conflicts, particularly those that affect travel or commerce. They seek to maintain peaceful passage and balance between factions, always striving to avoid disruptions to the flow of trade and diplomacy.
-
 ##### Art and Literature
-
 It comes as no surprise that Nox has been attributed by many of history’s greatest writers and most accomplished cartographers for blessing them on their journeys as they sought to document the geography of the world. 
-
 #### Sects & Paladin Orders
-
-  
 
 ### Gambaine
 
 Nicknames - The Joker, The Rogue Prince
-
 Alignment - Chaotic Neutral
-
 Portfolio - Wit, [Glimmerhin](https://docs.google.com/document/d/1GLjZaw1RiqtxQbovNFf4AK0bxJE_-dd1HMN8yqm08l8/edit?tab=t.0#heading=h.2j0vxawh80ca), Chance, Gem-Cutting, Fortune 
-
 Weapon - Shortsword, ‘Last Resort’
-
 Domains - Craft, Creation, Envy, Trickery, Luck
-
 Symbol - Golden Nugget
-
 Prayer - “O Gambaine, Keeper of Fate's coin, flip it high, may it land in my favour. In your unpredictable domain, I seek your blessing.”
 
-  
-
 Throughout the world, there are many establishments where gambling is permitted (or even encouraged). In these places, it is common to see his sigil stamped onto gambling chips and dice, as a sign of reverence to the God of Luck. Depictions of his countenance often portray him as a Glimmerhin due to his role as their chosen patron.
-
-  
-
 ##### Worship Practices
 
-  
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
 
 ##### Teachings and Doctrines
-
 Fortune favours the bold. 
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
-  
-  
-
 ### Grognak
-
 Nicknames - One Eye, The Warlord, The Watcher
-
 Alignment - Neutral Evil
-
 Portfolio - Orcs, Conquest, Strength, Survival, Territory
-
 Weapon - Cudgel
-
 Domains - Cavern, Chaos, Evil, Strength, War
-
 Symbol - Eye
-
 Prayer - “Unblinking sentinel, seer of all, I come to you at a time of weakness. Bolster my strength so that I no longer must kneel, and allow me to enact your will with the power I require. O great weaver of war, grant me thine sanctified tenacity.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
-  
-  
-
 ### Korgwynn
-
 Nicknames - The Brawler
-
 Alignment - Chaotic Good
-
 Portfolio - Dwarrow, Athletics, Sports, Brawling, Strength, Courage
-
 Weapon - Battleaxe
-
 Domains - Chaos, Good, Luck, Strength
-
 Symbol - Red Circle w/ Cross
-
 Prayer - “Righteous lord and divine master of the arts, I ask of you lend me your intoxicating strength so that I may conquer mine troubles. I beseech thine armour so that my defences become impregnable; I implore thine power to enable my fury. Great lord, please bless me with your embrace.”
 
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
-#### Sects & Paladin Orders
-
-  
-  
-
+#### Sects & Paladin Orders  
 ### Magnus
-
 Nicknames - The Forger, The Allfather, The Creator
-
 Alignment - Lawful Good
-
 Portfolio - Creation, Humanity, Life, Smithing, Protection, Metalcraft, Stonework
-
 Weapon - Warhammer, ‘Faith’
-
 Domains - Creation, Earth, Good, Law, Protection
-
 Symbol - Forge
-
 Prayer - “Illustrious Father, hallowed maker of the universe, I need you in my troubled hour. Cleanse my soul so I may go forth in your name. I seek this of you in your divine presence, o bountiful spirit. Support me with your holy light.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Magnus is widely heralded as the creator of Men and considered the chief deity of the Higher Pantheon, and as such, his worship can be seen in most areas of the world. 
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
   
-  
-
 ### Chis
-
 Nicknames - The Beautiful, The Mother
-
 Alignment - Chaotic Neutral
-
 Portfolio - Fertility, Beauty, Grace, Performance
-
 Weapon - Scimitar
-
 Domains - Celerity, Purification, Beauty, Grace
-
 Symbol - Swan
-
 Prayer - “Infinite Mother, protector of life, I ask of you with a troubled heart. Illuminate me so I may ache no longer. I beg this of you with a sincere heart, o giver of love. Grace me with your illustrious warmth.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
 
