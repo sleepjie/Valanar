@@ -56,7 +56,7 @@ In the Astral Ocean, stars were not merely physical objects but represented idea
 
 Next, the Elder Gods deigned to reproduce that which kept themselves astute, their constant battle between order and chaos. They looked introspectively, deciding to truncate a single part of each of themselves to engender the planes of Praesidium and Kaas. Praesidium was sculpted to be pristine - chalky marble architecture whose fingers dip beyond the clouds, and impossible structures made of shimmering glass - a domain crafted with precision beyond mortal capabilities. Kaas was an affront to logic, an inhospitable place where time and place have no meaning; an overflowing cauldron containing all of the ingredients for life, but with no direction. The battle waged between these planes in the mind of all living things would be one of the very few constants in the Material Plane: the intrinsic need for design and order, and the base instinct to tear it all down.
 
- **III. The Titans & The Pillars of Creation**
+**III. The Titans & The Pillars of Creation**
 The canvas was set, and with the material plane primed for beings to inhabit it, the Elder Gods naturally began experimenting with consciousness; their first creations were rudimentary beings, bereft of free will and severely lacking in depth or congruent thought. These dull, grotesque entities were hollow mirrors of the basest understanding of life, a crude forgery of mechanical predator instinct and flesh. 
 
 Their failure only led to further refinement; with each successive creation, the Elder Gods' craftsmanship improved, and they grew more adept at blending Manamaterium with Metamaterium, infusing their creations with the ability to think, choose, and grow. Their final triumph was the creation of the Titans, nine great beings of immense power who could exist simultaneously in both the Material Plane and the metaphysical realms.
@@ -118,7 +118,8 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 	The Gods lead the higher races from the mythological land known as Morrowsea to the shores of Valanar.
 - **1903BR** - The Primordial Sacrifice
 - **1900BR** - The Desolation of Malyria
-- **1850BR** - Fall of Doyverd
+- **1000BR** - Nassau Finishes Construction
+- **850BR** - Fall of Doyverd
 	The world's largest empire crumbles as the 
 - **500BR** - Eruption of Mt. Zephyra 
 	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of Dwarrow and forcing the rest into the Worldcaves and beyond. 
@@ -304,19 +305,22 @@ The Empire’s military ranking system, while bureaucratic and hierarchical, has
 Though not the first to utilise magic for naval purposes, Draymond’s Navy were perhaps the first to utilise and even emphasise Warmages aboard their fleets. 
 ### Nassau
 ##### Population and Demographics 
-Text here.
+Nassau is principally populated by Humans and Ende'hel. 
 ##### History and Founding
-Nassau was constructed around 500BR. It is widely considered to be the birthplace of theology. 
-##### Economy and Curreny
-Thousands make pilgrimage to the Holy City each year, contributing massively to the country's growth and economic stability. 
+Nassau was founded around 500BR by Francis the Black, it is widely considered to be the birthplace of modern theology and its construction was ordered as a place for the papacy and the clergy of every known deity to congregate and study Pantheonism; the polytheistic belief that all Gods exist in tandem and perfect with harmony with one another as arbiters of balancing the universe. Francis himself was possessed of an enlightened perspective on the Gods and helped to shape early religious views, even before the Serende'hel Reformation. Much of the debate that happened during these early days were inconclusive and were fuelled with speculations about the validity and influence of various religious practices and cultures.
+
+##### Economy and Currency
+
+
+Thousands make pilgrimage to the Holy City each year, contributing massively to the country's growth and economic stability. The City is host to numerous religious festivals and 
 ##### Culture and Society 
-Text here.
+Prior to its annexation into the Draymond Empire, Nassau was a 
 ##### Geography and Landmarks 
 Text here.
 ##### Settlements & Structures
 Text here.
 ##### Military and Naval Power 
-Text here.
+Thousands of Paladins and Clerics reside locally within the City itself. 
 ### Skaldava
 ##### Population and Demographics
 Text here.
@@ -555,7 +559,7 @@ Text here.
 ##### Population and Demographics 
 The island is almost exclusively inhabited by Humans and Hilgyr, who have had a long standing relationship as mutual benefactors; the Gyr are excellent 
 ##### Economy and Currency
-Text here.
+Tohren isn't particularly affluent, relying mostly on self sustaining practices. 
 ##### Culture and Society 
 Text here.
 ##### Geography and Landmarks 
@@ -596,7 +600,6 @@ While the Ende’hel are not particularly militaristic, it is common for Ende’
 ### Brutayne
 ##### Population and Demographics 
 Much like Dol-Calandria, Brutayne accounts for a significant portion of the Human population with a few of the other higher races following closely behind, namely the Dwarrow and the Orkryn, but also a healthy population of Lithfolk as well, given the country's proximity to the Westerlands. 
-
 ##### History and Founding
 Brutayne was first discovered in the Age of Mists but remained largely unsettled and uninhabited until some time before the Serende'hel Reformation. 
 ##### Economy and Currency
@@ -679,17 +682,34 @@ Native tribes of barbarians who were known to worship old Gods, contemporary bei
 ##### Economy and Currency
 Historically, Einartoft has never been a particularly affluent country; despite this, or perhaps as a consequence, 
 ##### Culture and Society 
-Text here.
-##### Geography and Landmarks 
-Text here.
+Life in Einartoft demands fortitude. From the southern cities to the isolated northern tundras, every citizen is taught from a young age the importance of self-reliance. Even the smallest settlements are equipped to function autonomously, with every member of the community contributing to their survival; whether hunting, fishing, logging, or crafting, every skill has its place, and laziness is considered a grave dishonor.
 
+The Einartoftian people are known for their stoicism. While Einartoft is unified under the Snow Crown, much of its society operates on a clan-based system. Each clan, whether large or small, serves as an extended family unit. Loyalty to one’s clan is paramount, and disputes between clans are often settled through traditions like **pugging** or **grudge drinking** to avoid all-out bloodshed. Clan meetings are frequent and serve as both a way to resolve conflicts and a chance to celebrate collective victories.
+
+The bond between clans and families is particularly strong in the northern regions, where survival often hinges on cooperation. While this loyalty can sometimes manifest as mistrust toward outsiders, it also reinforces a sense of identity and pride.
+
+Hospitality is considered a great virtue in Einartoftian society; on a land where a snowstorm can kill an unprepared traveller, offering shelter and sustenance to a stranger is seen as both a moral obligation and a point of pride - inns and taverns often double as communal gathering spaces. The Dwarrow and Orkryn, both prominent minorities in Einartoft, have deeply influenced these traditions, adding their own customs to the shared cultural tapestry.
+##### Geography and Landmarks 
+
+**Primordial Valley**
+Dominating the eastern edge of Einartoft, the Primordial Valley is a sacred expanse of towering peaks and glacier-fed rivers. These mountains are believed to be the resting places of ancient Titans and are said to still hum with faint magical energy, remnants of battles long past. Among these peaks lies **Urnthorr**, the tallest mountain in all of Einartoft, often shrouded in mist and feared by climbers for its treacherous weather and hidden crevasses. Legends speak of creatures that have never been seen elsewhere dwelling within its caves.
+
+**Foreverwinter Tundra**
+The heart of Einartoft is the Foreverwinter Tundra, a seemingly endless stretch of snow-covered plains and dense, frostbitten woods. Known for its relentless cold and biting winds, the tundra is dotted with isolated settlements like **Gigantone**, which serves as a border town near the Orkryn territories. The tundra's unique beauty hides its dangers; storms can last for weeks, and predators such as winter wolves and wendigos are known to stalk unwary travelers.
+
+**The Frozen Coast**
+The western edge of Einartoft is lined by the **Frozen Coast**, where jagged cliffs and icy beaches meet the frigid waters of the northern sea. The small port town of **Quill** serves as a gateway for trade and seafaring expeditions, though the treacherous waters are often plagued by rogue waves and icebergs. It is also home to the infamous **Gorenna Castle**, a crumbling stronghold perched precariously on a cliff, said to be haunted by the spirits of its fallen defenders.
+
+**The Frostfall Glades**
+Nestled between the towering peaks of the Foreverwinter range, the **Frostfall Glades** are an ancient forest where the snow never melts. This region is home to towering pine trees, some thousands of years old, and is considered sacred by the indigenous tribes who still worship the Old Gods. Stories persist of glowing lights that guide travelers through the glades or, just as often, lead them to their doom.
 ##### Settlements & Structures
 Text here.
 ##### Military and Naval Power 
+Centuries of conflict have shaped Einartoft into a martial society, where preparedness for war is seen as a necessary part of life. From a young age, children are taught basic survival skills and combat techniques, ensuring that every able-bodied citizen can contribute to the kingdom’s defense. While professional soldiers make up the bulk of Einartoft’s military, conscription during wartime is common, and many citizens take pride in their ability to fight for their homeland.
+
 While their navy leaves much to be desired, Einartoft has always possessed a formidable military since its inception; the country itself being settled after generations of conquest and war. The Snow Kingdom uses conscription when engaged in wars, enforcing mandatory service from the ages of sixteen to eighteen for all of its citizens - in most cases, not even nobility are spared the draft, though they often occupy officer positions or more ministerial roles. 
 
 Their preparedness for warfare is sparked by centuries of conflict with not only the many barbarian clans who roam the lawless valleys and tundras but also the Black Empire, who have historically attempted to reclaim their vassal state by force numerous times throughout the Ages. 
-
 ### Skaal
 
 ##### Population and Demographics 
@@ -872,7 +892,9 @@ Ironrath is the second largest city in the country and historically accounts for
 - Whaler’s Bay
 
 ##### Military and Naval Power 
-Much of the Nydessan military’s modus operandi originates from the Draymond Empire. 
+Much of the Nydessan military’s modus operandi originates from the Draymond Empire; as a direct result of their influence in the conquering of Nydessa (or perhaps lack thereof) the invading Humans slowly adopted guerrilla tactics 
+
+The Iron Banner, Nydessa's military branch, benefits massively from its access to ironwood; not only are their shields anti-flammable, their siege equipment and fortifications are likewise next to impossible to destroy. 
 
 The construction of indomitable warships made almost exclusively from ironwood positions Nydessa as a formidable naval power, a legacy rooted in its history as excellent seafarers; many history’s most notable admirals and generals have been Nydessan stock. This advantage on the seas, combined with its geographical location and strong military tradition, ensures Nydessa's continued dominance and influence in the region.
 
@@ -884,7 +906,7 @@ Thanem has long been the home of the Avian races and was likely the first region
 ##### Economy and Currency
 Text here.
 ##### Culture and Society 
-Text here.
+Much like the Kanin, the Avians follow a stringent clan structure and code of ethics which they rarely deviate from. In matters of warfare, disputes are typically settled by clan elders with a public duel. 
 ##### Geography and Landmarks 
 Text here.
 ##### Settlements & Structures
@@ -1321,7 +1343,7 @@ Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
 ### Magnus
 Nicknames - The Forger, The Allfather, The Creator
 Alignment - Lawful Good
-Portfolio - Creation, Humanity, Life, Smithing, Protection, Metalcraft, Stonework
+Portfolio - Creation, Humanity, Life, Sun, Protection
 Weapon - Warhammer, ‘Faith’
 Domains - Creation, Earth, Good, Law, Protection
 Symbol - Forge
@@ -1343,7 +1365,6 @@ Advisory Roles: [Roles followers play in governance and politics]
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
 ##### Art and Literature
 #### Sects & Paladin Orders
-  
 ### Chis
 Nicknames - The Beautiful, The Mother
 Alignment - Chaotic Neutral
@@ -1365,488 +1386,262 @@ Reputation: [How these followers are viewed by the rest of society]
 ##### Common Folk
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
-  
-
 ### Bannon
-
 Nicknames - The Guide, The Shepherd
-
 Alignment - Neutral
-
 Portfolio - Death, Fate, Tranquillity, Balance
-
 Weapon - Scythe
-
 Domains - Law, Warmth, Death, Guidance
-
 Symbol - Three Overlapping Triangles
-
 Prayer - “Merciful guide, shepherd of souls, I disturb you in only my darkest times. I plead for your guidance and forgiving hand to lead me down the correct path. With this meagre offering and the most righteous intent I beg of thee, lend me thine compassionate gaze.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
 
 #### Sects & Paladin Orders
 
-  
-  
-
 ---
-
 ## The Lower Pantheon
 
 Lower Pantheon deities are classified by their ascension from mortality to deific status through one way or another; the most commonly held belief is that mortals with extreme or otherwise widely held influence eventually become worshipped as idols of a particular nature, either while they are alive or posthumously. It is believed that their influence in the Astral Ocean becomes strong enough to anchor their presence there as a result of this worship.
-
-  
-
 ### Lloíne
-
 Nicknames - The Heiress, Allfather’s Flame
-
 Alignment - Lawful Neutral
-
 Portfolio - Family, Clans, Children, Relationships, Wisdom
-
 Weapon - War Pick, ‘Soul’
-
 Domains - Protection, Responsibility, Aasimar, Light
-
 Symbol - Gold Coin, bearing a Hammer on its face
-
 Prayer - “Flame of His forge, grant me your insight for your sagacious nature knows no bounds. Bring light to our darkness, fuel to our flame, and food to our children. We ask of  you, stand by us as you stood by Him in our times of strife. So be it.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
 ### Nashandra
-
 Nicknames - The Nasharess, The Serpent Queen
-
 Alignment - Chaotic Evil
-
 Portfolio - Chaos, Darkness, Enadriel, Evil, Madness
-
 Weapon - Scimitar, ‘Pain’
-
 Domains - Darkness, Evil, Trickery, Destruction        
-
 Symbol - Singular Ouroboros
-
 Prayer - “Great Goddess, Queen of Serpents, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, By this unworthy sacrifice I honour you, Queen of Chaos, and beseech of you the strength to destroy my foes.”
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
 ### Vergil
-
 Nicknames - The Outsider, The Wanderer
-
 Alignment - Chaotic Neutral
-
 Portfolio - Bargains, Guidance, Vengeance, Independence
-
 Weapon - Stiletto, ‘Last Wish’ 
-
 Domains - Knowledge, Power, Volition, Caprice
-
 Symbol - A Vertical Coin
-
-Prayer - N/A 
-
-  
+Prayer - N/A   
 
 Otherwise known as “The Wanderer”, Vergil was presumably once a mortal based on accounts of those who have claimed to meet him, appearing as different things to different people, often as a humanoid, but also as a multitude of things; sometimes not at all, simply appearing as a voice or a force. Always, the accounts of his appearance include the gift of divine clarity of purpose, where those he appears to come away with the means and the will to carry out their goal, whatever that may be. Due to this, a number of crimes are sometimes attributed to Vergil’s influence, from something as calculated as the assassination of a King to a momentary act of extreme violence.  
 
-  
-
 Vergil has been idolised more as a mythical character than a deity, and as such, has no formalised religious following, and unlike most other Gods, nobody can concretely say that he even exists. Not only does he not have a constellation (that we have yet been able to observe, at least), but the accounts from those who claim to have communed with him have all been conflicting at the very best. While some claim to have been offered great power in their time of need, others claim to have entered into bargains or otherwise negotiated for their gift, or forced upon them against their will. 
 
-  
-
 Debates over the authenticity of these accounts have raged in academic circles for generations. Many sceptics argue that Vergil is merely a personification of one's inner desires and ambitions; a psychological manifestation rather than a deity. The more superstitiously inclined believe that Vergil is a trickster god, toying with mortals for his own amusement. The most popular canonisations of Vergil come from scholastic interpretations of tomes unearthed in the Age of Mists; the contents of these documents vary in precise detail, and are written by a multitude of authors.
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
 
-  
-
 ### Gargryth 
-
 Nicknames - The Imperator Dragon, Lord of Wodin
-
 Alignment - Neutral Evil
-
 Portfolio - Kobolds, Lightning, Greed, Pride
-
 Symbol - Dragon Flying North
-
 Prayer - N/A
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
 
 ##### Temple of the Cobalt Conclave
 
 ### Munt’nir
-
 Nicknames - God of the Ice, The Conciliator
-
 Alignment - Lawful Neutral
-
 Portfolio - Cold, Mountains, Clan, Honor
-
 Weapon - Warhammer, ‘Goremaul’
-
 Domains - Ice, War, Family
-
 Symbol - Mountain peak
-
 Prayer - 
-
-  
 
 ##### Worship Practices
 
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
 ### Rotahn
-
 Nicknames - The Enlightened, The Warrior Monk
-
 Alignment - Lawful Neutral
-
 Portfolio - Pacifism, Serenity, Strength, Wisdom
-
 Weapon - Stave, ‘Discipline’
-
 Domains - Strength, Peace, Protection, Spirituality
-
 Symbol - Three petalled lotus
-
-  
 
 Rotahn’s influence as a deity in the lower pantheon of Nauska provides a spiritual and philosophical foundation that guides his followers towards a harmonious balance between inner peace and the strength to uphold justice and wisdom in their lives. His teachings encourage a contemplative approach to life's challenges, promoting peace through understanding rather than conflict.
 
 The legend of Rotahn stretches back as far as the Sadao Shogunate. 
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
-
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
-
 #### Sects & Paladin Orders
-
 ### Azamuth
-
 Nicknames - The Fire God, The Walking Flame
-
 Alignment - Neutral
-
 Portfolio - The Forgelords, Chaos, Fire, Destruction
-
 Weapon - N/A 
-
 Domains - Creation, Purity, 
-
 Symbol - Burning Anvil
-
 Prayer - 
-
 ##### Worship Practices
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
-
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 ##### Influence on Society
-
-  
-
 #### Sects & Paladin Orders
-
 The Prince of Fire holds a unique place in Valanar’s lower pantheon; worshipped almost exclusively by the Dwarrow of Eastern Rakia, Azamuth’s worship is virtually transactional in nature. He is believed to be an entity of the Elemental Plane of Fire, one of the very few beings of such planes to be granted congruent thought. 
 
-  
-
 His followers believe he can be seen by staring deeply into a fire, and subsequently depict him as a sentient flame. 
-
-  
 
 In the aftermath of Zephyra’s eruption, the Forgelords were desperate to quarantine any seismic activity from affecting their beloved Mt. Rakia. Thus, they pleaded with Azamuth to quell the volcano’s bubbling core. 
 
 ### Daav
-
 Nicknames - The Strongest, The Demon King
-
 Alignment - Chaotic Neutral
-
 Portfolio - Strength, Combat, Glory, Death
-
 Weapon - N/A
-
 Domains - 
-
 Symbol - A balled fist
-
-  
 
 Creator of the Death Wind style of martial arts. Believed to have been born in Drak’Thill, Daav was a legendary figure and veritable bogeyman to any who considered themselves to be a warrior. Known far and wide as the Demon King after a legendary battle with a fel creature. For many years he wandered the lands in search of one who could challenge him - none could withstand his blows, nor could they survive his bloodlust. Any who dared test themselves against him were found wanting, if not completely obliterated. 
 
-  
-
 He fought unarmed, and was said to possess inhuman reflexes and agility to match his otherworldly strength. His style of martial arts, the Death Wind, is believed to have been only passed down to a single disciple per generation of student before eventually spreading out to the wider world.
-
-  
-
 ##### Worship Practices
-
 ##### Rituals & Ceremonies
-
 [Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
 
 ##### Teachings and Doctrines
-
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
-
 #### Influence on Society
 
 ##### Mages and Scholars
-
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
 Reputation: [How these followers are viewed by the rest of society]
-
 ##### Common Folk
-
 Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
 Cultural Norms: [Influence on societal values, customs, and practices]
-
 ##### Political Influence
-
 Advisory Roles: [Roles followers play in governance and politics]  
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
-
 ##### Art and Literature
 
 #### Sects & Paladin Orders
@@ -1861,33 +1656,17 @@ Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
 ## The Inheritors
 
 Believed to be the offspring of the Gods themselves while they still retained their mortal forms on the material plane of Valanar before forever ascending to the Astral Ocean, the Inheritors are deities of no small significance in our world’s cosmology. 
-
-  
-
 ##### Artemis
-
 Nicknames - The Architect, Stonemason
-
 Alignment - Neutral
-
 Portfolio - The Worldcaves, Stone, Crafting
-
 Progenitor(s) - Magnus, Lloíne
-
 Weapon - War Pick, ‘Duty’
-
 Domains - Darkness, Construction, Earth, Mathematics
-
 Symbol - Cave opening
-
 Prayer - “Stonemason, Lord of the Underworld, and architect of the Labyrinth - grant me vision that I may see, grant me courage that I may walk, and grant me wisdom that I may live to see another day. In these dark times I beseech thee, Prince of creation, lend me eyes.”
 
-  
-
 While not as well known on the surface world, Artemis is known for having played a most significant role in the creation of the Worldcaves. Many of the irregularities and anomalous phenomenon that occur within those sightless tunnels are attributed to his influence, such as the Labyrinth; a liminal network of tunnels and caverns that seemingly have no end and cannot be accurately cartographed due to their ever shifting nature. 
-
-  
-
 ##### Lyrandra  
 Nicknames: The Starweaver, Mistress of Constellations  
 Alignment: Neutral Good  
@@ -1899,189 +1678,96 @@ Symbol: A shooting star crossing a starry night.
 Prayer: “Starweaver, Mistress of Destiny's thread, guide my journey, be it near or far spread. Illuminate my path with starry light, and let me know the will of the cosmos this night.”
 
 ##### Ilya & Svasna 
-
 Nicknames - The Twin Serpents, The Many-Eyed Snake, 
-
 Alignment - Chaotic Evil
-
 Portfolio - Foresight, Malice, Sacrifice, Penitence
-
 Progenitor(s) - Shodahn, Eldain
-
 Domains - Evil, Time, Transformation, Dominion
-
 Symbol - Twin Ouroboros 
-
 Prayer - “Many-Seeing Serpent, guide us as the Nasharess did through Dark Corridors. Grant us your sight and let us pierce the gaze of fate. Honour this sacrifice in Her name.”  
-
-  
 
 Serpentine beings of magnificent size and 
 
-  
-
 ---
-
-  
-
 ## The Primordial Dragons
 
-  
-
 The Sacrifice of the Immortals
-
 In a time before the fledgling races of Valanar took their first steps, the six Primordial Dragons, each of them gifted with unique traits by their God, Bælthatrax, were the first sentient beings to grace the material plane.
-
-  
 
 Initially, the Primordial Dragons were created by the Gods to ensure that the boundaries between the planes were maintained; in the event that beings from other planes found their way to the prime material plane of Valanar, the Dragons would rise to meet them. As a result of their role as guardians of Valanar, they were granted an exceptional amount of power, and each of them were given a domain to protect. 
 
-  
-
 These Primordials acted as immortal guardians, unafflicted by the course of time - as their battles raged on against the nightmarish creatures which spawned from the chaos of the abyssal planes (which had also been crafted by the Elder Gods), the Dragons knew that eventually, their strength would wain, and they would one day falter in their task just enough for chaos to corrupt the impeccable balance the material plane had been created with. With this in mind, they petitioned Bælthatrax with the ultimate sacrifice, the ability to procreate in exchange for their immortality; they knew that the only way to keep the barriers held would be to create stronger versions of themselves, children that could learn and grow with the passage of time, and spawn children of their own to increase their numbers. Thus, they became the first of the mortal Dragons.
-
-  
 
 This, however, would not be the only sacrifice the Primordials made on behalf of their Gods. In a day long forgotten to time and history, the sun was blotted out from the sky by a hole so black that it mirrored the Abyss itself. As creatures of the outer planes began to crawl out from the heavens, the Primordial Dragons flew into the hole, sealing it behind them as they went, never to be seen again. All of the Dragons who witnessed this act of sacrifice are presumed to have perished, but some still remain, slumbering in some unknown deep chasm, with power and knowledge of things far more ancient than any other creature in the world. 
 
-  
-
 This tale is passed on through Bælthatrax’s holy tomes, with the ‘Sacrifice of the Immortals’ being a favored story by some Priests.
-
-  
-
 ##### Borrsundrutherxes, the Mantle of Dawn
-
 The first of the Primordials, he was entrusted with the power of light - his task, to illuminate all places where darkness falls and to flush out the corruption where its roots took hold. His golden scales were often seen glimmering across the skies during the day, unresting in his mission to quell all darkness. When stood on four legs his resting height reached roughly thirty (30) feet, and from head to tail he was roughly ninety (90) feet long.
-
-  
 
 He was perhaps the people's favourite when it came to the Primordials, his stature as the smallest of the Primordials as well as his willingness to sometimes parley with the people of the land helped him a great deal with his public appearance. He was even known to sometimes spend great times slumbering in fields not too far from civilization, and people would willingly bring him tithes of food or gold for protecting their lands.
 
-  
-
 Borrsundrutherxes is also well known from a tale in Bælthatrax’s holy book, he is never named directly but is widely believed to be the main focus of the story ‘The Wyrm who Loved’. There are many similarities between the story told in the holy tome and the tales passed down of the relationship between Borrsundrutherxes and the second Princess of Draymond. Both tales go on to explain how the two spent many days together talking in the castle courtyard, and they even speak of the Primordial allowing the Princess to mount and ride him; commoners would spread tales of messages written in the clouds proclaiming their princess’ beauty, and for years their friendship flourished. Rumours arose amongst the common folk that when the Princess took no husband on her eighteenth birthday, she was instead to marry Borrsundrutherxes. Nothing came of this, of course, but the Princess never took a husband for as long as she lived. When the time came where the Princess grew old and weary, the Dragon visited every day - until the bells tolled for death, and a great shadow was cast over the city. 
 
-  
-
 Borrsundrutherxes never spoke to a Human again after that day, though he did resume his duties as the power of light.
-
-  
-
 ##### Iourmudralferion, the First Lamprey
-
 The second of the Primordials, she was entrusted with the power of the seas - her task, to conquer the sapphire wastes and take them as her own, watching over the planar split at the bottom of the world.
 
-  
-
 Her scales were that of cobalt and amethyst, her body long and slender. She sported no appendages, taking a form closer to a water serpent. When measured from her base she was roughly twelve (12) feet tall (or wide, depending on how you look at it), and from head to tail she was thought to be just over four hundred (400) feet long.
-
-  
 
 To the common people of Valanar, she was known as the forebearer mother of Dragons - not only to the many offspring she produced, but to any who graced her seas; notoriously inhospitable to any who went against her will. To many she was a being to be feared, often the topic of many a bedtime story to teach children to not tarry in the seas - but to those in the know (sailors, and the like) she acted an ardent protector of the people, taking up the thankless task of taming the nefarious waters of Valanar.
 
 Any offerings left to her were customarily thrown into the sea, for even if these valuables are lost to all, she would surely find it.
 
-  
-
 Her presence in the early world was celebrated, up until her betrayal by the hand of her youngest son - Gargryth, the fury. For all of conceived time, she and her children swore to protect the people of Valanar, but this did not last, as the petulant Gargryth’s ear was turned by the Dragon Queen, Tiamat. When Gargryth told his mother of his ambitions to carve out a piece of land for his family, their fallout was legendary, and still felt for ages to come. Gargryth flew into a rage, forcefully taking the land now known as Wodin, in the process.
 
-  
-
 Iourmudralferion never sired another child, drifting to the lowest depths of the seas, where she hid her shame until the sacrifice of the immortals.
-
-  
-
 ##### Rasmundarthaxus, Ardent Rex 
-
 The third of the Primordials, Rasmundarthaxus was given the responsibility of ensuring the frozen wastes of Valanar remained as such - cold.
 
 His scales were that of ivory, and any who beheld him claimed he emanated morning-dew like frost; voluminous to cover large swathes of land wherever he resided, and with the strength to freeze water.
 
 When stood on four legs his resting height reached 50 (fifty) feet, and from head to tail he was roughly 140 (one hundred and fourty) feet long.
 
-  
-
 Rasmundarthaxus originally claimed the desolate plains of the forbidden lands, before migrating south to main-land Valanar to resume his duties. In the Age of Mist, a large planar rift tore open to the south of Einartoft, from which demons of the abyss spewed forth. The Ardent Rex harnessed his powers to freeze over a significant portion of the ocean where the rift began, turning its surface to ice so cold and solid that no abyssal could ever break through without being frozen to death. As time passed, the ice eventually thawed and cracked away, leaving behind only glaciers and icebergs, though the memory and legend of his great power remain. The colloquially named ‘frozen ocean’ still hums with magic to this day, standing as a stalwart gate between Valanar and the Abyss.
 
-  
-
 Rasmundarthaxus’ name inspired thoroughness, being known as the most diligent of the Primordials. He was indifferent to the people of his domains, and known to more commonly prefer the isolated peaks of mountaintops, over areas where he would more likely be disturbed. He chose the highest peak of Valanar, now known as ‘Primordial Valley’, as his main domicile for this very reason. Unlike the other Primordials, he cared not for offerings or gold, and hoarded no treasures; he instead opted to live in forbearance, patiently waiting for his domain to be disrupted so that he may rise to meet the challenge.
-
-  
-
 ##### Nhifogihr’Tharakandrom, the Arbiter of the Gods
-
 The fourth of the primordials, Nhifoghir held one of the most holy duties - to ensure that no single entity in Valanar threatened the delicate balance of power, not even the Gods. His scales were that of iridescent obsidian, thick and chitinous; he was known as the largest of the primordials, and possibly the most revered, his prodigious size alone enough to hush any words of rebellion against the status quo. When stood on four legs, his resting height reached roughly 80 (eighty) feet, and from head to tail he was roughly 180 (one hundred and eighty) feet long.
 
-  
 
 Huge
 
 Ate demons, loved fighting
-
 Cave crawler, dug through dirt
-
 Worked for long periods then rested equally as long
-
 Believed to be created to rival the gods
-
 Accepted gifts for his horde but preferred delicious food
-
 Topic of book ‘conversations w/ a dragon’
-
-  
-
 ##### Yom Osiris Neba’al, the Western Sun
-
 Sand worm
-
 Heated sands with friction, slept at night
-
-Kept sands warm
-
+Kept sands war
 Creator of ‘atmaglas’ magic glass resource
-
 Shed very strong carapace scales
-
 Accepted live sacrifices by creating sand/worm holes
 
-  
-
 ##### Zephyra’Kermes, the Many Tailed
-
 With her nine serpentine tails, Zerphyra’Kermes was known for her size as the second largest Primordial.
-
-  
 
 Her primary responsibility was using her magnificently sized tails to fan the volcanoes 
 
-  
-
 ---
-
 ## The Archfiends
-
 Scholars and theologists of the Old Faith suggest that the Archfiends were created as the antithetical Titans. Different sources offer varying depictions of the Archfiends, spanning different continents, cultures and ages. Their origins are mostly entirely unknowable, much like the Gods and the Titans before them; despite this, throughout time and history, their presence has been just as much of a constant. Likewise, little is known about how one communes with these beings.
 
 ##### Jhoss Agathon Ab’uul
-
 Nicknames - Agathon, The Black Judge, The Tyrant
-
 Portfolio - Guilt, Hatred, Paranoia, Ego, Pride, Envy
-
 Domain - Wrath
-
 Symbol - Blindfolded Man
 
-  
-
 A being of pure malice and rage, Agathon accepts nothing but perfection from his subjects. As the Master of the Black Court, Agathon is the void’s judgement of being made manifest. Pride and Wrath are the pillars of his domain, as great men succumb to vanity and weaker men to jealousy - none can escape Agathon’s judgement, and all are found wanting in the face of the vacuous abyss. 
-
-  
-
 ##### Malphagar
-
 Nicknames - Sultan, The Exempt, The Immortal
 Portfolio - Nihilism, Dread, Time, Fate, Patience, Immortality, Knowledge
 Domain - Time
@@ -2089,56 +1775,28 @@ Symbol - Pyramid, Lamniscate
 
 Considered perhaps as the antithesis to Zelius, Malphagar is believed to hold power over time, being able to move through it at will. The basis for this belief comes from Malphagar’s supposed omniscience, which makes for an excellent bargaining chip when recruiting mortals to his cause; he often works through the concepts of fate and inevitability, convincing mortals that all is predetermined and resistance is futile in order to exploit their nihilism, just as he tempts those obsessed with knowledge and immortality, promising them the secrets of the universe at the cost of their humanity.
 
-  
-
 ##### NilfanÎto
-
 Nicknames - The Architect of Corruption 
-
 Portfolio - Betrayal, Temptation, Expedience, Desire, Impulse, Passion, Deception.
-
 Domain - Impulse
-
 Symbol - Four Pointed Star
-
-  
 
 Nilfanito is the progenitor of plots and schemes; from conquerors to peasants, all Men are driven by the desire to have that which does not belong to them. Impulsivity is a trait that is known to all creatures, and it is Nilfanito’s will that where there is something to be gained, someone will gain it. He takes pleasure in deception, promising wealth, power, or love, only to strip it away once mortals are trapped in his web. 
 
-  
-
 His presence manifests in impulsive decisions, sudden betrayals, and deals made in moments of weakness. He operates by seducing mortals with promises of great power or forbidden pleasures, leading them to betray those they care about or make reckless decisions, and his prey are often con men, corrupt merchants, and power-hungry nobles, all looking for shortcuts to success at the expense of others.
-
-  
-
 ##### Ab’galathûn
-
 Nicknames - The Devourer
-
 Portfolio - Disease, Madness, Malaise, Anxiety, Misery, Fatigue
-
 Domain - Pestilence
-
 Symbol - Black Annulet
-
-  
-
 Ab’galathun spreads their influence throughout all planes, afflicting pestilence and rot upon all living things. The strength of the boundaries between Ab’Galathun’s domain and the material plane waxes and wanes, constantly struggling against their endless hunger for magic; the more they consume, the more the scales tip in the favour of chaos. 
 
-  
-
 ---
-
-  
-
 # Culture
 
 ## Higher Races
-
 A higher race is determined by both the average 
-
 ### Miren
-
 ##### Physical Traits
 Humans exhibit a striking range of appearances and traits which are directly influenced by the extreme diversity of the lands they inhabit. Their physical attributes are known to be the least specialised of the higher races, giving them the flexibility to adapt to new climates and terrains quickly.
 
@@ -2147,7 +1805,6 @@ Those hailing from Dol’Quoralis have developed hardy physiques and pale, windb
 In the Ancient Isles and many parts of Dol’Calandria where the climate is more temperate, Humans tend to display a balance of traits, from medium to fair complexions and a broad range of physical builds. Those from coastal regions may possess lighter skin and hair due to the maritime climate while Humans from inland regions vary more dramatically in appearance depending on local traditions, resources, and societal structure. 
 
 Men typically live to about sixty to seventy years old and as a result are sometimes considered over-desirous or even impatient by more long-lived races; their short life spans pushing them to achieve success where other races may idle. Humans are sometimes seen as bold to the point of recklessness or overly ambitious, but their undeniable adaptability and zeal are traits to be both admired and feared.
-
 ##### Heritage & History
 Men are the most predominant race in Valanar, populating over half of the world’s geography and making up for the vast majority of the geopolitical landscape. Magnus is the patron God of Men (although having a hand in the creation of all higher races), he is commonly worshipped across Valanar. Being the most numerous race, they account for a large majority of countries, states, and kingdoms. 
 
@@ -2158,7 +1815,6 @@ Generally, Men get along with one another, though they are of course paradoxical
 The societies of Men in Valanar are as diverse as the regions they occupy, with each kingdom and country developing distinct customs, beliefs, and political systems. This diversity also shapes Men’s relationships with other races; in more culturally diverse cosmopolitan hubs like Draymond, where various races and cultures have mingled for centuries, Men are generally tolerant and welcoming toward outsiders, viewing diversity as a strength and source of innovation. However, in more isolated or traditionalist regions, suspicion or even hostility toward other races is more common, with xenophobic attitudes often stemming from local lore or long standing rivalries.
 
 This complex mix of tolerance and insularity reflects the vast geographic spread of Men and the unique pressures each region faces; while they might work alongside Orkryn or Enadriel in one kingdom, they may view the same races with caution or distrust in another, believing them to be rivals or even threats. 
-
 ##### Geography
 Humans are found in almost every corner of Valanar, their adaptability allowing them to survive and thrive in environments that other races might find inhospitable. From the icy peaks of Einartoft to the verdant forests of Dol’Calenon, Human settlements vary dramatically in climate, architecture, and lifestyle. Each region’s Human population develops its own unique traits and customs, deeply connected to the local geography.
 ### Dwarrow
@@ -2187,7 +1843,7 @@ The Kanin are a people shaped by cycles of unification and conflict; their histo
 
 The first major unification of the Kanin came with the Sadao Shogunate, led by the legendary Shogun Sadao. Sadao rose to power in a time of external threat, when the Kanin were being invaded by the forces of Old Vitgaard, a powerful foreign empire. With cunning strategy and unmatched martial prowess, Sadao united the warring clans and led them to victory against the invaders, driving them from Kanin lands. His reign is remembered as a time of strength, unity, and honour, though it was short-lived. Following his death, the Sadao Shogunate quickly crumbled as the clans vied to fill the power vacuum, leading to a new era of clan wars.
 
-After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai—the warrior class—were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate, too, fell victim to internal strife. In one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup.
+After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate too fell victim to internal strife; in one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup.
 ##### Society
 At the heart of Kanin life is the clan, a family unit extended across generations, with each clan ruling over a specific territory in Nauska. The clan is the ultimate source of identity and protection for its members, and the concept of individualism is largely absent; one’s actions reflect upon the entire clan. Clan loyalty is paramount, and betraying one's clan is one of the greatest shames a Kanin can endure.
 
@@ -2223,21 +1879,27 @@ The Ende'hel, known for their profound connection to the sacred lands of 'The Fa
 Over time, internal divisions emerged, particularly between Nashandra, who advocated aggressive tactics against the Orcs, and Tairon Silverbark, who preferred a more cautious approach. Nashandra's insistence on military confrontation over diplomacy, despite the risks it posed to their society, led to increasing racial tensions. This discord eventually escalated into a civil war, pitting the Enadriel against the Ende'hel, and culminating in the exile of the Enadriel from the lands.
 
 The unification of their ancient enemies, the Orcs and Giants, forced the Ende'hel to flee their homeland. Led by Lord Tairon, they embarked on a perilous journey across the Krallen Ocean to the Draymond Empire, losing much of their number to the sea. Displaced from their homeland, they faced initial apprehension from the Human population, but eventually found refuge, exchanging their knowledge and cultural heritage for citizenship and a new home. This political alliance and ultimate integration of the Ende’hel into wider society marked the beginning of a significant cultural renaissance in Valanar, influencing various fields of study and leading to advancements in both magic and conventional knowledge. This integration, while preserving some elements of their isolationist heritage, signified a new phase of cultural exchange and intellectual contribution, particularly in the realms of both science and theology.
-
 ##### Society
 
 ##### Geography
-
 ### Enadriel 
 ##### Physical Traits
-Often tall with slender facial features and sharp complexions. Their skin ranges from deep ebony to ashen grey depending on whether they are native to the Worldcaves or the surface and their eyes are always pale or milky white as their eyesight is far poorer than other races, leading to the common misconception that they are blind; while their vision is indeed limited to blurred shapes and colours, they make up for this with an extremely heightened sense of spatial awareness and an eidetic memory.  
+The Enadriel, often referred to as Dark Elves, are typically tall with slender yet well-defined facial features, sharp cheekbones, and angular complexions. Their skin tones range from a deep ebony hue to shades of ashen grey, depending on whether they are native to the dark recesses of the Worldcaves or more accustomed to surface life. 
 
+Their eyesight is significantly poorer than that of other races and as a result their pupils are almost always milky white; a unique trait which often leads others to mistakenly assume they are blind, though in truth while their vision is indeed limited to blurry shapes and muted colours, they compensate by possessing an extraordinarily heightened sense of spatial awareness and a powerful eidetic memory. These adaptations allow them to navigate the complex, dark environments with uncanny precision and to retain intricate details in their memory - traits which have allowed them to thrive as the apex predators of the Worldcaves for thousands of years. 
+
+Living in the labyrinthine depths of the Worldcaves has sharpened the Enadriel’s proprioception—their internal sense of balance, position, and spatial orientation. They have an acute awareness of their physical positioning, adjusting reflexively to any change in terrain or movement; this sensitivity allows them to move with confidence through the darkest, most precarious environments, from treacherous cave systems to narrow cliff ledges. Even with their limited eyesight, Enadriel can "feel" the presence of walls, ledges, or shifting ground through subtle changes in air pressure and vibrations underfoot, a kind of sensory intuition that allows them to navigate as if they could see. This skill is so ingrained that many Enadriel prefer environments others might find disorienting, giving them a natural advantage in places where heightened sensory awareness is key.
 ##### Heritage & History
-The Enadriel, like their Ende’hel kin, originate from The Fane after their Serenadriel ancestors migrated from the mythical continent of Zirael during the Great Exodus.
+The Enadriel, like their Ende’hel kin, trace their origins to The Fane, the consecrated homeland gifted to the Seren'el by Seradriel during the Age of Mist. Once a unified race, the Seren'el thrived in this sacred land, building societies deeply influenced by their divine creator. However, the seeds of division were sown as differing ideologies and external threats began to fracture their unity, culminating in the Enadriel's exile and transformation into the people they are known as today.
 
-For many centuries, the Enadriel had a complex spiritual relationship with the serpentine beings of the Worldcaves, particularly with the Twin Serpents, Ilya and Svasna. This bond had significant religious and cultural implications for the Enadriel, often leading to internal conflicts due to the enduring influence of Seradriel over their populace; an influence which Queen Nashandra was quick to suppress.
+The Serenadriel, one of the two original branches of Seradriel’s first children, were revered among the Seren'el for their longevity, wisdom, and their unparalleled connection to their creator. Alongside their kin, the Serende’hel, they guided and nurtured the younger generations of Elves in The Fane, shaping the early foundations of their society. Their lifespans stretched over millennia, granting them an almost mythic status among their Ende’hel and Enadriel progeny, who viewed their firstborn ancestors as living embodiments of Seradriel’s divine will.
+
+Within this exalted lineage arose Nashandra, a Serenadriel whose influence and ambition would redefine her people’s destiny. Unlike many of her kin who adhered to Seradriel’s teachings of balance and stewardship, Nashandra believed the world demanded strength and decisive action. Her long life afforded her a perspective that transcended generations and she viewed the Serende’hel’s cautious diplomacy as naïve and their reliance on manipulation as a betrayal of Seradriel’s ideals.
+
 ##### Society
 An Enadriel's upbringing is often marked by a rigorous and disciplined approach, emphasising martial prowess and strategy from a young age. Their education system, involving extensive training and boarding schools, reflects the society's value on preparedness and strength. 
+
+For many centuries, the Enadriel had a complex spiritual relationship with the serpentine beings of the Worldcaves, particularly with the Twin Serpents, Ilya and Svasna. This bond had significant religious and cultural implications for the Enadriel, often leading to internal conflicts due to the enduring influence of Seradriel over their populace; an influence which Queen Nashandra was quick to suppress.
 ##### Geography
 The Enadriel, akin to Dark Elves, have a history deeply intertwined with the Worldcaves, an environment that has profoundly shaped their abilities and culture. 
 
@@ -2270,15 +1932,14 @@ Halfling cuisine is world famous, as even long before Halflings settled in The W
 Due to their physicality, Halflings prefer warmer climates. The majority of the Halflings in Valanar live in The Westerlands as part of one of the world’s most homogenous societies. 
 ### Draconians
 ##### Physical Traits
+The Drakkahn are the hybrid descendants of dragons and humans, their appearance embodying the formidable traits of their draconic ancestors. Towering over most other races, Drakkahn typically stand six to eight feet tall, with broad, powerful builds that emphasize their natural strength. Their bodies are covered in tough, reptilian scales that shimmer in hues tied to their lineage: vibrant reds, blues, and greens for chromatic Drakkahn, and metallic golds, silvers, and bronzes for metallics. These scales, while not as durable as those of true dragons, offer significant natural protection, particularly against the elements.
+
+They possess angular, elongated faces crowned with rows of horns and facial spikes, which vary in size and shape depending on ancestry. Their eyes are strikingly dark with vertical, reptilian pupils and their mouths are filled with sharp teeth and a long, forked tongue to enhance their speech, lending it a sibilant quality that carries the deep pitch of a draconic growl.
 ##### Heritage & History
-The Drakkahn owe their existence to the Magic Dragons who learned how to polymorph and thus reproduce with Humans. 
+It is a commonly believed myth that Baelthetrax is responsible for the creation of the Drakkhan; they are, in fact, the result of generations of crossbreeding between polymorphed Magical Dragons and Humans. The majority of the Drakkahn originate from the Ancient Isles, 
 ##### Society
 ##### Geography
-It is a commonly believed myth that Baelthetrax is responsible for the creation of the Drakkhan; they are, in fact, the result of generations of crossbreeding between polymorphed Magical Dragons and Humans. 
 
-Drakkahn with chromatic scales originate from Khard long before the 
-
-Due to their ancestry, Drakkahn are almost always above six feet in height, and possess many of the same facial characteristics of a dragon, including the same dull, slitted eyes and rows of spikes and horns about their crown. 
 ### Gyr
 ##### Physical Traits
 Nifalgyr, or Ice Giants, can be recognised by their distinctly pale skin, which they are believed to have adapted in order to better blend into snowstorms and the cover of mountains despite their massive frames. 
@@ -2411,6 +2072,81 @@ The rank given to the acting leader of the Illuminators; whoever this mantle fal
 
 
 ---
+
+## Imports & Exports
+
+| Material      | Uses                                                   | Location(s) |     |
+| ------------- | ------------------------------------------------------ | ----------- | --- |
+| Adamantium    | Arms, armour, construction, manufacture                |             |     |
+| Agate         | Gemstone                                               |             |     |
+| Aluminium     | Soft & malleable products (cans, utensils, kegs)       |             |     |
+| Amber         | Common Gemstone                                        |             |     |
+| Amethyst      | Common Gemstone                                        |             |     |
+| Aquamarine    | Rare Gemstone                                          |             |     |
+| Atmaglas      | Magic Conductor                                        |             |     |
+| Azerite       | Common Gemstone                                        |             |     |
+| Bismuth       | Brittle, low melting point (soldering, fire detectors) |             |     |
+| Bloodstone    | Rare Gemstone                                          |             |     |
+| Boron         | Medicine (strengthen bones & muscles)                  |             |     |
+| Calcite       | Construction                                           |             |     |
+| Coal/Charcoal | Fuel                                                   |             |     |
+| Charciron     | Fuel                                                   |             |     |
+| Citrine       | Rare Gemstone                                          |             |     |
+| Cobalt        | Alloys (wear resistant), colour pigment                |             |     |
+| Copper        | Conductor, construction, money                         |             |     |
+| Diamond       | Very Rare Gemstone                                     |             |     |
+| Emerald       | Very Rare Gemstone                                     |             |     |
+| Garnet        | Common Gemstone                                        |             |     |
+| Gold          | Money, jewellery                                       |             |     |
+| Graphite      | High temperature manufacture                           |             |     |
+| Iodine        | Medicine, dyes                                         |             |     |
+| Iron          | Manufacture, construction                              |             |     |
+| Ironwood      | Manufacture, construction                              |             |     |
+| Jade          | Rare Gemstone                                          |             |     |
+| Jasper        | Rare Gemstone                                          |             |     |
+| Jet           | Common Gemstone                                        |             |     |
+| Lapis Lazuli  | Common Gemstone, pigments                              |             |     |
+| Lead          | Pigments, weight (heavy)                               |             |     |
+| Lime          | Construction, alchemy                                  |             |     |
+| Magnesium     | Manufacture, weight (light)                            |             |     |
+| Malachite     | Very Rare Gemstone                                     |             |     |
+| Mercury       | Pigments, measuring pressure                           |             |     |
+| Meteorite     | Fire-starting, Fuel                                    |             |     |
+| Mithril       | Arms, armour, construction, manufacture                |             |     |
+| Moonstone     | Very Rare Gemstone                                     |             |     |
+| Nickel        | Manufacture (alloys)                                   |             |     |
+| Obsidian      | Common Gemstone, arms                                  |             |     |
+| Onyx          | Common Gemstone                                        |             |     |
+| Opal          | Very Rare Gemstone                                     |             |     |
+| Pearl         | Rare Gemstone, alchemy                                 |             |     |
+| Platinum      | Money, alchemy                                         |             |     |
+| Quartz        | Common Gemstone                                        |             |     |
+| Ruby          | Very Rare Gemstone                                     |             |     |
+| Salt          | Food, manufacture, alchemy                             |             |     |
+| Sapphire      | Very Rare Gemstone                                     |             |     |
+| Silver        | Money, manufacture                                     |             |     |
+| Sulfur        | Manufacture, processing ore                            |             |     |
+| Tin           | Manufacture, plating, weight (light)                   |             |     |
+| Titanium      | Manufacture, weight (light), strength                  |             |     |
+| Topaz         | Rare Gemstone                                          |             |     |
+| Turquoise     | Very Rare Gemstone                                     |             |     |
+| Whale Oil     | Manufacture, food, alchemy                             |             |     |
+| Zinc          | Manufacture (galvanising)                              |             |     |
+
+Meteorite constantly radiates heat and can be embedded in trinkets and jewellery to provide warmth to vital parts of the body. Meteorite is exceptionally rare and is found exclusively in celestial formations which have fallen to the earth. 
+
+The Watcher School of the Eagle notably employ meteorite with incendiary oil to set their weapons ablaze in combat; the meteorite is riveted until the blade's edge fits in-between, where the heat and friction set the oil ablaze instantly.
+
+Glice 
+A glass-like formation of ice by appearance but with a surface temperature of -20 degrees Celsius. It finds many uses in food preservation and cold storage as well as alchemy.  
+
+Atmaglas
+
+Whale Oil
+
+Charciron
+
+
 # Magic 
 
 ## The Essences
@@ -2470,90 +2206,94 @@ Alchemical Use: Medicinal / Disinfectant
 Habitat: Einartoft, Mountains, Tundra
 A gorgeous rose-like flower which blooms only during Borealis. Rubbing it onto an open wound has a chance to act as a natural antibiotic and helps to prevent infections. The flower was named directly after Lord Gentrus Haldi, who led the first pilgrims from Doyverd into Einartoft before the reformation. 
 
-Spiderflower
+**Spiderflower**
 Appearance: Eight Petals, Purple Petals, Short Stem
 Alchemical Use: Poison
 Habitat: Warm Climate, Woodlands
 Named after its eight petals which sprout in pairs of four from either side of the flower, the Dark Elves are known to use this flower for their poisons which are infamously potent, though only they know their recipes for disaster…
 
-  
-
-Bloodseed 
+**Bloodseed** 
 Appearance: Red Petals, Long Stem, Thorned
 Alchemical Use: Binding
 Habitat: Warm Climate, Mountains, Woodlands, Plains
 A striking red flower that blooms during the Spring. Sticky to the touch, bloodseed can be used as an organic binding agent in alchemy.
 
-Waterpetal
+**Waterpetal**
 Appearance: Long Green Stem, Light Green Tip
 Alchemical Use: Hydration
 Habitat: Swamps, Hot Climates
 A droopy green plant which resembles common seaweed, but can be distinguished by its texture, which feels wet to the touch, regardless of climate. When consumed, it fills the lungs up with water until eventually, the one who eats it drowns from the inside. However, when brewed with a mixture of certain scales and taken within hours of mixing, Waterpetal can be consumed and digested naturally, and is quite rejuvenating; as it can keep a person feeling hydrated for up to two days at a time, depending on the quantity consumed.
 
-Otyugh Cane Nettle
+**Otyugh Cane Nettle**
 Appearance: 2-6 Metre Cane, Thorned, Dark Brown
 Alchemical Use: Poison
 Habitat: Warm Climate, Ponds, Rivers, Swamps
 This plant earns its namesake from its appearance, look, and smell. The barbed cane resembles common sugarcane, but stands out by carrying a horrid stench reminiscent of garbage. This plant grows exclusively in areas of low water. To be pricked by the cane nettle would usually cause the area to become numb and/or discoloured, but when distilled from the cane itself the strain could effectively paralyse anyone afflicted.
 
-Pipe Hogweed
+**Pipe Hogweed**
 Appearance: Brown Bush, Short
 Alchemical Use: Stress Relief
 Habitat: Hot Climate, Dry Places, Drak’Thill
 Pipe hogweed is a rare plant that is mostly found in the warmer places of Valanar, but is popular in many places across the world due to its calming psychoactive effects when smoked; due to this, it is commonly referred to as ‘Pipeweed’.
 
-Inkblot
+**Inkblot**
 Appearance: Thin Stalks, Black Ball on Tip
 Alchemical Use: Chemical Diffuser
 Habitat: Humid Areas, Underground, Caves
 The conditions for this plant to grow are notoriously difficult to emulate precisely, making it a highly sought after and paid for resource; when the juice is extracted from the seed and left to ferment in a warm environment, it separates into the raw material and its base oil. The oil can be used as an antitoxin for many other organic poisons. This small plant grows in clumps not unlike cress, and its oil is even considered an exotic seasoning in some societies of the Underdark.
 
-Windindle
+**Windindle**
 Appearance: Small, Orange Petals, Seeds Covering Petals
 Alchemical Use: N/A
 Habitat: Plains, Woods, Moderate Climate
 The windindle is given its name as the seeds covering its petals are blown away in the wind. Children often pick these flowers to blow the seeds themselves. This plant is very commonly seen from Blooming to Departure.
 
-Sorrel
+**Sorrel**
 Appearance: Small, Thin Stalk, Bulbous Tip, Green
 Alchemical Use: Sneezing Powder
 Habitat: High Altitudes, Hills
 Sorrel is most commonly known for its reaction to physical stimulation - when touched or knocked, the bulbous tip of the plant explodes, shooting seeds and a grainy powder in a short radius. This grainy powder can be collected and used to stimulate sneezing - the plant is thought to create this powder as a deterrent to birds who may try to eat their seeds. Due to this, the plant has earned the nickname ‘Sneezing Sorrel’, as the plant both ‘sneezes’ and makes you sneeze.
 
-Balsamine Fern
+**Balsamine Fern**
 Appearance: 2-4ft, Wood Stem, Green Pointed Leaves
 Alchemical Use: Pain Relief
 Habitat: Nydessa, Ironwoods, Kings Woods
 When the leaves of the balsamine fern are boiled, and then the water left to evaporate, a starchy white substance is left behind. This substance can be rubbed on a wound to help numb the pain greatly.
 
-Spotted Knapweed
+**Spotted Knapweed**
 Appearance: Green, Flat Oval
 Alchemical Use: Solvent
 Habitat: Rainforest, Rainy Areas, Swamps
 Spotted knapweed acts similar to a fly trap, but instead of the head closing on the fly, instead the face of the plant is covered in a sticky secretion which dissolves the bug whilst sticking it to the trap. This secretion can be stimulated with magic, creating a universal solvent which can burn through inches of wood. This secretion is an essential part to the manufacture of earthrot oil.
 
-Ironwood Tree
+**Ironwood Tree**
 Appearance: Tall, Dark, Solid
 Alchemical Use: Silver Azolla, Purification
 Habitat: Nydessa, Nydessan Soil
 Ironwood trees are world renown for their unmatched strength, the bark of this tree is comparably as hard as iron, but light as wood. The sap of these trees is also special, named ‘Silver Azolla’, it purifies food of poison when boiled.
 
-Ambergil
+**Ambergil**
 Appearance: Dark Orange, Small, Translucent
 Alchemical Use: Water Breathing Component
 Habitat: Underwater, Rivers, Streams, Lakes
 Ambergil is found under water that does not go too deep, as it still requires some sunlight to grow. The leaves of the plant are large and layered on top of each other like a soft type of coral. The plant produces a large amount of oxygen, with bubbles even forming. When the leaves are worked alchemically, the paste is used as part of an underwater breathing potion.
 
-Dragonshroom
+**Dragonshroom**
 Appearance: Dotted Red Cap, Purple Stem
 Alchemical Use: Hallucinogenic
 Habitat: Rainforests, Worldcaves, Underground
 Dragonshroom is a naturally occurring fungus in the Worldcaves, it appears in areas of stagnant water and dark. It is notoriously hard to reproduce the conditions of its natural growth, but it is possible in some rainforests. When distilled it can be used to create high-class drugs, but it is more commonly consumed raw by Drow slaves in order to keep them sedated.
 
-Silverfruit
+**Silverfruit**
 Appearance: Grey/Silver Berry, Spherical 
 Alchemical Use: N/A 
 Habitat: Mountains, Pine Trees
+
+**Sweetleaf**
+Appearance: A pale yellow leaf which darkens to brown when fully matured. It has a light psychostimulant effect when smoked or orally ingested. Addictive.
+Alchemical Use: N/A
+Habitat: Warm, dry climates. 
+[Description]
 
 [Name]
 Appearance: 
@@ -2585,6 +2325,8 @@ Otherwise known as the material plane. 
 ##### Limbo
 The seat of the positive Arbiter, souls that wash up here are to be judged.
 ### Negative Energy Planes
+
+##### Kaas
 
 
 
