@@ -334,7 +334,11 @@ The most history landmark outside of the Holy City and perhaps one of the most f
 ##### Settlements & Structures
 Text here.
 ##### Military and Naval Power 
-Thousands of Paladins and Clerics reside locally within the City itself. 
+Thousands of Paladins and Clerics reside locally within the City itself
+
+The **Veiled Paladins of Nassau** are an elite order sworn to serve as the guardians and enforcers of the Holy City and the will of the clergy. Known for their distinctive veiled helmets, they are both revered and feared; their veils symbolize anonymity and submission to the gods, removing individuality and emphasizing their role as instruments of the Holy City rather than independent beings. The process of becoming a Veiled Paladin is gruelling, requiring years of rigorous physical training, religious instruction, and ritualistic purification designed to strip recruits of their personal ambitions and attachments. 
+
+Once inducted, Veiled Paladins serve in various roles within Nassau’s hierarchy. They act as guardians of the city’s temples and the Pantheon’s High Council, military commanders in holy campaigns, and emissaries of the gods when Nassau’s authority is challenged. Their loyalty to the Holy City is absolute, and their very presence is often enough to command silence or compel obedience.
 
 ---
 ### Skaldava
