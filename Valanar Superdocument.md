@@ -5,13 +5,14 @@ This superdocument is intended as a reference sheet for every component that mak
 ---
 ## Calendar
 
-|                                                                                                                 Seasons                                                                                                                  |                                                                                                           Ages                                                                                                           |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Rending (of Equinox)<br>January - February<br><br>Blooming (of Equinox)<br>March - April<br><br>Summit<br>May - June<br><br>Departure<br>July - August<br><br>Harvests End<br>September - October<br><br>Borealis<br>November - December | Age of Mists<br>~2500BR - 0SR<br><br>Age of Ascension<br>0SR - 278SR<br><br>Age of Heroes<br>278SR - 925SR<br><br>Age of Man<br>925SR - 2283AV<br><br>Age of War<br>2283AV - 2366AV<br><br>Age of Strife<br>2366AV - ??? |
-
-**BR** - Before Reformation
-**SR** - Serende’hel Reformation
-**AV** - After Verassi
+| Seasons               | Equivelancy         |
+| :-------------------- | ------------------- |
+| Rending (of Equinox)  | January - February  |
+| Blooming (of Equinox) | March - April       |
+| Summit                | May - June          |
+| Departure             | July - August       |
+| Harvests End          | September - October |
+| Borealis              | November - December |
 
 The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
 
@@ -111,7 +112,9 @@ Some scholars and priests believe that the Primordials perished in the act of se
 
 ---
 ## World Timeline
-“The world is full of intensely magical things patiently waiting for our wits to grow sharper.” - Father Cordell Kirchner, High Cleric
+**BR** - Before Reformation
+**SR** - Serende’hel Reformation
+**AV** - After Verassi
 ### The Age of Mist
 A large majority of the Age of Mists remain obfuscated and thus all dates are approximate estimations based on contemporary sources.
 - **2500+BR** - The Great Exodus
@@ -119,6 +122,7 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **1903BR** - The Primordial Sacrifice
 	The Primordial Dragons are wiped out as the material plane is assaulted by the Greater Fiends. Their 
 - **1900BR** - The Desolation of Malyria
+	The nation of Malyria is obliterated as a magical cataclysm sunders the  and permanently destroys 
 - **1000BR** - Nassau Finishes Construction
 - **850BR** - Fall of Doyverd
 	The world's largest empire crumbles as the 
@@ -204,6 +208,8 @@ In the aftermath of the Great God War
 - **942SR** - 
 	King of Einartoft is assassinated, his only son, Eryk, immediately assumes the throne at the age of sixteen.
 - **950SR** - Einartoft Invades Draymond
+	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
+- **953SR** - 
 	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
 ---
 ### The Age of War
@@ -376,6 +382,8 @@ Tourism is a large source of income for the country, with many hotels, bath hous
 ##### Culture and Society 
 Florentine society is highly stratified with a powerful aristocracy followed by wealthy merchants, artisans, and the common folk; including farmers and labourers. Nobles and wealthy families often live in grand estates or on vineyards that stretch for miles, while the lower classes reside in charming, though modest, villages and towns.
 
+The "vividism" art movement is largely attributed to Florentine artists Danielle Du'Bois and Francis Van Loch, who spent approximately eight years travelling around the country and painting extraordinarily detailed still-life paintings and landscapes. 
+
 Nobility plays a central role in Florentine society. The aristocracy adheres to a strict code of honour and chivalry, which influences everything from politics to personal relationships. Knights and nobles often partake in jousting, tournaments and duels where the honour of their houses and patrons are defended, and prestige is won.
 ##### Geography and Landmarks 
 The landscape is dominated by gently rolling hills and fertile valleys, ideal for vineyards, olive groves, and grain fields. The temperate climate, with hot summers and mild, wet winters, supports a long growing season, perfect for the region’s renowned agriculture.
@@ -384,7 +392,7 @@ There are three great rivers which run through the entirety of Florence, each na
 ##### Settlements & Structures
 The capital city is La Fiora, which is a walled city built onto an island which separates the three great rivers which run through the country. 
 
-The Golden Valley is Located along the Maristella River, this area is famous for its vineyards and wine production, with some of the most prestigious estates in the country.
+The Golden Valley is Located along the Maristella River, a region world-famous for its vineyards and wine production as well as ludicrously expensive manors and plantations.
 ##### Military and Naval Power 
 Each House in Florence typically employs a small guard who frequently work alongside the royal garrison as well as the hold knights, depending on the House’s wealth.
 
@@ -408,10 +416,14 @@ The Morovian Highlands are teeming with wild game and
 
 ---
 ### Blythe Coast
+The Blythe Coast was founded as part of the Kingdom of Greater Witzia, but following a brutal civil war known as the Witzian Civil War, it split into the independent regions of Lesser Witzia (Morovia) and the Blythe Coast. Renowned for its seafaring culture 
 ##### Population and Demographics 
-The Blythe Coast is predominantly inhabited by a mixed population of Humans and Ende’hel Elves. While the Ende’hel settled here before the Serende’hel Reformation, the human population has grown steadily, forming the majority.
+The Blythe Coast is a relatively small nation principally composed of Human settlements and predominantly inhabited by mixed populations of Elves and Dwarrow. 
 ##### History and Founding
-Blythe Coast was founded as part of the Kingdom of Greater Witzia, but following a brutal civil war known as the Witzian Civil War, it split into the independent regions of Lesser Witzia (Morovia) and the Blythe Coast. 
+
+
+**Witzian Civil War**
+In 330BR, 
 ##### Economy and Currency
 Blythe is known first and foremost for its shipbuilding industry, producing durable vessels highly regarded for their ability to navigate treacherous coastal waters. Carpenters and joiners 
 
@@ -424,8 +436,8 @@ Social hierarchies are less rigid than in neighbouring regions, largely due to t
 The Blythe Coast itself is dominated by towering chalk cliffs carved by millennia of relentless waves, forming a rugged and imposing coastline that is as beautiful as it is treacherous. The cliff tops are windswept and wild, dotted with hardy grasses and colourful wildflowers that cling to the thin, chalky soil. Beneath the cliffs, the sea continues its unending assault, slowly shaping the coast and revealing ancient fossils embedded within the rock. Scaling these cliffs and harvesting the eggs of the 
 ##### Settlements & Structures
 
-
 ##### Military and Naval Power 
+
 
 ---
 ### Caldwynn
@@ -478,15 +490,14 @@ Despite its size and the volume of its exports, Vitgaard is not an especially af
 ##### Culture and Society 
 Centuries of labour and toil have taught the citizens of Vitgaard that nothing is given, everything is earned. Vitgaardian children are often born into a lineage of tradesmen or labourers if not soldiers. 
 
-Vitgaardian society has never been particularly egalitarian; women are disbarred from entering into legal professions or politics and wives are considered the property of a man. It is also considered illegal for a woman to practise magic in Vitgaard, though this law is rarely enforced on anyone of consequence and is thought to have been implemented as merely another way to control average women’s roles in society. 
+Vitgaardian society has never been particularly egalitarian; for almost a millennia women were disbarred from entering into legal professions or politics and it was even also considered illegal for a woman to practise magic in Vitgaard, though this law was rarely enforced on anyone of consequence and is thought to have been implemented as another strict measure of control over the nation's supplicants. 
 
 The weight of a newborn child is often used as a metric for giving gifts on their birth - noble families will often donate the child’s weight in iron, to be used in whichever way the child deems fit later in life - a small fortune, a weapon, or a suit of armour; depending on the size of their dowry, of course.  
 
-The Praetor 
 ##### Geography and Landmarks 
 
 ##### Settlements & Structures
-The Capital City of Vitgaard is Kyovashod. 
+The Capital City of Vitgaard is Kyovashod, a metropolitan jewel of the Northern realms. As the Tsar's seat of power 
 ##### Military and Naval Power 
 Vitgaard relies mostly on conscription to bolster its ranks, and as such, their tactics are usually based on war of attrition, throwing overwhelming numbers onto the enemy rather than outmanoeuvring them. 
 
@@ -528,7 +539,6 @@ The majority of the population of Nauska is represented by Kanin who have occupi
 
 There is a significant minority of humans in Nauska, many of whom have settled in the lower valleys where agriculture is more feasible. These communities often act as trade intermediaries between the mountain-dwelling Kanin and outsiders, facilitating economic exchanges that benefit the region.
 
-Nauska is divided by fiefdoms which are governed by clans of samurai. The social disparity between a commoner and a member of the samurai class is more pronounced than the relationship between knight and peasant; the role of a samurai extends to law enforcement as well as martial duties. 
 ##### History and Founding
 Nauska was once mostly unsettled land between the salt flats of Khard’s southern border and Old Vitgaard’s northern territories. For centuries, the Kanin clans had been embroiled in relentless civil wars, fighting over land, resources, and ancient grievances. This protracted conflict left Nauska fragmented and vulnerable, and with the clans distracted and dispersed, the Old Vitgaardian Empire initiated a series of aggressive manoeuvres aiming to annex the country. Their approach was both militaristic and strategic, posing a critical threat to the sovereignty and cultural integrity of the Kanin people.
 
@@ -546,7 +556,7 @@ Markets are strictly regulated by the Shogunate and therefore free trade of vari
 
 Nauska has one port town which is used for trade with Brutayne and merchants from Drak’Thill known as Nayakami Bay. Foreign trade is 
 ##### Culture and Society 
-The Kanin live relatively frugal lives and their culture of shared pragmatism and duty has kept Nauska unified throughout times of strife. 
+The Kanin live relatively frugal lives and their culture of shared pragmatism and duty has kept Nauska unified throughout times of strife. Nauska is divided by fiefdoms which are governed by clans of samurai. The social disparity between a commoner and a member of the samurai class is more pronounced than the relationship between knight and peasant; the role of a samurai extends to law enforcement as well as martial duties. 
 
 The Lady of Wolves has many devout followers and shrines dedicated to her throughout Nauska. Hunting, farming and agriculture are big parts of Kanin life as they live on simple diets but eat quite a lot due to their physicality. 
 
@@ -558,7 +568,7 @@ The main cornerstone of life as a Samurai is the Okaisha, a doctrine written by 
 
 Nauska’s leadership is likewise characterised by its pragmatic approach to governance, they are unyieldingly fair in their administration yet uncompromising in their enforcement of the law; a kind of authoritarianism which has maintained a strict control on cultural and intellectual fronts, with little room for dissent or deviation from the established order.
 
-Nauskan art is often sought after by collectors and 
+Perhaps as a consequence of their lithe physicality, Nauskan art is often considered extremely esoteric and is sought after by collectors and art patrons the world over. 
 
 Bloodlines and ancestry are often seen as the primary means of not only conflict but also categorising social groups; peasant families rarely rise beyond their station and powerful clans stay powerful for as long as there is someone in the family carrying the banner. 
 ##### Geography and Landmarks 
@@ -916,10 +926,15 @@ Text here.
 Text here.
 ##### Military and Naval Power 
 Text here.
+
+---
 ### The Dry Sea
 ##### Population and Demographics 
-Text here.
+Sandwyrms, Scorpids and Duneracers are the largest predators of the sands and are known to be 
+
+Lizardfolk are known to make their home in the 
 ##### History and Founding
+In the Age of Mists the Dry Sea was believed to have been much more hospitable and fertile, serving as the homeland for at least half of the hill tribes and clans of Drak'Thill.
 
 ##### Economy and Currency
 Clans trade with one another but largely the 
@@ -1123,7 +1138,6 @@ Nicknames - The Storm King, King of the Titans
 Portfolio - Wind, Lightning, Rain, Weather, Cold
 Domain - Wind
 Pillar - Storm King’s Crown; a rusted golden crown - the crown is so heavy that it embeds itself into the wearer’s head, causing their hair to turn old and grey. It gives the wearer the ability to create hurricanes, tornados, and vicious storms, as well as manipulate gas and wind, as well as lightning. This artefact also grants the wearer flight.
-
 ### Upir
 Nicknames - The Expunged
 Portfolio - Knowledge, Fate, [Expunged]
@@ -1251,7 +1265,8 @@ Prayer - “Lady of the Forest, though I feel your presence all around me, I ask
 Sometimes known as “The Lady of the Hunt”, Eldain is the creator of all beasts and wildlife. Her symbol is believed to bring good luck when carved into wood and worn as a trinket. It is common for hunters to have their arrowheads blessed by a priest of Eldain. 
 ##### Worship Practices
 ##### Rituals & Ceremonies
-[Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
+The Kanin are 
+
 Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
 ##### Teachings and Doctrines
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
@@ -1340,7 +1355,6 @@ It comes as no surprise that Nox has been attributed by many of history’s grea
 #### Sects & Paladin Orders
 
 ### Gambaine
-
 Nicknames - The Joker, The Rogue Prince
 Alignment - Chaotic Neutral
 Portfolio - Wit, [Glimmerhin](https://docs.google.com/document/d/1GLjZaw1RiqtxQbovNFf4AK0bxJE_-dd1HMN8yqm08l8/edit?tab=t.0#heading=h.2j0vxawh80ca), Chance, Gem-Cutting, Fortune 
@@ -1358,6 +1372,8 @@ Name of Festival: [Description of the festival, including when it is held and th
 
 ##### Teachings and Doctrines
 Fortune favours the bold. 
+Luck is ordained only when it is most needed. 
+To accept risk is to accept potential, and vice versa.
 #### Influence on Society
 ##### Mages and Scholars
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
@@ -1370,6 +1386,7 @@ Advisory Roles: [Roles followers play in governance and politics]
 Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
 ##### Art and Literature
 #### Sects & Paladin Orders
+
 ### Grognak
 Nicknames - One Eye, The Warlord, The Watcher
 Alignment - Neutral Evil
@@ -2393,14 +2410,11 @@ Appearance: 
 Alchemical Use: 
 Habitat: 
 [Description]
-# Technology
-
-
 # Cosmology
 
 ## The Planes 
 
-The most popular methodology for visualising the ordering of The Planes 
+The most popular methodology for visualising the ordering of The Planes comes from Master Illuminator Dante O'Leary, a cosmologist who famously traversed the plane of 
 
 The ‘material’ plane is encompassed by waters which stretch on as far as the eye can see. In the Age of Ascension, it was possible for powerful navigator wizards to transpose their ships from one side of the plane to the other, though this art eventually became lost to time. 
 ### Positive Energy Planes
@@ -2420,7 +2434,7 @@ The seat of the positive Arbiter, souls that wash up here are to be judged.
 ### Negative Energy Planes
 
 ##### Kaas
-
+Residing on the outermost layer of the negative polaris, Kaas is believed to be an uninhabitable plane where the beginning and the end of time collide. 
 
 
 ## The Astral Ocean
