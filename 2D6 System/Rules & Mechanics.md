@@ -21,13 +21,15 @@ Sometimes, Target Numbers will be simplified by a difficulty rating; these ratin
 - **Very Hard (12):** Demands expertise or luck.
 
 **Advantage & Disadvantage**
-Certain abilities or effects allow players to roll with advantage, increasing their odds of success significantly. Disadvantage is likewise imposed when making a skill check without the relevant proficiency, attacking with a weapon you are not familiar with, or when rolling for Defence while wearing armour without proficiency. 
+Certain abilities or effects allow players to roll with advantage, increasing their odds of success significantly. Disadvantage is likewise imposed when making a skill check without the relevant proficiency, attacking with a weapon you are not familiar with, or when rolling for Defence while wearing armour without proficiency. In certain situations, Major Advantage or Major Disadvantage can apply.  
 - **Advantage:** Roll **3D6**, take the highest two results.
 - **Disadvantage:** Roll **3D6**, take the lowest two results.
+- **Major Advantage:** Roll 3D6, take all three dice.
+- **Major Disadvantage:** Roll 1D6. 
 ## **Character Creation**
 Decide on your character’s general idea and role. This includes:
-- **Class/Role:** What is your character’s primary function? (e.g., Fighter, Rogue, Mage, Cleric)
-- **Background:** Who are they, and what’s their story? (e.g., an exiled knight, a wandering thief)
+- **Class/Role:** What is your character’s primary function?
+- **Background:** Who are they, and what’s their story?
 - **Goals and Personality:** Why are they adventuring? What motivates them?
 #### **Step 0: Race**
 Before anything, decide which race you would like to play as. 
@@ -66,14 +68,19 @@ Living in the labyrinthine depths of the Worldcaves has sharpened the Enadriel�
 - **Brutal Strength**: Add +1 to melee damage rolls.
 - **Ancestral Roar**: Once per session, inspire allies within 10 feet to gain +1 on their next roll.
 
+Often very tall and physically imposing creatures with very lean muscles and small tusks protruding from their lower jaw, Orkryn are 
 
+While a large majority of the general Orc population descend from The Fane, where the skin tone of most Orkryn ranges from light green to dark yellow, Orkryn who are native Nazkuga and parts of Dol’Quoralis possess a more monochromatic pigment ranging from ebony to pale white. 
 ##### **Drakkahn (Draconians)**
 - **Draconic Breath**: Once per encounter, deal 1D6 elemental damage in a 15-foot cone (choose fire, ice, lightning, or acid at character creation).
 - **Scaled Resilience**: +1 Base TN (9)
+
+The Drakkahn are the hybrid descendants of dragons and humans, their appearance embodying the formidable traits of their draconic ancestors. Towering over most other races, Drakkahn typically stand six to eight feet tall, with broad, powerful builds that emphasize their natural strength. Their bodies are covered in tough, reptilian scales that shimmer in hues tied to their lineage: vibrant reds, blues, and greens for chromatic Drakkahn, and metallic golds, silvers, and bronzes for metallics. These scales, while not as durable as those of true dragons, offer significant natural protection, particularly against the elements.
+
+They possess angular, elongated faces crowned with rows of horns and facial spikes, which vary in size and shape depending on ancestry. Their eyes are strikingly dark with vertical, reptilian pupils and their mouths are filled with sharp teeth and a long, forked tongue to enhance their speech, lending it a sibilant quality that carries the deep pitch of a draconic growl.
 ##### **Kanin (Rabbitkin)**
 - **Long Jumper**: Gain Advantage on Acrobatics rolls. Jump distance is doubled.
 - **Superior Senses**: Gain Advantage on Tracking and Perception rolls. 
-****
 
 The Kanin are believed to have been created by Eldain, the Lady of Wolves, a surprising origin given their rabbit-like appearance. Standing between five to seven feet tall, they are tall for their form, with long, powerful legs and large ears that provide keen hearing. Their bodies are covered in short, dense fur that ranges in colour from shades of earthy brown and grey to snowy white, with some regional variations occurring in colder climates where white fur provides natural camouflage.
 
@@ -122,29 +129,29 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |                | **Iron Guard**            | None                        | Add +1 to your TN when wearing armour.                                                                                                                                |
 |                | **Riposte**               | Dexterity +2                | When an enemy misses you with a melee attack, make a counterattack as a reaction.                                                                                     |
 |                | **Dual Weapon Training**  | Dexterity +2                | Gain Advantage on your second attack when dual-wielding Light Weapons.                                                                                                |
-|                | **Shield Expert**         | Shield Proficiency          | Negate 1 damage from every attack when wielding a shield.                                                                                                             |
-|                | **Tactical Insight**      | None                        | Once per encounter, grant yourself or an ally within 20ft Advantage on their next attack or saving throw.                                                             |
-| **2**nd        | **Charge**                | Strength +2                 | Once per encounter, move 10 feet and deal +2 damage on a hit after charging.                                                                                          |
+|                | **Shield Expert**         | Shield Proficiency          | Negate 1 damage from every attack when wielding a shield and gain Major Advantage on Strength checks to shove enemies.                                                |
+|                | **Tactical Insight**      | None                        | Once per round, grant an ally within 20ft Major Advantage on their next attack or saving throw.                                                                       |
+| **2**nd        | **Charge**                | Strength +2                 | Once per encounter, move 10 feet and make an attack with Major Advantage. If you hit, deal +1D6 damage.                                                               |
 |                | **Defensive Stance**      | None                        | Use a reaction to add +2 to your TN until the start of your next turn.                                                                                                |
 |                | **Last Stand**            | None                        | When reduced to 0 HP, make a TN 12 roll. On success, regain 1D6 HP instead of falling unconscious.                                                                    |
 |                | **Brutal Work**           | Strength +2 or Dexterity +2 | Once per turn, reroll a damage die and use the higher result.                                                                                                         |
 |                | **Fencing Expert**        | Strength +2 or Dexterity +2 | Add +2 to attack rolls when wielding a single weapon with no shield.                                                                                                  |
-|                | **Overpower**             | None                        | Knock a target prone on a successful melee attack (TN 12 to resist).                                                                                                  |
+|                | **Overpower**             | None                        | Knock a target prone on a successful melee attack (TN 12 to resist). If you roll Major Advantage on the attack, they suffer Disadvantage on the save.                 |
 | **3**rd        | **Cleave**                | Strength +3                 | When you reduce an enemy to 0 HP, make another attack against an adjacent enemy.                                                                                      |
 |                | **Savage Assault**        | None                        | Once per encounter, make an additional melee attack as part of your action.                                                                                           |
-|                | **Shield Wall**           | Shield Expert               | Allies within 5 feet gain +1 to their TN while you are wielding a shield.                                                                                             |
-|                | **Precision Strike**      | Dexterity +3                | Once per encounter, roll with Advantage on an attack.                                                                                                                 |
-|                | **Battle Awareness**      | Perception Proficiency      | Gain Advantage on initiative rolls and cannot be surprised while conscious.                                                                                           |
-|                | **Unstoppable Charge**    | Brutal Charge               | Add +1D6 damage to your charge attack.                                                                                                                                |
-| **4**th        | **Indomitable**           | None                        | Once per encounter, reroll a failed saving throw.                                                                                                                     |
-|                | **Battlefield Commander** | Charisma +1                 | Allies within 10 feet gain +1 to attack rolls during the first round of combat.                                                                                       |
+|                | **Shield Wall**           | Shield Expert               | Allies within 5ft gain +1 to their TN while you are wielding a shield.                                                                                                |
+|                | **Precision Strike**      | Dexterity +3                | Once per encounter, roll with Major Advantage on an attack.                                                                                                           |
+|                | **Battle Awareness**      | Perception Proficiency      | Gain Major Advantage on initiative rolls and cannot be surprised while conscious.                                                                                     |
+|                | **Unstoppable Charge**    | Charge                      | Add +1D6 damage to your charge attack and force the target to make a TN 12 Strength check or be knocked prone.                                                        |
+| **4**th        | **Indomitable**           | None                        | Once per encounter, reroll a failed saving throw with Major Advantage.                                                                                                |
+|                | **Battlefield Commander** | Charisma +2                 | Allies within 10ft gain +2 to attack rolls and gain an extra 10ft of movement during the first round of combat.                                                       |
 |                | **Fury of Blades**        | Dual Weapon Training        | When dual-wielding, make a third attack without penalty once per encounter.                                                                                           |
 |                | **Rallying Cry**          | Charisma +2                 | Allies within 10 feet regain 1D6 HP when you reduce an enemy to 0 HP.                                                                                                 |
 |                | **Reckless Assault**      | None                        | Add +1D6 damage to your melee attacks but take -2 to your TN until the start of your next turn.                                                                       |
 |                | **Veteran’s Instinct**    | None                        | Gain Advantage on all attacks against targets you’ve already hit this combat.                                                                                         |
-| **5**th        | **Avatar of War**         | Strength +3                 | Gain a second attack each turn and add +1D6 to all critical hits.                                                                                                     |
-|                | **Unstoppable Force**     | None                        | Once per encounter, ignore 3 points of your target’s TN for all attacks this round.                                                                                   |
-|                | **Final Stand**           | Charisma +2                 | Allies within 20 feet gain +1 TN and Advantage on saving throws for 2 rounds.                                                                                         |
+| **5**th        | **Avatar of War**         | Strength +3                 | Gain a second attack each turn and add +2D6 to all critical hits.                                                                                                     |
+|                | **Unstoppable Force**     | None                        | Once per encounter, ignore your target’s TN for all attacks this round.                                                                                               |
+|                | **Sunder**                | Strength +3                 | Your attacks now **permanently weaken enemy armor**. Each hit against an armored enemy **reduces their TN by 1** for the rest of combat.                              |
 |                | **Death Blow**            | Strength +3 or Dexterity +3 | Once per encounter, deal triple damage on a critical hit.                                                                                                             |
 |                | **Endless Onslaught**     | Cleave                      | Each time you reduce an enemy to 0 HP, move up to 10 feet and make another attack without provoking an attack of opportunity.                                         |
 |                | **Bulwark**               | Shield Wall                 | When equipped with a shield, reduce all physical damage by **half**. Additionally, if an enemy misses an attack, you can use your reaction to shove them 5 feet away. |
@@ -161,7 +168,38 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium
 - **Armour Proficiencies:** Light, Medium, Shields
 
-TO-DO: 
+| **Feat Tier** | **Feat Name**            | **Prerequisites**      | **Effect**                                                                                                                |
+| ------------- | ------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **1**         | **Arcane Focus**         | None                   | Gain +1 to spell attack rolls when using an Arcane Focus.                                                                 |
+|               | **Spell Savant**         | Intellect +2           | Once per encounter, cast a Tier 1 spell without spending spell points.                                                    |
+|               | **Elemental Affinity**   | None                   | Choose an element (fire, frost, lightning). Once per short rest, add +1D6 damage of that element to a spell.              |
+|               | **Runic Knowledge**      | Intellect +2           | You can identify magical runes and glyphs without rolling.                                                                |
+|               | **Quick Cast**           | None                   | Once per encounter, cast a spell as a bonus action.                                                                       |
+|               | **Mana Tap**             | None                   | Once per encounter, regain 2 spell points after landing a successful spell attack.                                        |
+| **2**         | **Counterspell Mastery** | None                   | Once per encounter, counter a spell without spending points OR negate a spell effect within 10ft.                         |
+|               | **Warding Magic**        | None                   | Gain +1 TN against magical attacks.                                                                                       |
+|               | **Concentration Savant** | None                   | Gain Advantage on concentration checks for maintaining spells.                                                            |
+|               | **Enchanter**            | Enchanting Proficiency | You may enchant items without rare components if the effect is Tier 1 or lower.                                           |
+|               | **Mage Armour**          | None                   | Once per long rest, create a magical barrier giving +2 TN for one encounter.                                              |
+|               | **Arcane Sight**         | None                   | Detect the presence of magical auras, enchantments, and hidden spells within 30ft without casting a spell.                |
+| **3**         | **Twin Spells**          | None                   | Once per encounter, target two creatures with a single-target spell, but the second target takes half damage or effect.   |
+|               | **Arcane Efficiency**    | Spell Savant           | Once per long rest, regain 3 spell points instantly.                                                                      |
+|               | **Elemental Surge**      | Elemental Affinity     | Once per short rest, add +2D6 extra damage of your chosen element to a spell.                                             |
+|               | **Arcane Explosion**     | Intellect +3           | When hit in melee, release a burst of energy dealing 2D6 damage in a 10ft radius.                                         |
+|               | **Silent Casting**       | None                   | Cast spells without verbal components.                                                                                    |
+|               | **Spell Bending**        | None                   | Once per encounter, redirect an incoming spell to a different target within range.                                        |
+| **4**         | **Master Enchanter**     | Enchanter              | Once per day, create a "Stored Spell" item that holds a single cast of a spell.                                           |
+|               | **Spell Shaper**         | None                   | Modify a spell's range or area by 50%, or exclude up to 3 creatures from its effects.                                     |
+|               | **Mana Shield**          | None                   | Once per encounter, absorb 2 damage per 1 spell point spent.                                                              |
+|               | **Quickened Rituals**    | Arcana Proficiency     | Ritual spells take half the normal time to cast.                                                                          |
+|               | **Dimensional Step**     | None                   | Once per encounter, teleport up to 30 feet as a bonus action.                                                             |
+|               | **Feedback**             | None                   | Once per short rest, when you fail a spell attack roll, the spell power surges back into you, restoring 1D6 spell points. |
+| **5**         | **Archmage's Dominion**  | None                   | You may maintain concentration on two spells at once.                                                                     |
+|               | **Overchannel**          | None                   | Once per long rest, cast a spell at maximum damage dice without rolling.                                                  |
+|               | **Gatewalker**           | Dimensional Step       | Once per long rest, teleport up to 1 mile instantly.                                                                      |
+|               | **Spellweaver**          | Twin Spells            | Once per encounter, you may cast two different spells in the same action.                                                 |
+|               | **Essence Tap**          | Arcane Efficiency      | Once per day, fully restore all spell points instantly.                                                                   |
+|               | **Unravel Reality**      | None                   | Once per lifetime, rewrite a single event in history. This must be approved by the DM and will have consequences.         |
 
 ---
 #### **Cleric**
@@ -175,9 +213,40 @@ TO-DO:
 - **Weapon Proficiencies:** Light, Medium
 - **Armour Proficiencies:** Light, Medium, Shields
 
+| **Feat Tier** | **Feat Name**                | **Prerequisites**    | **Effect**                                                                                                                                                                             |
+| ------------- | ---------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**st       | **Weight of the Oath**       | None                 | If you **break an oath or commandment of your faith**, **lose all divine abilities for 24 hours**. However, while upholding your faith, you gain **Advantage on all Willpower saves.** |
+|               | **Hands of the Martyr**      | None                 | **When an ally within 10 feet is reduced to 0 HP, you can choose to take the remaining damage yourself** instead of them.                                                              |
+|               | **Righteous Fury**           | None                 | **Gain Major Advantage on an attack against an enemy who has harmed a helpless creature in the last round.**                                                                           |
+|               | **Shield of Conviction**     | None                 | **When wearing armor, increase your TN by +1.**                                                                                                                                        |
+|               | **Divine Blessing**          | None                 | **Once per short rest, touch an ally to grant them +1D6 to an attack or saving throw within the next 10 minutes.**                                                                     |
+|               | **Lay on Hands**             | None                 | **You can heal 1D6 HP once per long rest by touching a wounded ally.**                                                                                                                 |
+| **2**nd       | **Voice of Conviction**      | None                 | **Your voice carries divine weight.** Non-hostile creatures must succeed a **TN 12 Willpower save** or instinctively obey your requests.                                               |
+|               | **Sins Made Manifest**       | None                 | When you **publicly accuse someone of breaking their faith**, they suffer **Major Disadvantage** on social rolls until they atone.                                                     |
+|               | **Wrath of the Divine**      | Righteous Fury       | **Once per encounter, deal 2D6 radiant damage to an enemy who has struck you.**                                                                                                        |
+|               | **Armor of the Faithful**    | Shield of Conviction | **When wearing armor, you cannot be disarmed, shoved, or knocked prone unless hit by a critical success.**                                                                             |
+|               | **Zealot’s Charge**          | None                 | **Once per encounter, move up to 15 feet and make an attack that ignores half cover.**                                                                                                 |
+|               | **Blessed Weapon**           | Divine Blessing      | **For the next hour, your weapon deals +1D6 radiant damage against undead or fiends.**                                                                                                 |
+| **3**rd       | **Unbroken Line**            | None                 | **Allies within 10 feet cannot be forcibly moved unless they choose to be.**                                                                                                           |
+|               | **Hand of Ordination**       | Voice of Conviction  | You may **bless someone as a chosen warrior of your faith**—they gain **Advantage on all attacks against enemies of your faith.**                                                      |
+|               | **Judgment is Passed**       | None                 | **Once per combat, you may reroll a missed attack against a target that has previously harmed an ally.**                                                                               |
+|               | **Banner of the Righteous**  | Shield of Conviction | **Once per combat, plant your weapon into the ground and create a rallying zone**—allies inside gain **+2 TN and Advantage on saving throws.**                                         |
+|               | **Bound by Blood**           | Hands of the Martyr  | **If an ally dies within 10 feet of you, you may permanently take on a trait of theirs** (chosen by DM).                                                                               |
+|               | **Holy Avenger**             | Blessed Weapon       | **Your melee weapon is considered magical and deals +1D6 radiant damage against undead or fiends.**                                                                                    |
+| **4**th       | **Immortal Conviction**      | None                 | **You no longer age, cannot be frightened, and cannot be mind-controlled by lesser beings.**                                                                                           |
+|               | **Hallowed Guardian**        | Hand of Ordination   | Allies you **personally ordain gain +1 TN permanently**.                                                                                                                               |
+|               | **Harbinger of Faith**       | None                 | **Once per session, an enemy who kills you is cursed to suffer nightmares and madness unless resurrecting you.**                                                                       |
+|               | **Ironclad Oath**            | None                 | If you swear an **unbreakable vow**, **breaking it will kill you instantly**—but while keeping it, you are **immune to all external coercion.**                                        |
+|               | **Scourge of Apostates**     | Judgment is Passed   | **If someone breaks a contract, oath, or promise made in your presence, they take 3D6 divine backlash damage.**                                                                        |
+|               | **Divine Retribution**       | Holy Avenger         | **Once per encounter, when an enemy deals critical damage to you, strike back with a guaranteed critical hit.**                                                                        |
+| **5**th       | **Paragon of Devotion**      | None                 | **Your faith inspires generations**—your name and deeds are remembered forever, and no mind-wiping magic can erase your legacy.**                                                      |
+|               | **Herald of the Inevitable** | Immortal Conviction  | **You may declare a major event fated to occur. It cannot be permanently prevented, only delayed.**                                                                                    |
+|               | **Judgment Incarnate**       | Bound by Blood       | If you **strike down an enemy of your faith**, **you may claim their knowledge and memories before their soul departs.**                                                               |
+|               | **Oathkeeper’s Last Stand**  | Ironclad Oath        | If you die keeping your final vow, **your body turns to stone, and your last words echo in the minds of all who hear them forever.**                                                   |
+|               | **Martyr’s Apotheosis**      | None                 | **Once per lifetime, upon dying, you ascend into legend and become an eternal guardian spirit, watching over your allies.**                                                            |
+|               | **The Will of the Divine**   | None                 | **Once per campaign, you may ask your deity one absolute question. They must answer honestly.**                                                                                        |
 
 ---
-
 #### **Ranger**
 - **Starting Proficiencies:** Any two from the following: 
 	Survival, Tracking, Animal Handling, Navigation, Stealth, Herblore.
@@ -236,47 +305,85 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 
 At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher tier feats at **3rd**, **5th**, **7th**, and **9th** CL.
 
-| **Feat Tier** | **Feat Name**             | **Prerequisites**     | **Effect**                                                                                                                                                          |
-| ------------- | ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**st       | **Battle Fury**           | None                  | Enter a state of heightened focus for 3 turns. During this state, gain +1 to attack rolls and immunity to being frightened or charmed.                              |
-|               | **Brutal Constitution**   | None                  | Gain +2 to all rolls involving physical endurance, such as resisting poison, exhaustion, or heat.                                                                   |
-|               | **Relentless Charge**     | None                  | Charge forward up to 15 feet. If you make a successful melee attack after charging, add +1D6 damage.                                                                |
-|               | **Warrior's Roar**        | Intimidation          | Once per encounter, let out a powerful roar that grants you and allies within 15 feet +1 TN against attacks until the start of your next turn.                      |
-|               | **Titan's Strength**      | Strength +2           | Add +2 to all rolls made to grapple, push, or pull objects or creatures.                                                                                            |
-|               | **Pain Tolerance**        | Endurance             | Reduce incoming physical damage by 1D6 once per turn.                                                                                                               |
-| **2**nd       | **Battle Frenzy**         | Battle Fury           | When in Battle Fury, you may make an extra attack during your turn.                                                                                                 |
-|               | **Intimidating Presence** | None                  | Once per encounter, impose Disadvantage on an enemy's next attack by intimidating them.                                                                             |
-|               | **Vengeful Might**        | Strength +2           | After being damaged by an enemy, you may add +1D6 damage on your next successful attack against that enemy.                                                         |
-|               | **Ironclad Resilience**   | Brutal Constitution   | Gain +2 TN against attacks from non-magical sources.                                                                                                                |
-|               | **Focused Assault**       | None                  | Once per encounter, choose a target. You have Advantage on all attack rolls against that target until the end of your next turn.                                    |
-|               | **Titan's Grip**          | Titan's Strength      | You can wield a Heavy weapon in one hand, allowing you to dual-wield Heavy or Medium weapons.                                                                       |
-| **3**rd       | **Bloodlust**             | Battle Frenzy         | While in Battle Frenzy, gain +1D6 damage when attacking enemies that are at half HP or below.                                                                       |
-|               | **Fearsome Strike**       | Strength +3           | Once per encounter, make an attack that forces the target to make a TN 12 saving throw or become frightened of you for 1 turn.                                      |
-|               | **Reckless Assault**      | None                  | Add +1D6 damage to melee attacks, but take -2 TN for incoming attacks until the start of your next turn.                                                            |
-|               | **Giant Slayer**          | None                  | When fighting creatures larger than you, add +1 to attack rolls and +1D6 to damage rolls.                                                                           |
-|               | **Battlefield Prowess**   | None                  | Once per encounter, after reducing an enemy to 0 HP, regain 1D6 temporary HP.                                                                                       |
-|               | **Bone Crusher**          | Strength +3           | On a successful melee attack, target must succeed on a TN 12 roll or have a limb temporarily disabled, reducing their movement by half.                             |
-| **4**th       | **Unbreakable Will**      | None                  | Once per encounter, negate a fear or charm effect affecting you.                                                                                                    |
-|               | **Mighty Resilience**     | Endurance +2          | When reduced to 0 HP, make a TN 10 roll. On success, regain 1D6 HP instead of falling unconscious.                                                                  |
-|               | **Berserker's Dance**     | Battle Frenzy         | During Battle Frenzy, move up to 10 feet after each successful attack without provoking attacks of opportunity.                                                     |
-|               | **War Cry**               | Warrior's Roar        | When you use Warrior's Roar, allies within 15 feet also gain Advantage on their next attack roll.                                                                   |
-|               | **Iron Will**             | None                  | Gain Advantage on saving throws against mental effects, such as fear or charm.                                                                                      |
-|               | **Thunderous Blow**       | Titan's Grip          | Once per encounter, make an attack that deals an additional +2D6 damage and pushes the target 10 feet away if they fail a TN 12 saving throw.                       |
-| **5**th       | **Juggernaut**            | Battle Fury           | Gain a second attack each turn, and add +1D6 damage to all successful melee hits.                                                                                   |
-|               | **Earth Shaker**          | Strength +3           | Slam the ground, causing all enemies within 10 feet to make a TN 14 roll or fall prone.                                                                             |
-|               | **Fury Unleashed**        | Battle Frenzy         | While in Battle Frenzy, your attacks ignore 3 points of an enemy's TN.                                                                                              |
-|               | **Indomitable Presence**  | Intimidating Presence | Enemies within 15 feet must make a TN 12 saving throw or have Disadvantage on attacks against you for the next 2 turns.                                             |
-|               | **Unyielding Assault**    | Reckless Assault      | Add +1D6 damage to all melee attacks, and gain Advantage on attack rolls against enemies who have dealt damage to you in the current combat.                        |
-|               | **Avatar of Destruction** | None                  | Once per encounter, make an attack that deals triple damage and ignores armor TN bonuses, representing your full strength channeled into a single devastating blow. |
-
+| **Feat Tier** | **Feat Name**             | **Prerequisites**     | **Effect**                                                                                                                                                                     |
+| ------------- | ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1**st       | **Battle Fury**           | None                  | Enter a state of heightened focus for 3 turns. During this state, gain +1 to attack rolls and immunity to being frightened or charmed.                                         |
+|               | **Brutal Constitution**   | None                  | Gain +2 to all rolls involving physical endurance, such as resisting poison, exhaustion, or heat.                                                                              |
+|               | **Relentless Charge**     | None                  | Charge forward up to 15 feet. If you make a successful melee attack after charging, add +1D6 damage.                                                                           |
+|               | **Warrior's Roar**        | Intimidation          | Once per encounter, let out a powerful roar that grants you and allies within 15 feet +1 TN against attacks until the start of your next turn.                                 |
+|               | **Titan's Strength**      | Strength +2           | Add +2 to all rolls made to grapple, push, or pull objects or creatures.                                                                                                       |
+|               | **Pain Tolerance**        | Endurance             | Reduce incoming physical damage by 1D6 once per turn.                                                                                                                          |
+| **2**nd       | **Battle Frenzy**         | Battle Fury           | When in Battle Fury, you may make an extra attack during your turn.                                                                                                            |
+|               | **Intimidating Presence** | None                  | Once per encounter, impose Disadvantage on an enemy's next attack by intimidating them.                                                                                        |
+|               | **Vengeful Might**        | Strength +2           | After being damaged by an enemy, you may add +1D6 damage on your next successful attack against that enemy.                                                                    |
+|               | **Ironclad Resilience**   | Brutal Constitution   | Gain +2 TN against attacks from non-magical sources.                                                                                                                           |
+|               | **Focused Assault**       | None                  | Once per encounter, choose a target. You have Advantage on all attack rolls against that target until the end of your next turn.                                               |
+|               | **Titan's Grip**          | Titan's Strength      | You can wield a Heavy weapon in one hand, allowing you to dual-wield Heavy or Medium weapons.                                                                                  |
+| **3**rd       | **Bloodlust**             | Battle Frenzy         | While in Battle Frenzy, gain +1D6 damage when attacking enemies that are at half HP or below.                                                                                  |
+|               | **Fearsome Strike**       | Strength +3           | Once per encounter, make an attack that forces the target to make a TN 12 saving throw or become frightened of you for 1 turn.                                                 |
+|               | **Reckless Assault**      | None                  | Add +1D6 damage to melee attacks, but take -2 TN for incoming attacks until the start of your next turn.                                                                       |
+|               | **Giant Slayer**          | None                  | When fighting creatures larger than you, add +1 to attack rolls and +1D6 to damage rolls.                                                                                      |
+|               | **Battlefield Prowess**   | None                  | Once per encounter, after reducing an enemy to 0 HP, regain 1D6 temporary HP.                                                                                                  |
+|               | **Bone Crusher**          | Strength +3           | On a successful melee attack, target must succeed on a TN 12 roll or have a limb temporarily disabled, reducing their movement by half.                                        |
+| **4**th       | **Unbreakable Will**      | None                  | Once per encounter, negate a fear or charm effect affecting you.                                                                                                               |
+|               | **Mighty Resilience**     | Endurance +2          | When reduced to 0 HP, make a TN 10 roll. On success, regain 1D6 HP instead of falling unconscious.                                                                             |
+|               | **Berserker's Dance**     | Battle Frenzy         | During Battle Frenzy, move up to 10 feet after each successful attack without provoking attacks of opportunity.                                                                |
+|               | **War Cry**               | Warrior's Roar        | When you use Warrior's Roar, allies within 15 feet also gain Advantage on their next attack roll.                                                                              |
+|               | **Iron Will**             | None                  | Gain Advantage on saving throws against mental effects, such as fear or charm.                                                                                                 |
+|               | **Thunderous Blow**       | Titan's Grip          | Once per encounter, make an attack that deals an additional +2D6 damage and pushes the target 10 feet away if they fail a TN 12 saving throw.                                  |
+| **5**th       | **Juggernaut**            | Battle Fury           | Gain a second attack each turn, and add +1D6 damage to all successful melee hits.                                                                                              |
+|               | **Earth Shaker**          | Strength +3           | Slam the ground, causing all enemies within 10 feet to make a TN 14 roll or fall prone.                                                                                        |
+|               | **Fury Unleashed**        | Battle Frenzy         | While in Battle Frenzy, your attacks ignore 3 points of an enemy's TN.                                                                                                         |
+|               | **Indomitable Presence**  | Intimidating Presence | Enemies within 15 feet must make a TN 12 saving throw or have Disadvantage on attacks against you for the next 2 turns.                                                        |
+|               | **Unyielding Assault**    | Reckless Assault      | Add +1D6 damage to all melee attacks, and gain Advantage on attack rolls against enemies who have dealt damage to you in the current combat.                                   |
+|               | **Avatar of Destruction** | None                  | Once per encounter, make an attack that deals triple damage and ignores armor TN bonuses, representing your full strength channeled into a single devastating blow.            |
 
 ---
-
-#### **Paladin**
-- **Starting Proficiencies:** Any two from the following: 
-	Lore, Diplomacy, Medicine, Athletics, Intimidation, Horseriding.
+#### **Rogue**
+- **Starting Proficiencies:** Any two from the following:
+    - Stealth, Sleight of Hand, Deception, Acrobatics, Lockpicking, Perception.
 - **Starting Gear Options**:
-    
+    - a) 1x Light Weapon, Lockpicks, Leather Armor
+    - b) 2x Light Weapons, Hooded Cloak, Dagger
+    - c) 1x Medium Weapon, Thieves' Tools, Padded Armor
+    - d) 1x Light Weapon, Hand Crossbow (20 bolts), Studded Leather Armor
+- **Weapon Proficiencies:** Light, Medium
+- **Armor Proficiencies:** Light
+
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher tier feats at **3rd**, **5th**, **7th**, and **9th** CL.
+
+| **Feat Tier** | **Feat Name**            | **Prerequisites**      | **Effect**                                                                                                                                              |
+| ------------- | ------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**st       | **Opportunist**          | None                   | If an enemy has already been hit this round, your attack deals +1D6 bonus damage.                                                                       |
+|               | **Darting Step**         | Dexterity +2           | You may move 5 feet after making an attack, even if you’ve used all your movement.                                                                      |
+|               | **Quick Fingers**        | Dexterity +2           | You may use an item, pick a lock, or disarm a trap instantly without spending an action once per round.                                                 |
+|               | **Elusive**              | None                   | If you have moved at least 10 feet this round, ranged attacks against you are at Disadvantage.                                                          |
+|               | **Dirty Trick**          | Deception Proficiency  | Once per round, make a TN 12 Deception check to blind, distract, or feint against an enemy, imposing Disadvantage on their next attack or saving throw. |
+|               | **Ghost’s Step**         | Stealth Proficiency    | You may move at full speed while sneaking instead of halving your movement.                                                                             |
+| **2**nd       | **Lethal Edge**          | Opportunist            | If an enemy has already been hit this round, your attack ignores 2 points of TN.                                                                        |
+|               | **Twist the Blade**      | None                   | Once per encounter, if you deal damage to an enemy, they take 1D6 additional damage at the start of their next turn.                                    |
+|               | **Shadow Jaunt**         | Stealth +2             | If you are in dim light or darkness, you may move through an enemy’s space without provoking attacks.                                                   |
+|               | **Daring Escape**        | Acrobatics Proficiency | When an enemy tries to grapple or restrain you, you may immediately move 5 feet away for free if you pass the saving throw.                             |
+|               | **Underhanded Tactics**  | None                   | You may use a reaction to force an enemy to reroll an attack against an ally within 5 feet.                                                             |
+|               | **Disarming Smile**      | Deception +2           | Once per encounter, a target hesitates to attack you for 1 round unless they pass a TN 12 Intellect check.                                              |
+| **3**rd       | **Sudden Strike**        | Lethal Edge            | If you move at least 10 feet before attacking, roll 2D6 and take the highest for your attack roll.                                                      |
+|               | **Ghost Blade**          | None                   | If you attack while hidden, you do not reveal yourself on a hit.                                                                                        |
+|               | **Acrobat’s Grace**      | Acrobatics +3          | You may ignore fall damage from any height of 20 feet or less.                                                                                          |
+|               | **Feign Weakness**       | Deception +3           | Once per encounter, you may cause an enemy to lower their TN by 2 against your next attack.                                                             |
+|               | **Master Pickpocket**    | Quick Fingers          | You may steal small objects instantly without requiring a roll if the target is distracted.                                                             |
+|               | **Trapmaker**            | Tinkering Proficiency  | You may set a mechanical trap instantly if you have the materials.                                                                                      |
+| **4**th       | **Ambush Predator**      | Sudden Strike          | If an enemy has not acted this round, your attack deals +1D6 damage and ignores 3 points of TN.                                                         |
+|               | **Blade Dancer**         | Dexterity +3           | When dual-wielding, your off-hand attacks gain Advantage once per round.                                                                                |
+|               | **Mirrored Movements**   | Acrobatics +4          | Once per encounter, when an enemy attacks you, you may swap places with an ally within 5 feet, redirecting the attack.                                  |
+|               | **Silver Tongue**        | Disarming Smile        | If an enemy hesitated to attack you, they must make a TN 14 Willpower check or become non-hostile for 1 minute.                                         |
+|               | **Devious Setup**        | Trapmaker              | If an enemy triggers your trap, they suffer Disadvantage on all rolls for 1 round.                                                                      |
+|               | **Slip Between Blades**  | None                   | If two enemies are within 5 feet of you, you may move between them without provoking attacks.                                                           |
+| **5**th       | **One With The Shadows** | Shadow Step            | Once per day, turn invisible for 1 minute. Attacking does not reveal you.                                                                               |
+|               | **Death Mark**           | Assassinate            | Once per day, mark a target. Your first successful attack triples its Sneak Attack damage.                                                              |
+|               | **Ghost Reflexes**       | Uncanny Dodge          | You may use Uncanny Dodge multiple times per turn, as long as you have reactions available.                                                             |
+|               | **Flawless Escape**      | Evasion                | Once per day, automatically escape from any effect that would restrain, paralyze, or incapacitate you.                                                  |
+|               | **Deadly Trickster**     | Deft Lies              | Once per day, force an enemy to reroll a successful attack, saving throw, or ability check, taking the second result.                                   |
+|               | **Perfect Timing**       | Cunning Reflexes       | Once per day, take two turns per round for the first 3 rounds of combat.                                                                                |
 
 ---
 ### **Step 3: Background**
@@ -312,11 +419,9 @@ Each background grants:
 | **Thief**       | A cunning opportunist who thrives in the shadows.                   | Stealth, Sleight of Hand, Security   | Lockpicks, dark clothing, coin pouch.               |
 | **Labourer**    | A hardworking tradesman accustomed to physical labour.              | Engineering, Bartering, Endurance    | Simple tools, sturdy boots, small cart.             |
 
-
-
 ---
 ### **Step 4: Skill Proficiencies**
-Proficiencies eliminate Disadvantage on rolls for relevant actions and tie into feats.
+At level 1, you have access to four skill proficiencies by default, two from your background and two from your class. Rolling a skill that you are not proficient in will impose regular Disadvantage unless specified by the DM. 
 
 | **Category**    | **Skill**       | **Description**                                                                     | **Associated Attribute** |
 | --------------- | --------------- | ----------------------------------------------------------------------------------- | ------------------------ |
@@ -378,7 +483,6 @@ Spellcasting represents the ability to channel and manipulate Manamaterium. In t
     - Some spells or effects require time and preparation (e.g., summoning, warding). Proficiency ensures proper execution, while non-proficient characters face penalties or risks; unintended side effects, delays, or even personal harm.
 - **Magical Items**:
     - While most magical items can be used by anyone, certain enchanted items may require a **Spellcasting roll** to activate. Proficiency allows reliable use, while non-proficient characters risk wasting charges or activating unintended effects.
-
 ### **Level 1 Spells**
 
 | **Spell Name**       | **School**    | TN  | **Effect**                                                                                                                        |
@@ -391,8 +495,6 @@ Spellcasting represents the ability to channel and manipulate Manamaterium. In t
 | **Necrotic Touch**   | Necromancy    | 9   | Touch deals **1D6** necrotic damage and target must succeed on a TN **12** save or suffer a -1 Strength penalty for **1 minute**. |
 | **Conjure Flame**    | Conjuration   | 9   | Create a flame in your hand to be used as a torch or thrown at a target to deal **1D6** fire damage.                              |
 | **Aegis**            | Abjuration    | 11  | Raise a magical shield, adding **+2 TN** for **1 round**.                                                                         |
-
----
 ### **Level 2 Spells**
 
 | **Spell Name**        | **School**    | TN  | **Effect**                                                                                                                    |
@@ -405,8 +507,6 @@ Spellcasting represents the ability to channel and manipulate Manamaterium. In t
 | **Ray of Pestilence** | Necromancy    | 10  | A black beam saps strength, dealing **1D6** necrotic damage and reducing target's damage by half for **1 minute**.            |
 | **Summon Familiar**   | Conjuration   | 11  | Summon a spirit in the shape of a small animal to serve you for **8 hours**. It can deliver touch spells for you.             |
 | **Kinetic Barrier**   | Abjuration    | 12  | Place a ward on yourself or a target that absorbs **5** damage before dissipating.                                            |
-
----
 ### **Level 3 Spells**
 
 | **Spell Name**      | **School**    | TN  | **Effect**                                                                                                        |
@@ -419,8 +519,6 @@ Spellcasting represents the ability to channel and manipulate Manamaterium. In t
 | **Animate Dead**    | Necromancy    | 15  | Raise a **zombie** or **skeleton** from a corpse under your control for **24 hours**.                             |
 | **Teleport Object** | Conjuration   | 14  | Teleport an object up to **50 ft** to a visible or well-known location.                                           |
 | **Dispel Magic**    | Abjuration    | 14  | End a spell effect of **3rd level or lower** on a target or area.                                                 |
-
----
 ### **Level 4 Spells**
 
 | **Spell Name**           | **School**    | TN  | **Effect**                                                                                              |
@@ -433,8 +531,6 @@ Spellcasting represents the ability to channel and manipulate Manamaterium. In t
 | **Vampiric Touch**       | Necromancy    | 15  | Touch deals **3D6** necrotic damage and heals you for half of the damage dealt.                         |
 | **Summon Elemental**     | Conjuration   | 16  | Summon an **elemental** that serves you for **1 hour**.                                                 |
 | **Greater Ward**         | Abjuration    | 15  | Create a ward that absorbs **15** damage before dissipating, lasts **1 hour**.                          |
-
----
 ### **Level 5 Spells**
 
 | **Spell Name**      | **School**    | TN  | **Effect**                                                                                                                                  |

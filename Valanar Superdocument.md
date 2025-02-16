@@ -13,9 +13,6 @@ This superdocument is intended as a reference sheet for every component that mak
 | Departure             | July - August       |
 | Harvests End          | September - October |
 | Borealis              | November - December |
-
-The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
-
 **The Celestial Calendar**
 The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
 
@@ -130,6 +127,8 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 	The Kingdom of Greater Witzia is the first of the Doyverd territories to claim independence, followed by Florence in 832BR and Skaldava around 800BR.
 - **500BR** - Eruption of Mt. Zephyra 
 	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of Dwarrow and forcing the rest into the Worldcaves and beyond. 
+- **482BR** - Formation of the Circle of Mages
+	The organisation forms after thousands of years of magic users going entirely unchecked, originating in Draymond and eventually spreading throughout Dol-Calandria. 
 - **330BR/320BR** - The Witzian Civil War 
 	Colloquially referred to as ‘The Ten Year War’, a bloody conflict which spanned approximately a decade, concludes.
 - **317BR** - Exile of the Ende'hel
@@ -351,7 +350,7 @@ Once inducted, Veiled Paladins serve in various roles within Nassau’s hierarch
 ##### Population and Demographics
 As could be expected of the Black Empire's principal vassal state, Skaldava is .
 ##### History and Founding
-
+For almost a millennia, the nation of Skaldava was divided by warring constituencies 
 ##### Economy and Currency
 Text here.
 ##### Culture and Society 
@@ -678,19 +677,19 @@ Text here.
 ---
 ### The Westerlands
 ##### Population and Demographics 
-Mostly Halflings, some Humans and a very minor population of Dwarrow. 
+Predominantly Halflings, with some Humans and a minor population of Ende’hel. The Halflings, also known as Lithfolk, form one of the world's most homogenous societies, thriving in the warm climate that suits their physicality​.
 ##### Economy and Currency
 Very affluent country, exporting lots of produce, artisan and animal products each year. With few wars or conflicts to speak of, the Westerlands has always been prosperous and well known for 
 ##### Culture and Society 
 The Lithfolk largely follow the Old Faith, 
 
-The judicial system is operated by the clergy and is the only governing body of authority with the power to arbitrate over executive decisions and laws passed by regional leaders i.e Guild Leaders. They likewise have the power to arrest or execute lawbreakers at their discretion. 
+The judicial system is operated by the clergy and is the only governing body of authority with the power to arbitrate over executive decisions and laws passed by regional leaders i.e Guild Leaders. They likewise have the power to arrest or execute lawbreakers at their discretion. Their society is structured around a loose but functional caste system. At the top are the Merchants' Guilds, which control trade networks, both legal and illicit. Beneath them are artisans and traders, and at the base are laborers and farmers, though even they participate in trade.
 ##### Geography and Landmarks 
 The Westerlands are characterized by rolling green hills, fertile plains, and scattered woodlands. The region’s temperate climate and rich soil make it ideal for farms and vineyards.
 ##### Settlements & Structures
 Text here.
 ##### Military and Naval Power 
-The Westerlands lack a formal military, having little history of warfare. Instead, they rely on their wealth and alliances for security. In times of threat, guerilla militias formed by the Lithfolk and mercenaries funded by the **Trade Guilds** protect their homeland. Peacekeeping forces ensure local order, while their strong economic ties to Brutayne provide additional leverage in diplomacy; what they lack in physical stature, they are more than prepared to account for any situation through exorbitant spending on defences and political alliances. 
+The Westerlands lack a formal military, having little history of warfare. Instead, they rely on their wealth and alliances for security. In times of threat, guerilla militias formed by the Lithfolk and mercenaries funded by the Trade Guilds protect their homeland. Peacekeeping forces ensure local order, while their strong economic ties to Brutayne provide additional leverage in diplomacy; what they lack in physical stature, they are more than prepared to account for any situation through exorbitant spending on defences and political alliances. 
 
 ---
 ### The Unforgiving Lands
@@ -969,19 +968,91 @@ The economy of Nydessa thrives on its mastery of the seas and its rich natural r
 
 ##### Geography and Landmarks 
 Nydessa's geography is as varied as its history. From the treacherous Snag, a rocky valley filled with shipwrecks, to the lush, impenetrable Thornwood Forest, which provides sanctuary to the remaining Orcs. The Firewoods, known for their dry, flammable trees and unique flora and fauna, contrast sharply with the fertile, yet blood-soaked Bogwood, scene of the kingdom's bloodiest battles.
-
-##### Settlements & Structures
-The Capital City of Nydessa is Hardale Hall, the first and largest Human settlement to be constructed in the country. 
-
-Ironrath is the second largest city in the country and historically accounts for over a third of the country's military force; as the home of the Iron Banner, which was established by Lord William Hawthorne 
-
-- Kraghammer: An underground city symbolising Dwarven resilience and craftsmanship. 
 - The Break Iron Mines and The Overgrowth: Rich in minerals and surrounded by hazardous thickets, home to untold creatures.
 - Drahk Cove: A hub of trade and history, once central to Orcish culture.
 - The Marsh and The Bogwood: Ecologically diverse regions critical to Nydessa's commerce and history.
 - The King’s Woods: Sacred grounds reserved for royal coronations, embodying Nydessa's conquest and legacy.
 - Whaler’s Bay
+##### Settlements & Structures
 
+###### **Iron Banner**
+**Ironrath**
+The second-largest city in the country, historically accounting for over a third of Nydessa’s military force. Home to the **Iron Banner**, the city is a fortress in its own right, producing elite soldiers and siege weaponry. Founded by Lord William Hawthorne, it remains a stronghold of martial tradition.
+
+**Lonsadille**
+A rugged trade town serving as a waypoint for timber and trade moving between Ironrath and Greenacres.
+
+**Oakcrest**
+A lumber town supplying shipbuilding materials and fortifications. The surrounding Ironwood forests are dense, leading to frequent conflicts with poachers and outlaws who use the woods for cover.
+
+**Jarvan**
+A mining town built into rocky hills, primarily extracting iron and coal. The town is bleak and utilitarian, with little in the way of comfort, and mine collapses are not uncommon. Many of its founding families were former soldiers who took up mining as a final profession after years of service.
+
+**Pinedale**
+Known for its production of bows and arrows, Pinedale is vital to Nydessa’s archery corps. It has a strong hunting culture, and many of its youth enter military service as scouts and rangers.
+
+**Greenacres**
+A major city and key supply hub for Ironrath. Its storehouses and grain silos fuel Nydessa’s war efforts, though the region is prone to flooding, requiring constant upkeep of levees and embankments.
+
+**Mariana**
+A small hamlet built on the southern coastline of Drakh Cove. 
+###### **Emberloft**
+**Redport** 
+The nation's trading capital and the third-largest city. Its deep harbor allows for large-scale international trade, making it a melting pot of cultures and a den of intrigue. Smugglers, merchants, and privateers thrive here.
+
+**Anvil** 
+A small but prosperous town, known for its blacksmithing and fine metalwork. Many of Nydessa’s best weapons and armor originate here.
+
+**Troutberk**
+A fishing village that supplies much of the coastal population with fresh and salted fish.
+
+**Holmfirth**
+A picturesque town known for its vineyards and wine production, though prone to wildfires due to its dry summers.
+###### **East Fold**
+**Hardale Hall**
+The capital city of Nydessa and its oldest human settlement. Built near **Moon Lake**, it serves as the royal seat and the heart of Nydessan governance.
+
+**Kraghammer**
+An underground city symbolising Dwarven resilience and craftsmanship constructed in the subterranean caverns beneath Hardale Hall after a large population of Dwarrow refugees from Khard fled the country during its first civil war. Known for its deep mines and legendary forges, it operates with relative autonomy but remains crucial to Nydessa’s economy.
+
+**Kilmarnack**
+A rural town known for its horse breeding, providing warhorses to Nydessa’s cavalry.
+
+**Drumchapel**
+
+
+**Stonereach**
+The closest city to the Thornwood Forest and perhaps the country's second most well defended settlement.
+
+**Aramore**
+A very affluent town in one of the country's most picturesque locations. Some of the world's most eloquent manors and private estates were constructed at the request of the country's nobility here, including Brandon the Conqueror. While politically influential, it is economically reliant on wealthier cities for trade and resources.
+
+###### **Mire-Plains**
+**Beckinsdale**
+
+
+**Clydesdale**
+A prominent town in the **Mire-Plains**, serving as a major agricultural and livestock center. The surrounding plains make it ideal for large-scale farming and horse breeding.
+
+**Garigill**
+The largest town in the **Mire-Plains**, acting as a trade and administrative center. Its wealth comes from controlling trade between Clydesdale and Stormheim and its markets are among the busiest in the region.
+
+**Mirstone**
+A small village, relatively unremarkable except for its proximity to key trade routes and Stormheim  at the fringes of the Mire-Plains, its name derived from the ever-present mist that lingers over the nearby bogs. The people here live simple, isolated lives, relying on subsistence farming, fishing, and peat harvesting.
+
+**Stormheim**
+A large city built along the source of the largest of the six 'finger' lakes. 
+
+**New Hardale**
+New Hardale is home to Nydessa’s largest prison, a fortress-like structure that dominates the otherwise small settlement. The town exists to serve the prison, with many of its residents being guards, blacksmiths, and clerks who maintain its operation. The prison itself houses Nydessa’s most dangerous criminals, from high-profile traitors to violent offenders unfit for normal incarceration.
+###### **The Overgrowth**
+**Shirebrook**
+
+**Gardale**
+
+**Jostle**
+
+**Synthia**
 ##### Military and Naval Power 
 Much of the Nydessan military’s modus operandi originates from the Draymond Empire; as a direct result of their influence in the conquering of Nydessa (or perhaps lack thereof) the invading Humans slowly adopted guerrilla tactics 
 
@@ -2075,6 +2146,9 @@ The Gyr are known to occupy cold to temperate climates.
 There have been hundreds of groups, guilds, associations, enclaves and factions across Valanar’s history; below are some of the more historically influential or well documented.
 
 ---
+### The Circle of Mages
+Originally founded in 482BR, the Circle first 
+
 ### The House of Daggers
 The method of contracting their services has, like many other facets of the organisation, been a topic of scholarly debate for some time. While some suggest the House of Daggers operate under society’s nose, there are those who posit that their contracts and resources come from the outer planes through bargains made with beings of magnificent influence. 
 
