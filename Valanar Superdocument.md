@@ -261,9 +261,13 @@ Valanar is home to six continents and dozens of small island nations. In the far
 The largest and most temperate continent in Valanar, home to the ‘Black Empire’ of Draymond and previously the seat of the old Doyverd Kingdom, which the vast majority of human civilisations can trace their roots back to.
 ### Draymond
 ##### Population and Demographics 
-Draymond is the largest and most diverse cultural centre on Dol’Calandria, often referred to as the "melting pot" of Valanar. The population is primarily Human, with a significant number of Elves who migrated during various historical periods, particularly after the Serende'hel Reformation. The union of these two races gave rise to a notable population of Half-Elves, many of whom occupy significant roles in the empire’s political, academic, and military spheres. Other races, such as the Dwarrow and the Glimmerhin, are also present, though fewer in number. These higher races are not only accepted but often welcomed for their unique contributions to the empire’s complex society.
+Draymond is the largest and most diverse cultural centre on Dol’Calandria, often referred to as the "melting pot" of Valanar. The population is primarily Human, with a significant number of Elves who migrated during various historical periods, particularly after the Serende'hel Reformation. The union of these two races gave rise to a notable population of Half-Elves, many of whom occupy significant roles in the empire’s political, academic, and military spheres. Other races, such as the Dwarrow and the Glimmerhin, are also present, though fewer in number; living primarily in merchant enclaves and guild strongholds, particularly in industrial zones and mining regions near the western border. While not a dominant political force, they are economically critical to Draymond’s infrastructure, supplying everything from arms to engineering expertise.
+
+In the south and along the eastern marches, there are sizeable populations of Half-Orcs and Orkryn, many of whom are the descendants of imperial auxiliaries or labourers brought over from Nydessa. 
+
+The ecology of Draymond is likewise diverse. 
 ##### History and Founding
-**Kingdom of Doyverd**
+###### Kingdom of Doyverd
 Founded by Human settlers before recorded time, Draymond’s origins as a kingdom go as far back as the first men; although records are limited, evidence within the Illuminator Archives suggests a primitive nation known as Doyverd was the first civilisation to call the continent home, spreading out from what is now the country of Draymond into the rest of the continent, essentially forming the first Empire of Man. Doyverd's rise to power began with its formidable warriors and advanced agriculture, allowing the fledgling kingdom to spread across what is now Draymond and into surrounding territories. These early settlers worshipped a pantheon of Titans and Old Gods, whose influence still lingers in Draymondian culture, though much of it has been overtaken by the more modern worship of the High Pantheon.
 
 By 2000BR, Doyverd was a vast empire that sought to dominate the northern reaches of Dol’Calandria, coming into conflict with Old Vitgaard, a fiercely independent kingdom that refused to submit to imperial rule. The conflict between Doyverd and Vitgaard would last for nearly two centuries, culminating in the War of the Long Winter.
@@ -272,7 +276,7 @@ Doyverd collapsed sometime around 1800BR following the almost two centuries of w
 
 Despite the collapse of the central authority within Draymond (or perhaps because of it), the country prospered under a deliberate shift in focus toward domestic development, which they achieved in a few key ways: by allowing local rulers to govern their own regions with relative autonomy, Draymond’s central leadership was able to placate rival factions that might have otherwise been inclined to rebel. The system of regional rule kept power decentralised enough to avoid revolt, while still ensuring that the overarching authority of the throne remained intact. In addition to military diplomacy, Draymond struck trade deals with nearby kingdoms and fiefdoms, ensuring the flow of resources into its cities and reinforcing its status as a prosperous and influential nation. This economic interdependence helped prevent hostile actions from neighbours, as they relied on Draymond for vital goods and infrastructure.
 
-**Annexation of Skaldava**
+###### Annexation of Skaldava
 Around 1600BR, the leaders of Skaldava, a harsh and impoverished region east of Draymond, found themselves in desperate need of resources. Isolated and economically deprived, they saw an opportunity in attacking one of Draymond's smaller border cities. Believing that Draymond, in its period of internal consolidation, would be too distracted or weakened to retaliate, they launched a months-long siege on the city, hoping to capture its resources and gain a foothold in the more prosperous western regions.
 
 However, Skaldava underestimated both the cunning and resilience of Draymond’s leadership; instead of sending troops to break the siege, Draymond's Black Lords chose a more ruthless and strategic response—economic isolation. Much of Skaldava’s survival depended on caravans and merchants passing through its lands to deliver essential goods and supplies, and with this in mind, Draymond issued a trade embargo on Skaldava, preventing any goods from reaching the region. The flow of food, weapons, and other supplies that Skaldava relied upon ceased entirely, leaving the nation to wither under its own isolation. 
@@ -305,6 +309,8 @@ Access to these bathhouses is, on average, very affordable. Some bathhouses are 
 ##### Geography and Landmarks 
 A mostly temperate climate, Draymond is flanked by two mountain ranges with verdant forests toward the northern border of Florence and sparse stretches of hills and plains in the south. Most of the cities and larger settlements are located in the warmer and more fertile northern regions, though there are many older settlements in the south which have been built upon over the centuries. 
 ##### Settlements & Structures
+
+
 Illuminator HQ
 Secretive meetings are often held here as ambassadors from every walk of life are treated with neutrality. Within the walls of the Illuminator’s vast fortress of knowledge and magic, one can find themselves lost amidst a sea of ancient texts, artefacts, and long kept secrets. It is here that the Grand Illuminators are honoured with statues depicting their visage, lining the courtyards of the meticulously kept gardens at the front of the castle, where all different kinds of plants, flowers and herbs are cultivated.
 
@@ -327,17 +333,21 @@ Nassau is principally populated by Humans and Ende'hel.
 Prior to its founding, Nassau was principally inhabited by 
 
 Nassau was founded around 500BR by Francis the Black, it is widely considered to be the birthplace of modern theology and its construction was ordered as a place for the papacy and the clergy of every known deity to congregate and study Pantheonism; the polytheistic belief that all Gods exist in tandem and perfect with harmony with one another as arbiters of balancing the universe. Francis himself was possessed of an enlightened perspective on the Gods and helped to shape early religious views, even before the Serende'hel Reformation. Much of the debate that happened during these early days were inconclusive and were fuelled with speculations about the validity and influence of various religious practices and cultures.
-
 ##### Economy and Currency
 Thousands make pilgrimage to the Holy City each year, contributing massively to the country's growth and economic stability. The City is host to numerous religious festivals and 
 ##### Culture and Society 
-Prior to its annexation into the Draymond Empire, Nassau was a 
+Even prior to its annexation into the Draymond Empire, Nassau was always regarded as the centre of modern religion. 
 
-Despite its connection and proximity to Draymond, Nassau is among the few countries to have maintained a stance of neutrality for as long as it has been around. This has many societal implications. 
+Despite its connection and proximity to Draymond, Nassau is among the few countries to have maintained a stance of neutrality for as long as it has been around. This has had many societal implications. 
 ##### Geography and Landmarks 
-The most history landmark outside of the Holy City and perhaps one of the most famous 
+The most history landmark outside of the Holy City and perhaps one of the most famous landmarks in the world 
+
+Titan Rock
 ##### Settlements & Structures
-Text here.
+The Holy City itself is naturally the largest settlement in the country, accounting for the vast majority of the population and receiving significant expansion and development as the centuries progress. 
+
+While under the protection of Draymond, the city has never known to have been besieged or attacked by a foreign army. 
+
 ##### Military and Naval Power 
 Thousands of Paladins and Clerics reside locally within the City itself
 
@@ -348,19 +358,33 @@ Once inducted, Veiled Paladins serve in various roles within Nassau’s hierarch
 ---
 ### Skaldava
 ##### Population and Demographics
-As could be expected of the Black Empire's principal vassal state, Skaldava is .
+As could be expected of the Black Empire's principal vassal state, Skaldava is principally composed of Humans and Ende'hel. 
 ##### History and Founding
-For almost a millennia, the nation of Skaldava was divided by warring constituencies 
-##### Economy and Currency
-Text here.
-##### Culture and Society 
-Text here.
-##### Geography and Landmarks 
-Text here.
-##### Settlements & Structures
-Text here.
-##### Military and Naval Power 
+For almost a millennia, the nation of Skaldava was divided by warring tribes of Giants. They were all driven off by Human settlers in the Age of Mist, who effectively replaced them, even going so far as to occupy their abandoned campsites and hovels, and eventually warring for them also. 
 
+Throughout the Age of Mist, the Skaldavan people were 
+##### Economy and Currency
+Though not a particularly affluent country, the economy of Skaldava has always been tied to its land; agriculture dominates, with barley, oats, and rye being the primary crops. These grains, hardy enough to withstand the region’s harsh climate, are supplemented by root vegetables and the grazing of livestock. Sheep farming is particularly prominent, with Skaldavan wool valued for its warmth and durability, and the rough terrain and wet climate also made cattle and pigs staples of local farming, providing meat and leather for trade.
+
+Much of Skaldava’s wealth is siphoned off by Draymond as part of its vassalage, but local markets still thrive in rural areas, often operating on barter systems or using the old Skaat coinage. Forestry and peat harvesting, while secondary industries, are equally vital; the woodlands supply timber for construction and fuel, while the marshes yield peat, fish and reeds for thatching. These resources, though modest, have sustained the kingdom through many centuries of famine and war. 
+
+Trade has historically been limited to neighbouring regions, with surplus grain, wool, and dried fish being the primary exports. The rivers play a key role in internal trade, allowing goods to be transported from rural villages to larger towns and beyond.
+##### Culture and Society 
+Skaldavan culture is deeply rooted in the land. For centuries, the people have lived in close harmony with the rhythms of the seasons, their lives shaped by the demands of the fields and the unforgiving winters.
+##### Geography and Landmarks 
+Skaldava is a land of damp summers and harsh winters, defined by its rolling plains, fertile river valleys, and rugged highlands. The Bryndal and Velun Rivers serve as the lifeblood of the region, their waters sustaining crops and connecting settlements. Between them lies the heartland of Skaldava, a vast expanse of farmland dotted with villages and keeps.
+
+The mountain range known as the White Wall has long divided the lands of Skaldava and Draymond to the west. Subterranean passageways and overland roads were built through the mountains to facilitate the travel during winter, which is often very harsh in Skaldava and would otherwise render the natural pathways impassable. These were, of course, built at Imperial decree, and on Skaldava's dime. 
+##### Settlements & Structures
+Arkemund Keep, the nation's most famed 
+
+Velunford, located at the junction of the Bryndal and Velun Rivers, serves as a vital trade hub and a waypoint for goods traveling downstream. Its residents, known for their resourcefulness, build sturdy boats and repair tools for farmers and traders.
+
+The countryside is dotted with hamlets and farmsteads, many fortified with simple palisades or earthworks.
+##### Military and Naval Power 
+Born from the ruins of the Doyverd Empire, it rose as a unified kingdom under the Velun Kings. For centuries, it prospered, its fertile lands supporting a growing population and its natural defenses deterring invaders. However, this prosperity also bred ambition, culminating in its ill-fated attempt to expand into Draymond’s territory—a campaign that ended in its subjugation.
+
+Skaldava has always been a key player in the Black Empire’s military expansions; its people, accustomed to hardship and skilled in the use of the axe and bow, became the backbone of Draymond’s armies during the conquests of Einartoft and Nydessa. Skaldavan soldiers earned a reputation for their endurance and tenacity, though this came at a great cost to their homeland as entire generations were lost to war, leaving villages depopulated and fields underattended for decades. 
 
 ---
 ### Florence
@@ -415,11 +439,12 @@ The Morovian Highlands are teeming with wild game and
 
 ---
 ### Blythe Coast
-The Blythe Coast was founded as part of the Kingdom of Greater Witzia, but following a brutal civil war known as the Witzian Civil War, it split into the independent regions of Lesser Witzia (Morovia) and the Blythe Coast. Renowned for its seafaring culture 
 ##### Population and Demographics 
-The Blythe Coast is a relatively small nation principally composed of Human settlements and predominantly inhabited by mixed populations of Elves and Dwarrow. 
-##### History and Founding
+The Blythe Coast is a relatively small nation principally composed of Human settlements and predominantly inhabited by mixed populations of Elves and Dwarrow. Though its population is modest compared to other imperial nations, its cultural density is high. 
 
+In the shallow shoals and tidepools are glasscrabs—translucent crustaceans with venomous barbs and an uncanny ability to camouflage—harvested cautiously for their alchemical value.
+##### History and Founding
+The Blythe Coast was founded as part of the Kingdom of Greater Witzia, but following a brutal civil war known as the Witzian Civil War, it split into the independent regions of Lesser Witzia (Morovia) and the Blythe Coast. Renowned for its seafaring culture 
 
 **Witzian Civil War**
 In 330BR, 
@@ -531,6 +556,8 @@ The Royal College of Venizia was established by its first King after the dissolu
 ##### Military and Naval Power 
 Venizia keeps a well paid and well trained standing army to act as both their central judicial authority as well as law enforcement. 
 
+
+
 ---
 ### Nauska
 ##### Population and Demographics 
@@ -555,17 +582,13 @@ Markets are strictly regulated by the Shogunate and therefore free trade of vari
 
 Nauska has one port town which is used for trade with Brutayne and merchants from Drak’Thill known as Nayakami Bay. Foreign trade is 
 ##### Culture and Society 
-The Kanin live relatively frugal lives and their culture of shared pragmatism and duty has kept Nauska unified throughout times of strife. Nauska is divided by fiefdoms which are governed by clans of samurai. The social disparity between a commoner and a member of the samurai class is more pronounced than the relationship between knight and peasant; the role of a samurai extends to law enforcement as well as martial duties. 
+The Kanin live relatively frugal lives and their culture of shared pragmatism and duty has kept Nauska unified throughout times of strife. Nauska is divided by fiefdoms which are governed by clans of samurai. The social disparity between a commoner and a member of the samurai class is more pronounced than the relationship between knight and peasant; the role of a samurai extends to law enforcement as well as martial duties; they serve as magistrates, tax collectors, and arbiters of justice. The social divide between commoner and samurai is absolute; even in death, their graves are segregated. Samurai are expected to live by the _Okaisha_, a doctrine of discipline, restraint, and loyalty, though in practice, political necessity often takes precedence over idealism.
 
-The Lady of Wolves has many devout followers and shrines dedicated to her throughout Nauska. Hunting, farming and agriculture are big parts of Kanin life as they live on simple diets but eat quite a lot due to their physicality. 
+Nauska’s leadership is likewise characterised by its pragmatic approach to governance, they are unyieldingly fair in their administration yet uncompromising in their enforcement of the law; a kind of authoritarianism which has maintained a strict control on cultural and intellectual fronts, with little room for dissent or deviation from the established order. Orthodoxy, whether in faith or form, is the expectation.
 
-The feudal lords of Nauska employ a stern, iron-fisted approach to law and order with a deep commitment to justice and equity. While they champion the arts and intellectual pursuits, their governance is underpinned by a strong, centralised authority that does not hesitate to enforce its will to maintain stability and control. Their rule is dictatorial when necessary, especially in matters of security and law enforcement, ensuring that their directives are executed without fail.  
+Daily life is steeped in ritual. Even the mundane is formalised: there are prescribed methods for pouring drink, sitting in company, addressing superiors, and walking through gates. Breaches in etiquette can have real social consequences, especially in courtly or military settings. For example, shirozu, which is a form of rice wine fermented in ceramic kilns and aged beneath the earth, is commonly enjoyed across all castes, but even its consumption is heavily codified; when shared, it must be poured by another, never by oneself, to pour for oneself implies arrogance or solitude—both socially suspect.
 
-The Kanin have established a distinct societal structure where the Samurai class enjoys privileges and responsibilities far removed from those of the common Kanin. Samurai serve not only as military and administrative officers but also as arbiters of the Shogunate’s laws and enforcers of its will. They are educated in the Hanari academies, where they learn the arts of governance, diplomacy, and military strategy, in stark contrast to the commoners who are more often engaged in agriculture, craftsmanship, and trade. 
-
-The main cornerstone of life as a Samurai is the Okaisha, a doctrine written by the famous warrior monk Rotahn the Enlightened, which emphasises honour in verbal and physical combat, loyalty to the clan, and personal discipline. However, the reality is often more pragmatic than idealistic; many Samurai bend the rules to serve their own interests or the shifting needs of their clan, and while there are those who genuinely seek to live by the code, the pressures of warfare, politics, and internal clan strife make such purity rare. In truth, the Okaisha serves more as an aspirational guideline than a rigid set of rules; the Samurai are frequently faced with situations where strict adherence to the code would be impractical or even disastrous for their survival. Deception, strategic dishonesty, and opportunistic behaviour are not unheard of, especially in the complex web of inter-clan politics. 
-
-Nauska’s leadership is likewise characterised by its pragmatic approach to governance, they are unyieldingly fair in their administration yet uncompromising in their enforcement of the law; a kind of authoritarianism which has maintained a strict control on cultural and intellectual fronts, with little room for dissent or deviation from the established order.
+The Lady of Wolves, Goddess of The Hunt, holds a special place in the Kanin spiritual imagination. Her shrines, often built near roads or in wooded glades, serve as quiet gathering points for offerings of grain, pelts and bone, as well as shirozu. Hunting, fishing, and dry-field farming form the backbone of Kanin subsistence; though their diet is plain, they consume in volume, owing to their lean, fast-burning physiques.
 
 Perhaps as a consequence of their lithe physicality, Nauskan art is often considered extremely esoteric and is sought after by collectors and art patrons the world over. 
 
@@ -586,24 +609,39 @@ Due to the mountainous terrain, most Kanin settlements are sprinkled throughout 
 
 The villages closer to the borders ar inhabited by a higher percentage of Humans and act as proxies for trade with Vitgaard and Khard by extension. 
 ##### Military and Naval Power 
-Nauska does not have a standing army however each of the clans often have hundreds of samurai on retainer to act as their day to day peacekeeping force as well as levys conscripted by their feudal lord. 
+###### Samurai Clans
+Nauska does not have a standing army however each of the clans often have hundreds of samurai on retainer to act as their day to day peacekeeping force as well as levys conscripted by their Feudal Lord.
+
+The feudal lords of Nauska employ a stern, iron-fisted approach to law and order with a deep commitment to justice and equity. While they champion the arts and intellectual pursuits, their governance is underpinned by a strong, centralised authority that does not hesitate to enforce its will to maintain stability and control. Their rule is dictatorial when necessary, especially in matters of security and law enforcement, ensuring that their directives are executed without fail.  
+
+The Kanin have established a distinct societal structure where the Samurai class enjoys privileges and responsibilities far removed from those of the common Kanin. Samurai serve not only as military and administrative officers but also as arbiters of the Shogunate’s laws and enforcers of its will. They are educated in the Hanari academies, where they learn the arts of governance, diplomacy, and military strategy, in stark contrast to the commoners who are more often engaged in agriculture, craftsmanship, and trade. 
+
+The main cornerstone of life as a Samurai is the Okaisha, a doctrine written by the famous warrior monk Rotahn the Enlightened, which emphasises honour in verbal and physical combat, loyalty to the clan, and personal discipline. However, the reality is often more pragmatic than idealistic; many Samurai bend the rules to serve their own interests or the shifting needs of their clan, and while there are those who genuinely seek to live by the code, the pressures of warfare, politics, and internal clan strife make such purity rare. In truth, the Okaisha serves more as an aspirational guideline than a rigid set of rules; the Samurai are frequently faced with situations where strict adherence to the code would be impractical or even disastrous for their survival. Deception, strategic dishonesty, and opportunistic behaviour are not unheard of, especially in the complex web of inter-clan politics. 
 
 The Kanin have a deeply intimate understanding of space and distance and this enables them to use the mountainous terrain of Nauska to their ultimate advantage, making it virtually impossible for foreign invaders to adapt; their preference for hit and run style ambushes works against any type of infantry, even other Kanin. 
 
-Commoners are permitted ownership and open carry of swords as long as they are hiltless as well as being both worn on the back and concealed within a cloth bag in order to increase their draw time - fractions of seconds that could spell the difference between life and death. This policy was enacted by the Hanari Shogunate as both a means to militarise the populace as well as reduce the rates of impulsive violence - especially between commoners and the samurai themselves. 
+Commoners are permitted ownership and open carry of swords as long as they are hiltless as well as being both worn on the back and concealed within a cloth bag in order to increase their draw time - fractions of seconds that could spell the difference between life and death. This policy was enacted by the Hanari Shogunate as both a means to militarise the populace as well as reduce the rates of impulsive violence - especially between commoners and the samurai themselves - and has has impacted Kanin society impermeably; 
 
 The Kanin have an extremely small naval force, with only one operational port out of Nayakami Bay. 
 
 ---
 ### Terracotta Landmass
 ##### Population and Demographics 
-Hundreds of species of animals, beasts and insects intermingle in the ecosystem of the Landmass, with Humans and other Higher Races inhabiting small coastal cities. 
+Hundreds of species of animals, beasts and insects intermingle in the humid and layered ecosystem of the Landmass, with Humans and other Higher Races inhabiting small coastal cities. Unlike the structured empires of Dol-Calandria or the warlike federations of the North, the Terracotta region remains stubbornly unconquered, populated by a scattering of coastal city states, independent jungle enclaves and hidden settlements; civilised population is loosely divided between coastal traders, jungle-dwelling clans, and river people who live along the vast arterial deltas that cut through the heart of the landmass.
+
+Enormous canopy-dwelling gorvians, six-limbed arboreal hunters with chitinous skin and phosphorescent eyes, reign over the upper treetops. Below them, in the mud-slick undergrowth, slink the ghem-brutes, slow-moving predators covered in bone plates and trailing toxic fungi from their backs. Bloodvine constrictors lie in wait for weeks on branch or root, capable of dislocating their own spines to mimic the twist of bark.
 ##### Economy and Currency
-The civilisations that do exist in the Landmass are primarily feudal and depend on local barter and foreign trade with Drak'Thill and Tohren Isle to sustain themselves. 
+The civilisations that do exist in the Landmass are primarily feudal and depend on local barter and foreign trade with Drak'Thill and Tohren Isle to sustain themselves; the coastal Free Cities in particular thrive as crossroads of international trade, piracy,
+
+The Landmass is rich in rare resources: alchemical reagents, exotic fauna, medicinal flora, dyes and narcotics; foreign merchants, particularly from Draymond, Tohren Isle, and Drak'Thill, pay handsomely for the privilege of trade. 
+
+
 ##### Culture and Society 
 Text here.
 ##### Geography and Landmarks 
 The Terracotta Landmass encompasses thousands of miles of swamp, jungle and rainforests. There are very few settlements or cities to speak of. 
+
+There are a plethora of great geysers 
 ##### Settlements & Structures
 Text here.
 ##### Military and Naval Power 
@@ -641,13 +679,13 @@ The currency of the Elven Isle is the Endelian Denar, which is a gold plated coi
 
 While the isle itself is plenty rich in beauty, it isn’t known for having any particularly rare natural resources save for perhaps jadestone and a particularly fragrant halite which is collected from coastal estuaries. 
 ##### Culture and Society 
-One need only take a cursory look at Ende’hel society to see a trend toward a more meritocratic society than any other race, similar to their Enadriel cousins; their pragmatic and 
+One need only take a cursory look at Ende’hel society to see a trend toward a more meritocratic society than any other race, similar to their Enadriel cousins; their pragmatic and egalitarian approach to governance has formed a 
 
 The average diet of an Elven commoner consists of fish, rice and a handful of native vegetables. 
 ##### Geography and Landmarks
 Despite the island’s relatively small surface area, there are two mountains to the north and south of the country which are regarded as sacred landmarks; Mt. Astrid and Mt. Kalan, the latter being a dormant volcano. Much of the fertile ground 
 
-There 
+While not as verdant as their ancestral homelands, the forests on the island are all full of 
 ##### Settlements & Structures
 
 ##### Military and Naval Power 
@@ -814,7 +852,7 @@ Khard is the ancestral homeland of the Dwarrow, encompassing almost half of the 
 
 Enadriel make up a quarter of the population. Historically, the Enadriel who first travelled to Khard seeking asylum disagreed with Nashandra and struck out on their own, finding a successful relationship with the Dwarrow of Eastern Rakia. 
 
-Khard is home to many species of chitinous creatures who resemble common insects (despite often being larger than most other creatures) who live in a delicate ecosystem with the Dwarrow. The carapaces and shells of these creatures are often valued highly for their many uses in construction and armour smithing. 
+Khard is home to many species of chitinous creatures who resemble common insects (despite often being larger than most other creatures) who live in a delicate ecosystem with the Dwarrow. The carapaces and shells of these creatures are often valued highly for their many uses in construction and armour smithing. Certain species are even bred or captured specifically for labour or as a food source.  
 ##### History and Founding
 Kard’Rhakthel (commonly abbreviated as ‘Khard’) was a Dwarven Kingdom which existed in the Age of Mists. While much of their history remains lost to the annals, it is well known that the continent was once a lush and verdant continent before the eruption of Mount Zephyra sometime around 500BR. 
 
@@ -833,7 +871,7 @@ The Dwarrow tend to be much more communal than other races, making Khard a very 
 
 Each of the Great Houses controlled different sections of Khard as established and agreed upon by the first Four Kings of Kard’Rhakthel, a pact that stood until the Khard Civil War in 220SR.  
 ##### Geography and Landmarks 
-The myriad of dangers and threats present in everyday life have forced every inhabitant of Khard to adapt in order to survive; the harsh climate, seismic activity and hostile wildlife all make Khard an impossible nation to control for any but its most ancient inhabitants. 
+Khard’s surface is a land of volcanic desolation, where life clings stubbornly to the ashen wastes, jagged obsidian ridges, and labyrinthine cavern mouths that mark the entrances to the undercities. Here, the air is thick with the scent of sulfur, and the ground trembles with the occasional distant groan of seismic unrest. It is an environment that has shaped not only its people but also the creatures that stalk its depths and wastes. The myriad of dangers and threats present in everyday life have forced every inhabitant of Khard to adapt in order to survive; the harsh climate, seismic activity and hostile wildlife all make Khard an impossible nation to control for any but its most ancient inhabitants. 
 
 Mount Zephyra is the largest volcano in the world and its eruption caused a dramatic and permanent change to Khard’s geography; the northernmost parts of Khard remain both barren and completely covered in ash which combine with the often inclement weather to create ash clouds and black tornados, making the region extremely dangerous for the uninitiated. 
 
@@ -852,7 +890,7 @@ Text here.
 ##### Economy and Currency
 Text here.
 ##### Culture and Society 
-Text here.
+If any society was carved out of the remains of the Malyrian Isles, they 
 ##### Geography and Landmarks 
 Text here.
 ##### Settlements & Structures
@@ -1032,10 +1070,10 @@ A very affluent town in one of the country's most picturesque locations. Some of
 
 
 **Clydesdale**
-A prominent town in the **Mire-Plains**, serving as a major agricultural and livestock center. The surrounding plains make it ideal for large-scale farming and horse breeding.
+Clydesdale is one of the larger towns of the Mire-Plains, known for its extensive farmland and livestock markets. The surrounding plains make it ideal for large-scale farming and horse breeding. Most of the town is spread out rather than concentrated, with farmsteads and hamlets dotting the surrounding fields.
 
 **Garigill**
-The largest town in the **Mire-Plains**, acting as a trade and administrative center. Its wealth comes from controlling trade between Clydesdale and Stormheim and its markets are among the busiest in the region.
+The largest town in the **Mire-Plains**, acting as a trade and administrative center. Its wealth comes from controlling trade between Clydesdale and Stormheim and its markets are among the busiest in the region. 
 
 **Mirstone**
 A small village, relatively unremarkable except for its proximity to key trade routes and Stormheim  at the fringes of the Mire-Plains, its name derived from the ever-present mist that lingers over the nearby bogs. The people here live simple, isolated lives, relying on subsistence farming, fishing, and peat harvesting.
@@ -1166,6 +1204,8 @@ The most powerful pirate captains often employ their own private forces, equippe
 
 ## The Elder Gods
 Little is known about the Elder Gods. They are the supposed creators of the Titans, and the cosmos as a whole, though little to no evidence of their existence exists or has ever been found. 
+
+The primary theory is that the Elder Gods were born out of the void's desire 
 ## The Titans
 The Titans are the scions of balance and life, created by the Elder Gods to bear the flame of creation. These nine beings are believed to have once walked the planes in mortal form, before conceiving the High Pantheon and ultimately departing from the physical world for good. Their respective Pillars of Creation are the only evidence humanity has of their existence. 
 ### Malkis
@@ -1575,6 +1615,8 @@ Prayer - “Merciful guide, shepherd of souls, I disturb you in only my darkest 
 [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
 ##### Teachings and Doctrines
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
+
+The cycle of recreation is divine feat; we must love eachother and respect eachother and never to destroy eachother. To do so is to service the machinations of the enemy. A meaningful death wrought by age or in the defence of values will be recompensed  
 #### Influence on Society
 ##### Mages and Scholars
 Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
@@ -1861,16 +1903,16 @@ Serpentine beings of magnificent size and 
 ---
 ## The Primordial Dragons
 
-The Sacrifice of the Immortals
+### The Sacrifice of the Immortals
 In a time before the fledgling races of Valanar took their first steps, the six Primordial Dragons, each of them gifted with unique traits by their God, Bælthatrax, were the first sentient beings to grace the material plane.
 
 Initially, the Primordial Dragons were created by the Gods to ensure that the boundaries between the planes were maintained; in the event that beings from other planes found their way to the prime material plane of Valanar, the Dragons would rise to meet them. As a result of their role as guardians of Valanar, they were granted an exceptional amount of power, and each of them were given a domain to protect. 
 
-These Primordials acted as immortal guardians, unafflicted by the course of time - as their battles raged on against the nightmarish creatures which spawned from the chaos of the abyssal planes (which had also been crafted by the Elder Gods), the Dragons knew that eventually, their strength would wain, and they would one day falter in their task just enough for chaos to corrupt the impeccable balance the material plane had been created with. With this in mind, they petitioned Bælthatrax with the ultimate sacrifice, the ability to procreate in exchange for their immortality; they knew that the only way to keep the barriers held would be to create stronger versions of themselves, children that could learn and grow with the passage of time, and spawn children of their own to increase their numbers. Thus, they became the first of the mortal Dragons.
+These Primordials acted as immortal guardians, unafflicted by the course of time - as their battles raged on against the nightmarish creatures which spawned ever more frequently from the encroaching chaos of the abyss, the Dragons knew that eventually their strength would wain and they would one day falter in their task just enough for chaos to corrupt the impeccable balance the material plane had been created with. Though immortal, the Primordials came to understand a grim truth: the passage of time did not erode them, but it did not strengthen them either. The horrors they faced evolved, while they remained unchanged. It was this understanding that led to their first and greatest sacrifice—they petitioned Bælthatrax to relinquish their immortality in exchange for the ability to reproduce. In giving up their eternal nature, they birthed the mortal bloodlines of Dragonkin, ensuring that their legacy could grow, adapt, and multiply across generations. 
 
 This, however, would not be the only sacrifice the Primordials made on behalf of their Gods. In a day long forgotten to time and history, the sun was blotted out from the sky by a hole so black that it mirrored the Abyss itself. As creatures of the outer planes began to crawl out from the heavens, the Primordial Dragons flew into the hole, sealing it behind them as they went, never to be seen again. All of the Dragons who witnessed this act of sacrifice are presumed to have perished, but some still remain, slumbering in some unknown deep chasm, with power and knowledge of things far more ancient than any other creature in the world. 
 
-This tale is passed on through Bælthatrax’s holy tomes, with the ‘Sacrifice of the Immortals’ being a favored story by some Priests.
+This tale is passed on through Bælthatrax’s holy tomes, with the ‘Sacrifice of the Immortals’ being a favoured story by some Priests.
 ##### Borrsundrutherxes, the Mantle of Dawn
 The first of the Primordials, he was entrusted with the power of light - his task, to illuminate all places where darkness falls and to flush out the corruption where its roots took hold. His golden scales were often seen glimmering across the skies during the day, unresting in his mission to quell all darkness. When stood on four legs his resting height reached roughly thirty (30) feet, and from head to tail he was roughly ninety (90) feet long.
 
@@ -1924,11 +1966,17 @@ Accepted live sacrifices by creating sand/worm holes
 ##### Zephyra’Kermes, the Many Tailed
 With her nine serpentine tails, Zerphyra’Kermes was known for her size as the second largest Primordial.
 
-Her primary responsibility was using her magnificently sized tails to fan the volcanoes 
+Her primary responsibility was using her magnificently sized tails to fan the volcanoes of Khard, hence the name of its largest peak; Mt. Zephyra. 
 
 ---
 ## The Archfiends
 Scholars and theologists of the Old Faith suggest that the Archfiends were created as the antithetical Titans. Different sources offer varying depictions of the Archfiends, spanning different continents, cultures and ages. Their origins are mostly entirely unknowable, much like the Gods and the Titans before them; despite this, throughout time and history, their presence has been just as much of a constant. Likewise, little is known about how one communes with these beings.
+
+The Archfiends are typically personified as archetypal beings who embody different aspects of the human condition, however all things are best-guesses when it comes to these beings. One thing is absolutely certain: there are forces at work in the hearts and minds of all men, and long have we tried to find something to blame for our own hubris and evil. 
+
+Several contemporary accounts have been collected and studied over the years which have lead us to believe these Archfiends occupy an almost deific status in the lives of anyone who seeks their audience; some suggest to even know of the Archfiends is to be enslaved to the knowledge of their existence. 
+
+It is theorised that the reason the High Pantheon decided to transcend into the Astral Ocean was to betray the Archfiends and to better steer the hearts of men rather than protect them from the dangers they would come to face, as Kane had chosen to do. If the High Pantheon had not given man the freedom to choose, the Archfiends would have occupied the Astral Ocean entirely, thus enslaving all of humanity to wickedness and evil. 
 
 ##### Jhoss Agathon Ab’uul
 Nicknames - Agathon, The Black Judge, The Tyrant
@@ -2004,14 +2052,23 @@ Humans are found in almost every corner of Valanar, their adaptability allowing 
 ---
 ### Dwarrow
 ##### Physical Traits
-The Dwarrow are short, stocky humanoids, typically standing between 4 to 5 feet tall, with dense, muscular builds that make them appear broader than most other races. Their skin tones range from earthen hues of deep bronze to ash grey. Dwarrow possess remarkable physical endurance—their compact bodies are well-suited to harsh environments, allowing them to withstand extreme conditions better than other races. 
+The **Dwarrow** are a stocky, broad-built people, standing between 4’5” and 5’2” on average. Their dense bone structure and compact musculature give them a natural resilience, making them significantly heavier than their height suggests. Their bodies are well-adapted to physical labour and combat, capable of enduring harsh conditions for extended periods without fatigue. Their hair is thick and grows quickly, commonly seen in deep browns, reds, and blacks, though silver and platinum hues appear with age. Beards are a defining trait, with both men and women capable of growing them, and many take great pride in elaborate braiding or grooming rituals.
+
+Their skin tones range from earthen hues of deep bronze to ash grey. Dwarrow possess remarkable physical endurance—their compact bodies are well-suited to harsh environments, allowing them to withstand extreme conditions better than other races. 
+
+Their eyes are smaller than a human’s but incredibly sharp, adapted to see clearly in dim light. A secondary reflective layer behind the retina enhances their ability to navigate tunnels and caverns, though bright sunlight can be mildly uncomfortable without protective eyewear. Their ears are slightly rounded and pressed close to the skull, offering some protection against debris and environmental hazards common in underground living.
+
+Dwarrow voices tend to be deep and resonant, carrying well even in noisy or enclosed spaces. Their language is built on hard consonants and guttural tones, making it one of the hardest languages to learn for non-native speakers. 
+
+A Dwarrow’s lifespan far exceeds that of humans, with most living well past 300 years. They age gradually, maintaining their strength and skill for centuries before the effects of time begin to slow them.
 ##### Heritage & History
-The Dwarrow are a stout, conscientious race of humanoids who originated from Nazkuga prior to its devastation. 
+The Dwarrow are a conscientious race who originated from Nazkuga prior to its devastation. 
 ##### Society
 While it’s true that most cultures revere their elderly, the Dwarrow take patronage and ancestral pride very seriously, venerating their oldest and most experienced warriors and scholars and respecting the traditions of family and duty. 
 
 While Dwarrow are known for their fierce tempers, they tend to avoid open violence between one another. Disputes within a community are resolved through the practice of the Grudge Drink, a ritual where feuding parties come together to drink and speak their grievances, with the last man at the table being declared the ultimate winner of the dispute if no consensus is reached; failing that, a more physical solution known as the Pug, is employed—an organised fistfight overseen by elders in which neither of the aggrieved fighters are allowed to rest until either of them are victorious. These practices prevent grudges from festering into something more dangerous while maintaining a sense of honour and brotherhood within the clan. 
 ##### Geography
+
 
 ---
 ### Kanin
@@ -2031,6 +2088,7 @@ The first major unification of the Kanin came with the Sadao Shogunate, led by t
 
 After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate too fell victim to internal strife; in one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup.
 ##### Society
+
 At the heart of Kanin life is the clan, a family unit extended across generations, with each clan ruling over a specific territory in Nauska. The clan is the ultimate source of identity and protection for its members, and the concept of individualism is largely absent; one’s actions reflect upon the entire clan. Clan loyalty is paramount, and betraying one's clan is one of the greatest shames a Kanin can endure.
 
 Each clan is organised under a strict hierarchy, with clear divisions of roles and responsibilities.The Samurai are the protectors of the clan and enforcers of its laws, and unlike most other societies where warriors might act purely as soldiers, Kanin Samurai also serve as administrators and judges, responsible for the internal order of the clan. 
@@ -2044,9 +2102,11 @@ Despite the hierarchical nature of their society, the Kanin maintain a strong se
 ### Glimmerhin
 
 ##### Physical Traits
-Naturally intelligent/instinctually curious. Lithe, small and flexible bodies. They depend massively on logic. Socially awkward except with eachother, their brains work faster and find communication with other races frustrating - they can be seen as neurotic or having difficulty with expressing or processing empathy or emotion, but this is a falsehood. Rarely exceed three feet tall. 
+The Glimmerhin are a diminutive race, rarely exceeding three feet in height, with lithe, flexible bodies built for precision rather than strength. Their defining traits are their exceptional intelligence and instinctual curiosity, both of which drive them toward an almost obsessive pursuit of knowledge. Their sharp, angular facial features and quick, darting eyes betray the sheer speed at which their minds operate, making them seem restless or impatient when interacting with other races. Their hair, which is coarse yet light in weight, grows in thick, chaotic tufts and tends to gray early, often before their fourth decade. Despite this, Glimmerhin do not experience significant age-related baldness, maintaining a full head of hair well into old age.
 
+Their most distinguishing feature is their eyes, which are disproportionately large in relation to their skull size. These eyes possess highly developed irises, which can range from shades of steel gray to bright gold, with some rare instances of violet pigmentation. Their speech patterns and body language often appear erratic or hurried due to a natural predisposition for rapid cognitive processing.
 ##### Heritage & History
+The Glimmerhin once occupied much of the Southern parts of Dol'Calandria before being chased out by the many Human clans who came to the land following the collapse of the Doyverd Empire. While this might have happened thousands of years ago, some cultural boundaries still remain, especially between the Glimmerhin and Humans; despite this, the nations of Jarred and Einartoft have been political and military allies for many years.  
 
 ##### Society
 While many societies function on hierarchy or bloodlines, Glimmerhin respect only results; the brightest minds rise fast, while those who fail to contribute fade into obscurity. Their cities hum with constant activity—labs, workshops, and factories never sleep, and neither do some Glimmerhin, thanks to alchemically enhanced stimulants. 
@@ -2262,6 +2322,111 @@ The rank given to the acting leader of the Illuminators; whoever this mantle fal
 
 ## Bestiary
 
+TO DO:
+
+Star Spawn
+
+Ancient/Primaeval Vampyre
+The curse of Vampyrism originates from the blood of Kane, the Morrowsean progenitor of Mankind. 
+
+Vampyre Lord
+Vampyre Spawn
+
+Beasts
+Thundebeast
+A very large and heavy reptilian beast who inhabit the lower crags of the Thanem’s mountain ranges. 
+
+Deep Whales
+Growing to almost two hundred feet in length, these enormous leviathans most often reside at the deepest ocean floor they can find; few ever see them in person save for the brief periods of time they surface for air, which is estimated to be once or twice a day. 
+
+They are most commonly seen during their mating season, which is once every six years; during this period, they are known to migrate to the Summer Sea, coming closer to the coastlines than they usually would in search of natural heat sources.  
+
+Their oil is valuable for a multitude of reasons, making them highly sought after by whalers and fishermen. Uses for the oil range from magical to mundane.
+
+Observations by whalers and mariners indicate that these whales are more intelligent than they appear, seeming to hold a high rank in the oceanic hierarchy; schools of fish are often seen swimming amongst them cleaning the plankton from their skin. Their behaviour suggests a deep understanding of the oceanic environment, and they are known to communicate with each other through a complex series of low-frequency songs that can travel for miles through the water. Many commonly believe this to be a primitive form of the Hado due to the psionic echoes detected in the deepwhale’s presence. 
+
+Some cultures such as the Tohren Islanders consider them sacred. 
+
+Valkyn
+Standing taller than a horse with a wingspan that stretches over twenty feet, the Valkyn’s body is covered in sleek, dark feathers that shift from deep midnight blue to black, giving it an almost spectral appearance in low light. The creature’s hindquarters resemble those of a powerful panther, with muscular legs ending in sharp, retractable claws. The Valkyn is a solitary predator, fiercely territorial and highly intelligent; it preys primarily on horses and other large livestock, swooping down from the sky to snatch its prey with deadly precision, and its hunting tactics are terrifyingly efficient; often targeting farms and pastures under the cover of night or during storms, using its dark plumage to blend into the night sky. They are known for their eerie, bone-chilling screech when diving toward their prey, which paralyses their target with fear. 
+
+Valkyn are typically found in mountainous regions or dense forests, where they can build their nests in high, inaccessible locations. Their nests are enormous structures, made of large branches and bones from previous kills and usually constructed along cliffsides. Though they prefer isolated regions, Valkyn have been known to migrate to farmlands and open plains during the colder months when food in their natural habitats becomes scarce.
+
+  
+
+Noblin
+
+A small reptile which delights in eating bugs and scavenging carrion. These creatures can be very fast and have very sharp claws, but do not possess an aggressive attitude and much prefer to scavenge rather than hunt for themselves. Noblins are hydrophobic and their scales often collect grease and mould which due to their rotund body they are unable to clean for themselves. Their passive attitudes make them somewhat trainable, though they are often seen as pests by the higher races. 
+
+  
+
+Cat Breeds
+
+Cats have very special magical properties. Domesticated cats have observable levels of empathy, and can sense negative emotion as well as being able to pick up on usually imperceptible changes in psychic energy. Cats are naturally drawn to sources of natural magic and conversely are repelled by negative magic. They are thought to be able to detect ghosts and spirits as a consequence of their abilities.
+
+  
+
+Silkstalker 
+
+Domesticated long-hair breed, 
+
+  
+
+Cave Jaguar
+
+Large cats with sleek black fur who roam the Worldcaves in small packs. Exceptionally nimble with powerful claws, these blind feline beasts hunt along narrow corridors and are notorious ambushers, known to be able to follow scents that are days old, and prefer to stalk their prey from perfect darkness. 
+
+  
+
+Fiends
+
+Fiends are characterised as beings or creatures who have in some way been converted to Fiendhood via a number of different means; mostly through curses and pacts with other-planar entities. 
+
+  
+
+Naoma
+
+Succubus type creature, take the form of vulnerable women and leech on the good will of any who pay them mind. 
+
+  
+
+Karapath
+
+Able to consume any living creature with a single touch; these extremely deadly creatures are spawned from the world caves. The moment a victim comes into physical contact with a Karapath, their cells are immediately assimilated into the creature. They are vulnerable while in sunlight, seemingly unable to maintain their form for long periods while exposed to day. This only means they are easier to detect, however, as they are inhumanly strong with agile, amorphous limbs regardless of its environment. 
+
+  
+
+Lesser Fiends
+
+Lesser Fiends are mortals from one of the material planes who are believed to have ascended to power by entering into an accord with the Archfiends; this belief is predicated mostly on the assumption that the Archfiends work in similar ways to the Higher Pantheon Gods, being able to deliver messages and assert their will metaphysically through mortals.  
+
+  
+
+Greater Fiends
+
+Greater Fiends, on the other hand, are mindless abominations believed to have been created in the abyss before time began, who possess no psychic energy whatsoever and are simply manifestations of the Primordial Void’s will to destroy and consume the material plane. 
+
+  
+  
+
+Undead
+
+An undead creature is classified by its 
+
+  
+
+Malagaph
+
+A spectral entity who established a deep psychic bond with a certain location. While it is common for the ghosts of warriors to wander the battlefield on which they fell, Malagaphs establish a psychic domain in which they are able to exist after death. 
+
+  
+
+Rainman
+
+A wandering humanoid who wails and cries as rain constantly bombards him. No matter where he walks, the clouds and the torrents follow. Based on the wife's tale of the coming rain being a sign of a bad omen. Depending on the strength of the rainman’s grief, the viscosity of the rain changes to an oily black liquid.
+
+The **Vorrakin**, known colloquially as **"Stone Stalkers,"** are **six-limbed, fleshless entities** whose **translucent skin and hollow bones** make them near weightless, allowing them to **cling to cavern walls and ceilings** as they stalk the unwary. They do not attack with brute strength but instead **wait for their prey to become disoriented in the darkness**, using their **glow-organ lures** to confuse and lure travelers away from safe paths before **striking with needle-like fangs**. Their venom does not kill but instead induces **a paralysis-like trance**, allowing them to **devour their victims over several days**.
+
 
 ---
 
@@ -2333,6 +2498,7 @@ Glice
 A glass-like formation of ice by appearance but with a surface temperature of -20 degrees Celsius. It finds many uses in food preservation and cold storage as well as alchemy.  
 
 Atmaglas
+A conductive, translucent 
 
 Whale Oil
 
@@ -2561,24 +2727,25 @@ Habitat: 
 The most popular methodology for visualising the ordering of The Planes comes from Master Illuminator Dante O'Leary, a cosmologist who famously traversed the plane of 
 
 The ‘material’ plane is encompassed by waters which stretch on as far as the eye can see. In the Age of Ascension, it was possible for powerful navigator wizards to transpose their ships from one side of the plane to the other, though this art eventually became lost to time. 
+##### Valanar
+Otherwise known as the material plane. 
 ### Positive Energy Planes
 
 ##### The Positive Polaris 
 A tear in the fabric of reality, which enables not only the cycle of time but the coalescence of the three primary essences.
 ##### Luxtraplanum (Light Plane)
-A world which mirrors our own, with an emphasis on perfection and fulfilment.
-##### Aeternum
-An endless mountain, whose peak offers a way to communicate with the Gods directly - its caves hosting weary travellers.
+Though not impassable 
+
 ##### Praesidium (The Plane of Order)
 A Kingdom of pristine construction, chalky marble castles on white cliffs are home to agents of Order - Angels. Praesidium also links directly to the Astral Ocean.
-##### Valanar
-Otherwise known as the material plane. 
 ##### Limbo
-The seat of the positive Arbiter, souls that wash up here are to be judged.
+Otherwise known as 'the ethereal plane' by demensionalist. 
 ### Negative Energy Planes
 
 ##### Kaas
-Residing on the outermost layer of the negative polaris, Kaas is believed to be an uninhabitable plane where the beginning and the end of time collide. 
+Residing on the outermost layer of the negative Polaris, Kaas is believed to be an uninhabitable plane where the beginning and the end of time collide. 
+##### Purgatory
+As opposed to Limbo, Purgatory is the realm of the dead and the begrudged. Souls burdened with intense guilt or everlasting trauma are damned to remain in the interstice between life and death, suffering the ails of their past life endlessly until they are afforded a chance to right whatever wrongs were dealt to them in their lives. 
 
 
 ## The Astral Ocean
