@@ -56,7 +56,6 @@ Certain spells, traps and effects will impose a condition on your character, usu
 | **Chilled**              | Movement speed is halved. Dexterity-based rolls suffer Disadvantage. Lasts until warmth is restored.                                                                                                             |
 | **Crippled**             | A limb is disabled. If a leg is crippled, movement is reduced to 5 feet. If an arm is crippled, they have Major Disadvantage on attacks using that arm. Can be treated with medicine or magic.                   |
 | **Deafened**             | The character cannot hear, automatically fails sound-based Perception checks, and cannot cast spells requiring verbal components.                                                                                |
-| **Disarmed**             | The character drops their weapon or item. Picking it up requires a full action.                                                                                                                                  |
 | **Doomed**               | The character suffers Major Disadvantage on all rolls. If they do not receive immediate help, they die at the end of their next turn.                                                                            |
 | **Dazed**                | The character can’t take reactions and suffers Disadvantage on all rolls until the end of their next turn.                                                                                                       |
 | **Exhausted** _(Stacks)_ | 1st Tier: Disadvantage on physical skill checks.  <br>2nd Tier: Speed halved.  <br>3rd Tier: Major Disadvantage on all rolls.<br>4th Tier: The character falls unconscious.<br>5th Tier: Death.                  |
@@ -98,28 +97,28 @@ Each character acts in **initiative order** and can take the following on their 
 Additionally, you may **React** to certain events even when it is not your turn.
 ##### 1. Major Action
 A primary/major action is the **main thing** you do during your turn. This includes:
-- **Attacking** (Melee, Ranged, Spell, or Miracle)
-- **Casting a Spell/Miracle**
-- **Using an Item**
-- **Interacting with the Environment** (Pulling a lever, flipping a table)
-- **Shoving, Grappling, or Disarming an Opponent**
-- **Helping an Ally** (Stabilizing a downed teammate, aiding an action)
-- **Dashing** (Doubling your movement speed)
+- Attacking (Melee, Ranged, Spell, or Miracle)
+- Casting a Spell/Miracle
+- Using an Item
+- Interacting with the Environment (Pulling a lever, flipping a table)
+- Shoving, Grappling, or Disarming an Opponent
+- Helping an Ally (Stabilizing a downed teammate, aiding an action)
+- Dashing (Doubling your movement speed)
 ##### 2. Minor Action
 Secondary/minor actions are smaller, quick actions that support your main action. These include:
-- **Drawing or Switching Weapons**
-- **Reloading a Crossbow or Firearm**
-- **Drinking a Potion**
-- **Attempting a Minor Skill Check** (e.g., flicking a coin to distract a guard)
-- **Intimidating a Foe** (May require a Persuasion or Intimidation roll)
-- **Preparing an Action** (Holding an attack/spell until a condition is met)
+- Drawing or Switching Weapons
+- Reloading a Crossbow or Firearm
+- Drinking a Potion
+- Attempting a Minor Skill Check (e.g., flicking a coin to distract a guard)
+- Intimidating a Foe (May require a Persuasion or Intimidation roll)
+- Preparing an Action (Holding an attack/spell until a condition is met)
 Some feats may allow more powerful minor actions.
 ##### 3. Movement
 A character can move **a number of feet per round** based on **Dexterity**:
-- **Base Movement:** **25ft**
-- **+Dexterity Modifier (Max +3)** = **Max 35ft**
-- **Heavy Armor Restriction** – If wearing Heavy Armor, **Max 20ft movement**
-- **Dashing:** A character can double their movement for their turn.
+- Base Movement: 25ft
+- +Dexterity Modifier (Max +3) = Max 35ft
+- Heavy Armor Restriction – If wearing Heavy Armor, Max 20ft movement
+- Dashing: A character can double their movement for their turn.
 
 If using Mounted Movement, the mount's speed determines movement.
 ##### 4. Free Actions
@@ -132,7 +131,7 @@ Free actions don’t require a roll and can be done at any time on your turn. Ex
 
 # **Character Creation**
 Decide on your character’s general idea and role. This includes:
-- **Class/Role:** What is your character’s primary function?
+- **Class:** What is your character’s primary function?
 - **Background:** Who are they, and what’s their story?
 - **Goals and Personality:** Why are they adventuring? What motivates them?
 #### **Step 0: Race**
@@ -192,7 +191,7 @@ Their eyesight is significantly poorer than that of other races and as a result 
 Living in the labyrinthine depths of the Worldcaves has sharpened the Enadriel’s proprioception—their internal sense of balance, position, and spatial orientation. They have an acute awareness of their physical positioning, adjusting reflexively to any change in terrain or movement; this sensitivity allows them to move with confidence through the darkest, most precarious environments. Even with their limited eyesight, Enadriel can "feel" the presence of walls, ledges, or shifting ground through subtle changes in air pressure and vibrations underfoot, a kind of sensory intuition that allows them to navigate as if they could see. 
 ##### **Orkryn (Orcs)**
 - **Brutal Strength**: Add +1 to your STR (Max +6).
-- **Natural Resilience: Gain Advantage on Endurance rolls.
+- **Natural Resilience**: Gain Advantage on Endurance rolls.
 
 The **Orkryn** are often tall and physically imposing, standing between 6’5” and 7’5” on average. Their musculature is lean but incredibly dense, granting them immense strength without sacrificing agility. Their skeletal structure is reinforced with thicker bones, particularly around the shoulders and forearms, which lends itself well to combat and labor-intensive lifestyles. Small but prominent tusks protrude from their lower jaw, varying in size between individuals and sometimes sharpened or carved for aesthetic or cultural significance. Their bodies metabolize energy efficiently, allowing them to sustain themselves on less food than a human of similar size without significant loss of strength; this trait has contributed to their historical reputation as tireless warriors and laborers, capable of enduring long campaigns or harsh living conditions with minimal resources.
 
@@ -218,7 +217,7 @@ Due to the structure of their faces, the Kanin have a limited spoken vocabulary,
 
 While the Kanin share a similar lifespan to humans, typically living around seventy to eighty years, they reach maturity much faster. By the age of fourteen or fifteen, a Kanin is considered an adult, having undergone rigorous training in their chosen role within their clan.
 ##### **Glimmerhin (Gnomes)**
-- **Luck’s Favor**: Once per session, reroll any failed roll (does not stack with Lucky)
+- **Lucky Stars**: Once per session, reroll any failed roll (does not stack with the Lucky feat)
 - **Lateral Thinker**: Gain Advantage on Engineering or Tinkering rolls. 
 
 The Glimmerhin are a diminutive race, rarely exceeding three feet in height, with lithe, flexible bodies built for precision rather than strength. Their defining traits are their exceptional intelligence and instinctual curiosity, both of which drive them toward an almost obsessive pursuit of knowledge. Their sharp, angular facial features and quick, darting eyes betray the sheer speed at which their minds operate, making them seem restless or impatient when interacting with other races. Their hair, which is coarse yet light in weight, grows in thick, chaotic tufts and tends to gray early, often before their fourth decade. Despite this, Glimmerhin do not experience significant age-related baldness, maintaining a full head of hair well into old age.
@@ -251,7 +250,7 @@ These feats are available to **all characters**, regardless of class, and can be
 | ---------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | **Survivor**           | None                                 | *Gain Advantage on rolls to resist exhaustion, starvation, and environmental hazards.*                       |
 | **Tough as Nails**     | Strength +2 or Endurance Proficiency | *Gain +2 HP per level.*                                                                                      |
-| **Jack of All Trades** | None                                 | *Gain one additional skill proficiency of your choice.*                                                      |
+| **Jack of All Trades** | None                                 | *Gain two additional skill proficiencies of your choice.*                                                    |
 | **Shielded Mind**      | Intellect +2                         | *Gain Advantage on saves against charm, possession, or mental domination.*                                   |
 | **Fleet-Footed**       | Dexterity +2                         | *Your movement speed increases by 5 feet and you ignore difficult terrain when dashing.*                     |
 | **Silver Tongue**      | Charisma +2                          | *Gain Advantage on Deception and Persuasion checks.*                                                         |
@@ -290,16 +289,16 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 | **Feat Level** | **Feat Name**             | **Prerequisites**           | **Effect**                                                                                                                                                          |
 | -------------- | ------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**st        | **Powerful Strikes**      | None                        | *Add +2 to a damage roll once per turn.*                                                                                                                            |
-|                | **Iron Guard**            | None                        | *Add +1 to your TN when wearing Medium or Heavy armour.*                                                                                                            |
+|                | **Armour Mastery**        | None                        | *Add +1 to your TN when wearing Medium or Heavy armour.*                                                                                                            |
 |                | **Riposte**               | Dexterity +2                | *When an enemy misses you with a melee attack, make a counterattack as a reaction.*                                                                                 |
 |                | **Dual Weapon Training**  | Dexterity +2                | *Gain Advantage on your second attack when dual-wielding Light Weapons.*                                                                                            |
 |                | **Shield Expert**         | Shield Proficiency          | *Negate 1 damage from every attack when wielding a shield and gain Major Advantage on Strength checks to shove enemies.*                                            |
 |                | **Tactical Insight**      | None                        | *Once per round, grant an ally within 20ft Major Advantage on their next attack or saving throw.*                                                                   |
-|                | **Brutal Work**           | Strength +2 or Dexterity +2 | *Once per turn, reroll a damage die and use the higher result.*                                                                                                     |
+|                | **Brutal Attack**         | Strength +2 or Dexterity +2 | *Once per turn, reroll a damage die and use the higher result.*                                                                                                     |
 |                | **Overpower**             | Strength +2                 | *Knock a target Prone on a successful melee attack (TN 12 to resist).*                                                                                              |
-|                | **Defensive Reflexes**    | None                        | *Gain Advantage on Initiative Rolls and attacks of opportunity.*                                                                                                    |
+|                | **Defensive Reflex**      | None                        | *Gain Advantage on Initiative Rolls and attacks of opportunity.*                                                                                                    |
 |                | **Brawler**               | None                        | *Gain Major Advantage on unarmed strikes and grapples.*                                                                                                             |
-|                | **Dueling Mastery**       | Strength +2 or Dexterity +2 | *Add +2 to attack rolls when wielding a single weapon with no shield.*                                                                                              |
+|                | **One-Handed Fighter**    | Strength +2 or Dexterity +2 | *Add +2 to attack rolls when wielding a single weapon with no shield.*                                                                                              |
 |                | **Weapon Specialist**     | None                        | *Choose a weapon type: Slashing or Bludgeoning. Gain +1 to attack rolls and damage rolls when using that weapon.*                                                   |
 | **2**nd        | **Charge**                | Strength +2                 | *Once per encounter, move 10 feet and make an attack with Major Advantage. If you hit, deal +2D6 damage.*                                                           |
 |                | **Defensive Stance**      | None                        | *Use a reaction to add +2 to your TN until the start of your next turn.*                                                                                            |
@@ -346,9 +345,9 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |                | **Warlord’s Presence**    | Charisma +3                 | *Allies within 30 feet gain +1 to attack rolls and saving throws and an additional 10ft of movement speed while you are in combat.*                                 |
 |                | **Executioner**           | Strength +4                 | *When an enemy is at half HP or lower, your melee attacks gain Advantage.*                                                                                          |
 |                | **Indomitable Might**     | None                        | *When reduced to 0 HP, roll 2D6. If the result is 8 or higher, regain 1D6 + Fighter Level HP instead of falling unconscious.*                                       |
-|                | **Master of Arms**        | None                        | *Once per turn, you can change your weapon or stance without using an action. Gain Advantage on Disarm and Grapple checks.*                                         |
-|                | **Brutal Onslaught**      | Endless Onslaught           | *Instead of making an extra attack after killing a foe, you can move 15 feet and make two additional attacks.*                                                      |
-|                | **Titan Slayer**          | Strength +4                 | *Against all creatures at least one size larger than you, deal +1D6 extra damage and ignore 2 points of TN.*                                                        |
+|                | **Onslaught**             | Endless Onslaught           | *Instead of making an extra attack after killing a foe, you can move 15 feet and make two additional attacks.*                                                      |
+|                | **Titan Killer**          | Strength +4                 | *Against all creatures at least one size larger than you, deal +1D6 extra damage and ignore 2 points of TN.*                                                        |
+|                |                           |                             |                                                                                                                                                                     |
 
 ---
 #### **Mage**
@@ -364,67 +363,67 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 
 At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd**, **5th**, **7th** and **9th** level. 
 
-| **Feat Tier** | **Feat Name**            | **Prerequisites**           | **Effect**                                                                                                                             |
-| ------------- | ------------------------ | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**st       | **Arcane Focus**         | None                        | *Gain +1 to spell attack rolls when using an Arcane Focus.*                                                                              |
-|               | **Spell Savant**         | Intellect +2                | *Once per encounter, cast a Tier 1 spell without spending spell points.*                                                                 |
-|               | **Elemental Affinity**   | None                        | *Choose an element (fire, frost, lightning). Once per short rest, add +1D6 damage of that element to a spell.*                           |
-|               | **Runic Knowledge**      | Intellect +2                | *You can identify magical runes and glyphs without rolling.*                                                                             |
-|               | **Quick Cast**           | None                        | *Once per encounter, cast a spell as a bonus action.*                                                                                    |
-|               | **Mana Tap**             | None                        | *Once per encounter, regain 2 spell points after landing a successful spell attack.*                                                     |
-|               | **Arcane Reservoir**     | None                        | *Gain +3 spell points once per long rest.*                                                                                               |
-|               | **Eldritch Insight**     | None                        | *Gain Advantage on Arcana checks to identify spells and magical items.*                                                                  |
-|               | **Focused Caster**       | None                        | *Gain Advantage on concentration checks to maintain spells.*                                                                             |
-|               | **Mystic Aegis**         | None                        | *Once per encounter, reduce incoming magical damage by 1D6.*                                                                             |
-|               | **Runebound Knowledge**  | None                        | *You can inscribe simple runes, allowing you to store a single Tier 1 spell for later use.*                                              |
-|               | **Thaumaturgic Reflex**  | None                        | *Once per encounter, immediately cast a reaction spell without using an action.*                                                         |
-| **2**nd       | **Counterspell Mastery** | None                        | *Once per encounter, counter a spell without spending points OR negate a spell effect within 10ft.*                                      |
-|               | **Warding Magic**        | None                        | *Gain +1 TN against magical attacks.*                                                                                                    |
-|               | **Concentration Savant** | Focused Caster              | *Gain Major Advantage on concentration checks for maintaining spells.*                                                                   |
-|               | **Enchanter**            | Enchanting Proficiency      | *You may enchant items without rare components if the effect is Tier 1 or lower.*                                                        |
-|               | **Mage Armour**          | None                        | *Once per long rest, create a magical barrier giving +2 TN for one encounter.*                                                           |
-|               | **Arcane Sight**         | None                        | *Detect the presence of magical auras, enchantments, and hidden spells within 30ft without casting a spell.*                             |
-|               | **Leyline Tapping**      | None                        | *Once per short rest, regain 2 spell points by meditating for 1 minute.*                                                                 |
-|               | **Mystic Precision**     | None                        | *Add +1 to all spell damage rolls.*                                                                                                      |
-|               | **Wardweaver**           | None                        | *Extend the duration of magical barriers and defensive spells by one additional round.*                                                  |
-|               | **Spellweave Armor**     | None                        | *When wearing no armor, gain +1 TN.*                                                                                                     |
-|               | **Essence Drain**        | None                        | *When an enemy fails a saving throw invoked by one of your spells, regain a spell point.*                                                |
-| **3**rd       | **Twin Spells**          | None                        | *Once per encounter, target two creatures with a single-target spell, but the second target takes half damage or effect.*                |
-|               | **Arcane Efficiency**    | Spell Savant                | *Once per long rest, regain 3 spell points instantly.*                                                                                   |
-|               | **Elemental Surge**      | Elemental Affinity          | *Once per short rest, add +2D6 extra damage of your chosen element to a spell.*                                                          |
-|               | **Arcane Explosion**     | Intellect +3                | *Once per encounter, when hit in melee, release a burst of energy dealing 2D6 damage in a 10ft radius.*                                  |
-|               | **Silent Casting**       | None                        | *Ignore the verbal component of any spell or ritual.*                                                                                    |
-|               | **Spell Bending**        | None                        | *Once per encounter, redirect an incoming spell to a different target within range.*                                                     |
-|               | **Arcane Mastery**       | None                        | *Once per day, cast a spell without spending spell points.*                                                                              |
-|               | **Now You See Me**       | None                        | *You can cast a spell and move in the same action without incurring attacks of opportunity.*                                             |
-|               | **Runic Amplification**  | None                        | *When casting a spell using a stored rune, increase its effect by 50%.*                                                                  |
-|               | **Dimensional Rift**     | None                        | *Once per encounter, teleport up to 60 feet to an unoccupied space you can see or have recently seen.*                                   |
-|               | **Surging Power**        | None                        | *Once per encounter, when rolling damage for a spell, reroll all damage die and take the highest.*                                       |
-|               | **Echo of Magic**        | None                        | *Once per long rest, if a spell fails due to a counterspell or resistance, cast it again immediately without expending spell points.*    |
-| **4**th       | **Master of Elements**   | Elemental Surge             | *Once per encounter, change a spell’s damage type to **fire, frost, or lightning**, ignoring resistances.*                               |
-|               | **Arcane Overload**      | Arcane Efficiency           | *Once per long rest, **double** a spell’s damage, but take 2D6 recoil damage.*                                                           |
-|               | **Weaver’s Tempo**       | Weaver’s Flow               | *You can cast **two different spells up to Tier 2** in a single action once per encounter.*                                              |
-|               | **Rune Lord**            | Runic Amplification         | *You may store **two spells** in a rune instead of one.*                                                                                 |
-|               | **Greater Counterspell** | Counterspell Mastery        | *Counterspell now affects spells of **any tier**, but requires an Arcana check (TN 10 + spell tier).*                                    |
-|               | **Arcane Phasing**       | Dimensional Rift            | *You may pass through **solid objects** when teleporting.*                                                                               |
-|               | **Void Tap**             | Essence Drain               | *Once per long rest, restore spell points **equal to half the damage dealt** by a spell.*                                                |
-|               | **Improved Spellweave**  | Spellweave Armor            | *When wearing no armour, gain **+3 TN**.*                                                                                                |
-|               | **Trained Mind**         | Focused Caster              | *Immune to charm, fear, and confusion. You also **automatically succeed** on concentration unless unconscious.*                          |
-|               | **Signature Move**       | Arcane Mastery              | *Choose three spells you know; they become innately known to you, requiring no components and costing 1 SP less to cast.*                |
-|               | **Weaver’s Echo**        | Weaver’s Tempo              | *Once per long rest, you may cast the same spell **twice in a single action**, targeting different creatures or areas.*                  |
-|               | **Necrotic Channel**     | Mystic Precision            | *Whenever you successfully land a spell on a target, gain **1 temporary HP per spell point spent** (max 10/round).*                      |
-| **5**th       | **Arcane Transcendence** | Arcane Mastery              | *Once per day, cast any Tier 1–3 spell without spending spell points, and the spell is cast at Master scaling for free.*                 |
-|               | **Spell Eater**          | Greater Counterspell        | *Once per day, when you successfully counter a spell, regain the same number of spell points it would have cost.*                        |
-|               | **Echo Caster**          | Echo of Magic               | *The first time you cast a spell each combat, you may repeat it on the next turn without spending points.*                               |
-|               | **Voidheart**            | Void Tap                    | *Whenever you kill a creature with a spell, regain 1D6 spell points (max once per round).*                                               |
-|               | **Mindjolt**             | Intellect +4                | *Casting a spell also causes 1D6 psychic damage to anyone who can see you cast it.*                                                      |
-|               | **Occulted Gravity**     | Arcane Phasing              | *Enemies within 15ft of you treat the area as difficult terrain and must succeed a TN 14 save or be knocked prone if they cast a spell.* |
-|               | **Power Cast**           | Spell Savant, Arcane Focus  | *Once per day, cast any known spell without components or counters—it simply happens.*                                                   |
-|               | **Death Signal**         | Arcane Explosion            | *Once per encounter, when a creature dies within 30ft, you may cast a spell as a free reaction.*                                         |
-|               | **Back At Ya'**          | Spell Bending               | *Once per day, reflect a spell back at its caster without a roll. The spell must be Tier 3 or lower.*                                    |
-|               | **Different Reality**    | Trained Mind                | *You now exist slightly out of sync. The first attack or spell that targets you each encounter automatically misses.*                    |
-|               | **Final Thought**        | Thaumaturgic Reflex         | *When reduced to 0 HP, you may speak one phrase and cast one final spell as a reaction, even if unconscious.*                            |
-|               | **Copycat**              | Echo of Magic, Intellect +3 | *You may cast any spell you’ve seen cast in the past 24 hours, even if you do not know it. It costs +2 SP and cannot be upscaled.*       |
+| **Feat Tier** | **Feat Name**            | **Prerequisites**           | **Effect**                                                                                                                                       |
+| ------------- | ------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1**st       | **Arcane Focus**         | None                        | *Gain +1 to spell attack rolls when using an Arcane Focus.*                                                                                      |
+|               | **Spelldrinker**         | Intellect +2                | *Once per encounter, cast a Tier 1 spell without spending spell points.*                                                                         |
+|               | **Elemental Affinity**   | None                        | *Choose an element (fire, frost, lightning). Once per short rest, add +1D6 damage of that element to a spell.*                                   |
+|               | **Runescribe**           | Intellect +2                | *You can identify magical runes and glyphs without rolling.*                                                                                     |
+|               | **Spellflash**           | None                        | *Once per encounter, cast a spell as a bonus action.*                                                                                            |
+|               | **Mana Tap**             | None                        | *Once per encounter, regain 2 spell points after landing a successful spell attack.*                                                             |
+|               | **Arcane Reservoir**     | None                        | *Gain +3 spell points once per long rest.*                                                                                                       |
+|               | **Eldritch Insight**     | None                        | *Gain Advantage on Arcana checks to identify spells and magical items.*                                                                          |
+|               | **Focus Casting**        | None                        | *Gain Advantage on concentration checks to maintain spells.*                                                                                     |
+|               | **Arcane Shell**         | None                        | *Once per encounter, reduce incoming magical damage by 1D6.*                                                                                     |
+|               | **Glyphwright**          | None                        | You may store a single Tier 1 spell as a magical sigil on an object or surface, activated as a Major Action. Once activated, the sigil vanishes. |
+|               | **Quickspell**           | None                        | *Once per encounter, immediately cast a reaction spell without using an action.*                                                                 |
+| **2**nd       | **Countermage**          | None                        | *Once per encounter, counter a spell without spending points OR negate a spell effect within 10ft.*                                              |
+|               | **Warded Up**            | None                        | *Gain +1 TN against magical attacks.*                                                                                                            |
+|               | **Calm & Composed**      | Focused Caster              | *Gain Major Advantage on concentration checks for maintaining spells.*                                                                           |
+|               | **Enchanter**            | Enchanting Proficiency      | *You may enchant items without rare components if the effect is Tier 1 or lower.*                                                                |
+|               | **Mage Armour**          | None                        | *Once per long rest, create a magical barrier giving +2 TN for one encounter.*                                                                   |
+|               | **Arcane Sight**         | None                        | *Detect the presence of magical auras, enchantments, and hidden spells within 30ft without casting a spell.*                                     |
+|               | **Leyline Tapping**      | None                        | *Once per short rest, regain 2 spell points by meditating for 1 minute.*                                                                         |
+|               | **Mystic Precision**     | None                        | *Add +1 to all spell damage rolls.*                                                                                                              |
+|               | **Wardweaver**           | None                        | *Extend the duration of magical barriers and defensive spells by one additional round.*                                                          |
+|               | **Spellweave Armor**     | None                        | *When wearing no armor, gain +1 TN.*                                                                                                             |
+|               | **Essence Drain**        | None                        | *When an enemy fails a saving throw invoked by one of your spells, regain a spell point.*                                                        |
+| **3**rd       | **Twin Spells**          | None                        | *Once per encounter, target two creatures with a single-target spell, but the second target takes half damage or effect.*                        |
+|               | **Arcane Efficiency**    | Spell Savant                | *Once per long rest, regain 3 spell points instantly.*                                                                                           |
+|               | **Elemental Surge**      | Elemental Affinity          | *Once per short rest, add +2D6 extra damage of your chosen element to a spell.*                                                                  |
+|               | **Arcane Explosion**     | Intellect +3                | *Once per encounter, when hit in melee, release a burst of energy dealing 2D6 damage in a 10ft radius.*                                          |
+|               | **Silent Casting**       | None                        | *Ignore the verbal component of any spell or ritual.*                                                                                            |
+|               | **Spell Bending**        | None                        | *Once per encounter, redirect an incoming spell to a different target within range.*                                                             |
+|               | **Arcane Mastery**       | None                        | *Once per day, cast a spell without spending spell points.*                                                                                      |
+|               | **Now You See Me**       | None                        | *You can cast a spell and move in the same action without incurring attacks of opportunity.*                                                     |
+|               | **Runic Amplification**  | None                        | *When casting a spell using a stored rune, increase its effect by 50%.*                                                                          |
+|               | **Dimensional Rift**     | None                        | *Once per encounter, teleport up to 60 feet to an unoccupied space you can see or have recently seen.*                                           |
+|               | **Surging Power**        | None                        | *Once per encounter, when rolling damage for a spell, reroll all damage die and take the highest.*                                               |
+|               | **Echo of Magic**        | None                        | *Once per long rest, if a spell fails due to a counterspell or resistance, cast it again immediately without expending spell points.*            |
+| **4**th       | **Master of Elements**   | Elemental Surge             | *Once per encounter, change a spell’s damage type to **fire, frost, or lightning**, ignoring resistances.*                                       |
+|               | **Arcane Overload**      | Arcane Efficiency           | *Once per long rest, **double** a spell’s damage, but take 2D6 recoil damage.*                                                                   |
+|               | **Weaver’s Tempo**       | Weaver’s Flow               | *You can cast **two different spells up to Tier 2** in a single action once per encounter.*                                                      |
+|               | **Rune Lord**            | Runic Amplification         | *You may store **two spells** in a rune instead of one.*                                                                                         |
+|               | **Greater Counterspell** | Counterspell Mastery        | *Counterspell now affects spells of **any tier**, but requires an Arcana check (TN 10 + spell tier).*                                            |
+|               | **Arcane Phasing**       | Dimensional Rift            | *You may pass through **solid objects** when teleporting.*                                                                                       |
+|               | **Void Tap**             | Essence Drain               | *Once per long rest, restore spell points **equal to half the damage dealt** by a spell.*                                                        |
+|               | **Improved Spellweave**  | Spellweave Armor            | *When wearing no armour, gain **+3 TN**.*                                                                                                        |
+|               | **Trained Mind**         | Focused Caster              | *Immune to charm, fear, and confusion. You also **automatically succeed** on concentration unless unconscious.*                                  |
+|               | **Signature Move**       | Arcane Mastery              | *Choose three spells you know; they become innately known to you, requiring no components and costing 1 SP less to cast.*                        |
+|               | **Weaver’s Echo**        | Weaver’s Tempo              | *Once per long rest, you may cast the same spell **twice in a single action**, targeting different creatures or areas.*                          |
+|               | **Necrotic Channel**     | Mystic Precision            | *Whenever you successfully land a spell on a target, gain **1 temporary HP per spell point spent** (max 10/round).*                              |
+| **5**th       | **Arcane Transcendence** | Arcane Mastery              | *Once per day, cast any Tier 1–3 spell without spending spell points, and the spell is cast at Master scaling for free.*                         |
+|               | **Spell Eater**          | Greater Counterspell        | *Once per day, when you successfully counter a spell, regain the same number of spell points it would have cost.*                                |
+|               | **Echo Caster**          | Echo of Magic               | *The first time you cast a spell each combat, you may repeat it on the next turn without spending points.*                                       |
+|               | **Voidheart**            | Void Tap                    | *Whenever you kill a creature with a spell, regain 1D6 spell points (max once per round).*                                                       |
+|               | **Mindjolt**             | Intellect +4                | *Casting a spell also causes 1D6 psychic damage to anyone who can see you cast it.*                                                              |
+|               | **Occulted Gravity**     | Arcane Phasing              | *Enemies within 15ft of you treat the area as difficult terrain and must succeed a TN 14 save or be knocked prone if they cast a spell.*         |
+|               | **Power Cast**           | Spell Savant, Arcane Focus  | *Once per day, cast any known spell without components or counters—it simply happens.*                                                           |
+|               | **Death Signal**         | Arcane Explosion            | *Once per encounter, when a creature dies within 30ft, you may cast a spell as a free reaction.*                                                 |
+|               | **Back At Ya'**          | Spell Bending               | *Once per day, reflect a spell back at its caster without a roll. The spell must be Tier 3 or lower.*                                            |
+|               | **Different Reality**    | Trained Mind                | *You now exist slightly out of sync. The first attack or spell that targets you each encounter automatically misses.*                            |
+|               | **Final Thought**        | Thaumaturgic Reflex         | *When reduced to 0 HP, you may speak one phrase and cast one final spell as a reaction, even if unconscious.*                                    |
+|               | **Copycat**              | Echo of Magic, Intellect +3 | *You may cast any spell you’ve seen cast in the past 24 hours, even if you do not know it. It costs +2 SP and cannot be upscaled.*               |
 
 ---
 #### **Cleric**
@@ -769,8 +768,8 @@ Each background grants:
 At level 1, you have access to **five** skill proficiencies by default, two from your background and two from your class and one based on your highest statistic (if multiple stats are the same e.g you have a character with 3-3-2-0 or 4-4-0-0 etc, pick between them). Rolling a skill that you are not proficient in will impose regular Disadvantage unless specified by the DM. 
 #### **Skill Proficiencies**
 
-| **Category**    | **Skill**       | **Description**                                                                     | **Associated Attribute** |
-| --------------- | --------------- | ----------------------------------------------------------------------------------- | ------------------------ |
+| **Category**    | **Skill**       | **Description**                                                                       | **Associated Attribute** |
+| --------------- | --------------- | ------------------------------------------------------------------------------------- | ------------------------ |
 | **Physical**    | Athletics       | *Physical feats such as swimming, climbing, jumping, and grappling.*                  | Strength                 |
 |                 | Acrobatics      | *Balance, coordination, and agility.*                                                 | Dexterity                |
 |                 | Endurance       | *Stamina and perseverance during prolonged activity or hardship.*                     | Strength                 |
@@ -790,8 +789,8 @@ At level 1, you have access to **five** skill proficiencies by default, two from
 |                 | Intimidation    | *Coercing or frightening others into submission or action.*                           | Strength or Charisma     |
 |                 | Performance     | *Delivering captivating music, dance, or acting to entertain or influence.*           | Charisma or Dexterity    |
 |                 | Bartering       | *Haggling and negotiating the price of goods and services.*                           | Charisma or Intellect    |
-| **Magical**     | Spellcasting    | *Channeling and controlling magical energies for spells.*                             | Intellect                |
-|                 | Lore            | *Knowledge of history, culture or religion.*                                          | Intellect                |
+| **Magical**     | Runecrafting    | *Creating, modifying, or breaking magical symbols, wards, traps, and inscriptions.*   | Intellect                |
+|                 | Lore            | *Knowledge of history, culture and religion.*                                         | Intellect                |
 |                 | Enchanting      | *Imbuing objects with magical properties or effects.*                                 | Intellect                |
 |                 | Arcana          | *Identifying magical effects, enchantments, and rituals.*                             | Intellect                |
 | **Exploration** | Perception      | *Spotting hidden objects, detecting danger, or noticing small details.*               | Intellect                |
@@ -808,6 +807,8 @@ At level 1, you have access to **five** skill proficiencies by default, two from
 | **Specialized** | Mining          | *Extracting valuable materials from the earth safely and efficiently.*                | Strength or Intellect    |
 |                 | Sailing         | *Commanding a ship and navigating open waters.*                                       | Dexterity or Intellect   |
 |                 | Horseriding     | *Managing and riding mounts for travel or combat.*                                    | Dexterity or Strength    |
+
+
 #### **Combat Proficiencies**
 Each weapon class deals different amount of damage and require proficiency to use correctly; attempting to wield a weapon without proficiency will incur Disadvantage on all attack rolls. 
 - **Light Weapons**: Daggers, shortswords, slings, etc. (1D6 Damage)
@@ -826,7 +827,7 @@ Each weapon class deals different amount of damage and require proficiency to us
 - **Unarmored TN** = **6 + Dexterity**
 - **Armored TN** = **Base TN (6) + Armor Bonus (from armor worn) + Dexterity (up to cap)**
 - **Shields** add a **flat TN bonus** (e.g., +1 for small shields, +2 for large shields).
-Attempting to wear armour you are not proficient in reduces your dexterity bonus to zero and 
+Attempting to wear armour you are not proficient in reduces your dexterity bonus to zero and imposes Major Disadvantage on attack rolls. 
 
 | **Armor Type** | **TN Bonus** | **Dexterity Cap** |
 | -------------- | ------------ | ----------------- |
@@ -836,183 +837,9 @@ Attempting to wear armour you are not proficient in reduces your dexterity bonus
 | Heavy Armor    | +5 to +6     | Max +1            |
 
 ---
-## **Items**
-
-### Adventuring Gear
-
-| **Item**               | **Description**                                                      | **Weight** | **Cost** |
-| ---------------------- | -------------------------------------------------------------------- | ---------- | -------- |
-| **Backpack**           | *A sturdy pack with straps. Holds up to 30 lbs of gear.*               | 2 lbs      | 2 sp     |
-| **Bedroll**            | *A simple, rolled blanket for sleeping outdoors.*                      | 5 lbs      | 1 sp     |
-| **Blanket**            | *A warm, woolen blanket.*                                              | 3 lbs      | 5 cp     |
-| **Grappling Hook**     | *Metal hook for climbing or anchoring.*                                | 4 lbs      | 1 gp     |
-| **Lantern (Bullseye)** | *A lantern with a focused beam. 6-hour burn time per oil flask.*       | 2 lbs      | 1 gp     |
-| **Lantern (Hooded)**   | *A lantern that can be dimmed or closed. 6-hour burn time per flask.*  | 2 lbs      | 7 sp     |
-| **Oil (1 flask)**      | *Fuel for lanterns or a makeshift firebomb. Burns for 6 hours.*        | 1 lb       | 1 sp     |
-| **Rations (1 day)**    | *Dried meats, nuts, and hardtack for one day.*                         | 1 lb       | 5 cp     |
-| **Rope (50 ft, Hemp)** | *Strong, coarse rope. Holds up to 500 lbs.*                            | 10 lbs     | 1 gp     |
-| **Rope (50 ft, Silk)** | *Lighter and more flexible rope. Holds up to 300 lbs.*                 | 5 lbs      | 5 gp     |
-| **Sack**               | *Simple cloth bag. Holds up to 20 lbs.*                                | 1 lb       | 1 cp     |
-| **Tent (2-person)**    | *Compact shelter for two. Weather-resistant.*                          | 10 lbs     | 2 gp     |
-| **Tent (4-person)**    | *Larger shelter for four. Weather-resistant.*                          | 15 lbs     | 5 gp     |
-| **Torch**              | *Burns for 1 hour, illuminates a 20 ft radius.*                        | 1 lb       | 1 cp     |
-| **Waterskin**          | *Holds up to 4 pints of liquid.*                                       | 2 lbs      | 5 cp     |
-| **Tarp (Oilcloth)**    | *Waterproof sheet, useful for shelter or covering supplies.*           | 4 lbs      | 8 cp     |
-| **Spyglass**           | *Magnifies distant objects.*                                           | 1 lb       | 20 gp    |
-| **Compass (Magnetic)** | *Helps navigate in unfamiliar territory.*                              | 0.5 lbs    | 5 gp     |
-| **Tinderbox**          | *Flint, steel, and tinder for starting fires.*                         | 1 lb       | 5 cp     |
-| **Crowbar**            | *Provides leverage, giving Advantage on strength checks to pry.\|<br>* | 5          | 2 sp     |
-| **Climber's Kit**      | *Includes pitons, harness, and gloves for climbing.*                   | 8 lbs      | 2 gp     |
-| **Spikes (Iron, 10)**  | *Useful for securing ropes or climbing surfaces.*                      | 2 lbs      | 1 sp     |
-#### Kits & Tools
-
-| **Item**                 | **Description**                                                          | **Weight** | **Cost** |
-| ------------------------ | ------------------------------------------------------------------------ | ---------- | -------- |
-| **Alchemist’s Kit**      | *Includes vials, burners, and glass tools for potion crafting.*            | 5 lbs      | 5 gp     |
-| **Climber’s Kit**        | *Pitons, harness, rope, and gloves. Provides Advantage on climbing rolls.* | 8 lbs      | 2 gp     |
-| **Leatherworking Tools** | *Awls, needles, thread, and dyes for crafting leather goods.*              | 3 lbs      | 5 sp     |
-| **Pottery Tools**        | *Clay cutters, wire tools, and carving instruments.*                       | 4 lbs      | 5 sp     |
-| **Healer’s Kit**         | *Bandages, salves, and herbs for stabilizing wounds (10 uses).*            | 3 lbs      | 3 gp     |
-| **Mortar and Pestle**    | *Used to grind herbs and ingredients for potions or cooking.*              | 2 lbs      | 1 gp     |
-| **Blacksmith Tools**     | *Tongs, hammer, and small anvil for metalwork.*                            | 8 lbs      | 5 gp     |
-| **Grinding Stone**       | *Sharpens weapons or tools, restoring their edge.*                         | 6 lbs      | 1 gp     |
-| **Sewing Kit**           | *Needle, thread, and small scissors for mending clothes.*                  | 1 lb       | 2 sp     |
-| **Fishing Tackle**       | *Hooks, line, and bait for catching fish.*                                 | 1 lb       | 1 gp     |
-| **Crowbar**              | *Used for prying open doors, crates, or windows. Provides leverage bonus.* | 5 lbs      | 2 sp     |
-| **Block and Tackle**     | *Pulleys and rope system for lifting heavy objects.*                       | 10 lbs     | 1 gp     |
-| **Chisel**               | *Used for carving wood or stone.*                                          | 1 lb       | 5 cp     |
-| **Shovel**               | *For digging or moving loose material.*                                    | 5 lbs      | 2 sp     |
-| **Tongs (Iron)**         | *Used for gripping hot metal or objects.*                                  | 2 lbs      | 5 sp     |
-| **Hammer (Mason’s)**     | *For breaking stone or driving nails.*                                     | 4 lbs      | 2 sp     |
-| **Hand Drill**           | *Manual drill for small holes in wood or metal.*                           | 2 lbs      | 1 gp     |
-| **Metal File**           | *Smooths rough metal surfaces.*                                            | 1 lb       | 5 sp     |
-| **Pliers**               | *Gripping and bending small objects.*                                      | 1 lb       | 5 sp     |
-| **Awl**                  | *Used to punch holes in leather or wood.*                                  | 0.5 lbs    | 2 cp     |
-| **Small Candle**         | *A candle that burns for 1 hour, providing dim light.*                     | —          | 1 cp     |
-| **Large Candle**         | *A bigger candle for longer burn time (approx. 3 hours).*                  | —          | 5 cp     |
-| **Soap (Bar)**           | *A bar of soap, useful for cleaning or rituals.*                           | 1 lb       | 1 cp     |
-| **Vial (Ceramic)**       | *A small vial for storing liquids or powders.*                             | 1 lb       | 2 sp     |
-| **Sealing Wax**          | *Wax for sealing letters or documents.*                                    | —          | 5 cp     |
-| **Ink Pen (Quill)**      | *A quill pen for writing on parchment.*                                    | —          | 2 cp     |
-| **Broom (Wooden)**       | *A basic broom used for sweeping.*                                         | 3 lbs      | 2 cp     |
-| **Mirror**               | *A small hand mirror.*                                                     | 1 lb       | 5 sp     |
-| **Magnifying Glass**     | *Used for examining fine details and refracting light.*                    | 1 lb       | 10 gp    |
-| **Hourglass**            | *Measures time over a specific interval.*                                  | 2 lbs      | 3 gp     |
-| **Manacles**             | *Restraints for securing prisoners.*                                       | 4 lbs      | 2 gp     |
-| **Idol (Wooden)**        | *Small religious or cultural statue.*                                      | 1 lb       | 5 sp     |
-| **Dice (Set of 6)**      | *Used for games of chance or gambling.*                                    | 0.1 lb     | 1 sp     |
-### **Arms & Armaments**
-#### Melee Weapons
-
-| **Weapon**           | **Type** | **Properties**                                         |
-| -------------------- | -------- | ------------------------------------------------------ |
-| **Dagger**           | Light    | *Finesse, Thrown (20 ft.), Concealable*      |
-| **Shortsword**       | Light    | *Finesse, Parry*                                 |
-| **Handaxe**          | Light    | *Thrown (20 ft.), Sunder*                        |
-| **Rapier**           | Light    | *Finesse, Piercing*                              |
-| **Mace**             | Light    | *Crushing*                                           |
-| **Scimitar**         | Light    | *Finesse, Swift*                                 |
-| **Spear**            | Medium   | *Reach (10 ft.), Thrown (30 ft.), Versatile* |
-| **Longsword**        | Medium   | *Versatile,*                                         |
-| **Warhammer**        | Medium   | *Crushing, Sunder*                               |
-| **Battleaxe**        | Medium   | *Cleave*                                             |
-| **Flail**            | Medium   | *Disarm*                                             |
-| **Morningstar**      | Medium   | *Piercing, Brutal*                               |
-| **Greataxe**         | Heavy    | *Cleave, Slow*                                   |
-| **Greatsword**       | Heavy    | *Sweeping Strike*                                    |
-| **Maul**             | Heavy    | *Crushing, Knockback (5 ft.)*                    |
-| **Halberd**          | Heavy    | *Reach (10 ft.), Brace*                          |
-| **Glaive**           | Heavy    | *Reach, Sweeping Strike*                         |
-| **War Pick**         | Heavy    | *Piercing, Armor Piercing*                       |
-| **Quarterstaff**     | Medium   | *Defensive, Versatile.*                          |
-| **Whip**             | Light    | *Reach (10 ft.), Disarm.*                        |
-| **Crossbow (Light)** | Ranged   | *Reload (1), Piercing*                           |
-| **Crossbow (Heavy)** | Ranged   | *Reload (2), Armor Piercing*                     |
-| **Shortbow**         | Ranged   | *Volley*                                             |
-| **Longbow**          | Ranged   | *Piercing, Far Shot*                             |
-| **Javelin**          | Thrown   | *Thrown (30 ft.), Versatile.*                    |
-- **Finesse** – Use **Dexterity** instead of Strength for attack rolls.
-- **Thrown (X ft.)** – Can be thrown to attack at range.
-- **Versatile** – Can be wielded in one or two hands.
-- **Reach (10 ft.)** – Attack targets from 10 feet away.
-- **Cleave** – On **killing blow**, may make an extra attack on an adjacent enemy.
-- **Piercing** – **Ignores 1 TN** of armor (or **2 TN** for heavy piercing weapons).
-- **Crushing** – Ignores resistances to non-magical damage.
-- **Disarm** – On hit, target must roll **TN 10 Strength save** or drop their weapon.
-- **Sunder** – Deals **+1D6** damage to objects (e.g., doors, shields).
-- **Knockback (5 ft.)** – On hit, push target **5 feet** away.
-- **Sweeping Strike** – Another enemy **within 5 ft** takes **1D6** damage when attacking.
-- **Defensive** – Gain **+1 TN** if wielded in both hands.
-- **Brace** – If an enemy **moves 10 ft. towards you**, you may **attack them first**.
-- **Reload (X)** – Must reload after **X** shots.
-- **Volley** – Ignore **disadvantage** when shooting in melee.
-- **Far Shot** – Doubled effective range.
-
----
-#### Ranged Weapons 
-
-| **Weapon Name**      | **Weight Class** | **Damage** | **Range** | **Weight** | **Price** | **Properties**                                          |
-| -------------------- | ---------------- | ---------- | --------- | ---------- | --------- | ------------------------------------------------------- |
-| **Shortbow**         | Light            | 1D6        | 60 ft     | 2 lb       | 15 gp     | *Simple and easy to use, lightweight.*                    |
-| **Longbow**          | Medium           | 1D6A       | 120 ft    | 3 lb       | 50 gp     | *Requires two hands, longer range, high accuracy.*        |
-| **Crossbow (Light)** | Medium           | 1D6A       | 80 ft     | 5 lb       | 25 gp     | *Can be used while crouched, takes one action to reload.* |
-| **Crossbow (Heavy)** | Heavy            | 2D6        | 100 ft    | 18 lb      | 75 gp     | *Takes one turn to reload, deals heavy damage.*           |
-| **Throwing Axe**     | Light            | 1D6        | 30 ft     | 3 lb       | 5 gp      | *Can also be used as a melee weapon.*                     |
-| **Throwing Spear**   | Medium           | 1D6A       | 40 ft     | 5 lb       | 10 gp     | *Effective against charging enemies.*                     |
-#### Armour 
-
-| **Armour Name**         | **Weight Class** | **TN Bonus** | **Dex Cap** | **Weight** | **Price** | **Special Properties**                                                |
-| ----------------------- | ---------------- | ------------ | ----------- | ---------- | --------- | --------------------------------------------------------------------- |
-| **Traveler's Clothes**  | Light            | +1           | +3          | 8 lb       | 3 gp      | *Comfortable, grants +1 to endurance checks related to travel fatigue.* |
-| **Padded Jacket**       | Light            | +2           | +3          | 10 lb      | 6 gp      | *Grants +1 to resist cold damage.*                                      |
-| **Reinforced Clothing** | Light            | +2           | +3          | 12 lb      | 12 gp     | *Provides extra padding, +1 to resist bludgeoning damage.*              |
-| **Leather Armor**       | Light            | +2           | +3          | 12 lb      | 10 gp     | *+1 to Stealth rolls.*                                                  |
-| **Quilted Vest**        | Light            | +3           | +3          | 13 lb      | 18 gp     | *Resistant to arrows and projectiles, +1 TN to ranged attacks.*         |
-| **Studded Leather**     | Light            | +3           | +3          | 15 lb      | 25 gp     | *Durable, resists puncture attacks.*                                    |
-| **Bone Armor**          | Light            | +3           | +3          | 14 lb      | 20 gp     | *Fashioned from animal bones, grants +1 intimidation when worn.*        |
-| **Shadowweave Armor**   | Light            | +2           | +3          | 10 lb      | 40 gp     | *+2 to Stealth checks when in dim light or darkness.*                   |
-| **Hide Armor**          | Medium           | +3           | +3          | 25 lb      | 20 gp     | *Natural camouflage, +1 to Stealth checks in wilderness environments.*  |
-| **Chain Shirt**         | Medium           | +4           | +3          | 30 lb      | 50 gp     | *Partial metal coverage, not noisy.*                                    |
-| **Scale Mail**          | Medium           | +5           | +2          | 45 lb      | 75 gp     | *Flexible plates, good against slashes.*                                |
-| **Breastplate**         | Medium           | +5           | +2          | 40 lb      | 100 gp    | *Fitted, allows more mobility.*                                         |
-| **Brigandine**          | Medium           | +6           | +1          | 50 lb      | 150 gp    | *Lined with cloth and metal, good defense and comfort.*                 |
-| **Chainmail**           | Heavy            | +7           | +1          | 55 lb      | 75 gp     | *Disadvantage on Stealth.*                                              |
-| **Splint Armor**        | Heavy            | +8           | +1          | 60 lb      | 200 gp    | *Rigidity, resists bludgeoning attacks.*                                |
-| **Plate Armor**         | Heavy            | +9           | +0          | 65 lb      | 1500 gp   | *Disadvantage on Stealth, high protection.*                             |
-| **Full Plate**          | Heavy            | +10          | +0          | 70 lb      | 2500 gp   | *Disadvantage on Stealth, +1 to resist knockdowns.*                     |
-#### Shields
-
-| Shield Name      | **TN Bonus** | **Weight** | **Price** (in gold) | **Special Properties**                                      |
-| ---------------- | ------------ | ---------- | ------------------- | ----------------------------------------------------------- |
-| **Buckler**      | +1           | 6 lb       | 10 gp               | *Easy to carry, allows off-hand attacks without penalty.*     |
-| **Kite Shield**  | +2           | 10 lb      | 20 gp               | *Provides +1 TN to adjacent ally.*                            |
-| **Tower Shield** | +4           | 25 lb      | 100 gp              | *Can be used as partial cover, +1 TN against ranged attacks.* |
-
-#### **Weapon Coatings** 
-- **Applying a coating** takes **1 action** (or **bonus action** with the right feat).
-- A **single vial** coats **one weapon** (or **10 arrows/bolts**).
-- **Lasts for 3 successful hits** unless otherwise specified.
-
-| **Name**            | **Effect**                                                                     | **Duration** | **TN to Resist** | **Notes**                              |
-| ------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------- | -------------------------------------- |
-| **Hemotoxin**       | *On hit, target takes 1D6 poison damage at the start of their next turn.*      | 3 hits       | TN 12            | *Causes internal bleeding.*              |
-| **Paralytic Venom** | *Target must succeed a save or be Slowed for 1 turn.*                          | 2 hits       | TN 14            | *Derived from certain cave spiders.*     |
-| **Necrotic Bile**   | *Reduces healing received by half for 1 minute.*                               | 3 hits       | TN 13            | *Black alchemy, illegal in most cities.* |
-| **Mindrot**         | *Target must make a save or suffer Disadvantage on mental rolls for 1 minute.* | 1 hit        | TN 15            | *Used by assassins to disrupt mages.*    |
-#### **Oils & Coatings**
-
-| **Name**               | **Effect**                                                                        | **Duration** | **Notes**                         |
-| ---------------------- | --------------------------------------------------------------------------------- | ------------ | --------------------------------- |
-| **Flame Oil**          | *Adds 1D6 fire damage on hit.*                                                    | 3 hits       | *Ignites flammable objects.*        |
-| **Frost Oil**          | *Slows enemy by half movement speed on hit.*                                      | 3 hits       | *Especially useful against beasts.* |
-| **Shocking Tincture**  | *First attack that lands Stuns enemy for 1 round.*                                | 1 hit        | *Expensive and rare.*               |
-| **Blessed Oil**        | *Deals +1D6 radiant damage vs undead.*                                            | 3 hits       | *See Blessings.*                    |
-| **Abyssal Ichor**      | *On hit, target gains Disadvantage on TN checks for 1 minute.*                    | 3 hits       | *Has a dark, pulsating aura.*       |
-| **Black Powder Paste** | *Next melee attack explodes, dealing 2D6 damage to target and all within 5 feet.* | 1 hit        | *Can backfire if mishandled.*       |
-| **Slick Grease**       | *If the attack misses, the ground becomes Difficult Terrain for 1 round.*         | 3 hits       | *Favored by rogues.*                |
-| **Screaming Bile**     | *Target is Deafened and must make a TN save or be Frightened for 1 turn.*         | 1 hit        | *Horrific to witness.*              |
-
-## **Spellcasting**
+## **Miracles**
+Just like spells, miracles are manifestations of the caster's will, and the process of casting them is largely similar; the primary component of any magical process is mental in nature - the spell has to be first cast in the mind, just as the prayer has to be chanted in the eye of the caster's thoughts. 
+# **Spellcasting**
 Spellcasting represents the ability to channel and manipulate Manamaterium. In the 2D6 system, Spellcasting is treated as a proficiency that determines a character’s ability to reliably use magic.  Any character can attempt to cast spells, but non-proficient characters must roll at Disadvantage to determine success. Mages and Clerics automatically gain the proficiency at level 1. Other classes may gain the Spellcasting proficiency through feats, backgrounds, or multiclassing.
 
 At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of Spell Points (SP)** determined by their **Intellect Modifier** and level. **Spell Points = (Intellect × 2) + (Level × 2)**
@@ -1028,10 +855,12 @@ At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of 
 	- The majority of spells in the 2D6 system are mental in nature—spells can be cast silently without the need for spoken words or prepared components.
 	- Spellcasters can use any spell in their spell repertoire without needing to prepare them beforehand. The only restriction is Spell Points and proficiency.
 	- Only spells above Level 3 require valuable material components.
+
 **Multiclass Spellcasters:**
 	- Non-proficient characters cannot access certain advanced magical options; spells above third level cannot be cast, even when imbibed into a scroll.
 	- Non-mage classes can gain Spellcasting Proficiency through feats or backgrounds, but they start with 4 SP instead of using the formula.
 	- Multiclass characters use the full SP formula, but if they start as a non-mage and later gain Spellcasting Proficiency, they gain SP as if they had started casting at level 1.
+
 **Spell Points**:
      - At level 1, a character with Spellcasting Proficiency gains a pool of Spell Points (SP) based on their Intellect Modifier and Level:
 		Spell Points = (Intellect × 2) + (Level × 2)
@@ -1055,7 +884,7 @@ At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of 
 **Magical Items**:
     - While most magical items can be used by anyone, certain enchanted items may require a **Spellcasting roll** to activate. Proficiency allows reliable use, while non-proficient characters risk wasting charges or activating unintended effects.
 **Spell Scaling:**
-	- Each spell has specific scaling options that can be enhanced by spending additional spell points. There are three tiers of spell scaling - access to **Basic Scaling** is given at level 2 and progresses to **Advanced** at **level 4** and **Master** at **level 8**. 
+	- Each spell has specific scaling options that can be enhanced by spending additional spell points. There are three tiers of spell scaling - access to **Basic Scaling** is given at level 2 and progresses to **Advanced** at **level 5** and **Master** at **level 8**. 
 		- **Basic Scaling:** +1SP per option
 		- **Advanced Scaling:** +3SP per option
 		- **Master Scaling:** +5SP per option
@@ -1066,7 +895,7 @@ At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of 
 | **Range**          | x2 range         | x3 range            | x4 range          |
 | **Area**           | x2 area          | x3 area             | x4 area           |
 | **Duration**       | +1 round         | +3 rounds           | +5 rounds         |
-You may cast multiple scaling options together at the same time. 
+You may cast multiple scaling options together at the same time at different tiers of scaling; for example, you may cast Flame Bolt at 1SP and scale the Damage multiplier to x3 with Master Scaling 
 
 ### **Evocation Spells**
 
@@ -1145,6 +974,177 @@ You may cast multiple scaling options together at the same time.
 
 ### **Enchantment Spells**
 
+# **Items**
 
-## **Miracles**
-Just like spells, miracles are manifestations of the caster's will, and the process of casting them is largely similar; the primary component of any magical process is mental in nature - the spell has to be first cast in the mind, just as the prayer has to be chanted in the eye of the caster's thoughts. 
+### **Arms & Armaments**
+#### Melee Weapons
+
+| **Weapon**           | **Type** | **Properties**                               |
+| -------------------- | -------- | -------------------------------------------- |
+| **Dagger**           | Light    | *Finesse, Thrown (20 ft.), Concealable*      |
+| **Shortsword**       | Light    | *Finesse, Parry*                             |
+| **Handaxe**          | Light    | *Thrown (20 ft.), Sunder*                    |
+| **Rapier**           | Light    | *Finesse, Piercing*                          |
+| **Mace**             | Light    | *Crushing*                                   |
+| **Scimitar**         | Light    | *Finesse, Swift*                             |
+| **Spear**            | Medium   | *Reach (10 ft.), Thrown (30 ft.), Versatile* |
+| **Longsword**        | Medium   | *Versatile,*                                 |
+| **Warhammer**        | Medium   | *Crushing, Sunder*                           |
+| **Battleaxe**        | Medium   | *Cleave*                                     |
+| **Flail**            | Medium   | *Disarm*                                     |
+| **Morningstar**      | Medium   | *Piercing, Brutal*                           |
+| **Greataxe**         | Heavy    | *Cleave, Slow*                               |
+| **Greatsword**       | Heavy    | *Sweeping Strike*                            |
+| **Maul**             | Heavy    | *Crushing, Knockback (5 ft.)*                |
+| **Halberd**          | Heavy    | *Reach (10 ft.), Brace*                      |
+| **Glaive**           | Heavy    | *Reach, Sweeping Strike*                     |
+| **War Pick**         | Heavy    | *Piercing, Armor Piercing*                   |
+| **Quarterstaff**     | Medium   | *Defensive, Versatile.*                      |
+| **Whip**             | Light    | *Reach (10 ft.), Disarm.*                    |
+| **Crossbow (Light)** | Ranged   | *Reload (1), Piercing*                       |
+| **Crossbow (Heavy)** | Ranged   | *Reload (2), Armor Piercing*                 |
+| **Shortbow**         | Ranged   | *Volley*                                     |
+| **Longbow**          | Ranged   | *Piercing, Far Shot*                         |
+| **Javelin**          | Light    | *Thrown (30 ft.), Versatile.*                |
+- **Finesse** – Use **Dexterity** instead of Strength for attack rolls.
+- **Thrown (X ft.)** – Can be thrown to attack at range.
+- **Versatile** – Can be wielded in one or two hands.
+- **Reach (10 ft.)** – Attack targets from 10 feet away.
+- **Cleave** – On **killing blow**, may make an extra attack on an adjacent enemy.
+- **Piercing** – **Ignores 1 TN** of armor (or **2 TN** for heavy piercing weapons).
+- **Crushing** – Ignores resistances to non-magical damage.
+- **Disarm** – On hit, target must roll **TN 10 Strength save** or drop their weapon.
+- **Sunder** – Deals **+1D6** damage to objects (e.g., doors, shields).
+- **Knockback (5 ft.)** – On hit, push target **5 feet** away.
+- **Sweeping Strike** – Another enemy **within 5 ft** takes **1D6** damage when attacking.
+- **Defensive** – Gain **+1 TN** if wielded in both hands.
+- **Brace** – If an enemy **moves 10 ft. towards you**, you may **attack them first**.
+- **Reload (X)** – Must reload after **X** shots.
+- **Volley** – Ignore **disadvantage** when shooting in melee.
+- **Far Shot** – Doubled effective range.
+
+---
+#### Ranged Weapons 
+
+| **Weapon Name**      | **Weight Class** | **Damage** | **Range** | **Weight** | **Price** | **Properties**                                          |
+| -------------------- | ---------------- | ---------- | --------- | ---------- | --------- | ------------------------------------------------------- |
+| **Shortbow**         | Light            | 1D6        | 60 ft     | 2 lb       | 15 gp     | *Simple and easy to use, lightweight.*                    |
+| **Longbow**          | Medium           | 1D6A       | 120 ft    | 3 lb       | 50 gp     | *Requires two hands, longer range, high accuracy.*        |
+| **Crossbow (Light)** | Medium           | 1D6A       | 80 ft     | 5 lb       | 25 gp     | *Can be used while crouched, takes one action to reload.* |
+| **Crossbow (Heavy)** | Heavy            | 2D6        | 100 ft    | 18 lb      | 75 gp     | *Takes one turn to reload, deals heavy damage.*           |
+| **Throwing Axe**     | Light            | 1D6        | 30 ft     | 3 lb       | 5 gp      | *Can also be used as a melee weapon.*                     |
+| **Throwing Spear**   | Medium           | 1D6A       | 40 ft     | 5 lb       | 10 gp     | *Effective against charging enemies.*                     |
+#### Armour 
+
+| **Armour Name**         | **Weight Class** | **TN Bonus** | **Dex Cap** | **Weight** | **Price** | **Special Properties**                                                |
+| ----------------------- | ---------------- | ------------ | ----------- | ---------- | --------- | --------------------------------------------------------------------- |
+| **Traveler's Clothes**  | Light            | +1           | +3          | 8 lb       | 3 gp      | *Comfortable, grants +1 to endurance checks related to travel fatigue.* |
+| **Padded Jacket**       | Light            | +2           | +3          | 10 lb      | 6 gp      | *Grants +1 to resist cold damage.*                                      |
+| **Reinforced Clothing** | Light            | +2           | +3          | 12 lb      | 12 gp     | *Provides extra padding, +1 to resist bludgeoning damage.*              |
+| **Leather Armor**       | Light            | +2           | +3          | 12 lb      | 10 gp     | *+1 to Stealth rolls.*                                                  |
+| **Quilted Vest**        | Light            | +3           | +3          | 13 lb      | 18 gp     | *Resistant to arrows and projectiles, +1 TN to ranged attacks.*         |
+| **Studded Leather**     | Light            | +3           | +3          | 15 lb      | 25 gp     | *Durable, resists puncture attacks.*                                    |
+| **Bone Armor**          | Light            | +3           | +3          | 14 lb      | 20 gp     | *Fashioned from animal bones, grants +1 intimidation when worn.*        |
+| **Shadowweave Armor**   | Light            | +2           | +3          | 10 lb      | 40 gp     | *+2 to Stealth checks when in dim light or darkness.*                   |
+| **Hide Armor**          | Medium           | +3           | +3          | 25 lb      | 20 gp     | *Natural camouflage, +1 to Stealth checks in wilderness environments.*  |
+| **Chain Shirt**         | Medium           | +4           | +3          | 30 lb      | 50 gp     | *Partial metal coverage, not noisy.*                                    |
+| **Scale Mail**          | Medium           | +5           | +2          | 45 lb      | 75 gp     | *Flexible plates, good against slashes.*                                |
+| **Breastplate**         | Medium           | +5           | +2          | 40 lb      | 100 gp    | *Fitted, allows more mobility.*                                         |
+| **Brigandine**          | Medium           | +6           | +1          | 50 lb      | 150 gp    | *Lined with cloth and metal, good defense and comfort.*                 |
+| **Chainmail**           | Heavy            | +7           | +1          | 55 lb      | 75 gp     | *Disadvantage on Stealth.*                                              |
+| **Splint Armor**        | Heavy            | +8           | +1          | 60 lb      | 200 gp    | *Rigidity, resists bludgeoning attacks.*                                |
+| **Plate Armor**         | Heavy            | +9           | +0          | 65 lb      | 1500 gp   | *Disadvantage on Stealth, high protection.*                             |
+| **Full Plate**          | Heavy            | +10          | +0          | 70 lb      | 2500 gp   | *Disadvantage on Stealth, +1 to resist knockdowns.*                     |
+#### Shields
+
+| Shield Name      | **TN Bonus** | **Weight** | **Price** (in gold) | **Special Properties**                                        |
+| ---------------- | ------------ | ---------- | ------------------- | ------------------------------------------------------------- |
+| **Buckler**      | +1           | 6 lb       | 10 gp               | *Easy to carry, allows off-hand attacks without penalty.*     |
+| **Kite Shield**  | +2           | 10 lb      | 20 gp               | *Provides +1 TN to adjacent ally.*                            |
+| **Tower Shield** | +4           | 25 lb      | 100 gp              | *Can be used as partial cover, +1 TN against ranged attacks.* |
+
+#### **Weapon Coatings** 
+- **Applying a coating** takes **1 action** (or **bonus action** with the right feat).
+- A **single vial** coats **one weapon** (or **10 arrows/bolts**).
+- **Lasts for 3 successful hits** unless otherwise specified.
+
+| **Name**            | **Effect**                                                                     | **Duration** | **TN to Resist** | **Notes**                              |
+| ------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------- | -------------------------------------- |
+| **Hemotoxin**       | *On hit, target takes 1D6 poison damage at the start of their next turn.*      | 3 hits       | TN 12            | *Causes internal bleeding.*              |
+| **Paralytic Venom** | *Target must succeed a save or be Slowed for 1 turn.*                          | 2 hits       | TN 14            | *Derived from certain cave spiders.*     |
+| **Necrotic Bile**   | *Reduces healing received by half for 1 minute.*                               | 3 hits       | TN 13            | *Black alchemy, illegal in most cities.* |
+| **Mindrot**         | *Target must make a save or suffer Disadvantage on mental rolls for 1 minute.* | 1 hit        | TN 15            | *Used by assassins to disrupt mages.*    |
+#### **Oils & Coatings**
+
+| **Name**               | **Effect**                                                                        | **Duration** | **Notes**                     |
+| ---------------------- | --------------------------------------------------------------------------------- | ------------ | ----------------------------- |
+| **Fire Salt**          | *Adds 1D6 fire damage on hit.*                                                    | 3 hits       | *Ignites flammable objects.*  |
+| **Blessed Oil**        | *Deals +1D6 radiant damage vs undead.*                                            | 3 hits       | *See Blessings.*              |
+| **Abyssal Ichor**      | *On hit, target gains Disadvantage on TN checks for 1 minute.*                    | 3 hits       | *Has a dark, pulsating aura.* |
+| **Black Powder Paste** | *Next melee attack explodes, dealing 2D6 damage to target and all within 5 feet.* | 1 hit        | *Can backfire if mishandled.* |
+| **Slick Grease**       | *If the attack misses, the ground becomes Difficult Terrain for 1 round.*         | 3 hits       | *Favored by rogues.*          |
+| **Screaming Bile**     | *Target is Deafened and must make a TN save or be Frightened for 1 turn.*         | 1 hit        | *Horrific to witness.*        |
+
+### Adventuring Gear
+
+| **Item**               | **Description**                                                      | **Weight** | **Cost** |
+| ---------------------- | -------------------------------------------------------------------- | ---------- | -------- |
+| **Backpack**           | *A sturdy pack with straps. Holds up to 30 lbs of gear.*               | 2 lbs      | 2 sp     |
+| **Bedroll**            | *A simple, rolled blanket for sleeping outdoors.*                      | 5 lbs      | 1 sp     |
+| **Blanket**            | *A warm, woolen blanket.*                                              | 3 lbs      | 5 cp     |
+| **Grappling Hook**     | *Metal hook for climbing or anchoring.*                                | 4 lbs      | 1 gp     |
+| **Lantern (Bullseye)** | *A lantern with a focused beam. 6-hour burn time per oil flask.*       | 2 lbs      | 1 gp     |
+| **Lantern (Hooded)**   | *A lantern that can be dimmed or closed. 6-hour burn time per flask.*  | 2 lbs      | 7 sp     |
+| **Oil (1 flask)**      | *Fuel for lanterns or a makeshift firebomb. Burns for 6 hours.*        | 1 lb       | 1 sp     |
+| **Rations (1 day)**    | *Dried meats, nuts, and hardtack for one day.*                         | 1 lb       | 5 cp     |
+| **Rope (50 ft, Hemp)** | *Strong, coarse rope. Holds up to 500 lbs.*                            | 10 lbs     | 1 gp     |
+| **Rope (50 ft, Silk)** | *Lighter and more flexible rope. Holds up to 300 lbs.*                 | 5 lbs      | 5 gp     |
+| **Sack**               | *Simple cloth bag. Holds up to 20 lbs.*                                | 1 lb       | 1 cp     |
+| **Tent (2-person)**    | *Compact shelter for two. Weather-resistant.*                          | 10 lbs     | 2 gp     |
+| **Tent (4-person)**    | *Larger shelter for four. Weather-resistant.*                          | 15 lbs     | 5 gp     |
+| **Torch**              | *Burns for 1 hour, illuminates a 20 ft radius.*                        | 1 lb       | 1 cp     |
+| **Waterskin**          | *Holds up to 4 pints of liquid.*                                       | 2 lbs      | 5 cp     |
+| **Tarp (Oilcloth)**    | *Waterproof sheet, useful for shelter or covering supplies.*           | 4 lbs      | 8 cp     |
+| **Spyglass**           | *Magnifies distant objects.*                                           | 1 lb       | 20 gp    |
+| **Compass (Magnetic)** | *Helps navigate in unfamiliar territory.*                              | 0.5 lbs    | 5 gp     |
+| **Tinderbox**          | *Flint, steel, and tinder for starting fires.*                         | 1 lb       | 5 cp     |
+| **Crowbar**            | *Provides leverage, giving Advantage on strength checks to pry.\|<br>* | 5          | 2 sp     |
+| **Climber's Kit**      | *Includes pitons, harness, and gloves for climbing.*                   | 8 lbs      | 2 gp     |
+| **Spikes (Iron, 10)**  | *Useful for securing ropes or climbing surfaces.*                      | 2 lbs      | 1 sp     |
+#### Kits & Tools
+
+| **Item**                 | **Description**                                                          | **Weight** | **Cost** |
+| ------------------------ | ------------------------------------------------------------------------ | ---------- | -------- |
+| **Alchemist’s Kit**      | *Includes vials, burners, and glass tools for potion crafting.*            | 5 lbs      | 5 gp     |
+| **Climber’s Kit**        | *Pitons, harness, rope, and gloves. Provides Advantage on climbing rolls.* | 8 lbs      | 2 gp     |
+| **Leatherworking Tools** | *Awls, needles, thread, and dyes for crafting leather goods.*              | 3 lbs      | 5 sp     |
+| **Pottery Tools**        | *Clay cutters, wire tools, and carving instruments.*                       | 4 lbs      | 5 sp     |
+| **Healer’s Kit**         | *Bandages, salves, and herbs for stabilizing wounds (10 uses).*            | 3 lbs      | 3 gp     |
+| **Mortar and Pestle**    | *Used to grind herbs and ingredients for potions or cooking.*              | 2 lbs      | 1 gp     |
+| **Blacksmith Tools**     | *Tongs, hammer, and small anvil for metalwork.*                            | 8 lbs      | 5 gp     |
+| **Grinding Stone**       | *Sharpens weapons or tools, restoring their edge.*                         | 6 lbs      | 1 gp     |
+| **Sewing Kit**           | *Needle, thread, and small scissors for mending clothes.*                  | 1 lb       | 2 sp     |
+| **Fishing Tackle**       | *Hooks, line, and bait for catching fish.*                                 | 1 lb       | 1 gp     |
+| **Crowbar**              | *Used for prying open doors, crates, or windows. Provides leverage bonus.* | 5 lbs      | 2 sp     |
+| **Block and Tackle**     | *Pulleys and rope system for lifting heavy objects.*                       | 10 lbs     | 1 gp     |
+| **Chisel**               | *Used for carving wood or stone.*                                          | 1 lb       | 5 cp     |
+| **Shovel**               | *For digging or moving loose material.*                                    | 5 lbs      | 2 sp     |
+| **Tongs (Iron)**         | *Used for gripping hot metal or objects.*                                  | 2 lbs      | 5 sp     |
+| **Hammer (Mason’s)**     | *For breaking stone or driving nails.*                                     | 4 lbs      | 2 sp     |
+| **Hand Drill**           | *Manual drill for small holes in wood or metal.*                           | 2 lbs      | 1 gp     |
+| **Metal File**           | *Smooths rough metal surfaces.*                                            | 1 lb       | 5 sp     |
+| **Pliers**               | *Gripping and bending small objects.*                                      | 1 lb       | 5 sp     |
+| **Awl**                  | *Used to punch holes in leather or wood.*                                  | 0.5 lbs    | 2 cp     |
+| **Small Candle**         | *A candle that burns for 1 hour, providing dim light.*                     | —          | 1 cp     |
+| **Large Candle**         | *A bigger candle for longer burn time (approx. 3 hours).*                  | —          | 5 cp     |
+| **Soap (Bar)**           | *A bar of soap, useful for cleaning or rituals.*                           | 1 lb       | 1 cp     |
+| **Vial (Ceramic)**       | *A small vial for storing liquids or powders.*                             | 1 lb       | 2 sp     |
+| **Sealing Wax**          | *Wax for sealing letters or documents.*                                    | —          | 5 cp     |
+| **Ink Pen (Quill)**      | *A quill pen for writing on parchment.*                                    | —          | 2 cp     |
+| **Broom (Wooden)**       | *A basic broom used for sweeping.*                                         | 3 lbs      | 2 cp     |
+| **Mirror**               | *A small hand mirror.*                                                     | 1 lb       | 5 sp     |
+| **Magnifying Glass**     | *Used for examining fine details and refracting light.*                    | 1 lb       | 10 gp    |
+| **Hourglass**            | *Measures time over a specific interval.*                                  | 2 lbs      | 3 gp     |
+| **Manacles**             | *Restraints for securing prisoners.*                                       | 4 lbs      | 2 gp     |
+| **Idol (Wooden)**        | *Small religious or cultural statue.*                                      | 1 lb       | 5 sp     |
+| **Dice (Set of 6)**      | *Used for games of chance or gambling.*                                    | 0.1 lb     | 1 sp     |

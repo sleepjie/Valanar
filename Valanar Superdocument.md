@@ -523,7 +523,7 @@ The weight of a newborn child is often used as a metric for giving gifts on thei
 ##### Settlements & Structures
 The Capital City of Vitgaard is Kyovashod, a metropolitan jewel of the Northern realms. As the Tsar's seat of power 
 ##### Military and Naval Power 
-Vitgaard relies mostly on conscription to bolster its ranks, and as such, their tactics are usually based on war of attrition, throwing overwhelming numbers onto the enemy rather than outmanoeuvring them. 
+Modern Vitgaard relies mostly on conscription to bolster its ranks, and as such, their tactics are usually based on war of attrition, throwing overwhelming numbers onto the enemy rather than outmanoeuvring them, however, prior to the dissolution of the Old Vitgaardian Empire, 
 
 The vast majority of the peasantry are willing to defend their land with their lives, and as decreed by the Praetorian Edict in 10BR, all have the right to bear arms in the defence of their property, livelihood, and the state itself.
 
@@ -564,11 +564,11 @@ Venizia keeps a well paid and well trained standing army to act as both their ce
 The majority of the population of Nauska is represented by Kanin who have occupied the lands since long before Dol’Calandria was ever settled by Humans. Eldain bade
 
 There is a significant minority of humans in Nauska, many of whom have settled in the lower valleys where agriculture is more feasible. These communities often act as trade intermediaries between the mountain-dwelling Kanin and outsiders, facilitating economic exchanges that benefit the region.
-
 ##### History and Founding
-Nauska was once mostly unsettled land between the salt flats of Khard’s southern border and Old Vitgaard’s northern territories. For centuries, the Kanin clans had been embroiled in relentless civil wars, fighting over land, resources, and ancient grievances. This protracted conflict left Nauska fragmented and vulnerable, and with the clans distracted and dispersed, the Old Vitgaardian Empire initiated a series of aggressive manoeuvres aiming to annex the country. Their approach was both militaristic and strategic, posing a critical threat to the sovereignty and cultural integrity of the Kanin people.
+###### Sadao Shogunate
+Nauska was once mostly unsettled land between the salt flats of Khard’s southern border and Old Vitgaard’s northern territories. For centuries, the Kanin clans had been embroiled in relentless civil wars, fighting over land, resources, and ancient grievances, and this protracted conflict had left Nauska fragmented and vulnerable. With the clans distracted and dispersed, the Old Vitgaardian Empire initiated a series of aggressive manoeuvres aiming to annex the country; their approach was both militaristic and strategic, posing a critical threat to the sovereignty and cultural integrity of the Kanin people. 
 
-It wasn’t until this threat that the Kanin decided to draw their line in the sand. The legendary To Sadao stood at the base of Mount Kaya and was proclaimed to be the strongest of the clan leaders; the Shogunate. Shortly afterwards, he had a chance to prove both his strength and tactical genius at the battle of Nayakami Bay after an uprising had been started, precipitated by the new Shogunate’s demand to open trade with foreigners - something previously unheard of in Kanin society. The uprising was quelled within weeks, and the rebellious upstarts who dared to refuse Sadao’s requests were put to death. 
+It wasn’t until this threat that the Kanin decided to draw their line in the sand. The legendary To Sadao stood at the summit of Mount Kaya and was proclaimed to be the strongest of the clan leaders; the Shogunate. Shortly afterwards, he had a chance to prove both his strength and tactical genius at the battle of Nayakami Bay after an uprising had been started, precipitated by the new Shogunate’s demand to open trade with foreigners - something previously unheard of in Kanin society. The uprising was quelled within weeks, and the rebellious upstarts who dared to refuse Sadao’s requests were put to death. 
 
 Two more ports were opened during the Sadao Shogunate, both of which were closed following his death.   
 
@@ -999,10 +999,11 @@ The original inhabitants, Orcs, now reside in remnants within the Thornwood Fore
 
 There also exists a significant population of Enadriel, who fled to Nydessa following the War of the Elves. It wasn’t until 162SR that King Brandon Steel struck an accord with King Haydn Duskryn which allowed the Enadriel to return to the surface. For many centuries prior, the Enadriel resided in the Worldcaves beneath the Ancient Isles, living in exile as a hidden enemy to the surface kingdoms under the doctrines of the Serpent Queen, Nashandra Vermilithis. 
 ##### History and Founding
-Founded in the year 145BV through right of conquest, Nydessa has evolved from its tumultuous beginnings into a dominant force, particularly in maritime prowess. 
+Founded in the year 145BV through right of conquest, Nydessa has evolved from its tumultuous beginnings into a dominant force, particularly in maritime prowess.  
 ##### Economy and Currency
 The economy of Nydessa thrives on its mastery of the seas and its rich natural resources. The currency, Krowns, supports a market heavily influenced by the trade of ironwood, a resource coveted for its durability and flame-retardant properties, ideal for constructing cities and ships alike. The Break Iron Mines, enriched with minerals like iron and mithril, further bolster Nydessa's economy, despite the haunted tales that shroud them.
 ##### Culture and Society 
+
 
 ##### Geography and Landmarks 
 Nydessa's geography is as varied as its history. From the treacherous Snag, a rocky valley filled with shipwrecks, to the lush, impenetrable Thornwood Forest, which provides sanctuary to the remaining Orcs. The Firewoods, known for their dry, flammable trees and unique flora and fauna, contrast sharply with the fertile, yet blood-soaked Bogwood, scene of the kingdom's bloodiest battles.
@@ -1085,6 +1086,7 @@ A large city built along the source of the largest of the six 'finger' lakes.
 New Hardale is home to Nydessa’s largest prison, a fortress-like structure that dominates the otherwise small settlement. The town exists to serve the prison, with many of its residents being guards, blacksmiths, and clerks who maintain its operation. The prison itself houses Nydessa’s most dangerous criminals, from high-profile traitors to violent offenders unfit for normal incarceration.
 ###### **The Overgrowth**
 **Shirebrook**
+A town 
 
 **Gardale**
 
@@ -1197,9 +1199,12 @@ Major cities feature a mix of towering stone fortresses, hastily built wooden sh
 Despite a lack of any centralised government or standing army, Iprosea is still widely considered to possess one of the most fearsome marine forces in the world; self-serving sea rogues they may be, but when organised, these corsairs are unrivalled in naval warfare. Iprosean captains are known for their mastery of the region’s treacherous waters, making them difficult to outmanoeuvre or ambush.
 
 The most powerful pirate captains often employ their own private forces, equipped with fast, heavily armed vessels capable of both trade escort and naval warfare. In times of external threat, rival factions in Iprosea can rally together, forming a loose coalition to defend the archipelago, though internal conflict is not uncommon even during such alliances.
-  
----
 
+---
+## The Worldcaves
+Also known colloquially as the 'underdark', the Worldcaves are an expansive network of tunnels and caverns which houses an entirely unique ecology and ecosystem. Many species call the Worldcaves their home, though few of them are what other races would consider 'civilised.' 
+
+Worldcave politics are vastly unlike the 
 # Theology
 
 ## The Elder Gods
@@ -1375,9 +1380,9 @@ Prayer - “Lady of the Forest, though I feel your presence all around me, I ask
 Sometimes known as “The Lady of the Hunt”, Eldain is the creator of all beasts and wildlife. Her symbol is believed to bring good luck when carved into wood and worn as a trinket. It is common for hunters to have their arrowheads blessed by a priest of Eldain. 
 ##### Worship Practices
 ##### Rituals & Ceremonies
-The Kanin are 
+Foresters and game hunters often carve the sigil of Eldain into their arrows. 
 
-Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
+Eldain has only one day of celebration, which is the Day of Awakening; the 
 ##### Teachings and Doctrines
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
 #### Influence on Society
@@ -2060,7 +2065,12 @@ Their eyes are smaller than a human’s but incredibly sharp, adapted to see cle
 
 Dwarrow voices tend to be deep and resonant, carrying well even in noisy or enclosed spaces. Their language is built on hard consonants and guttural tones, making it one of the hardest languages to learn for non-native speakers. 
 
-A Dwarrow’s lifespan far exceeds that of humans, with most living well past 300 years. They age gradually, maintaining their strength and skill for centuries before the effects of time begin to slow them.
+A Dwarrow’s lifespan far exceeds that of humans, with most living well past 300 years. They age gradually, maintaining their strength and skill for centuries before the effects of time begin to slow them. 
+###### Deep Dwarrow
+In the Age of Mists, thousands of Dwarrow were forced underground across centuries of societal collapse and natural disasters rendering the surface barren and uninhabitable; this mass exodus eventually resulted in the birth of a new sub-race of Dwarf; the Deep Dwarrow. They possess 
+similar eyesight to the Enadriel, who likewise evolved to sense their environments in the dark, though the Deep Dwarrow are typically much more attuned to the presence of natural light. 
+
+Deep Dwarrow skin colour ranges from ebony to charcoal, 
 ##### Heritage & History
 The Dwarrow are a conscientious race who originated from Nazkuga prior to its devastation. 
 ##### Society
