@@ -114,59 +114,64 @@ Some scholars and priests believe that the Primordials perished in the act of se
 **AV** - After Verassi
 ### The Age of Mist
 A large majority of the Age of Mists remain obfuscated and thus all dates are approximate estimations based on contemporary sources.
-- **2500+BR** - The Great Exodus
+
+- **2500+BR** - *The Great Exodus*
 	The Gods lead the higher races from the mythological land known as Morrowsea to the shores of Valanar.
-- **1903BR** - The Primordial Sacrifice
+- **1903BR** - *The Primordial Sacrifice*
 	The Primordial Dragons are wiped out as the material plane is assaulted by the Greater Fiends. Their 
-- **1900BR** - The Desolation of Malyria
-	The nation of Malyria is obliterated as a magical cataclysm sunders the  and permanently destroys 
-- **1000BR** - Nassau Finishes Construction
-- **850BR** - Fall of Doyverd
-	The world's largest empire crumbles as the 
-- **850BR** - Greater Witzia Founded
+- **1900BR** - *The Desolation of Malyria*
+	The nation of Malyria is obliterated as a magical cataclysm sunders the land and permanently taints the neighbouring region of Nazkuga.  
+- **1000BR** - *Nassau Finishes Construction*
+	Helmed by Emperor Francis the Black himself, the Holy City of Nassau is constructed by the turn of the millennia. It acts as the centre of religion in the Black Empire for thousands of years. 
+- **850/800BR** - *Fall of Doyverd*
+	The world's largest empire steadily collapses under its own weight as each of its constituent states declare independence over a period of half a century. 
+- **850BR** - *Greater Witzia Founded*
 	The Kingdom of Greater Witzia is the first of the Doyverd territories to claim independence, followed by Florence in 832BR and Skaldava around 800BR.
-- **500BR** - Eruption of Mt. Zephyra 
+- **500BR** - *Eruption of Mt. Zephyra*
 	A natural disaster which caused a massive ecological shift in Khard as well as killing tens of thousands of Dwarrow and forcing the rest into the Worldcaves and beyond. 
-- **482BR** - Formation of the Circle of Mages
+- **482BR** - *Formation of the Circle of Mages*
 	The organisation forms after thousands of years of magic users going entirely unchecked, originating in Draymond and eventually spreading throughout Dol-Calandria. 
-- **330BR/320BR** - The Witzian Civil War 
-	Colloquially referred to as ‘The Ten Year War’, a bloody conflict which spanned approximately a decade, concludes.
-- **317BR** - Exile of the Ende'hel
-	The Fane, which had been settled by Ende’hel long before recorded time, is beset by the allied forces of the Giants and the Clan of Grognar’s Chosen. 
-- **315BR** - Dandebar Constructed
+- **410BR** - *The Elven Civil War*
+	Nashandra’s repeated incursions against Orc settlements spark an ideological and political schism. Armed conflict breaks out between the Serenadriel (those who follow Nashandra) and Serende’hel loyalists. The war lasts around a decade.
+- **400BR** - *Exile of the Enadriel*
+	Nashandra and her followers are exiled following a narrow defeat. They flee to the Ancient Isles to the South, landing in Nydessa, where they are immediately beset upon by the native Orc population. 
+- **~380BR** - _Rise of Tae’eel_
+	Nashandra forges pacts with Ilya and Svasna, securing magical protection and support. Tae’eel is constructed as the heart of the new Enadriel society. Over the next 200 years, Nashandra reigns with increasing authoritarianism, establishing the matriarchal structures and religious codes that would define the Enadriel for generations.
+- **330BR/320BR** - *The Witzian Civil War* 
+	Colloquially referred to as ‘The Ten Year War’, a bloody conflict which spanned approximately a decade, concludes. The kingdom is permanently split into Lesser Morovia and the Blythe Coast.
+- **315BR** - *Dandebar Constructed*
 	Dandebar is settled in Drak’Thill as the largest three of the five indigenous tribes unite to establish civilization where none was thought possible. 
-- **309BR/302BR** - Draymond Conquers Einartoft
+- **309BR/302BR** - *Draymond Conquers Einartoft*
 	Draymond expands southward into the borders of Einartoft, who were a primitive country still learning to adapt to the inclement weather. They wage war against the barbarian clans before absorbing some of them into their ranks and ultimately establishing the Snow Kingdom.
-- **230BR/226BR** - The Iron Revolt
+- **230BR/226BR** - *The Iron Revolt*
 	The Old Vitgaardian Empire collapses as the Iron Revolt causes The Northern Praetorship to be established. Each of the constituent countries return to a state of independence. 
-- **226BR/223BR** - Draymond Conquers Florence
+- **226BR/223BR** - *Draymond Conquers Florence*
 	Draymond begins conquering Florence, aided by their constituent country, Einartoft. The conflict lasts for two years before they are annexed by the Empire. 
-- **173BR** - The Elven Civil War
-	Nashandra, Lord of the Enadriel, declares war on her Ende’hel kin. A [civil war](https://docs.google.com/document/u/0/d/1FqhGV9Yn5-fUuBUqJyfY2rhFNQCjN2a18iVclgqvhXQ/edit) ensues, lasting three years, resulting in mass exile and heavy casualties on both sides.
-- **170BR** - Tae'eel Constructed
-	After being pushed into the Worldcaves by the native Orc population, Nashandra and her remaining Enadriel construct Tae’eel after forging a pact with Ilya & Svasna. 
-- **150BR** - Fall of the Sadao Shogunate
+- **150BR** - *Fall of the Sadao Shogunate*
 	The Sadao Shogunate collapses as a coup d’état by the Tau Clan sparks another age of warfare in Nauska.
-- **3BR** - The Exile of the Serende'hel 
-	The Serende’hel lose their sacred capital and are forced to flee from the Fane. This event would come to be known as the Great Exile, as the remaining Elves spread out all across the world. 
+- **157 BR** - _The Death of Nashandra_ 
+	Nashandra, by now known as the Serpent Queen, succumbs to madness and takes her own life. She is discovered by her daughters, who spend the next two centuries vying for power.
+- **3BR** - *The Great Exile* 
+	The Ende'hel lose their sacred capital and are forced to flee from the Fane. This event would come to be known as the Great Exile, as the remaining Elves spread out all across the world. 
 ---
 ### The Age of Ascension
 Characterised by the rise and fall of various kingdoms and empires, the Age of Ascension begins with the Serende’hel Reformation, a cultural renaissance. 
-- **0SR** - The Serende'hel Reformation 
-	The Draymond Calendar is created and instituted across Valanar. With the boon of primeval comprehension, old intellectualism is replaced with new-wave lines of thought, granting an economic boost never before seen. With the aid of the Serende’hel, the world is ushered into an age of enlightenment. As people settle into their roles and humanity finds its footing in Kingdoms and Empires, the path is paved for the world to become what it is today.
-- **72SR** - Settling of the Elven Isles
+
+- **0SR** - *The Serende'hel Reformation* 
+	With the aid of the Serende’hel, the world is ushered into an age of enlightenment; with the boon of primeval comprehension, old intellectualism is replaced with new-wave lines of thought, granting an economic boost never before seen. 
+- **72SR** - *Settling of the Elven Isles*
 	The Elven Isles is officially settled as the construction of New Tairon begins in earnest. 
-- **142SR** - Draymond Conquers Nydessa
+- **142SR** - *Draymond Conquers Nydessa*
 	Draymond simultaneously begins conquering Nydessa and Caldwynn in a major expansion effort, attempting to claim not only the Ancient Isles but Dol-Calandria at the same time.
-- **143SR** - The Northern Concordat
+- **143SR** - *The Northern Concordat*
 	The Northern Concordat is signed between Vitgaard, Venizia, Nauska and Brutayne. Caldwynn joins the accord shortly afterwards as each country declares war on Draymond. 
-- **145SR** - The Ancient Isles Settled
+- **145SR** - *The Ancient Isles Settled*
 	Made up of five nations tightly formed together, the Ancient Islands are solitary from the rest of the world, settled in the following order: Nydessa (145SR), Thanem (146SR), and Agrasilla’Kunthropia (150SR), Iprosea (151SR).
-- **147SR** - Roose's Folly
+- **147SR** - *Roose's Folly*
 	A Nydessan invasion force led by Lord Roose De'Larange enters Wodin and begins conflict with the native populations of Kobolds, Hobgoblins and Centaurs. Within four months they are decimated by the Imperator Dragon Gargryth, who up until this point had either been slumbering or had simply considered Roose to be a non-threat to his domain. Roose's wife, Maeve, 
-- **145SR/150SR** - The Unification War
+- **145SR/150SR** - *The Unification War*
 	The two were originally settled as two separate entities, with chromatic Dragonborn residing within Agrassilla and metallic Dragonborn taking Kunthropia as their home. Through a combination of racism, need of land, and blatant greed, Kunthropia eventually began a crusade on Agrassilla - a war raged for five years, until the war was won by Kunthropia. After the crusades, the lands were united to become Agrassilla’Kunthropia. The war left its scars, with strong racial tensions standing between the two differentiations of colours.
-- **155SR** - Draymond Conquers Caldwynn
+- **155SR** - *Draymond Conquers Caldwynn*
 	Draymond manages to secure victory over Caldwynn by capturing its Capital. After fifteen years of conflict, the Northern Independents sign a peace treaty to end the war, relinquishing Caldwynn as a member of its Coalition. 
 - **156SR** - 
 	Both Nydessa and Einartoft officially break away from the Draymond Empire. 
@@ -176,45 +181,46 @@ Characterised by the rise and fall of various kingdoms and empires, the Age of A
 	The [[#The Watcher Schools]] are all established in their respective countries, and Masters from each are elected to represent the organisation as a whole. Though many of the schools existed before this time, it was in this year that they all officially deemed themselves as Watchers, serving a common purpose.
 - **162SR** - 
 	Haydn Duskryn is crowned as the first King of the Enadriel. In the same year, diplomacy with King Brandon Steel of Nydessa enables the Enadriel to lawfully return to the surface world for the first time in centuries. 
-- **220SR** - The Khard Civil War 
+- **220SR** - *The Khard Civil War* 
 	Fuelled by generations of internal conflict and greed, the Khard Civil War lasted for four of the longest years in the Dwarrow's history. 
 ---
 ### The Age of Heroes
 As the kingdoms of the world settle into a time of relative peace, the Age of Heroes is characterised not by the movements of Empires but individuals. 
+
 - **278SR** - 
 	The Age of Heroes begins. The world is rife with knowledge and awe inspiring sights - people aspire to one day discover these for themselves. An age of prosperity and heroism is starting.
 - **300SR** - 
 	The Free City of Arcade is founded after the Paschas who previously ruled the City are methodically assassinated within days of one another, leading to a people’s revolt. 
 - **313SR** - 
 	The Gomodo Observatory is completed. Astrologists begin observing the constellations of the High Pantheon. 
-- **317SR** - Morrowsea Discovered
+- **317SR** - *Morrowsea Discovered*
 	Morrowsea’s Moon becomes visible for the first time, vindicating scholars who had debated its existence since before the Serende’hel Reformation. 
-- **342SR** - The Bloodfire Epidemic
+- **342SR** - *The Bloodfire Epidemic*
 	An airborne disease known as bloodfire first appears in the Westerlands before quickly spreading across parts of Brutayne, devastating local populations all across Dol’Calenon. It is noted as being the first disease which no known magic could cure. 
-- **360SR** - The White Wall Rebellion
+- **360SR** - *The White Wall Rebellion*
 	Skaldava attempts to break away from the Empire in a short uprising known as the White Wall Rebellion.  
-- **514SR/524SR** - The Nydessan Purge
+- **514SR/524SR** - *The Nydessan Purge*
 	Relations were always strained between the native Orcs of Nydessa and the force of Men who took the land as their own - it was an unspoken rule that going into the Thornwood Forest would result in death by the Orcs, but attacks on roads and even sometimes to towns were common problems. This all boiled over when a regiment of soldiers led by King Uriel's brother in law, Lord Thackton Virt, was sacked and mutilated a few miles east of Stonereach. This caused the king to go into a great rage, ordering the eradication of the native Orcs from Nydessa. The bloody war lasted ten years, with heavy casualties being suffered on both sides; although the Humans had equipment and manpower, they were still in unnatural territory - most wars were fought in fields, and the forests were a completely different situation, with the Orcs using this to their advantage their lack of manpower did not hinder them. After these years though Human scouting parties began to find less and less camps, seeing that the Orcs had either fled or been wiped out, the war was called to an end. Although the humans see this as a victory on their side, there still live remnants of the native Orcs in Thornwood.
-**924SR** - The Great God War
+**924SR** - *The Great God War*
 	Also referred to as The Ancient Dragon War, which was the first worldwide conflict between the Demigods of the Lower Pantheon and the Lower Fiends of Valanar. Due to the overpopulation of beings with powers which rivalled them, many had disputes with each other over who governed what. Over time, the Archfiends built up groups led by Lower Fiends, and erupted into war when one of these groups began launching attacks onto the Material Plane of Valanar. The ascended beings attacked their rivals, using Valanar as a staging ground. The residents of The Ancient Isles were dragged into holy conquests which they had no hopes of winning. Some of the Demigods collaborated to a point where they altered the beings of the Draconic creatures in The Ancient Isles, and created the powerful and destructive dragons that were the norm from then onwards. In the end the Ancient Isles were ravished with no clear victors. Many beings fled, including those of great renown, leaving behind nothing but destruction, and terribly weakened communities. The Gods, seeing the effects of the allure of power on their subjects, chose then to take a step back, vowing to never interfere as recklessly as they had, choosing instead to live in forbearance.
 	Those left behind were left to herald their own fates - creating a new age of Man. In the aftermath of Valanar’s first great war nothing was left unchanged; Einartoft’s southern ocean was frozen over, magical beings rose to power in their respective realms, and many powerful entities were banished amongst the planes.
 
 ---
 ### The Age of Man
 In the aftermath of the Great God War
+
 - **925SR** - 
 	The Age of Man begins. The remaining Gods begin to help humanity rebuild itself, this time with a less heavy handed approach - beings are left to try and find their ways on their own, with the subtle guidance of the Gods. Men experiment and build, creating a society and world for themselves. In this age a man truly does forge his own fate. 
 - **942SR** - 
 	King of Einartoft is assassinated, his only son, Eryk, immediately assumes the throne at the age of sixteen.
 - **950SR** - Einartoft Invades Draymond
 	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
-- **953SR** - 
-	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
 ---
 ### The Age of War
-- **2283SR/2284AV** - The Age of War
+
+- **2283SR/2284AV** - *Birth of Verassi*
 	A powerful Lich known as Dalamar takes control of eight extremely powerful Dragons, using them to wipe out the Holy City of Nassau. The Draymond Empire surrenders shortly after, and Dalamar is free to summon the God-Queen, Verassi.
-- **2363AV** - The Battle of Snowden 
+- **2363AV** - *The Battle of Snowden* 
 	Snowden is besieged by Verassi's forces and are eventually repelled. 
 - **2365AV** - Assault on Sadurak
 - **2366AV** - 
@@ -254,7 +260,7 @@ In the aftermath of the Great God War
 
 ---
 # Geography
-Valanar is home to six continents and dozens of small island nations. In the far east, the hellish dunes of the Sah'Raza 
+Valanar is home to six continents and dozens of small island nations. 
 
 ---
 ## Dol-Calandria
@@ -332,7 +338,7 @@ Nassau is principally populated by Humans and Ende'hel.
 ##### History and Founding
 Prior to its founding, Nassau was principally inhabited by 
 
-Nassau was founded around 500BR by Francis the Black, it is widely considered to be the birthplace of modern theology and its construction was ordered as a place for the papacy and the clergy of every known deity to congregate and study Pantheonism; the polytheistic belief that all Gods exist in tandem and perfect with harmony with one another as arbiters of balancing the universe. Francis himself was possessed of an enlightened perspective on the Gods and helped to shape early religious views, even before the Serende'hel Reformation. Much of the debate that happened during these early days were inconclusive and were fuelled with speculations about the validity and influence of various religious practices and cultures.
+Nassau was founded around 1000BR by Francis the Black, it is widely considered to be the birthplace of modern theology and its construction was ordered as a place for the papacy and the clergy of every known deity to congregate and study Pantheonism; the polytheistic belief that all Gods exist in tandem and perfect with harmony with one another as arbiters of balancing the universe. Francis himself was possessed of an enlightened perspective on the Gods and helped to shape early religious views, even before the Serende'hel Reformation. Much of the debate that happened during these early days were inconclusive and were fuelled with speculations about the validity and influence of various religious practices and cultures.
 ##### Economy and Currency
 Thousands make pilgrimage to the Holy City each year, contributing massively to the country's growth and economic stability. The City is host to numerous religious festivals and 
 ##### Culture and Society 
@@ -651,6 +657,8 @@ The Free Cities of Terracotta defend their borders and shorelines with local mil
 ### Tohren Isle
 ##### Population and Demographics 
 Tohren Isle is home to two primary groups: **Humans** and **Hilgyr (or Gyr)**. The Gyr, hulking humanoid giants, have coexisted peacefully with Humans for thousands of years. This longstanding alliance is rooted in mutual respect, with the Gyr providing physical labor, craftsmanship, and guardianship, while Humans contribute organizational skills, agriculture, and trade. The population of the island is small, numbering fewer than 50,000, with Humans forming the majority. Gyr tend to live in **tribal enclaves** scattered across the island but remain integrated with human society.
+##### History and Founding
+
 ##### Economy and Currency
 Tohren isn't particularly affluent, relying mostly on self sustaining practices and local agriculture rather than trade. Their tenuous history with the Black Empire has made them 
 ##### Culture and Society 
@@ -886,17 +894,29 @@ Soldiers of Khard are trained to fight in the claustrophobic confines of underci
 ---
 ### Malyrian Isles
 ##### Population and Demographics 
-Text here.
+The Malyrian Isles are functionally uninhabited. What remains of its population are scattered remnants; descendants of Dwarrow and Orkryn bloodlines who either refused to leave or were too changed by the Desolation to survive elsewhere. These individuals are few, isolated, and often regarded as mad or cursed by mainland societies. Some dwell in half-collapsed vaults or drift among the outer isles in scavenged vessels, clinging to ritual and memory. Others are nomadic, forming transient bands that follow ley surges or hunt spectral beasts for sustenance. There is no census, no governance, and no reliable record of who remains. Most who live here do so in secrecy, desperation, or devotion to forces long since abandoned by the rest of the world.
+
+The Malyrian Isles are infested with creatures that defy taxonomy; beasts twisted by centuries of magical fallout, planar instability, and psionic corruption. These are not natural predators, but aberrations born from the Desolation itself. Some were once native fauna, warped beyond recognition by ley surges and arcane radiation. Others are planar spillovers, entities that slipped through the wound in reality and now stalk the land in search of sustenance, power, or escape.
+##### History and Founding
+The Malyrian Isles were first settled in the wake of the Great Exodus, when Dwarrow and Orkryn refugees—bound by the ancient Emberstone Pact—sought sanctuary from the divine upheavals that had shattered the old world. Their alliance, forged in the fires of Morrowsea and tempered by centuries of shared struggle, was more than political—it was cultural, spiritual, and deeply personal. Together, they established the Kingdom of Malyria, a hybrid civilization that blended Dwarrow engineering with Orkryn spiritualism. Its capital, Kar’Thendal, rose from the obsidian cliffs like a monument to unity, its towers forged from volcanic glass and its halls carved deep into the stone.
+
+For centuries, Malyria thrived. Its forges burned with soulglass, its rituals echoed with ancestral power, and its scholars pushed the boundaries of arcane understanding. But ambition proved fatal. In their pursuit of metaphysical mastery, the kingdom’s leaders attempted a ritual known as **The Folding**—an experiment meant to merge psionic energy with the material plane. The result was catastrophic. The ley grid ruptured, the land screamed, and the Isles were torn apart in a single, apocalyptic moment.
+
+This event, known as **The Desolation**, marked the end of Malyria. Kar’Thendal was shattered, the surrounding regions were poisoned, and the Emberstone Pact collapsed under the weight of grief and blame. The Isles were abandoned, cursed, and left to rot. What remains today is not a kingdom, but a ruin—a place where history lingers like smoke, and where the land itself remembers what was done to it.
 ##### Economy and Currency
-Text here.
+In the broader geopolitical landscape, Malyria is a ghost. No nation claims it, no empire seeks to reclaim it. It exists as a scar on the map, a reminder of what happens when ambition outpaces wisdom.
 ##### Culture and Society 
-If any society was carved out of the remains of the Malyrian Isles, they 
+There is no true culture left in Malyria—only fragments, rituals without context, and the hollow echoes of a civilization long dead. The Desolation didn’t just destroy cities and landscapes; it unraveled the social fabric of the Isles, leaving behind isolated individuals and broken enclaves that no longer share language, law, or purpose. What remains is survivalism at its most raw. Scavenger bands operate with brutal pragmatism, trading in relics and soulglass when they can, but more often raiding or scavenging from the ruins. The few remaining Dwarrow and Orkryn descendants have retreated into silence or madness, their traditions reduced to gestures and muttered prayers that no longer hold meaning.
+
+There are no festivals, no councils, no shared myths—only superstition and fear. Some enclaves cling to distorted versions of ancestral rites, but these are often twisted by generations of isolation and trauma. Worship, where it exists, is directed not toward gods but toward the storm, the wound, or the land itself—forces that are neither benevolent nor comprehensible. Trust between groups is rare, and most interactions are hostile or transactional. Malyria is not a society—it is a graveyard of one, where the living persist only because they have not yet joined the dead.
 ##### Geography and Landmarks 
-Text here.
+The Malyrian Isles are, for all intents and purposes, a dead land. The Desolation that tore through the region over two millennia ago left behind a shattered archipelago of obsidian wreckage, ley-scarred terrain, and toxic seas. What little remains of its once-great settlements are now half-submerged ruins, haunted by residual magic and the whispers of ancient catastrophe. The land itself is hostile—storms roll in without warning, the air is thick with psionic static, and the ground is unstable, prone to fissures and arcane surges. Most flora and fauna have either mutated or died out, and the few surviving species are predatory, spectral, or outright aberrant. 
+
+Malyria is fractured not just physically, but metaphysically. The ley lines that once powered its forges and rituals now pulse erratically, causing unpredictable magical phenomena. Some scholars believe the Isles sit atop a planar wound—a place where the boundaries between realms were permanently torn. This theory is supported by sightings of spectral entities, time anomalies, and planar bleed-throughs that defy explanation.
 ##### Settlements & Structures
-Text here.
+There are no true cities left in Malyria. The few enclaves that exist are either barely functioning or entirely cut off from the outside world. Travel between islands is perilous, with ley storms capable of tearing ships apart or warping time and space mid-voyage. The waters surrounding the Isles are considered cursed, and most naval charts mark the region as a void, unfit for trade, colonization, or exploration.
 ##### Military and Naval Power 
-Text here.
+There is no organized military presence in Malyria. Defense is personal, improvised, and often ritualistic. Orkryn warbands still roam the coastlines, wielding ancestral weapons and storm-forged blades, their tactics shaped more by instinct and tradition than strategy. Dwarrow vaults are protected by ancient wards and mechanical traps, many of which still function despite centuries of neglect. Naval power is virtually nonexistent. The few vessels that traverse the cursed waters are scavenged, enchanted, or outright possessed—drifting between islands with no allegiance and no guarantee of return. Pirates, cults, and planar anomalies make sea travel nearly impossible, and most captains refuse to enter Malyrian waters at all. Those who do are either desperate, deluded, or damned.
 
 ---
 ### Nazkuga
@@ -921,7 +941,7 @@ Text here.
 
 ---
 ## Sah’Raza
-
+In the far east, the arid and sun scorched Sah'Raza desert is home to the nation of Drak'Thill and its surrounding Free Cities, as well as the Dry Sea.
 ### Drak’Thill
 ##### Population and Demographics 
 There exists a population of Goblinoids who face rampant discrimination and abuse from the higher races, but are nonetheless allowed to reside within city limits and are even often sought after for menial labour (whether they like it or not). 
@@ -967,15 +987,13 @@ Text here.
 ---
 ### The Dry Sea
 ##### Population and Demographics 
-Sandwyrms, Scorpids and Duneracers are the largest predators of the sands and are known to be 
+Sandwyrms, Scorpids and Duneracers are the largest predators of the sands. 
 
 Lizardfolk are known to make their home in the 
 ##### History and Founding
 In the Age of Mists the Dry Sea was believed to have been much more hospitable and fertile, serving as the homeland for at least half of the hill tribes and clans of Drak'Thill.
-
 ##### Economy and Currency
 Clans trade with one another but largely the 
-
 ##### Culture and Society 
 The ecology of the desert is unlike any other place in the world; sand wyrms of varying species and sizes make the desert their home, tunnelling miles beneath the sand and appearing merely as seismic movements, preying on anything foolish enough to cross their lands.  
 ##### Geography and Landmarks 
@@ -989,21 +1007,39 @@ Text here.
 ## The Ancient Isles
 Believed to have been home to the first settlers of Valanar some time into the Age of Mists, the Ancient Isles consists of five independent nations. 
 ### Nydessa
-
 ##### Population and Demographics 
 Though predominantly inhabited by Humans, Nydessa is something of a melting pot for various demographics. 
 
 Nydessa also boasts a significant Dwarrow population who settled in the Age of Ascension within the underground city of Kraghammer following the Khard Civil War.
 
-The original inhabitants, Orcs, now reside in remnants within the Thornwood Forest, a vestige of the five major Orc tribes that once ruled the land.   
+The native inhabitants of the lands were tribes of Orcs who lived in relative harmony with one another; many of their ancestors still reside in remnants within the Thornwood Forest, as vestiges of the five major Orc tribes that originally ruled the land.   
 
 There also exists a significant population of Enadriel, who fled to Nydessa following the War of the Elves. It wasn’t until 162SR that King Brandon Steel struck an accord with King Haydn Duskryn which allowed the Enadriel to return to the surface. For many centuries prior, the Enadriel resided in the Worldcaves beneath the Ancient Isles, living in exile as a hidden enemy to the surface kingdoms under the doctrines of the Serpent Queen, Nashandra Vermilithis. 
 ##### History and Founding
-Founded in the year 145BV through right of conquest, Nydessa has evolved from its tumultuous beginnings into a dominant force, particularly in maritime prowess.  
-##### Economy and Currency
-The economy of Nydessa thrives on its mastery of the seas and its rich natural resources. The currency, Krowns, supports a market heavily influenced by the trade of ironwood, a resource coveted for its durability and flame-retardant properties, ideal for constructing cities and ships alike. The Break Iron Mines, enriched with minerals like iron and mithril, further bolster Nydessa's economy, despite the haunted tales that shroud them.
-##### Culture and Society 
+Prior to The Conquering in 145BV, Nydessa was inhabited primarily by Orc clans who were once native to Wodin before being displaced by the Imperator Dragon, Gargryth. These clans, though not particularly powerful, held onto their territories with an iron grip; showing universal hostility to any and all who entered their lands unbidden, likely as a result of their ancestral position as slaves under Gargryth. 
 
+When the Enadriel were exiled from The Fane following the Elven Civil War and landed in Nydessa after weeks of travel, the Orc clans, disparate and isolated as they were, unanimously hunted and killed as many as they could wherever they were encountered: their camps were razed, convoys would be ambushed, and wherever the Enadriel attempted to find a place to settle, they inevitably found more clans of Orcs waiting for them. Thus, the Enadriel were driven underground and forced into an untenable situation, giving rise to what would eventually become present day Tae'eel, but not before centuries more conflict between the new masters of the Worldcaves and their surface dwelling nemeses would elapse.  
+###### The Conquering
+The Conquering of Nydessa was the titular campaign in which Brandon Steel (dubbed ‘the Conqueror’) unified the fractured lands of [Nydessa](https://docs.google.com/document/u/0/d/10-tv6sPJ3LbTMwtBcCvUxehX7RLO5mR4L9qv71Y2YyY/edit) under the Ironwood Throne. Originally a mercenary under the [Black Empire](https://docs.google.com/document/u/0/d/1lapwsR_Nyt49hpFqiALGCObyN28auooyI9KNHr49Jf4/edit), Brandon and his men were dispatched to the untamed shores of Nydessa with the mission to capture its lands for the ever expanding Empire.
+
+Before the Conquering, the land was a chaotic patchwork of Orc clans, each ruling over their territories with fierce independence. Brandon and his fellow mercenaries arrived on these shores under orders from the Black Empire in the year 142SR, intending to annex the land for the Empire's expanding territories. The Empire enacted a two pronged strike, simultaneously beginning their conquering of Nydessa and Caldwynn in a major expansion effort; two years into the wars, The Northern Concordat is signed between Vitgaard, Venizia, Nauska and Brutayne. Caldwynn joins the accord shortly afterwards as each country declares war on Draymond, the heart of the Black Empire. With the eruption of a great war on the Empire's northern front, resources and reinforcements were redirected, leaving Brandon and his forces isolated and without support.
+
+Not wishing to die for nought, Brandon rallied the remaining soldiers and generals around him. Faced with five prominent native Orc clans who dominated the region, Brandon launched a relentless campaign to subdue them. Through strategic battles and decisive leadership, he systematically dismantled the Orc resistance, driving each clan into hiding, or destruction, within their respective forests. Brandon's conquest was characterised by a series of crucial engagements that showcased his military prowess and tactical ingenuity. 
+
+In the power vacuum that followed, Brandon saw a chance to carve out a new destiny. Recognising the fractured state of Nydessa, he began to unite the disparate soldiers and mercenaries left behind. Through charisma and the promise of a unified, prosperous land, he gained the loyalty of key military leaders and seasoned warriors. Brandon's natural leadership and combat prowess quickly earned him the respect of his fellow soldiers. As the highest-ranking officers were either killed or deserted, the remaining mercenaries rallied behind Brandon, recognizing his strategic acumen and unwavering resolve as their best chance for survival and success. This newly forged alliance was not just a coalition of convenience but a determined force ready to reshape the future of Nydessa.
+
+Brandon lead a mercenary cohort consisting of two major companies, Dawn Company and The Red Skippers. Brandon originally held the position of lieutenant within the Dawn Company, watching over a group of 21 soldiers. Brandon became the group’s commander after their previous leader, Sir Jasper Monteau, fled Nydessa on a trade galleon.
+
+Dawn Company was a pivotal force in Brandon Steel's conquest of Nydessa, supplying the bulk of the manpower and providing two-thirds of the mercenaries present. Originating from Draymond, Dawn Company earned a formidable reputation for its ability to "turn beasts into warriors." This elite mercenary group maintained close ties with the monarchy in Draymond, recruiting its members from across Valanar and honing them into elite fighters. 
+
+The company's renown attracted individuals of notable skill and ambition, making it a melting pot of talent and potential. It was within Dawn Company that Brandon forged some of his most crucial alliances, particularly with Houses Hawthorne and Goldtyde. These alliances were built on mutual respect and shared goals, as commanders from these houses held significant positions within the company. Brandon’s rise to command within Dawn Company began under dire circumstances. Following the abrupt desertion of Commander Monteau, the company found itself leaderless and vulnerable. Brandon, then a lieutenant, quickly stepped up, rallying the demoralised soldiers. His first act as commander was to secure their loyalty by promising not only survival but also a new future carved out from the wild lands of Nydessa.
+
+In battles against the native Orc clans, Dawn Company’s discipline and training proved invaluable. Their ability to adapt to the harsh, unpredictable terrain of Nydessa and to employ a mix of guerrilla tactics and traditional warfare allowed them to consistently keep pace with their foes. The commanders of Houses Hawthorne and Goldtyde, Lords William Hawthorne and Gregor Goldtyde, were instrumental in these early victories. Hawthorne, known for his strategic genius, often served as Brandon’s second-in-command, leading flanking manoeuvres that turned the tide in several key skirmishes. Goldtyde, a master of logistics, ensured that the army was always well-supplied, even in the most remote regions of Nydessa.
+##### Economy and Currency
+Nydessan economics mirrors that of Draymond's in several capacities, especially when it comes to its treatment of the merchant class and how the nation conducts trade on the world stage; the Black Empire has always been an economic powerhouse which has leveraged every export they have ever had access to for maximum control over foreign markets, and the economy of Nydessa likewise thrives on its mastery of the seas and its rich natural resources. 
+
+The currency, Krowns, supports a market heavily influenced by the trade of ironwood, a resource coveted for its durability and flame-retardant properties, ideal for constructing cities and ships alike. The Break Iron Mines, enriched with minerals like iron and mithril, further bolster Nydessa's economy.
+##### Culture and Society 
 
 ##### Geography and Landmarks 
 Nydessa's geography is as varied as its history. From the treacherous Snag, a rocky valley filled with shipwrecks, to the lush, impenetrable Thornwood Forest, which provides sanctuary to the remaining Orcs. The Firewoods, known for their dry, flammable trees and unique flora and fauna, contrast sharply with the fertile, yet blood-soaked Bogwood, scene of the kingdom's bloodiest battles.
@@ -1013,7 +1049,7 @@ Nydessa's geography is as varied as its history. From the treacherous Snag, a ro
 - The King’s Woods: Sacred grounds reserved for royal coronations, embodying Nydessa's conquest and legacy.
 - Whaler’s Bay
 ##### Settlements & Structures
-
+Nydessa is divided into four separate constituencies; the Iron Banner, Emberloft, the Mire Plains and The Overgrowth. 
 ###### **Iron Banner**
 **Ironrath**
 The second-largest city in the country, historically accounting for over a third of Nydessa’s military force. Home to the **Iron Banner**, the city is a fortress in its own right, producing elite soldiers and siege weaponry. Founded by Lord William Hawthorne, it remains a stronghold of martial tradition.
@@ -1049,7 +1085,7 @@ A fishing village that supplies much of the coastal population with fresh and sa
 A picturesque town known for its vineyards and wine production, though prone to wildfires due to its dry summers.
 ###### **East Fold**
 **Hardale Hall**
-The capital city of Nydessa and its oldest human settlement. Built near **Moon Lake**, it serves as the royal seat and the heart of Nydessan governance.
+The capital city of Nydessa and its oldest human settlement. Built near **Moon Lake**, it serves as the royal seat and the heart of Nydessan governance. Construction of the city was initially ordered by the Black Empire and completed in 144BV, the penultimate year of the Conquering. 
 
 **Kraghammer**
 An underground city symbolising Dwarven resilience and craftsmanship constructed in the subterranean caverns beneath Hardale Hall after a large population of Dwarrow refugees from Khard fled the country during its first civil war. Known for its deep mines and legendary forges, it operates with relative autonomy but remains crucial to Nydessa’s economy.
@@ -1058,17 +1094,16 @@ An underground city symbolising Dwarven resilience and craftsmanship constructed
 A rural town known for its horse breeding, providing warhorses to Nydessa’s cavalry.
 
 **Drumchapel**
-
+A prosperous central trade town with roads to Anvil, Holmfirth, Stonereach and Kilmarnack. Considered a vital chokepoint for the East Fold. 
 
 **Stonereach**
 The closest city to the Thornwood Forest and perhaps the country's second most well defended settlement.
 
 **Aramore**
-A very affluent town in one of the country's most picturesque locations. Some of the world's most eloquent manors and private estates were constructed at the request of the country's nobility here, including Brandon the Conqueror. While politically influential, it is economically reliant on wealthier cities for trade and resources.
+A very affluent town in one of the country's most picturesque locations. Some of the world's most eloquent manors and private estates were constructed at the request of the country's nobility here, including Brandon the Conqueror. While politically influential, it is economically reliant on wealthier cities, mainly Stonereach and Hardale Hall, for trade and resources.
 
 ###### **Mire-Plains**
 **Beckinsdale**
-
 
 **Clydesdale**
 Clydesdale is one of the larger towns of the Mire-Plains, known for its extensive farmland and livestock markets. The surrounding plains make it ideal for large-scale farming and horse breeding. Most of the town is spread out rather than concentrated, with farmsteads and hamlets dotting the surrounding fields.
@@ -1135,7 +1170,7 @@ The society of Agrassilla’Kunthropia grapples with deep-seated racial division
 
 The metallic Draconians, driven by a belief in their own supremacy, systematically marginalised the chromatic Draconians. This resulted in the chromatics being deprived of basic rights, subjected to oppressive policies, and forced into subservient roles. The society of Agrassilla'Kunthropia became sharply divided, with the metallics controlling key aspects of governance, resources, and military power, while the chromatics faced widespread discrimination and exclusion.
 
-The ramifications of this division were profound, affecting every aspect of Draconian society. The once unified cultural and spiritual traditions of the Draconians fractured, leading to a loss of shared identity and heritage. The chromatics, in their subjugated state, struggled to preserve their customs and beliefs under the oppressive rule of the metallics.
+The ramifications of this division were profound, affecting every aspect of Draconian society. The once unified cultural and spiritual traditions of the Draconians fractured, leading to a loss of shared identity and heritage. The Chromatics, in their subjugated state, struggled to preserve their customs and beliefs under the oppressive rule of the metallics.
 ##### Geography and Landmarks
 Agrassilla’Kunthropia is a land of contrasts, from the awe-inspiring floating cities, accessible only to metallic Dragonborn and certain authorities, to the haunted Fading Forest, site of the grisly Osthill Massacre. The land's history is etched in every aspect of its society, from its architecture to its customs.
 
@@ -1150,16 +1185,14 @@ Agrassilla’Kunthropia is a land of contrasts, from the awe-inspiring floating 
 ##### Settlements & Structures
 Agrassilla’Kunthropia is renowned for its magical advancements, particularly in sustaining objects in flight, as seen in their floating cities and sky ships. This technological prowess extends to their military capabilities, with Greywharf acting as a strategic naval checkpoint.
 ##### Military and Naval Power  
-For almost a millenia, the Draconian Empire boasted perhaps the most powerful military force in all of Valanar. 
-
-Not only did they enforce conscription 
+For almost a millenia, the Draconian Empire boasted perhaps the most powerful military force in all of Valanar. Not only did they enforce conscription for all able bodied Chromatics for a minimum service term of five years, they  
 
 ---
 ### Wodin
 ##### Population and Demographics 
 Text here.
 ##### History and Founding 
-Founded in the Age of Mists by nomadic settlers who were driven from their homes in Nydessa by the increasingly territorial Orkryn natives. 
+Long before the Primordial Sacrifice and for many a millennia afterwards, Wodin was considered the territory of Gargryth, the Imperator Dragon. His home in the 
 ##### Economy and Currency
 Text here.
 ##### Culture and Society 
@@ -1792,23 +1825,13 @@ Rotahn’s influence as a deity in the lower pantheon of Nauska provides a spiri
 
 The legend of Rotahn stretches back as far as the Sadao Shogunate. 
 ##### Worship Practices
-##### Rituals & Ceremonies
-[Details on the daily rituals performed by followers, including morning and evening practices, meditation, offerings, etc.]  
-Name of Festival: [Description of the festival, including when it is held and the activities involved & explanation of the festival's importance and what it celebrates]
+
 ##### Teachings and Doctrines
 [Guidelines on behaviour and ethics, including any moral principles or rules followers are expected to follow]
 #### Influence on Society
-##### Mages and Scholars
-Role in Society: [Description of how the deity's followers contribute to academic and magical communities]  
-Reputation: [How these followers are viewed by the rest of society]
-##### Common Folk
-Everyday Impact: The worship of Seradriel became much more common and popular as more and more Enadriel and Mirenadriel  
-Cultural Norms: [Influence on societal values, customs, and practices]
-##### Political Influence
-Advisory Roles: [Roles followers play in governance and politics]  
-Conflict Resolution: [Involvement in mediating disputes and maintaining balance]
+
 ##### Art and Literature
-#### Sects & Paladin Orders
+
 ### Azamuth
 Nicknames - The Fire God, The Walking Flame
 Alignment - Neutral
@@ -2072,13 +2095,17 @@ similar eyesight to the Enadriel, who likewise evolved to sense their environmen
 
 Deep Dwarrow skin colour ranges from ebony to charcoal, 
 ##### Heritage & History
-The Dwarrow are a conscientious race who originated from Nazkuga prior to its devastation. 
+During the Great Exodus, the Dwarrow clans who migrated from Luperron were separated during a great storm which cast them into different parts of the world along with their Orkryn allies, as most ended up in either Dol-Quoralis and the Snow Kingdom to the far south or the lands of Malyria and Nazkuga in the far northern reaches of Dol'Valkhiir. 
+
+Following the Desolation of Malyria, which itself can only be described as a magical catastrophe of apocalyptic scale, 
 ##### Society
 While it’s true that most cultures revere their elderly, the Dwarrow take patronage and ancestral pride very seriously, venerating their oldest and most experienced warriors and scholars and respecting the traditions of family and duty. 
 
 While Dwarrow are known for their fierce tempers, they tend to avoid open violence between one another. Disputes within a community are resolved through the practice of the Grudge Drink, a ritual where feuding parties come together to drink and speak their grievances, with the last man at the table being declared the ultimate winner of the dispute if no consensus is reached; failing that, a more physical solution known as the Pug, is employed—an organised fistfight overseen by elders in which neither of the aggrieved fighters are allowed to rest until either of them are victorious. These practices prevent grudges from festering into something more dangerous while maintaining a sense of honour and brotherhood within the clan. 
 ##### Geography
+ 
 
+The Ash Dwarves of Khard originated from 
 
 ---
 ### Kanin
@@ -2098,7 +2125,6 @@ The first major unification of the Kanin came with the Sadao Shogunate, led by t
 
 After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate too fell victim to internal strife; in one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup.
 ##### Society
-
 At the heart of Kanin life is the clan, a family unit extended across generations, with each clan ruling over a specific territory in Nauska. The clan is the ultimate source of identity and protection for its members, and the concept of individualism is largely absent; one’s actions reflect upon the entire clan. Clan loyalty is paramount, and betraying one's clan is one of the greatest shames a Kanin can endure.
 
 Each clan is organised under a strict hierarchy, with clear divisions of roles and responsibilities.The Samurai are the protectors of the clan and enforcers of its laws, and unlike most other societies where warriors might act purely as soldiers, Kanin Samurai also serve as administrators and judges, responsible for the internal order of the clan. 
@@ -2107,6 +2133,9 @@ Beneath the Samurai are the common Kanin, who make up the bulk of society and ar
 
 Despite the hierarchical nature of their society, the Kanin maintain a strong sense of community and collective duty. The welfare of the clan always comes before individual desires, and in this sense, the Kanin are deeply communal, valuing cooperation and sacrifice for the greater good. Decisions that affect the clan as a whole are rarely made without consultation.
 ##### Geography
+The Kanin homeland of Nauska lies in the North Western reaches of Dol-Calandria, a region defined by its dramatic contrasts of snow-capped mountains, mist-laden forests, and sprawling river valleys that carve through the land in vein-like patterns. The terrain is as fractured as Kanin history, with each clan occupying distinct territories shaped by centuries of warfare, diplomacy, and rituals. Some clans dwell in fortified mountain strongholds, their halls carved into the stone and guarded by ancestral shrines, while others inhabit lowland rice terraces and forest enclaves, where bamboo groves and sacred springs mark the boundaries of their influence.
+
+The climate of Nauska varies widely, from the frigid highlands of the north to the humid southern coasts. This diversity has led to regional adaptations among the Kanin—white-furred mountain dwellers with thicker coats and broader frames, and leaner, darker-furred Kanin in the warmer lowlands. Despite these differences, all Kanin share a reverence for the land, which is seen not merely as territory but as a living extension of the clan’s spirit.
 
 ---
 ### Glimmerhin
@@ -2125,8 +2154,7 @@ Despite their dominance in scientific fields, Glimmerhin society harbours a deep
 
 It is important to note that while the Glimmerhin are indeed famous for their contributions in the fields of science and engineering, they are rarely (if ever) recognised as capable mages and spellcasters and magicians are often ostracised and viewed with suspicion; Glimmerhin society is built on the mastery of mechanical engineering and alchemy, where every mechanism, formula, or invention has a logical progression and can be understood and replicated. Magic, on the other hand, often has results that can be unpredictable or depend on innate talent rather than calculated effort, which goes against their fundamental worldview. As a result, Glimmerhin magicians are rare, often ostracized or viewed with suspicion. The few who do exist are either self-exiled or forced to live on the fringes of their society, their abilities tolerated only when they can be rationalized through alchemical or scientific principles.
 
-
-A significant aspect of Glimmerhin society is their symbiotic relationship with the [Enadriel](https://docs.google.com/document/d/1GLjZaw1RiqtxQbovNFf4AK0bxJE_-dd1HMN8yqm08l8/edit?tab=t.0#heading=h.jr205tn1dru2). The founding and construction of their Undercities were greatly aided by the Enadriel, who, through their conquest of the lesser races in the Worldcaves, played a crucial role in their establishment. Additionally, the Glimmerhin have a complex dynamic with Goblins, their natural adversaries; following prolonged conflicts where the Enadriel inflicted severe hardships on the Goblin tribes, the Goblins faced a stark choice: submission or annihilation. Many chose to serve under the Glimmerhin, now occupying an important, albeit subordinate, role in their society.
+A significant aspect of Glimmerhin society is their symbiotic relationship with the Enadriel. The founding and construction of their Undercities were greatly aided by the Enadriel, who, through their conquest of the lesser races in the Worldcaves, played a crucial role in their establishment. Additionally, the Glimmerhin have a complex dynamic with Goblins, their natural adversaries; following prolonged conflicts where the Enadriel inflicted severe hardships on the Goblin tribes, the Goblins faced a stark choice: submission or annihilation. Many chose to serve under the Glimmerhin, now occupying an important, albeit subordinate, role in their society.
 
 Governance among the Glimmerhin is marked by a tradition of diplomacy and representation. Every century, they conduct the Great Referendum, an electoral process to choose their leaders. The House of Lords, a balanced assembly divided between the Enadriel and the Glimmerhin, comprises eighteen seats, nine for each race. In instances where a Lord is unable to complete their term or opts for retirement, they are empowered to appoint a chancellor elect as their successor, ensuring continuity and stability in their leadership.
 ##### Geography
@@ -2142,8 +2170,6 @@ Over time, internal divisions emerged, particularly between Nashandra, who advoc
 
 The unification of their ancient enemies, the Orcs and Giants, forced the Ende'hel to flee their homeland. Led by Lord Tairon, they embarked on a perilous journey across the Krallen Ocean to the Draymond Empire, losing much of their number to the sea. Displaced from their homeland, they faced initial apprehension from the Human population, but eventually found refuge, exchanging their knowledge and cultural heritage for citizenship and a new home. This political alliance and ultimate integration of the Ende’hel into wider society marked the beginning of a significant cultural renaissance in Valanar, influencing various fields of study and leading to advancements in both magic and conventional knowledge. This integration, while preserving some elements of their isolationist heritage, signified a new phase of cultural exchange and intellectual contribution, particularly in the realms of both science and theology.
 ##### Society
-Very ancient society primarily lead by the Seren'el. 
-
 
 ##### Geography
 ### Enadriel 
@@ -2154,11 +2180,19 @@ Their eyesight is significantly poorer than that of other races and as a result 
 
 Living in the labyrinthine depths of the Worldcaves has sharpened the Enadriel’s proprioception—their internal sense of balance, position, and spatial orientation. They have an acute awareness of their physical positioning, adjusting reflexively to any change in terrain or movement; this sensitivity allows them to move with confidence through the darkest, most precarious environments, from treacherous cave systems to narrow cliff ledges. Even with their limited eyesight, Enadriel can "feel" the presence of walls, ledges, or shifting ground through subtle changes in air pressure and vibrations underfoot, a kind of sensory intuition that allows them to navigate as if they could see. This skill is so ingrained that many Enadriel prefer environments others might find disorienting, giving them a natural advantage in places where heightened sensory awareness is key.
 ##### Heritage & History
+###### The Fane
 The Enadriel, like their Ende’hel kin, trace their origins to The Fane, the consecrated homeland gifted to the Seren'el by Seradriel during the Age of Mist. Once a unified race, the Seren'el thrived in this sacred land, building societies deeply influenced by their divine creator. However, the seeds of division were sown as differing ideologies and external threats began to fracture their unity, culminating in the Enadriel's exile and transformation into the people they are known as today.
 
 The Serenadriel, one of the two original branches of Seradriel’s first children, were revered among the Seren'el for their longevity, wisdom, and their unparalleled connection to their creator. Alongside their kin, the Serende’hel, they guided and nurtured the younger generations of Elves in The Fane, shaping the early foundations of their society. Their lifespans stretched over millennia, granting them an almost mythic status among their Ende’hel and Enadriel progeny, who viewed their firstborn ancestors as living embodiments of Seradriel’s divine will.
 
-Within this exalted lineage arose Nashandra, a Serenadriel whose influence and ambition would redefine her people’s destiny. Unlike many of her kin who adhered to Seradriel’s teachings of balance and stewardship, Nashandra believed the world demanded strength and decisive action. Her long life afforded her a perspective that transcended generations and she viewed the Serende’hel’s cautious diplomacy as naïve and their reliance on manipulation as a betrayal of Seradriel’s ideals.
+Within this exalted lineage arose Nashandra, a Serenadriel whose influence and ambition would redefine her people’s destiny. Unlike many of her kin who adhered to Seradriel’s teachings of balance and stewardship, Nashandra believed the world demanded strength and decisive action. Her long life afforded her a perspective that transcended generations and she viewed the Serende’hel’s cautious diplomacy as naïve and their reliance on manipulation as a betrayal of Seradriel’s ideals. 
+###### Civil War
+Her repeated incursions against Orcish settlements sparked outrage among the council, dividing loyalties and ideology. In 410BR, civil war erupted between the Enadriel, consisting of Nashandra’s followers, and the Serende’hel loyalists. Though Nashandra commanded veteran forces and held divine lineage, her campaign ultimately faltered. Defeated in 400BR, she and her followers were exiled from the Fane.
+
+###### Exile To Nydessa
+Fleeing south to the Ancient Isles, they landed in Nydessa—only to be met with immediate hostility from the native Orc population. Ravaged and scattered, Nashandra turned to darker powers. She forged pacts with Ilya and Svasna, the Twin Serpents of the Worldcaves, binding her people to new patrons and magical protections. With their guidance, she oversaw the construction of **Tae’eel**, a bastion of Enadriel authority and the heart of their society.
+
+Over the next two centuries, Nashandra reigned with increasing authoritarianism, reshaping the Enadriel into a matriarchal theocracy. Her laws became scripture, her voice prophecy. The worship of the Twin Serpents became central to Enadriel identity, eclipsing even Seradriel’s influence.
 
 ##### Society
 An Enadriel's upbringing is often marked by a rigorous and disciplined approach, emphasising martial prowess and strategy from a young age. Their education system, involving extensive training and boarding schools, reflects the society's value on preparedness and strength. 
@@ -2179,7 +2213,7 @@ The vast majority of the Orcish population can trace their lineage back to the K
 Genealogically speaking, the Orkryn are considered distant cousins of both Humans and Elves, with much of the same physiological makeup. Temperamentally speaking, however, the two could not be more different, sharing very few instinctual behaviours; save for their mutual love of canines. 
 ##### Geography
 Family and Clan Ties are paramount in Orkryn society. Clans are both spiritual and social units, with members working together to ensure the survival and prosperity of the group. Decisions that affect the clan are often made collectively, and chiefs or war leaders are chosen based on merit but always with input from the shamanic elders. As a result, the Orkryn are often reluctant to leave their homelands. Their deep-rooted connection to their territory—the forests, mountains, or plains they have called home for generations—makes them hesitant to wander or settle far from their ancestral homes.
-### Halflings 
+### Lithfolk
 ##### Physical Traits
 Halflings are a small-statured race, averaging around 3 to 5 feet in height. They possess a stocky but nimble build, with rounded faces and wide, expressive eyes. Their hair is typically curly or wavy, and their skin tones range from fair to olive, depending on their regional origins.
 
@@ -2227,6 +2261,8 @@ There have been hundreds of groups, guilds, associations, enclaves and factions 
 Originally founded in 482BR, the Circle first 
 
 ### The House of Daggers
+Perhaps the world's most infamous organisation of assassins and death-dealers, the House of Daggers have been shrouded in myth and rumour since as far back as the Doyverd Empire, where contemporary accounts even hypothesise that the group began as King Francis the Black's own personal group of loyal killers.  
+
 The method of contracting their services has, like many other facets of the organisation, been a topic of scholarly debate for some time. While some suggest the House of Daggers operate under society’s nose, there are those who posit that their contracts and resources come from the outer planes through bargains made with beings of magnificent influence. 
 
 The latter theory would serve as a possible explanation for the organisation’s seemingly endless amounts of wealth; whenever an assassin believed to be from the organisation has been captured, the reports of a missing ring finger and the possession of opulent weaponry are often found to be common links. Weapons, materials, and armour associated with the House of Daggers are often luxurious and custom-made, with magical enchantments that signify a substantial investment in resources. 
@@ -2336,17 +2372,11 @@ TO DO:
 
 Star Spawn
 
-Ancient/Primaeval Vampyre
-The curse of Vampyrism originates from the blood of Kane, the Morrowsean progenitor of Mankind. 
-
-Vampyre Lord
-Vampyre Spawn
-
-Beasts
-Thundebeast
+### Beasts
+- **Thundebeast**
 A very large and heavy reptilian beast who inhabit the lower crags of the Thanem’s mountain ranges. 
 
-Deep Whales
+- **Deep Whales**
 Growing to almost two hundred feet in length, these enormous leviathans most often reside at the deepest ocean floor they can find; few ever see them in person save for the brief periods of time they surface for air, which is estimated to be once or twice a day. 
 
 They are most commonly seen during their mating season, which is once every six years; during this period, they are known to migrate to the Summer Sea, coming closer to the coastlines than they usually would in search of natural heat sources.  
@@ -2404,101 +2434,98 @@ Karapath
 
 Able to consume any living creature with a single touch; these extremely deadly creatures are spawned from the world caves. The moment a victim comes into physical contact with a Karapath, their cells are immediately assimilated into the creature. They are vulnerable while in sunlight, seemingly unable to maintain their form for long periods while exposed to day. This only means they are easier to detect, however, as they are inhumanly strong with agile, amorphous limbs regardless of its environment. 
 
-  
-
 Lesser Fiends
-
 Lesser Fiends are mortals from one of the material planes who are believed to have ascended to power by entering into an accord with the Archfiends; this belief is predicated mostly on the assumption that the Archfiends work in similar ways to the Higher Pantheon Gods, being able to deliver messages and assert their will metaphysically through mortals.  
 
   
 
 Greater Fiends
-
 Greater Fiends, on the other hand, are mindless abominations believed to have been created in the abyss before time began, who possess no psychic energy whatsoever and are simply manifestations of the Primordial Void’s will to destroy and consume the material plane. 
 
   
   
 
 Undead
-
 An undead creature is classified by its 
 
-  
+Ancient/Primaeval Vampyre
+The curse of Vampyrism originates from the blood of Kane, the Morrowsean progenitor of Mankind. 
+
+Vampyre Lord
+Vampyre Spawn
 
 Malagaph
-
 A spectral entity who established a deep psychic bond with a certain location. While it is common for the ghosts of warriors to wander the battlefield on which they fell, Malagaphs establish a psychic domain in which they are able to exist after death. 
 
   
 
 Rainman
-
 A wandering humanoid who wails and cries as rain constantly bombards him. No matter where he walks, the clouds and the torrents follow. Based on the wife's tale of the coming rain being a sign of a bad omen. Depending on the strength of the rainman’s grief, the viscosity of the rain changes to an oily black liquid.
 
+**Vorrakin**
 The **Vorrakin**, known colloquially as **"Stone Stalkers,"** are **six-limbed, fleshless entities** whose **translucent skin and hollow bones** make them near weightless, allowing them to **cling to cavern walls and ceilings** as they stalk the unwary. They do not attack with brute strength but instead **wait for their prey to become disoriented in the darkness**, using their **glow-organ lures** to confuse and lure travelers away from safe paths before **striking with needle-like fangs**. Their venom does not kill but instead induces **a paralysis-like trance**, allowing them to **devour their victims over several days**.
 
 
 ---
-
 ## Imports & Exports
 
-| Material      | Uses                                                   | Location(s) |     |
-| ------------- | ------------------------------------------------------ | ----------- | --- |
-| Adamantium    | Arms, armour, construction, manufacture                |             |     |
-| Agate         | Gemstone                                               |             |     |
-| Aluminium     | Soft & malleable products (cans, utensils, kegs)       |             |     |
-| Amber         | Common Gemstone                                        |             |     |
-| Amethyst      | Common Gemstone                                        |             |     |
-| Aquamarine    | Rare Gemstone                                          |             |     |
-| Atmaglas      | Magic Conductor                                        |             |     |
-| Azerite       | Common Gemstone                                        |             |     |
-| Bismuth       | Brittle, low melting point (soldering, fire detectors) |             |     |
-| Bloodstone    | Rare Gemstone                                          |             |     |
-| Boron         | Medicine (strengthen bones & muscles)                  |             |     |
-| Calcite       | Construction                                           |             |     |
-| Coal/Charcoal | Fuel                                                   |             |     |
-| Charciron     | Fuel                                                   |             |     |
-| Citrine       | Rare Gemstone                                          |             |     |
-| Cobalt        | Alloys (wear resistant), colour pigment                |             |     |
-| Copper        | Conductor, construction, money                         |             |     |
-| Diamond       | Very Rare Gemstone                                     |             |     |
-| Emerald       | Very Rare Gemstone                                     |             |     |
-| Garnet        | Common Gemstone                                        |             |     |
-| Gold          | Money, jewellery                                       |             |     |
-| Graphite      | High temperature manufacture                           |             |     |
-| Iodine        | Medicine, dyes                                         |             |     |
-| Iron          | Manufacture, construction                              |             |     |
-| Ironwood      | Manufacture, construction                              |             |     |
-| Jade          | Rare Gemstone                                          |             |     |
-| Jasper        | Rare Gemstone                                          |             |     |
-| Jet           | Common Gemstone                                        |             |     |
-| Lapis Lazuli  | Common Gemstone, pigments                              |             |     |
-| Lead          | Pigments, weight (heavy)                               |             |     |
-| Lime          | Construction, alchemy                                  |             |     |
-| Magnesium     | Manufacture, weight (light)                            |             |     |
-| Malachite     | Very Rare Gemstone                                     |             |     |
-| Mercury       | Pigments, measuring pressure                           |             |     |
-| Meteorite     | Fire-starting, Fuel                                    |             |     |
-| Mithril       | Arms, armour, construction, manufacture                |             |     |
-| Moonstone     | Very Rare Gemstone                                     |             |     |
-| Nickel        | Manufacture (alloys)                                   |             |     |
-| Obsidian      | Common Gemstone, arms                                  |             |     |
-| Onyx          | Common Gemstone                                        |             |     |
-| Opal          | Very Rare Gemstone                                     |             |     |
-| Pearl         | Rare Gemstone, alchemy                                 |             |     |
-| Platinum      | Money, alchemy                                         |             |     |
-| Quartz        | Common Gemstone                                        |             |     |
-| Ruby          | Very Rare Gemstone                                     |             |     |
-| Salt          | Food, manufacture, alchemy                             |             |     |
-| Sapphire      | Very Rare Gemstone                                     |             |     |
-| Silver        | Money, manufacture                                     |             |     |
-| Sulfur        | Manufacture, processing ore                            |             |     |
-| Tin           | Manufacture, plating, weight (light)                   |             |     |
-| Titanium      | Manufacture, weight (light), strength                  |             |     |
-| Topaz         | Rare Gemstone                                          |             |     |
-| Turquoise     | Very Rare Gemstone                                     |             |     |
-| Whale Oil     | Manufacture, food, alchemy                             |             |     |
-| Zinc          | Manufacture (galvanising)                              |             |     |
+| Material      | Uses                                                   | Location(s) |
+| ------------- | ------------------------------------------------------ | ----------- |
+| Adamantium    | Arms, armour, construction, manufacture                |             |
+| Agate         | Gemstone                                               |             |
+| Aluminium     | Soft & malleable products (cans, utensils, kegs)       |             |
+| Amber         | Common Gemstone                                        |             |
+| Amethyst      | Common Gemstone                                        |             |
+| Aquamarine    | Rare Gemstone                                          |             |
+| Atmaglas      | Magic Conductor                                        |             |
+| Azerite       | Common Gemstone                                        |             |
+| Bismuth       | Brittle, low melting point (soldering, fire detectors) |             |
+| Bloodstone    | Rare Gemstone                                          |             |
+| Boron         | Medicine (strengthen bones & muscles)                  |             |
+| Calcite       | Construction                                           |             |
+| Coal/Charcoal | Fuel                                                   |             |
+| Charciron     | Fuel                                                   |             |
+| Citrine       | Rare Gemstone                                          |             |
+| Cobalt        | Alloys (wear resistant), colour pigment                |             |
+| Copper        | Conductor, construction, money                         |             |
+| Diamond       | Very Rare Gemstone                                     |             |
+| Emerald       | Very Rare Gemstone                                     |             |
+| Garnet        | Common Gemstone                                        |             |
+| Gold          | Money, jewellery                                       |             |
+| Graphite      | High temperature manufacture                           |             |
+| Iodine        | Medicine, dyes                                         |             |
+| Iron          | Manufacture, construction                              |             |
+| Ironwood      | Manufacture, construction                              |             |
+| Jade          | Rare Gemstone                                          |             |
+| Jasper        | Rare Gemstone                                          |             |
+| Jet           | Common Gemstone                                        |             |
+| Lapis Lazuli  | Common Gemstone, pigments                              |             |
+| Lead          | Pigments, weight (heavy)                               |             |
+| Lime          | Construction, alchemy                                  |             |
+| Magnesium     | Manufacture, weight (light)                            |             |
+| Malachite     | Very Rare Gemstone                                     |             |
+| Mercury       | Pigments, measuring pressure                           |             |
+| Meteorite     | Fire-starting, Fuel                                    |             |
+| Mithril       | Arms, armour, construction, manufacture                |             |
+| Moonstone     | Very Rare Gemstone                                     |             |
+| Nickel        | Manufacture (alloys)                                   |             |
+| Obsidian      | Common Gemstone, arms                                  |             |
+| Onyx          | Common Gemstone                                        |             |
+| Opal          | Very Rare Gemstone                                     |             |
+| Pearl         | Rare Gemstone, alchemy                                 |             |
+| Platinum      | Money, alchemy                                         |             |
+| Quartz        | Common Gemstone                                        |             |
+| Ruby          | Very Rare Gemstone                                     |             |
+| Salt          | Food, manufacture, alchemy                             |             |
+| Sapphire      | Very Rare Gemstone                                     |             |
+| Silver        | Money, manufacture                                     |             |
+| Sulfur        | Manufacture, processing ore                            |             |
+| Tin           | Manufacture, plating, weight (light)                   |             |
+| Titanium      | Manufacture, weight (light), strength                  |             |
+| Topaz         | Rare Gemstone                                          |             |
+| Turquoise     | Very Rare Gemstone                                     |             |
+| Whale Oil     | Manufacture, food, alchemy                             |             |
+| Zinc          | Manufacture (galvanising)                              |             |
 
 Meteorite constantly radiates heat and can be embedded in trinkets and jewellery to provide warmth to vital parts of the body. Meteorite is exceptionally rare and is found exclusively in celestial formations which have fallen to the earth. 
 

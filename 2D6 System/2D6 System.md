@@ -153,7 +153,7 @@ Men typically live to about sixty to seventy years old and as a result are somet
 
 The **Dwarrow** are a stocky, broad-built people, standing between 4’5” and 5’2” on average. Their dense bone structure and compact musculature give them a natural resilience, making them significantly heavier than their height suggests. Their bodies are well-adapted to physical labour and combat, capable of enduring harsh conditions for extended periods without fatigue. Their hair is thick and grows quickly, commonly seen in deep browns, reds, and blacks, though silver and platinum hues appear with age. Beards are a defining trait, with both men and women capable of growing them, and many take great pride in elaborate braiding or grooming rituals.
 
-Their skin tones range from earthen hues of deep bronze to ash grey. Dwarrow possess remarkable physical endurance—their compact bodies are well-suited to harsh environments, allowing them to withstand extreme conditions better than other races. 
+Their skin tones range from earthen hues of deep bronze to ash grey, depending on their place of birth; Dwarrow possess remarkable physical endurance and their compact bodies are well-suited to harsh environments, allowing them to withstand the extreme conditions of their ancestral homelands.
 
 Their eyes are smaller than a human’s but incredibly sharp, adapted to see clearly in dim light. A secondary reflective layer behind the retina enhances their ability to navigate tunnels and caverns, though bright sunlight can be mildly uncomfortable without protective eyewear. Their ears are slightly rounded and pressed close to the skull, offering some protection against debris and environmental hazards common in underground living.
 
@@ -291,32 +291,32 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 | **1**st        | **Powerful Strikes**      | None                        | *Add +2 to a damage roll once per turn.*                                                                                                                            |
 |                | **Armour Mastery**        | None                        | *Add +1 to your TN when wearing Medium or Heavy armour.*                                                                                                            |
 |                | **Riposte**               | Dexterity +2                | *When an enemy misses you with a melee attack, make a counterattack as a reaction.*                                                                                 |
-|                | **Dual Weapon Training**  | Dexterity +2                | *Gain Advantage on your second attack when dual-wielding Light Weapons.*                                                                                            |
-|                | **Shield Expert**         | Shield Proficiency          | *Negate 1 damage from every attack when wielding a shield and gain Major Advantage on Strength checks to shove enemies.*                                            |
+|                | **Dual Wield**            | Dexterity +2                | *Gain Advantage on your second attack when dual-wielding Light Weapons.*                                                                                            |
+|                | **Shield Wall**           | None                        | *Negate 1 damage from every attack when wielding a shield and gain Major Advantage on Strength checks to shove enemies.*                                            |
 |                | **Tactical Insight**      | None                        | *Once per round, grant an ally within 20ft Major Advantage on their next attack or saving throw.*                                                                   |
-|                | **Brutal Attack**         | Strength +2 or Dexterity +2 | *Once per turn, reroll a damage die and use the higher result.*                                                                                                     |
+|                | **Combat Roll**           | Athletics or Acrobatics     | *Once per turn, after making a melee attack, you may move 5 feet as a free action. This movement does not provoke opportunity attacks.*                             |
 |                | **Overpower**             | Strength +2                 | *Knock a target Prone on a successful melee attack (TN 12 to resist).*                                                                                              |
-|                | **Defensive Reflex**      | None                        | *Gain Advantage on Initiative Rolls and attacks of opportunity.*                                                                                                    |
-|                | **Brawler**               | None                        | *Gain Major Advantage on unarmed strikes and grapples.*                                                                                                             |
-|                | **One-Handed Fighter**    | Strength +2 or Dexterity +2 | *Add +2 to attack rolls when wielding a single weapon with no shield.*                                                                                              |
-|                | **Weapon Specialist**     | None                        | *Choose a weapon type: Slashing or Bludgeoning. Gain +1 to attack rolls and damage rolls when using that weapon.*                                                   |
-| **2**nd        | **Charge**                | Strength +2                 | *Once per encounter, move 10 feet and make an attack with Major Advantage. If you hit, deal +2D6 damage.*                                                           |
-|                | **Defensive Stance**      | None                        | *Use a reaction to add +2 to your TN until the start of your next turn.*                                                                                            |
+|                | **Quick Reflex**          | None                        | *Gain Advantage on Initiative Rolls and attacks of opportunity.*                                                                                                    |
+|                | **Brawler**               | None                        | *Gain Advantage on unarmed strikes, grapples, and improvised weapon attacks. You may deal 1D6+Strength damage with fists.*                                          |
+|                | **Fencing Stance**        | Strength +2 or Dexterity +2 | *Add +2 to attack rolls when wielding a single weapon with no shield.*                                                                                              |
+|                | **Specialist Training**   | None                        | *Pick a weapon type: slashing, bludgeoning, or piercing. When you use weapons of that type, you get +1 to hit and +1 to damage.*                                    |
+| **2**nd        | **Unstoppable Force**     | Strength +2                 | *Once per encounter, move 10 feet and make an attack with Major Advantage. If you hit, deal +2D6 damage.*                                                           |
+|                | **Defensive Stance**      | None                        | *Once per encounter, use a reaction to add +2 to your TN until the start of your next turn.*                                                                        |
 |                | **Last Stand**            | None                        | *When reduced to 0 HP, make a TN 12 roll. On success, regain 1D6 HP instead of falling unconscious.*                                                                |
-|                | **Brutal Work**           | Strength +2 or Dexterity +2 | *Once per turn, reroll a damage die and use the higher result.*                                                                                                     |
-|                | **Fencing Expert**        | Strength +2 or Dexterity +2 | *Add +2 to attack rolls when wielding a single weapon with no shield.*                                                                                              |
-|                | **Overpower**             | None                        | *Knock a target prone on a successful melee attack (TN 12 to resist). If you roll Major Advantage on the attack, they suffer Disadvantage on the save.*             |
-|                | **Stalwart Guard**        | None                        | *When adjacent to an ally, both you and the ally gain +1 TN.*                                                                                                       |
-|                | **Reckless Assault**      | None                        | *Add +1D6 damage to your melee attacks but take -2 TN until the start of your next turn.*                                                                           |
-|                | **Shatter Guard**         | None                        | *Your attacks ignore shield-based TN bonuses.*                                                                                                                      |
-|                | **Crippling Strike**      | Strength +2                 | *Once per encounter, impose Major Disadvantage on an enemy’s next attack after hitting them.*                                                                       |
+|                | **Twist The Knife**       | Strength +2 or Dexterity +2 | *Once per encounter, you may reroll one damage die and take the higher result. You regain this ability when you score a Critical Hit.*                              |
+|                | **Immovable Object**      | De                          | *When wearing Medium or Heavy armor, you may use your reaction to automatically succeed a Dexterity save once per short rest.*                                      |
+|                | **Trip Attack**           | None                        | *Knock a target prone on a successful melee attack (TN 12 to resist). If you roll Major Advantage on the attack, they suffer Disadvantage on the save.*             |
+|                | **Back To Back**          | None                        | *When adjacent to an ally, both you and the ally gain +1 TN.*                                                                                                       |
+|                | **Risky Play**            | None                        | *Add +1D6 damage to your melee attacks but take -2 TN until the start of your next turn.*                                                                           |
+|                | **Shield Breaker**        | None                        | *Your attacks ignore shield-based TN bonuses.*                                                                                                                      |
+|                | **Dirty Trick **          | Strength +2                 | *Once per encounter, impose Major Disadvantage on an enemy’s next attack after hitting them.*                                                                       |
 |                | **Iron Grip**             | None                        | *You cannot be disarmed or knocked prone unless failing a TN 16 check.*                                                                                             |
 |                | **Heavy Strikes**         | Strength +2                 | *Your melee attacks deal +2 damage when using two-handed weapons.*                                                                                                  |
 | **3**rd        | **Cleave**                | Strength +3                 | *When you reduce an enemy to 0 HP, make another attack against an adjacent enemy.*                                                                                  |
 |                | **Savage Assault**        | None                        | *Once per round, make an additional melee attack as part of your action.*                                                                                           |
 |                | **Shield Wall**           | Shield Expert               | *Allies within 5ft gain +1 to their TN while you are wielding a shield.*                                                                                            |
 |                | **Precision Strike**      | Dexterity +3                | *Once per encounter, roll with Major Advantage on an attack.*                                                                                                       |
-|                | **Battle Awareness**      | Perception Proficiency      | *Gain Major Advantage on initiative rolls and cannot be surprised while conscious.*                                                                                 |
+|                | **Sixth Sense**           | Defensive Reflex            | *Gain Major Advantage on initiative rolls and cannot be surprised while conscious.*                                                                                 |
 |                | **Unstoppable Charge**    | Charge                      | *Add +1D6 damage to your charge attack and force the target to make a TN 12 Strength check or be knocked prone.*                                                    |
 |                | **Brutal Momentum**       | Strength +3                 | *If you hit with a melee attack, gain Advantage on your next attack against the same target.*                                                                       |
 |                | **Bastion**               | Stalwart Guard              | *Gain +1 TN permanently.*                                                                                                                                           |
@@ -328,23 +328,22 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |                | **Battlefield Commander** | Charisma +2                 | *Allies within 10ft gain +2 to attack rolls and gain an extra 10ft of movement during the first round of combat.*                                                   |
 |                | **Fury of Blades**        | Dual Weapon Training        | *When dual-wielding, make a third attack without penalty once per encounter.*                                                                                       |
 |                | **Rallying Cry**          | Charisma +2                 | *Allies within 10 feet regain 1D6 HP when you reduce an enemy to 0 HP.*                                                                                             |
-|                | **Reckless Assault**      | None                        | *Add +1D6 damage to your melee attacks but take -2 to your TN until the start of your next turn.*                                                                   |
+|                |                           |                             |                                                                                                                                                                     |
 |                | **Veteran’s Instinct**    | None                        | *Gain Advantage on all attacks against targets you’ve already hit this combat.*                                                                                     |
 |                | **Bulwark Stance**        | Shield Wall                 | *While wielding a shield, you cannot be moved, knocked prone, or disarmed.*                                                                                         |
 |                | **Overwhelming Might**    | Strength +4                 | *If you miss an attack by 1 or 2, roll 1D6. If the result is 4+, the attack hits instead.*                                                                          |
 |                | **Precision Tactician**   | Tactical Mastery            | *Once per encounter, give Advantage to an ally’s next attack, movement, or saving throw.*                                                                           |
-|                | **Second Wind**           | None                        | *As a bonus action, regain 2D6 + Fighter Level HP once per short rest.*                                                                                             |
-|                | **Adaptive Combatant**    | None                        | *If you miss an attack, gain Advantage on your next attack against the same target.*                                                                                |
+|                | **Final Blow**            | None                        | *Once per long rest, deal triple damage if attacking a target below half HP.*                                                                                       |
+|                | **Adaptive Actions**      | None                        | *If you miss an attack, gain Advantage on your next attack against the same target.*                                                                                |
 |                | **Siege Master**          | None                        | *You deal double damage to objects, structures, and fortifications.*                                                                                                |
 | **5**th        | **Avatar of War**         | Strength +3                 | *Gain a third attack each turn and add +2D6 to all critical hits.*                                                                                                  |
 |                | **Unstoppable Force**     | None                        | *Once per encounter, ignore your target’s TN for all attacks this round.*                                                                                           |
 |                | **Sunder**                | Strength +3                 | *Your attacks now permanently weaken enemy armor. Each hit against an armored enemy reduces their TN by 1 for the rest of combat.*                                  |
-|                | **Death Blow**            | Strength +3 or Dexterity +3 | *Once per encounter, deal triple damage on a critical hit.*                                                                                                         |
 |                | **Endless Onslaught**     | Cleave                      | *Each time you reduce an enemy to 0 HP, move up to 10 feet and make another attack without provoking an attack of opportunity.*                                     |
 |                | **Bulwark**               | Shield Wall                 | *When equipped with a shield, reduce all physical damage by half. Additionally, if an enemy misses an attack, you can use your reaction to shove them 5 feet away.* |
 |                | **Warlord’s Presence**    | Charisma +3                 | *Allies within 30 feet gain +1 to attack rolls and saving throws and an additional 10ft of movement speed while you are in combat.*                                 |
 |                | **Executioner**           | Strength +4                 | *When an enemy is at half HP or lower, your melee attacks gain Advantage.*                                                                                          |
-|                | **Indomitable Might**     | None                        | *When reduced to 0 HP, roll 2D6. If the result is 8 or higher, regain 1D6 + Fighter Level HP instead of falling unconscious.*                                       |
+|                | **Unstoppable**           | None                        | *When reduced to 0 HP, roll 2D6. If the result is 8 or higher, regain 2D6 + Fighter Level HP instead of falling unconscious.*                                       |
 |                | **Onslaught**             | Endless Onslaught           | *Instead of making an extra attack after killing a foe, you can move 15 feet and make two additional attacks.*                                                      |
 |                | **Titan Killer**          | Strength +4                 | *Against all creatures at least one size larger than you, deal +1D6 extra damage and ignore 2 points of TN.*                                                        |
 |                |                           |                             |                                                                                                                                                                     |
@@ -437,68 +436,68 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium
 - **Armour Proficiencies:** Light, Medium, Shields
 
-| Tier | **Feat Name**                | **Prerequisites**       | **Effect**                                                                                                                                                                        |
-| ---- | ---------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st  | **Weight of the Oath**       | None                    | *Oaths have mechanical significance. Breaking an Oath removes divine abilities for 24 hours. While upholding faith, gain Advantage on Willpower saves.*                 |
-|      | **Hands of the Martyr**      | None                    | *When an ally within 10 feet drops to 0 HP, you can take the remaining damage instead.*                                                                                     |
-|      | **Righteous Fury**           | None                    | *Gain Major Advantage on an attack against an enemy who harmed a helpless creature.*                                                                                        |
-|      | **Shield of Conviction**     | None                    | *Increase TN by +1 while wearing armor.*                                                                                                                                    |
-|      | **Divine Channeling**        | None                    | *Once per long rest, cast a Miracle without spending Spell Points.*                                                                                                     |
-|      | **Sacred Armaments**         | None                    | *Your melee weapon is considered magical and deals +1D6 Radiant damage.*                                                                                                    |
-|      | **Commanding Presence**      | None                    | *You can issue a single-word command (e.g., Halt, Drop, Flee). Non-hostile creatures within 30ft must make a TN 12 Willpower save or obey.*                               |
-|      | **Defiant Spirit**           | None                    | *Gain Advantage on rolls against being Frightened or Charmed.*                                                                                                          |
-|      | **Burning Conviction**       | None                    | *Taking damage while conscious grants +1 to attack rolls until end of next turn.*                                                                                               |
-|      | **Holy Purge**               | None                    | *Once per long rest, remove a Disease, or Poison from a creature you touch.*                                                                                                    |
-|      | **Blessed Endurance**        | None                    | *Gain +2 TN against Exhaustion, Necrotic Drain, and effects that reduce max HP.*                                                                                            |
-|      | **Battle Cleric’s Stance**   | None                    | *When wielding a melee weapon, you can use your reaction to impose Disadvantage on an enemy’s attack against an ally within 5ft.*                                       |
+| Tier | **Feat Name**                | **Prerequisites**       | **Effect**                                                                                                                                                          |
+| ---- | ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st  | **Weight of the Oath**       | None                    | *Oaths have mechanical significance. Breaking an Oath removes divine abilities for 24 hours. While upholding faith, gain Advantage on Willpower saves.*             |
+|      | **Hands of the Martyr**      | None                    | *When an ally within 10 feet drops to 0 HP, you can take the remaining damage instead.*                                                                             |
+|      | **Righteous Fury**           | None                    | *Gain Major Advantage on an attack against an enemy who harmed a helpless creature.*                                                                                |
+|      | **Shield of Conviction**     | None                    | *Increase TN by +1 while wearing armor.*                                                                                                                            |
+|      | **Divine Channel**           | None                    | *Once per long rest, cast a Miracle without spending Spell Points.*                                                                                                 |
+|      | **Sacred Armaments**         | None                    | *Your melee weapon is considered magical and deals +1D6 Radiant damage.*                                                                                            |
+|      | **Commanding Presence**      | None                    | *You can issue a single-word command (e.g., Halt, Drop, Flee). Non-hostile creatures within 30ft must make a TN 12 Willpower save or obey.*                         |
+|      | **Defiance**                 | None                    | *Gain Advantage on rolls against being Frightened or Charmed.*                                                                                                      |
+|      | **Steel Conviction**         | None                    | *Taking damage while conscious grants +1 to attack rolls until end of next turn.*                                                                                   |
+|      | **Gifted Healer**            | None                    | *Once per long rest, remove a Disease, or Poison from a creature you touch.*                                                                                        |
+|      | **Blessed Endurance**        | None                    | *Gain +2 TN against Exhaustion, Necrotic Drain, and effects that reduce max HP.*                                                                                    |
+|      | **Battlepriest's Stance**    | None                    | *When wielding a melee weapon, you can use your reaction to impose Disadvantage on an enemy’s attack against an ally within 5ft.*                                   |
 | 2nd  | **Condemn the False**        | None                    | *Once per long rest, force a creature to make a TN 12 Willpower save or be Shaken for 1 minute.*                                                                    |
-|      | **Wrath of the Divine**      | Righteous Fury          | *Once per encounter, deal 2D6 Radiant damage to an enemy who has struck you.*                                                                                               |
-|      | **Armor of the Faithful**    | Shield of Conviction    | *While wearing armor, you cannot be Disarmed, Grappled, or Knocked Prone unless hit by a Critical Success.*                                                                 |
-|      | **Tenacious Zeal**           | None                    | *If you Dash, you may make one melee attack as part of the movement.*                                                                                                           |
-|      | **Blessed Weapon**           | Sacred Armaments        | *Your melee weapon deals +1D6 Radiant damage against Undead or Fiends.*                                                                                                     |
-|      | **Righteous Smite**          | None                    | *Once per turn, after hitting a creature, you may spend 1 SP to deal +1D6 Radiant damage.*                                                                              |
-|      | **Retributive Strike**       | None                    | *When an enemy within melee range attacks an ally, you can use your reaction to strike them before their attack resolves.*                                                  |
-|      | **Divine Aura**              | None                    | *Allies within 10 feet gain Advantage on saving throws against mind-affecting magic.*                                                                                       |
+|      | **Divine Restitution**       | Righteous Fury          | *Once per encounter, deal 2D6 Radiant damage to an enemy who has struck you.*                                                                                       |
+|      | **Armor of the Faithful**    | Shield of Conviction    | *While wearing armor, you cannot be grappled, or knocked prone unless hit by a Critical Hit*                                                                        |
+|      | **Tenacious Advance**        | None                    | *Once per encounter, if you take the Dash action, you may make one melee attack as part of the movement.*                                                           |
+|      | **Blessed Weapon**           | Sacred Armaments        | *Your melee weapon deals +1D6 Radiant damage against the Undead and Fiends.*                                                                                        |
+|      | **Righteous Smite**          | None                    | *Once per turn, after hitting a creature, you may spend 1 MP to deal +1D6 Radiant damage.*                                                                          |
+|      | **Retributive Strike**       | None                    | *When an enemy within melee range attacks an ally, you can use your reaction to strike them before their attack resolves.*                                          |
+|      | **Divine Aura**              | None                    | *Allies within 10 feet gain Advantage on saving throws against mind-affecting magic.*                                                                               |
 |      | **Miracle Infusion**         | Divine Channeling       | *When casting a Miracle, you may spend +1 SP to heal an ally within 10ft for 1D6 HP.*                                                                               |
-|      | **Steadfast Guardian**       | None                    | *Allies within 10 feet cannot be Frightened while you are conscious.*                                                                                                       |
-|      | **Sacred Recovery**          | None                    | *When you succeed on a Willpower saving throw, regain 1D6 HP (once per round).*                                                                                             |
-|      | **Sentinel of Faith**        | None                    | *When standing still, gain +1 TN against attacks and Advantage against forced movement.*                                                                                    |
-| 3rd  | **Unbroken Line**            | None                    | *Allies within 10 feet cannot be Shoved or Pulled unless they choose to be.*                                                                                                |
+|      | **Steadfast Guardian**       | None                    | *Allies within 10 feet cannot be Frightened while you are conscious.*                                                                                               |
+|      | **Sacred Recovery**          | None                    | *When you succeed on a Willpower saving throw, regain 1D6 HP (once per round).*                                                                                     |
+|      | **Sentinel of Faith**        | None                    | *When standing still, gain +1 TN against attacks and Advantage against forced movement.*                                                                            |
+| 3rd  | **Unbroken Line**            | None                    | *Allies within 10 feet cannot be Shoved or Pulled unless they choose to be.*                                                                                        |
 |      | **Hand of Ordination**       | Commanding Presence     | *Once per long rest, anoint an ally (or yourself) as a Divine Champion. They gain Advantage on attacks against enemies of your faith. Only one champion at a time.* |
-|      | **Judgment is Passed**       | None                    | *Once per combat, reroll a missed attack against an enemy that harmed an ally.*                                                                                                 |
-|      | **Banner of the Righteous**  | Shield of Conviction    | *Once per combat, plant your weapon in the ground—allies within 10ft gain +2 TN and Advantage on saves.*                                                                    |
+|      | **Judgment is Passed**       | None                    | *Once per combat, reroll a missed attack against an enemy that harmed an ally.*                                                                                     |
+|      | **Banner of the Righteous**  | Shield of Conviction    | *Once per combat, plant your weapon in the ground—allies within 10ft gain +2 TN and Advantage on saves.*                                                            |
 |      | **Sanctuary of the Devout**  | None                    | *Once per long rest, create a 15ft divine barrier that grants resistance to all damage for 1 round.*                                                                |
-|      | **Piercing Light**           | Blessed Weapon          | *Your Radiant attacks ignore resistances.*                                                                                                                                      |
-|      | **Defender of the Faith**    | None                    | *When an enemy critically hits you, gain +2 TN until the start of your next turn.*                                                                                              |
-|      | **Sacrificial Shield**       | None                    | *As a reaction, take half damage in place of an ally within 10ft. If you block a critical hit, your shield is damaged.*                                                 |
-|      | **Martyr’s Resolve**         | Burning Conviction      | *When reduced to 0 HP, stay conscious for 1 extra round before falling.*                                                                                                    |
-|      | **Divine Might**             | Sacred Armaments        | *Your melee attacks deal +1D6 Radiant or Necrotic damage, and you may add this damage to a Miracle attack.*                                                                     |
-|      | **Guiding Light**            | None                    | *Once per encounter, grant an ally within 10ft Advantage on their next saving throw.*                                                                                   |
-|      | **Holy Rebuke**              | None                    | *When a creature targets you with a spell, force them to make a TN 12 Willpower save or take 2D6 Radiant damage.*                                                           |
+|      | **Piercing Light**           | Blessed Weapon          | *Your Radiant attacks ignore resistances.*                                                                                                                          |
+|      | **Defender of the Faith**    | None                    | *When an enemy critically hits you, gain +2 TN until the start of your next turn.*                                                                                  |
+|      | **Sacrificial Shield**       | None                    | *As a reaction, take half damage in place of an ally within 10ft. If you block a critical hit, your shield is damaged.*                                             |
+|      | **Martyr’s Resolve**         | Burning Conviction      | *When reduced to 0 HP, stay conscious for 1 extra round before falling.*                                                                                            |
+|      | **Divine Might**             | Sacred Armaments        | *Your melee attacks deal +1D6 Radiant or Necrotic damage, and you may add this damage to a Miracle attack.*                                                         |
+|      | **Guiding Light**            | None                    | *Once per encounter, grant an ally within 10ft Advantage on their next saving throw.*                                                                               |
+|      | **Holy Rebuke**              | None                    | *When a creature targets you with a spell, force them to make a TN 12 Willpower save or take 2D6 Radiant damage.*                                                   |
 | 4th  | **Avatar of Judgment**       | None                    | *Once per encounter, force an enemy to make a TN 14 Willpower save or suffer Major Disadvantage on all rolls for 3 rounds.*                                         |
-|      | **Divine Retribution**       | Blessed Weapon          | *Once per encounter, when critically hit, strike back with a guaranteed critical hit.*                                                                                  |
-|      | **Cleansing Touch**          | Holy Purge              | *Once per long rest, remove all conditions from a willing creature.*                                                                                                        |
-|      | **Paragon of Faith**         | None                    | *Immune to Frightened, Charmed, and Mind Control effects. Gain Advantage on saves against divine magic.*                                                                    |
-|      | **Unyielding Will**          | Defiant Spirit          | *You automatically succeed on saving throws against Charm and Fear effects.*                                                                                                |
-|      | **Faith’s Bastion**          | None                    | *Allies within 10ft gain Advantage against Necrotic, Psychic, and Mind-Affecting effects.*                                                                              |
-|      | **Retribution’s Edge**       | None                    | *When you kill an enemy, gain +1 to attack rolls until the end of combat.*                                                                                                      |
-|      | **Banish the Unclean**       | None                    | *When striking Undead, Fiends, or Aberrations, force them to make a TN 14 Willpower save or be Banished for 1 minute.*                                                  |
+|      | **Divine Retribution**       | Blessed Weapon          | *Once per encounter, when critically hit, strike back with a guaranteed critical hit.*                                                                              |
+|      | **Cleansing Touch**          | Holy Purge              | *Once per long rest, remove all conditions from a willing creature.*                                                                                                |
+|      | **Paragon of Faith**         | None                    | *Immune to Frightened, Charmed, and Mind Control effects. Gain Advantage on saves against divine magic.*                                                            |
+|      | **Unyielding Will**          | Defiant Spirit          | *You automatically succeed on saving throws against Charm and Fear effects.*                                                                                        |
+|      | **Faith’s Bastion**          | None                    | *Allies within 10ft gain Advantage against Necrotic, Psychic, and Mind-Affecting effects.*                                                                          |
+|      | **Retribution’s Edge**       | None                    | *When you kill an enemy, gain +1 to attack rolls until the end of combat.*                                                                                          |
+|      | **Banish the Unclean**       | None                    | *When striking Undead, Fiends, or Aberrations, force them to make a TN 14 Willpower save or be Banished for 1 minute.*                                              |
 |      | **Divine Ward**              | None                    | *Once per long rest, create a 15ft ward that grants resistance to all damage and blocks teleportation for 1 minute.*                                                |
 |      | **Miraculous Intervention**  | Divine Channeling       | *Once per long rest, when an ally within 30ft drops to 0 HP, they instantly regain 3D6 HP.*                                                                         |
-|      | **Rite of the Anointed**     | Hand of Ordination      | *Your Ordained warrior gains +1 TN and Advantage on attacks instead of Advantage on all attacks & +2 TN.*                                                               |
+|      | **Rite of the Anointed**     | Hand of Ordination      | *Your Ordained warrior gains +1 TN and Advantage on attacks instead of Advantage on all attacks & +2 TN.*                                                           |
 |      | **Shield of the Martyr**     | Sacrificial Shield      | *Once per long rest, create a 20ft protective aura for 1 minute. Allies within the aura gain +2 TN and resistance to damage.*                                       |
-| 5th  | **Beacon of the Faithful**   | None                    | *Allies within 30ft gain +1 TN and Advantage on Willpower saves as long as you stand.*                                                                                      |
+| 5th  | **Beacon of the Faithful**   | None                    | *Allies within 30ft gain +1 TN and Advantage on Willpower saves as long as you stand.*                                                                              |
 |      | **Divine Aegis**             | Faith’s Bastion         | *Allies within 15ft gain resistance to all magic damage and have Advantage on dispelling effects.*                                                                  |
 |      | **Oathkeeper’s Vow**         | None                    | *If you take an Oath, choose a Virtue (e.g., Justice, Protection). Once per encounter, invoke it to gain Advantage on all rolls for 1 round.*                       |
-|      | **Radiant Fury**             | None                    | *When casting a Miracle, spend +2 SP to deal an additional 3D6 Radiant or Necrotic damage to all enemies within 10ft of the target.*                                    |
+|      | **Radiant Fury**             | None                    | *When casting a Miracle, spend +2 SP to deal an additional 3D6 Radiant or Necrotic damage to all enemies within 10ft of the target.*                                |
 |      | **Ascendant Revival**        | Miraculous Intervention | *Once per long rest, if you are reduced to 0 HP, you instead drop to 1 HP and heal 5D6 HP.*                                                                         |
-|      | **Champion of the Pantheon** | Hand of Ordination      | *You may Ordain up to two warriors at the same time.*                                                                                                                           |
-|      | **Wrath of the Heavens**     | None                    | *When you strike an enemy with a melee attack, you may spend 2 SP to summon a divine lightning bolt or firestorm (15ft radius, 3D6 damage, TN 14 Reflex save).*             |
-|      | **Immovable Faith**          | Unyielding Will         | *You cannot be magically compelled, deceived, or dominated unless by a deity.*                                                                                                  |
-|      | **Judgment Manifest**        | Avatar of Judgment      | *Your Avatar of Judgment ability now lasts 5 rounds instead of 3 and forces a TN 16 Willpower save.*                                                                    |
-|      | **Decree of the Divine**     | None                    | *Once per long rest, declare a sacred edict (e.g., “No fear shall enter this place”). For 1 hour, the effect is absolute within 30ft.*                                          |
-|      | **Eternal Sentinel**         | None                    | *While standing in a sacred or consecrated area, gain +2 TN, resistance to all damage, and Advantage on all Willpower saves.*                                               |
-|      | **Harbinger of Reckoning**   | None                    | *Your divine energy reaches its peak—your Radiant and Necrotic damage bypass resistances, and all Miracles cost 1 less SP.*                                                 |
+|      | **Champion of the Pantheon** | Hand of Ordination      | *You may Ordain up to two warriors at the same time.*                                                                                                               |
+|      | **Wrath of the Heavens**     | None                    | *When you strike an enemy with a melee attack, you may spend 2 SP to summon a divine lightning bolt or firestorm (15ft radius, 3D6 damage, TN 14 Reflex save).*     |
+|      | **Immovable Faith**          | Unyielding Will         | *You cannot be magically compelled, deceived, or dominated unless by a deity.*                                                                                      |
+|      | **Judgment Manifest**        | Avatar of Judgment      | *Your Avatar of Judgment ability now lasts 5 rounds instead of 3 and forces a TN 16 Willpower save.*                                                                |
+|      | **Decree of the Divine**     | None                    | *Once per long rest, declare a sacred edict (e.g., “No fear shall enter this place”). For 1 hour, the effect is absolute within 30ft.*                              |
+|      | **Eternal Sentinel**         | None                    | *While standing in a sacred or consecrated area, gain +2 TN, resistance to all damage, and Advantage on all Willpower saves.*                                       |
+|      | **Harbinger of Reckoning**   | None                    | *Your divine energy reaches its peak—your Radiant and Necrotic damage bypass resistances, and all Miracles cost 1 less SP.*                                         |
 
 ---
 #### **Ranger**
@@ -589,68 +588,68 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 
 At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher tier feats at **3rd**, **5th**, **7th**, and **9th** CL.
 
-| Tier    | **Feat Name**              | **Prerequisites**   | **Effect**                                                                                                     |
-| ------- | -------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **1**st | **Battle Fury**            | None                | *Enter an adrenaline fuelled state of rage for 3 turns: +1 to melee attack rolls, immune to charm and fear.*   |
-|         | **Warrior's Constitution** | None                | *Gain +2 on all Endurance checks.*                                                                             |
-|         | **Dashing Attack**         | None                | *Dash up to 15 feet and make an attack; if you hit, deal an additional +1D6 damage.*                           |
-|         | **Brawler**                | None                | *While unarmed or grappling, your melee damage is 1D6 instead of 1.*                                           |
-|         | **Backup Plan**            | None                | *When you miss an attack, gain +2 TN against the next attack that targets you this round.*                     |
-|         | **Intimidating Roar**      | None                | *Once per rest, roar to impose Disadvantage on all enemy attacks within 10ft for 1 round.*                     |
-|         | **Savage Momentum**        | None                | *After killing an enemy, your next melee attack roll has Advantage.*                                           |
-|         | **Crushing Blows**         | Strength +2         | *Your melee attacks ignore 1 point of armour TN.*                                                              |
-|         | **Tenacity**               | None                | *Once per long rest, stay at 1 HP instead of falling unconscious when reduced to 0.*                           |
-|         | **Bloodied Resolve**       | None                | *When below half HP, gain +1 to melee damage.*                                                                 |
-|         | **Feral Instincts**        | None                | *You cannot be surprised and gain +1 on Initiative rolls.*                                                     |
-|         | **Armed & Unarmoured**     | Strength +2         | *Your base TN becomes 9+Dexterity while not wearing armour.*                                                   |
-| **2**nd | **Focused Fury**           | Battle Fury         | *While raging, you can’t be disarmed and gain +1D6 damage against one chosen enemy.*                           |
-|         | **Iron Hide**              | Brutal Constitution | *Gain +1 TN against non-magical damage.*                                                                       |
-|         | **Overpowering Grasp**     | Strength +2         | *You have Advantage on grapple and shove attempts.*                                                            |
-|         | **Deadman’s Surge**        | None                | *Once per long rest, when reduced below 10 HP, take an immediate turn.*                                        |
-|         | **Terrifying Strikes**     | Intimidation +2     | *Once per encounter, cause a target to flee if you deal 10+ damage in one hit.*                                |
-|         | **Stormrunner**            | None                | *You ignore difficult terrain and may Dash through enemy spaces.*                                              |
-|         | **Two-Handed Expert**      | None                | *If you roll max on at least one die while using a 2H weapon, your next attack has Advantage.*                 |
-|         | **Brutal Throw**           | Strength +2         | *You may throw heavy weapons with a range of 10/20, dealing normal damage.*                                    |
-|         | **Predator’s Pace**        | None                | *If you move at least 10ft before attacking, gain +1 to attack rolls.*                                         |
-|         | **Controlled Rage**        | Battle Fury         | *You may speak, use items, and cast simple spells while in Battle Fury.*                                       |
-|         | **Surrounded**             | None                | *While raging, make an attack against every enemy adjacent to you once per encounter.*                         |
-|         | **Violent Outburst**       | Bloodied Resolve    | *Once per encounter, if you are below half HP, you may make an additional melee attack as a free action.*      |
-| **3**rd | **Bloodlust**              | Battle Fury         | *When attacking enemies who are at or below half HP, gain +1D6 damage against them.*                           |
-|         | **Unyielding**             | Tenacity            | *When you use Tenacity, regain 2D6 HP immediately.*                                                            |
-|         | **Reaver's Focus**         | Focused Fury        | *Your first melee hit each round gains +1 to hit.*                                                             |
-|         | **Frenzied Cleave**        | None                | *After dropping an enemy to 0 HP, make a free melee attack against an adjacent target.*                        |
-|         | **Dauntless Advance**      | None                | *When you move toward an enemy, you gain +1 TN until the start of your next turn.*                             |
-|         | **Iron Grip**              | Strength +3         | *Weapons cannot be forcibly removed from your hands. Enemies have Disadvantage on disarm checks.*              |
-|         | **Beast Breaker**          | None                | *Against beasts and monstrous creatures, gain +1 to hit and +1D6 damage.*                                      |
-|         | **Relentless Pursuit**     | Stormrunner         | *When a creature disengages from you, you may move 10ft toward them as a free action.*                         |
-|         | **Ruinous Might**          | Strength +2         | *Add +2D6 damage when attacking inanimate objects such as doors and furniture.*                                |
-|         | **Gory Standard**          | None                | *Once per encounter, killing an enemy gives allies within 10ft Advantage on their next attack.*                |
-|         | **Reckless Smash**         | None                | *Add +1D6 to melee damage, but all incoming attacks have Advantage until your next turn.*                      |
-|         | **Staggering Blow**        | Strength +3         | *Once per short rest, force a TN 12 check on hit or knock the target Prone.*                                   |
-| **4**th | **Warbrand**               | Controlled Rage     | *During Battle Fury, deal +1D6 damage on every attack.*                                                        |
-|         | **Crimson Wake**           | Bloodlust           | *If you kill a target, all enemies within 10ft must make a TN 12 roll or become frightened for 1 round.*       |
-|         | **Feet First**             | Stormrunner         | *Once per short rest, leap up to 30ft and make an attack with Advantage.*                                      |
-|         | **Savage Grip**            | Iron Grip           | *While grappling, your attacks deal +1D6 and you can wield weapons one-handed.*                                |
-|         | **Berserker’s Dance**      | Battle Fury         | *Move 10ft after every successful melee hit.*                                                                  |
-|         | **Ferocity Unbound**       | None                | *Gain Advantage on all melee attacks for 1 round after taking a critical hit.*                                 |
-|         | **Skullsplitter**          | Strength +3         | *Once per long rest, make a single attack that deals double damage and stuns the target if they fail TN 14.*   |
-|         | **Ravager’s Tenacity**     | Unyielding          | *When you fall below 5 HP, gain 1D6 temporary HP every round until the fight ends or you fall.*                |
-|         | **Sundering Force**        | Ruinous Might       | *Once per encounter, ignore all armor when attacking a target.*                                                |
-|         | **War Cry**                | Intimidating Roar   | *Allies who hear your roar gain Advantage on their next attack.*                                               |
-|         | **Maniac’s Focus**         | None                | *If you take damage this round, gain +1 to hit next round.*                                                    |
-|         | **Butcher’s Path**         | Frenzied Cleave     | *Cleave attacks deal full damage instead of half.*                                                             |
-| **5**th | **Juggernaut**             | Warbrand            | *You can attack twice per turn. Your melee damage gains +1D6 permanently.*                                     |
-|         | **Earthshaker**            | Strength +3         | *Slam the ground. All creatures in 10ft must pass TN 14 or fall prone and take 2D6 damage.*                    |
-|         | **Fury Unleashed**         | Battle Fury         | *While in Battle Fury, ignore 3 points of a target’s TN.*                                                      |
-|         | **Avatar of Carnage**      | None                | *Once per encounter, make a melee attack that deals triple damage and ignores armor TN bonuses.*               |
-|         | **Chainbreaker**           | Ravager’s Tenacity  | *While below half HP, you cannot be stunned, paralyzed, or knocked prone.*                                     |
-|         | **Grim Momentum**          | Crimson Wake        | *You take a full extra turn if you drop two enemies in one round (1/long rest).*                               |
-|         | **Unrelenting Force**      | Juggernaut          | *Your melee attacks knock enemies back 5ft on a hit (optional).*                                               |
-|         | **Refuse To Die**          | None                | *Once per long rest, if you are killed, stand back up with half HP after one round.*                           |
-|         | **Final Fury**             | Berserker’s Dance   | *You can attack every creature within 5ft once when you fall below 0 HP (before collapsing).*                  |
-|         | **Warlord's Cry**          | War Cry             | *Once per day, all allies within 30ft gain +1 TN and Advantage on attacks for 2 rounds.*                       |
-|         | **Immovable Object**       | None                | *While standing still, you gain +2 TN and cannot be forcibly moved.*                                           |
-|         | **Final Verdict**          | None                | *Once per encounter, if your attack reduces a creature to below 10 HP, you may immediately drop them to 0 HP.* |
+| Tier    | **Feat Name**              | **Prerequisites**      | **Effect**                                                                                                     |
+| ------- | -------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **1**st | **Fury**                   | None                   | *Enter an adrenaline fuelled state of rage for 3 turns: +1 to melee attack rolls, immune to charm and fear.*   |
+|         | **Warrior's Constitution** | None                   | *Gain +2 on all Endurance checks.*                                                                             |
+|         | **Dashing Attack**         | None                   | *Dash up to 15 feet and make an attack; if you hit, deal an additional +1D6 damage.*                           |
+|         | **Brawler**                | None                   | *While unarmed or grappling, your melee damage is 1D6 instead of 1.*                                           |
+|         | **Backup Plan**            | None                   | *When you miss an attack, gain +2 TN against the next attack that targets you this round.*                     |
+|         | **Intimidating Roar**      | None                   | *Once per rest, roar to impose Disadvantage on all enemy attacks within 10ft for 1 round.*                     |
+|         | **Lethal Momentum**        | None                   | *After killing an enemy, your next melee attack roll has Advantage.*                                           |
+|         | **Crushing Blows**         | Strength +2            | *Your melee attacks ignore 1 point of armour TN.*                                                              |
+|         | **Tenacity**               | None                   | *Once per long rest, stay at 1 HP instead of falling unconscious when reduced to 0.*                           |
+|         | **Bloody Resolve**         | None                   | *When below half HP, gain +1 to melee damage.*                                                                 |
+|         | **Sixth Sense**            | None                   | *You cannot be surprised and gain +1 on Initiative rolls.*                                                     |
+|         | **Unarmoured Fighting**    | Strength +2            | *Your base TN becomes 9+Dexterity while not wearing armour.*                                                   |
+| **2**nd | **Focused Fury**           | Fury                   | *While raging, you can’t be disarmed and gain +1D6 damage against one chosen enemy.*                           |
+|         | **Iron Hide**              | Warrior's Constitution | *Gain +1 TN against non-magical damage.*                                                                       |
+|         | **Grip Strength**          | Strength +2            | *You have Advantage on grapple and shove attempts.*                                                            |
+|         | **Survivor's Intuition**   | None                   | *Once per long rest, when reduced below 10 HP, take an immediate turn.*                                        |
+|         | **Terrifying Strikes**     | Intimidation +2        | *Once per encounter, cause a target to flee if you deal 10+ damage in one hit.*                                |
+|         | **Stormrunner**            | None                   | *You ignore difficult terrain and may Dash through enemy spaces.*                                              |
+|         | **Two-Handed Expert**      | None                   | *If you roll max on at least one die while using a 2H weapon, your next attack has Advantage.*                 |
+|         | **Brutal Throw**           | Strength +2            | *You may throw heavy weapons with a range of 10/20, dealing normal damage.*                                    |
+|         | **Predator’s Pace**        | None                   | *If you move at least 10ft before attacking, gain +1 to attack rolls.*                                         |
+|         | **Controlled Rage**        | Battle Fury            | *You may speak, use items, and cast simple spells while in Battle Fury.*                                       |
+|         | **Surrounded**             | None                   | *While raging, make an attack against every enemy adjacent to you once per encounter.*                         |
+|         | **Violent Outburst**       | Bloodied Resolve       | *Once per encounter, if you are below half HP, you may make an additional melee attack as a free action.*      |
+| **3**rd | **Bloodlust**              | Battle Fury            | *When attacking enemies who are at or below half HP, gain +1D6 damage against them.*                           |
+|         | **Unyielding**             | Tenacity               | *When you use Tenacity, regain 2D6 HP immediately.*                                                            |
+|         | **Reaver's Focus**         | Focused Fury           | *Your first melee hit each round gains +1 to hit.*                                                             |
+|         | **Frenzied Cleave**        | None                   | *After dropping an enemy to 0 HP, make a free melee attack against an adjacent target.*                        |
+|         | **Dauntless Advance**      | None                   | *When you move toward an enemy, you gain +1 TN until the start of your next turn.*                             |
+|         | **Iron Grip**              | Strength +3            | *Weapons cannot be forcibly removed from your hands. Enemies have Disadvantage on disarm checks.*              |
+|         | **Beast Breaker**          | None                   | *Against beasts and monstrous creatures, gain +1 to hit and +1D6 damage.*                                      |
+|         | **Relentless Pursuit**     | Stormrunner            | *When a creature disengages from you, you may move 10ft toward them as a free action.*                         |
+|         | **Ruinous Might**          | Strength +2            | *Add +2D6 damage when attacking inanimate objects such as doors and furniture.*                                |
+|         | **Gory Standard**          | None                   | *Once per encounter, killing an enemy gives allies within 10ft Advantage on their next attack.*                |
+|         | **Reckless Smash**         | None                   | *Add +1D6 to melee damage, but all incoming attacks have Advantage until your next turn.*                      |
+|         | **Staggering Blow**        | Strength +3            | *Once per short rest, force a TN 12 check on hit or knock the target Prone.*                                   |
+| **4**th | **Warbrand**               | Controlled Rage        | *During Battle Fury, deal +1D6 damage on every attack.*                                                        |
+|         | **Crimson Wake**           | Bloodlust              | *If you kill a target, all enemies within 10ft must make a TN 12 roll or become frightened for 1 round.*       |
+|         | **Feet First**             | Stormrunner            | *Once per short rest, leap up to 30ft and make an attack with Advantage.*                                      |
+|         | **Savage Grip**            | Iron Grip              | *While grappling, your attacks deal +1D6 and you can wield weapons one-handed.*                                |
+|         | **Berserker’s Dance**      | Battle Fury            | *Move 10ft after every successful melee hit.*                                                                  |
+|         | **Ferocity Unbound**       | None                   | *Gain Advantage on all melee attacks for 1 round after taking a critical hit.*                                 |
+|         | **Skullsplitter**          | Strength +3            | *Once per long rest, make a single attack that deals double damage and stuns the target if they fail TN 14.*   |
+|         | **Ravager’s Tenacity**     | Unyielding             | *When you fall below 5 HP, gain 1D6 temporary HP every round until the fight ends or you fall.*                |
+|         | **Sundering Force**        | Ruinous Might          | *Once per encounter, ignore all armor when attacking a target.*                                                |
+|         | **War Cry**                | Intimidating Roar      | *Allies who hear your roar gain Advantage on their next attack.*                                               |
+|         | **Maniac’s Focus**         | None                   | *If you take damage this round, gain +1 to hit next round.*                                                    |
+|         | **Butcher’s Path**         | Frenzied Cleave        | *Cleave attacks deal full damage instead of half.*                                                             |
+| **5**th | **Juggernaut**             | Warbrand               | *You can attack twice per turn. Your melee damage gains +1D6 permanently.*                                     |
+|         | **Earthshaker**            | Strength +3            | *Slam the ground. All creatures in 10ft must pass TN 14 or fall prone and take 2D6 damage.*                    |
+|         | **Fury Unleashed**         | Battle Fury            | *While in Battle Fury, ignore 3 points of a target’s TN.*                                                      |
+|         | **Avatar of Carnage**      | None                   | *Once per encounter, make a melee attack that deals triple damage and ignores armor TN bonuses.*               |
+|         | **Chainbreaker**           | Ravager’s Tenacity     | *While below half HP, you cannot be stunned, paralyzed, or knocked prone.*                                     |
+|         | **Grim Momentum**          | Crimson Wake           | *You take a full extra turn if you drop two enemies in one round (1/long rest).*                               |
+|         | **Unrelenting Force**      | Juggernaut             | *Your melee attacks knock enemies back 5ft on a hit (optional).*                                               |
+|         | **Refuse To Die**          | None                   | *Once per long rest, if you are killed, stand back up with half HP after one round.*                           |
+|         | **Final Fury**             | Berserker’s Dance      | *You can attack every creature within 5ft once when you fall below 0 HP (before collapsing).*                  |
+|         | **Warlord's Cry**          | War Cry                | *Once per day, all allies within 30ft gain +1 TN and Advantage on attacks for 2 rounds.*                       |
+|         | **Immovable Object**       | None                   | *While standing still, you gain +2 TN and cannot be forcibly moved.*                                           |
+|         | **Final Verdict**          | None                   | *Once per encounter, if your attack reduces a creature to below 10 HP, you may immediately drop them to 0 HP.* |
 
 ---
 #### **Rogue**
@@ -735,8 +734,8 @@ Each background grants:
 - **Starting Proficiency:** Pick **two** of the **three** available skill proficiencies relevant to the background.
 - Additional starting gear.
 
-| **Background**  | **Description**                                                     | **Proficiency Options**              | **Starting Gear**                                   |
-| --------------- | ------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
+| **Background**  | **Description**                                                       | **Proficiency Options**              | **Starting Gear**                                   |
+| --------------- | --------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
 | **Alchemist**   | *A chemist and potion-maker skilled in combining substances.*         | Alchemy, Arcana, Herblore            | Alchemy kit, vials, herbal ingredients.             |
 | **Apprentice**  | *A young learner training under a skilled master.*                    | Tinkering, Lore, Arcana              | Apprentice tools, instructional scroll, work robes. |
 | **Artisan**     | *A craftsperson with expertise in a specific trade.*                  | Tinkering, Bartering, Appraisal      | Artisan’s tools, project materials, crafting apron. |
@@ -762,6 +761,7 @@ Each background grants:
 | **Spy**         | *A covert operative adept at gathering information and deception.*    | Forgery, Deception, Investigation    | Disguise kit, encrypted documents, poison vial.     |
 | **Thief**       | *A cunning opportunist who thrives in the shadows.*                   | Stealth, Sleight of Hand, Security   | Lockpicks, dark clothing, coin pouch.               |
 | **Labourer**    | *A hardworking tradesman accustomed to physical labour.*              | Engineering, Bartering, Endurance    | Simple tools, sturdy boots, small cart.             |
+| **Priest**      | *A devout follower of a deity, studious in theology.*                 | Lore, Diplomacy, Medicine            |                                                     |
 
 ---
 ### **Step 4: Proficiencies**
@@ -838,7 +838,9 @@ Attempting to wear armour you are not proficient in reduces your dexterity bonus
 
 ---
 ## **Miracles**
-Just like spells, miracles are manifestations of the caster's will, and the process of casting them is largely similar; the primary component of any magical process is mental in nature - the spell has to be first cast in the mind, just as the prayer has to be chanted in the eye of the caster's thoughts. 
+Just like magic, miracles are manifestations of the caster's will, and the process of casting them is largely similar; the primary component of any magical process is mental in nature - the spell has to be first cast in the mind, just as the prayer has to be chanted in the eye of the caster's thoughts. The main difference is that spells are almost exclusively rooted in manamaterium, while miracles mostly rely on the second primary essence; metamaterium. 
+
+Clerics are the only class 
 # **Spellcasting**
 Spellcasting represents the ability to channel and manipulate Manamaterium. In the 2D6 system, Spellcasting is treated as a proficiency that determines a character’s ability to reliably use magic.  Any character can attempt to cast spells, but non-proficient characters must roll at Disadvantage to determine success. Mages and Clerics automatically gain the proficiency at level 1. Other classes may gain the Spellcasting proficiency through feats, backgrounds, or multiclassing.
 
@@ -895,39 +897,42 @@ At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of 
 | **Range**          | x2 range         | x3 range            | x4 range          |
 | **Area**           | x2 area          | x3 area             | x4 area           |
 | **Duration**       | +1 round         | +3 rounds           | +5 rounds         |
-You may cast multiple scaling options together at the same time at different tiers of scaling; for example, you may cast Flame Bolt at 1SP and scale the Damage multiplier to x3 with Master Scaling 
+You may cast multiple scaling options together at the same time at different tiers; for example, you may cast Flame Bolt at 1SP and scale the damage multiplier to x3 with Master Scaling, but you might only need to increase the range by x2, 
 
 ### **Evocation Spells**
+#### Basic
 
-| **Spell Name**      | **Effect**                                                                                                                                       | **Range** | **TN** | **Scaling Options** |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------ | ------------------- |
+| **Spell Name**      | **Effect**                                                                                                                                         | **Range** | **TN** | **Scaling Options** |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ------------------- |
 | **Flame Bolt**      | *1D6 Fire damage.*                                                                                                                                 | 30ft      | 10     | Damage, Range       |
-| **Shock Arc**       | *1D6 Lightning damage, jumps to one extra target (10ft).*                                                                                          | 30ft      | 10     | Damage, Range       |
-| **Frost Shard**     | *1D6 Cold damage, inflicts **Slowed** (-5ft movement, 1 round).*                                                                                   | 30ft      | 10     | Damage, Duration    |
-| **Force Dart**      | *1D6 Force damage, never misses.*                                                                                                                  | 60ft      | 10     | Damage, Range       |
-| **Radiant Surge**   | *1D6 Radiant damage, inflicts **Blinded** (1 round, TN 10 to resist).*                                                                             | 30ft      | 10     | Damage, Duration    |
+| **Chain Shock**     | *1D6 Lightning damage, jumps to one extra target for half damage. (10ft).*                                                                         | 30ft      | 10     | Damage, Range       |
+| **Icicle**          | *1D6 Cold damage, inflicts **Slowed** (-5ft movement, 1 round).*                                                                                   | 30ft      | 10     | Damage, Duration    |
+| **Force Dart**      | *1D6 Force damage.                                                                                                                                 | 60ft      | 10     | Damage, Range       |
+| **Light Burst**     | *Inflicts **Blinded** to everyone within line of sight. (1 rounds, TN 10 to resist).*                                                              | 30ft      | 10     | Duration            |
 | **Stone Spikes**    | *1D6 Piercing damage in a 10ft line.*                                                                                                              | 30ft      | 10     | Damage, Area        |
-| **Gust Surge**      | *Pushes a target 10ft.*                                                                                                                            | 20ft      | 10     | Range, Duration     |
-| **Scorching Grip**  | *1D6 Fire damage, ignites flammable objects in hand, inflicts **Burning** (1 round, TN 10 to resist).*                                             | Touch     | 10     | Damage, Duration    |
+| **Gust**            | *Create a torrent of wind, pushing a target 10ft (TN 10 to resist).*                                                                               | 20ft      | 10     | Range, Duration     |
+| **Scorch Grip**     | *1D6 Fire damage, ignites flammable objects in hand, inflicts **Burning** (1 round, TN 10 to resist).*                                             | Touch     | 10     | Damage, Duration    |
 | **Cinder Spray**    | *1D6 Fire damage in a 10ft cone.*                                                                                                                  | 10ft cone | 10     | Damage, Area        |
 | **Crackling Surge** | *1D6 Lightning damage, grants Advantage on next attack (1 round).*                                                                                 | 30ft      | 10     | Damage, Duration    |
 | **Earthen Pillar**  | *Raises a 5ft stone pillar under a target, launching them upward. If they fail TN 10 Acrobatics, they take 1D6 **Bludgeoning** damage on landing.* | 20ft      | 10     | Area, Duration      |
 | **Arcing Flare**    | *1D6 Fire damage, illuminates target for 1 round.*                                                                                                 | 30ft      | 10     | Damage, Duration    |
+#### Advanced
 
 | **Spell Name**       | **Effect**                                                                                                                                           | **Range** | **TN** | **Scaling Options** |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ------------------- |
 | **Inferno Wave**     | *2D6 Fire damage in a 15ft cone, ignites terrain (1 round).*                                                                                         | 15ft cone | 12     | Damage, Area        |
 | **Chain Lightning**  | *2D6 Lightning damage, jumps to two extra targets (15ft apart).*                                                                                     | 30ft      | 12     | Damage, Range       |
-| **Ice Lance**        | *2D6 Cold damage, inflicts Frozen (1 round, TN 12 to resist).*                                                                                   | 30ft      | 12     | Damage, Duration    |
+| **Ice Lance**        | *2D6 Cold damage, inflicts Frozen (1 round, TN 12 to resist).*                                                                                       | 30ft      | 12     | Damage, Duration    |
 | **Arcane Blast**     | *2D6 Force damage, knocks target 10ft back.*                                                                                                         | 30ft      | 12     | Damage, Range       |
 | **Blazing Breath**   | *2D6 Fire damage in a 20ft cone, ignores resistance to non-magical fire.*                                                                            | 20ft cone | 12     | Damage, Area        |
-| **Earthen Upheaval** | *Raises a 10ft stone pillar under a target, launching them. If they fail TN 12 Acrobatics, they take 2D6 Bludgeoning damage on landing.*         | 20ft      | 12     | Area, Duration      |
+| **Earthen Upheaval** | *Raises a 10ft stone pillar under a target, launching them. If they fail TN 12 Acrobatics, they take 2D6 Bludgeoning damage on landing.*             | 20ft      | 12     | Area, Duration      |
 | **Tornado Pulse**    | *2D6 Slashing damage, lifts target 10ft into the air. They fall at end of their turn unless they succeed TN 12 Acrobatics (taking 1D6 fall damage).* | 20ft      | 12     | Damage, Duration    |
-| **Molten Chains**    | *2D6 Fire damage, inflicts Restrained (1 round, TN 12 to resist).*                                                                               | 30ft      | 12     | Damage, Duration    |
+| **Molten Chains**    | *2D6 Fire damage, inflicts Restrained (1 round, TN 12 to resist).*                                                                                   | 30ft      | 12     | Damage, Duration    |
 | **Storm Surge**      | *2D6 Lightning damage, creatures in metal armor have Disadvantage on TN.*                                                                            | 30ft      | 12     | Damage, Duration    |
-| **Avalanche Wave**   | *2D6 Cold damage in a 15ft cone, turns area into Difficult Terrain (1 round).*                                                                   | 15ft cone | 12     | Damage, Area        |
-| **Solar Burst**      | *2D6 Radiant damage, inflicts Blinded (1 round, TN 12 to resist).*                                                                               | 30ft      | 12     | Damage, Duration    |
-| **Seismic Rupture**  | *2D6 Bludgeoning damage, causes the ground to crack in a 15ft line, making the area Difficult Terrain (1 round).*                            | 30ft      | 12     | Damage, Area        |
+| **Avalanche Wave**   | *2D6 Cold damage in a 15ft cone, turns area into Difficult Terrain (1 round).*                                                                       | 15ft cone | 12     | Damage, Area        |
+| **Solar Burst**      | *2D6 Radiant damage, inflicts Blinded (1 round, TN 12 to resist).*                                                                                   | 30ft      | 12     | Damage, Duration    |
+| **Seismic Rupture**  | *2D6 Bludgeoning damage, causes the ground to crack in a 15ft line, making the area Difficult Terrain (1 round).*                                    | 30ft      | 12     | Damage, Area        |
+#### Master
 
 | **Spell Name**          | **Effect**                                                                                                                 | **Range** | **TN** | **Scaling Options** |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ------------------- |
