@@ -121,10 +121,12 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 	The Primordial Dragons are wiped out as the material plane is assaulted by the Greater Fiends. Their 
 - **1900BR** - *The Desolation of Malyria*
 	The nation of Malyria is obliterated as a magical cataclysm sunders the land and permanently taints the neighbouring region of Nazkuga.  
-- **1000BR** - *Nassau Finishes Construction*
+- **1888BR** - *The First Black Empire*
+	Francis the Black is coronated as the new ruler of Doyverd and the kingdom begins its aggressive expansion into imperialism as new territories are conquered in rapid succession all across Dol-Calandria. This would come to be known as the first Black Empire. 
+- **1600BR** - *Nassau Finishes Construction*
 	Helmed by Emperor Francis the Black himself, the Holy City of Nassau is constructed by the turn of the millennia. It acts as the centre of religion in the Black Empire for thousands of years. 
 - **850/800BR** - *Fall of Doyverd*
-	The world's largest empire steadily collapses under its own weight as each of its constituent states declare independence over a period of half a century. 
+	After almost a thousand years, the world's largest kingdom steadily collapses under its own weight as each of its constituent states declare independence over a period of half a century. 
 - **850BR** - *Greater Witzia Founded*
 	The Kingdom of Greater Witzia is the first of the Doyverd territories to claim independence, followed by Florence in 832BR and Skaldava around 800BR.
 - **500BR** - *Eruption of Mt. Zephyra*
@@ -274,11 +276,15 @@ In the south and along the eastern marches, there are sizeable populations of Ha
 The ecology of Draymond is likewise diverse. 
 ##### History and Founding
 ###### Kingdom of Doyverd
-Founded by Human settlers before recorded time, Draymond’s origins as a kingdom go as far back as the first men; although records are limited, evidence within the Illuminator Archives suggests a primitive nation known as Doyverd was the first civilisation to call the continent home, spreading out from what is now the country of Draymond into the rest of the continent, essentially forming the first Empire of Man. Doyverd's rise to power began with its formidable warriors and advanced agriculture, allowing the fledgling kingdom to spread across what is now Draymond and into surrounding territories. These early settlers worshipped a pantheon of Titans and Old Gods, whose influence still lingers in Draymondian culture, though much of it has been overtaken by the more modern worship of the High Pantheon.
+Founded by Human settlers before recorded time, Draymond’s origins as a kingdom go as far back as the first men; although records are limited, evidence within the Illuminator Archives suggests a primitive nation known as Doyverd was the first civilisation to call the southern reaches of the continent home from as early as 2000BR, spreading out from what is now the country of Draymond into the rest of Dol-Calandria.
 
-By 2000BR, Doyverd was a vast empire that sought to dominate the northern reaches of Dol’Calandria, coming into conflict with Old Vitgaard, a fiercely independent kingdom that refused to submit to imperial rule. The conflict between Doyverd and Vitgaard would last for nearly two centuries, culminating in the War of the Long Winter.
+It was not until Francis the Black ascended to the throne in 1888BR that Doyverd began expanding to what it would eventually become. By 1800BR, the Kingdom of Doyverd was a vast empire of fiefdoms and city-states that sought to dominate the northern reaches of Dol’Calandria, coming into conflict with Old Vitgaard, a fiercely independent kingdom that refused to submit to imperial rule. The conflict between Doyverd and Vitgaard would cumulatively last for almost a thousand years, culminating in what scholars now call the War of the Long Winter.
 
-Doyverd collapsed sometime around 1800BR following the almost two centuries of war with Vitgaard, who managed to not only successfully repel the invasion but also cripple Doyverd’s hold over their own fiefdoms, which had steadily declined into factionalism following many decades of sacrifice and the failings of bureaucracy. 
+Francis, an exceptionally long lived Morrowsean who we now believe to have been cursed with vampirism some time before the Great Exodus, remained the Emperor for the majority of this period until his mysterious disappearance in the year 1000BR, seemingly vanishing with the turn of the millennium. For some years prior he had been known to have been delegating tasks and ruling from the privacy of his quarters. Having never birthed an heir - likely due to his condition - the sudden disappearance and abdication of Francis the Black remains one of history's most prevalent anomalies. 
+
+Doyverd collapsed sometime around 850BR following almost a milennia of war with Old Vitgaard, who managed to not only successfully repel dozens of invasion attempts but also splinter Doyverd’s hold over their own fiefdoms politically, as many of the Black Empire's constituents had steadily declined into factionalism following many decades of sacrifice and the failings of bureaucracy, as well as of course the steady emergence of differing cultures over time. 
+###### The Rise of Draymond
+Draymond, the central constituency and throne of both the first and second Black Empire(s), remained uniquely politically steadfast during its initial dissolution. 
 
 Despite the collapse of the central authority within Draymond (or perhaps because of it), the country prospered under a deliberate shift in focus toward domestic development, which they achieved in a few key ways: by allowing local rulers to govern their own regions with relative autonomy, Draymond’s central leadership was able to placate rival factions that might have otherwise been inclined to rebel. The system of regional rule kept power decentralised enough to avoid revolt, while still ensuring that the overarching authority of the throne remained intact. In addition to military diplomacy, Draymond struck trade deals with nearby kingdoms and fiefdoms, ensuring the flow of resources into its cities and reinforcing its status as a prosperous and influential nation. This economic interdependence helped prevent hostile actions from neighbours, as they relied on Draymond for vital goods and infrastructure.
 
@@ -287,10 +293,19 @@ Around 1600BR, the leaders of Skaldava, a harsh and impoverished region east of 
 
 However, Skaldava underestimated both the cunning and resilience of Draymond’s leadership; instead of sending troops to break the siege, Draymond's Black Lords chose a more ruthless and strategic response—economic isolation. Much of Skaldava’s survival depended on caravans and merchants passing through its lands to deliver essential goods and supplies, and with this in mind, Draymond issued a trade embargo on Skaldava, preventing any goods from reaching the region. The flow of food, weapons, and other supplies that Skaldava relied upon ceased entirely, leaving the nation to wither under its own isolation. 
 
-Draymond further escalated its response by capturing Skaldavan civilians who were found travelling in or near Draymond to be used as leverage, not only demoralising the Skaldavan leadership but also stoking fear within their population. As the siege dragged on and resources dwindled, Skaldava quickly crumbled under the economic pressure. The people of Skaldava began to starve, and the siege, once thought to be a bold power grab, became an untenable disaster. The Skaldavan leadership, seeing no other way to survive, reluctantly capitulated to Draymond’s demands. Skaldava submitted to becoming Draymond’s first vassal state since the collapse of the Doyverd Empire, marking the beginning of a new era in Draymond’s expansionist strategy, where economic domination and coercion could be just as effective as military force. Skaldava's submission sent a clear message to other neighbouring regions: resist Draymond at your peril.
+Draymond further escalated its response by capturing Skaldavan civilians who were found travelling in or near Draymond to be used as leverage, not only demoralising the Skaldavan leadership but also stoking fear within their population. As the siege dragged on and resources dwindled, Skaldava quickly crumbled under the economic pressure. The people of Skaldava began to starve, and the siege, once thought to be a bold power grab, became an untenable disaster; seeing no other way to survive, the Lords of Skaldava reluctantly capitulated to Draymond’s demands, and the nation as a whole was submitted into becoming Draymond’s first vassal state since the collapse of the Doyverd Empire, marking the beginning of a new era in Draymond’s expansionist strategy. 
 
-Its expansions began a few centuries before the Serende’hel Reformation. 
+###### Annexation of Florence
+Skaldava's submission sent a clear message to other neighbouring regions: resist Draymond at your peril. Shortly following, 
+###### The Serende'hel Reformation
+The Serende'hel Reformation represents a pivotal epoch in the annals of both the Ende'hel and the Draymond Empire. This period, spanning several decades, marked not only a profound cultural and societal integration but also ushered in a renaissance of learning and development that reshaped the broader landscape of the region. The Reformation was precipitated by a series of calamitous events that rendered the Ende'hel homeland uninhabitable; the relentless wars with the Orcs and Giants, coupled with internal strife between the Ende'hel and the Enadriel, led to the downfall of their once-great civilization. The final blow came with the invasion and subsequent occupation of their lands by a coalition of Orc and Giant forces, which forced the Ende'hel to seek refuge elsewhere.
 
+Upon their arrival, the Ende'hel were met with suspicion and guarded curiosity by the Draymond populace. However, their need for asylum and the strategic advantages of their knowledge and abilities gradually led to a tentative integration. Emperor Ludvik the Black, upon recognizing the potential benefits of embracing these new arrivals, offered them an accord; sanctuary in exchange for their expertise in all things from military strategy to science, magic and history, thereby sowing the seeds of the Reformation and forever changing the world of Men. Three years following their arrival, the Serende’hel Reformation was officially decreed and the Draymond calendar was instituted as the most modern and accurate model of history, henceforth beginning the year 0SR.
+
+The most enduring impacts of the Serende'hel Reformation were perhaps seen in the fields of education and cultural exchange. The Ende'hel established centres of learning that soon became the nucleus of new thought, blending Draymond and Ende'hel traditions. These centres not only taught magical arts but also introduced advanced concepts of science and mathematics previously unknown to Draymond scholars; the Ende'hel likewise had a profound impact on literacy, primarily through the introduction of their script, which was adapted to form a unified writing system used throughout the empire. They established the first libraries and laid the foundations for public education systems that emphasised critical reading and interpretation of texts.
+
+Politically, the Ende'hel brought new concepts of governance, which included the establishment of a more structured bureaucratic system and the introduction of equitable laws that emphasised justice and fairness, rather than the traditional feudalistic approach that had predominated. Socially, the Ende'hel's influence led to more inclusive attitudes, slowly eroding the stark barriers between the various classes within the Empire. 
+###### Post Reformation
 Following the Reformation, Draymond’s hold over the continent only solidified further. 
 
 It was only due to the Northern Concordat that their influence did not spread further past Caldwynn, which was annexed by Draymond 
@@ -948,20 +963,20 @@ There exists a population of Goblinoids who face rampant discrimination and abus
 
 The Hado Tribes are a nomadic people who have passed down knowledge of the Hado through multiple generations, using it 
 ##### History and Founding
+Drak'Thill is believed to have had no prehistoric inhabitants 
 ##### Economy and Currency
 Despite the staggering rate of poverty in Drak’Thill, though Drak’Thill’s merchants trade in the same gold-standard as everywhere else, most of the actual population of Drak’Thill use francs in everyday trading. 
 
 The port cities of Dandebar and One of Drak’Thill’s primary exports is silk, harvested from the larvae of silkwyrms.   
 ##### Culture and Society 
-Many grapple with exploitation at the hands of the Paschas; the monopolisation of economic resources by these crime syndicates forces many into illegal and often dangerous work, perpetuating a cycle of poverty and dependency. Living in isolated cities with limited access to fresh water and other natural resources compounds these hardships, as the scarcity of essential resources leads to frequent conflicts and makes self-sufficiency a constant struggle.
+Given not only the climate but also the lack of any centralised government or formalised laws outside of the rules and dictates of the paschas, daily life in Drak’Thill has always been a fight for survival. Its citizens, often born into impoverished families, live very frugal lives due to the immense disparity in wealth between the common folk and the paschas; gentrified merchants and ganglords.    
 
-Given not only the climate but also the lack of any centralised government or formalised laws outside of the rules and dictates of the Triarchy who rule Dandebar (and by extension most of the main trade routes and roads), daily life in Drak’Thill has always been a fight for survival. Its citizens, often born into impoverished families, live very frugal lives due to the immense disparity in wealth between the common folk and the Paschas; gentrified merchants and ganglords.    
-
-The crime rate in Drak’Thill is significantly higher than anywhere else in the world as a direct consequence of this inequality; in a land where might makes right, the ultimate path to earning anything is to take it from someone else. Violence is a common aspect of daily life in Drak’Thill, as its people must navigate a world where personal security is tenuous, and justice is arbitrary, often depending on the whims of their nearest Pascha. 
+The crime rate in Drak’Thill is significantly higher than anywhere else in the world as a direct consequence of this inequality; in a land where might makes right, the ultimate path to earning anything is to take it from someone else. Violence is a common aspect of daily life in Drak’Thill, as its people must navigate a world where personal security is tenuous, and justice is arbitrary, often depending on the whims of their nearest Pascha; the monopolisation of economic resources by these crime syndicates likewise regularly forces many into illegal and often dangerous work, perpetuating a cycle of poverty and dependency. Living in isolated cities with limited access to fresh water and other natural resources compounds these hardships, as the scarcity of essential resources leads to frequent conflicts and makes self-sufficiency a constant struggle for the average Drak'Thillian peasant. 
 ##### Geography and Landmarks 
+Drak’Thill encompasses the entire northern region of Sah’Raza; it is an expansive, sunbaked territory defined by its stone ridges, parched lowlands, and sprawling heat-swept basins. The climate is dry and scorching, marked by predictable seasons of drought and rare, but torrential inland rain that feed subterranean aquifers and deep-cut wadis.
 
 ##### Settlements & Structures
-Dandebar was the first city to be settled in the Age of Mists by the famed Khagan Drago Yilmaz and later nicknamed “The Emerald City'' by merchants who commonly visited the city to trade some of its many fineries. 
+While there is no centralised authority in Drak'Thill, the capital city has always largely been considered to be Dandebar; it was the first city to be settled in the Age of Mists by the famed Khagan Drago Yilmaz and later nicknamed “The Emerald City'' by merchants who commonly visited the city to trade some of its many fineries. 
 
 Saladaar’s Garden was a grand monument to hedonism and debauchery constructed with the help of very powerful magic and an exorbitant amount of gold believed to have been raided from Draymond payloads. 
 ##### Military and Naval Power 
@@ -1984,11 +1999,10 @@ Believed to be created to rival the gods
 Accepted gifts for his horde but preferred delicious food
 Topic of book ‘conversations w/ a dragon’
 ##### Yom Osiris Neba’al, the Western Sun
-Sand worm
+A wingless wyrm who was capable of flight but nonetheless resided in the sands of the Dry Sea, creating the entire desert landscape with his movements
 Heated sands with friction, slept at night
-Kept sands war
-Creator of ‘atmaglas’ magic glass resource
-Shed very strong carapace scales
+Kept sands warm with his constant movement, let them cool as he slept
+Creator of ‘atmaglas’ magic glass resource; shed very strong translucent carapace scales which act as rare conductors of magical energy
 Accepted live sacrifices by creating sand/worm holes
 
 ##### Zephyra’Kermes, the Many Tailed
@@ -2236,11 +2250,18 @@ They possess angular, elongated faces crowned with rows of horns and facial spik
 ##### Heritage & History
 It is a commonly believed myth that Baelthetrax is responsible for the creation of the Drakkhan; they are, in fact, the result of generations of crossbreeding between polymorphed Magical Dragons and Humans. The majority of the Drakkahn originate from the Ancient Isles, 
 ##### Society
+For many centuries, Draconic society was defined by its rigid caste structure and a hierarchy that placed Metallic Dragonborn in positions of sovereignty while Chromatic Dragonborn occupied roles of enforced servitude and cultural disenfranchisement; the deliberate outcome of ideological doctrine passed down by early Kunthropian magisters, who interpreted the metallic heritage as a divine ordination of superiority from Baelthetrax. This treatment stemmed from longstanding racial zealotry, institutionalised through rites such as caudal severance: a ritual by which a Chromatic’s tail is amputated at birth, severing both limb and ancestral pride in a single act of subjugation.
+
+Education, governance, and aerial command remained almost exclusively under Metallic purview; the flying cities stood as both literal and symbolic bastions of elite authority, sustained by arcane infrastructure and a constant influx of resources mined or harvested by the Chromatics. While the floating cities have long since fallen, the social residue of that system persisted well into the modern era, affecting marriage rites, military conscription, and religious observance.
+
+It must be noted that while overt hostilities between Metallic and Chromatic Dragonborn had largely waned by the Age of Heroes, the framework of superiority endured in more subtle forms: in dialect bias, judicial appointments, land ownership, and even access to certain strands of arcane tutelage.
+
 ##### Geography
+The majority of Draconians reside in Agrassilla’Kunthropia, with its impossible architecture built across cliffside temples, geothermal gulches, and levitating cities suspended by ancient arcana. Chromatic settlements cluster around mines and industrial hubs, especially the Drunmülf Gorge and the Slag Pits. Metallic Drakkahn control Greywharf, the Ivory Crag, and of course, the floating cities. 
 
 ### Gyr
 ##### Physical Traits
-Nifalgyr, or Ice Giants, can be recognised by their distinctly pale skin, which they are believed to have adapted in order to better blend into snowstorms and the cover of mountains despite their massive frames. 
+The Gyr, commonly referred to by subspecies such as Hilgyr (Hill Giants), Nifalgyr (Ice giants), and Stonegyr (Stone Giant) tower over all of the other Higher Races with heights reaching ten feet or more. Their skin ranges from storm-grey to frost-pale, depending on region, and is often thickened into calloused plates that grant them exceptional resilience. Their musculature is dense and their bones enormous, giving them immense strength at the cost of dexterity. Facial structure varies between subspecies, but all Gyr possess deep-set eyes, pronounced brows, and square jaws. 
 ##### Heritage & History
 In some places, Giants have developed close kinships with local races, rooted in a shared reverence for ancient gods or survival in harsh climates. For example, on Tohren Isle both Hilgyr and Humans share an ancestral bond tied to their shared worship and veneration of the Titans; a relationship which is reinforced through mutual respect, cooperation in defence and shared cultural traditions. The Stonegyr of The Fane formed a historic alliance with the Orkryn clans they had once warred with, bound by their common hatred of the Elves, while in Einartoft, the Nifalgyr are largely isolationist; wary of foreign influence and deeply committed to the ancient traditions that have bound their clans together for untold centuries. 
 ##### Society
@@ -2250,7 +2271,7 @@ Giant culture places immense value on oral tradition and the passing down of anc
 
 Whereas Hill Giants on Tohren Isle embrace cooperative bonds with local Humans, many Frost and Stone Giant clans live in isolated tribal structures with limited external interaction.
 ##### Geography
-The Gyr are known to occupy cold to temperate climates. 
+The Gyr favour extreme climates; In Einartoft, they make their homes in glacial caves and tundra valleys where few others can survive. On Tohren Isle, the Hilgyr dwell in sweeping plains and river fortresses, often alongside Human settlements. The Stonegyr of The Fane inhabit ancestral cliffholds carved from living rock, decorated with mosaics and petrified totems. Wherever they dwell, their environments are deeply interwoven with spiritual meaning, and every peak, storm, or crevasse holds legend.
 
 ---
 ## Factions & Organisations
