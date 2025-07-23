@@ -122,9 +122,13 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **1900BR** - *The Desolation of Malyria*
 	The nation of Malyria is obliterated as a magical cataclysm sunders the land and permanently taints the neighbouring region of Nazkuga.  
 - **1888BR** - *The First Black Empire*
-	Francis the Black is coronated as the new ruler of Doyverd and the kingdom begins its aggressive expansion into imperialism as new territories are conquered in rapid succession all across Dol-Calandria. This would come to be known as the first Black Empire. 
-- **1600BR** - *Nassau Finishes Construction*
-	Helmed by Emperor Francis the Black himself, the Holy City of Nassau is constructed by the turn of the millennia. It acts as the centre of religion in the Black Empire for thousands of years. 
+	Francis the Black is coronated as the new ruler of Doyverd and the kingdom begins its aggressive expansion into imperialism as new territories are conquered in rapid succession all across Dol-Calandria. This would come to be known as the first 'Black Empire'. 
+- **1800BR** - *Nassau Finishes Construction*
+	Helmed by Emperor Francis the Black himself, the Holy City of Nassau is constructed by the turn of the century after decades of labour. It acts as the centre of religion in the Black Empire for thousands of years. 
+- **1790BR** - *Doyverd Penal Colonies Established*
+	Crude stone forts and warden camps established by the Kingdom of Doyverd along Sah’Raza’s coastal edge, used to house dissidents, military exiles, and debt-bound peasants.
+- **1650BR/950BR** - _Formation of Proto-Tribes_
+	Crude stone forts and warden camps established by the Kingdom of Doyverd along Sah’Raza’s coastal edge, used to house dissidents, military exiles, and debt-bound peasants.
 - **850/800BR** - *Fall of Doyverd*
 	After almost a thousand years, the world's largest kingdom steadily collapses under its own weight as each of its constituent states declare independence over a period of half a century. 
 - **850BR** - *Greater Witzia Founded*
@@ -294,7 +298,6 @@ Around 1600BR, the leaders of Skaldava, a harsh and impoverished region east of 
 However, Skaldava underestimated both the cunning and resilience of Draymond’s leadership; instead of sending troops to break the siege, Draymond's Black Lords chose a more ruthless and strategic response—economic isolation. Much of Skaldava’s survival depended on caravans and merchants passing through its lands to deliver essential goods and supplies, and with this in mind, Draymond issued a trade embargo on Skaldava, preventing any goods from reaching the region. The flow of food, weapons, and other supplies that Skaldava relied upon ceased entirely, leaving the nation to wither under its own isolation. 
 
 Draymond further escalated its response by capturing Skaldavan civilians who were found travelling in or near Draymond to be used as leverage, not only demoralising the Skaldavan leadership but also stoking fear within their population. As the siege dragged on and resources dwindled, Skaldava quickly crumbled under the economic pressure. The people of Skaldava began to starve, and the siege, once thought to be a bold power grab, became an untenable disaster; seeing no other way to survive, the Lords of Skaldava reluctantly capitulated to Draymond’s demands, and the nation as a whole was submitted into becoming Draymond’s first vassal state since the collapse of the Doyverd Empire, marking the beginning of a new era in Draymond’s expansionist strategy. 
-
 ###### Annexation of Florence
 Skaldava's submission sent a clear message to other neighbouring regions: resist Draymond at your peril. Shortly following, 
 ###### The Serende'hel Reformation
@@ -963,7 +966,11 @@ There exists a population of Goblinoids who face rampant discrimination and abus
 
 The Hado Tribes are a nomadic people who have passed down knowledge of the Hado through multiple generations, using it 
 ##### History and Founding
-Drak'Thill is believed to have had no prehistoric inhabitants 
+
+###### Doyverd Colonies
+Drak'Thill is believed to have had no prehistoric inhabitants save for the many various species of wildlife that are native to its arid climate; during the height of Doyverd’s expansionist ambitions, the region now known as Sah’Raza was designated as a penal holding for castaway dissidents, failed generals, and debt-bound peasants beneath a sun that left little to bury. From roughly 1790BR onward, crude fortresses and sand-bound camps were first established along the coastal edge of the Broken Strait and the inland canyon routes which were maintained by imperial wardens as well as independent groups of slavers responsible for tracking escapees through the desert and bringing them back. 
+
+
 ##### Economy and Currency
 Despite the staggering rate of poverty in Drak’Thill, though Drak’Thill’s merchants trade in the same gold-standard as everywhere else, most of the actual population of Drak’Thill use francs in everyday trading. 
 
@@ -2489,6 +2496,7 @@ The **Vorrakin**, known colloquially as **"Stone Stalkers,"** are **six-limbed, 
 
 ---
 ## Imports & Exports
+### Table of Common Exports
 
 | Material      | Uses                                                   | Location(s) |
 | ------------- | ------------------------------------------------------ | ----------- |
@@ -2547,21 +2555,27 @@ The **Vorrakin**, known colloquially as **"Stone Stalkers,"** are **six-limbed, 
 | Turquoise     | Very Rare Gemstone                                     |             |
 | Whale Oil     | Manufacture, food, alchemy                             |             |
 | Zinc          | Manufacture (galvanising)                              |             |
-
+#### Meterorite
 Meteorite constantly radiates heat and can be embedded in trinkets and jewellery to provide warmth to vital parts of the body. Meteorite is exceptionally rare and is found exclusively in celestial formations which have fallen to the earth. 
 
 The Watcher School of the Eagle notably employ meteorite with incendiary oil to set their weapons ablaze in combat; the meteorite is riveted until the blade's edge fits in-between, where the heat and friction set the oil ablaze instantly.
 
-Glice 
+#### Glice 
 A glass-like formation of ice by appearance but with a surface temperature of -20 degrees Celsius. It finds many uses in food preservation and cold storage as well as alchemy.  
 
-Atmaglas
+#### Atmaglas
 A conductive, translucent 
+#### Whale Oil
+#### Charciron
 
-Whale Oil
+#### Mindust
+This psychoactive mineral-spore compound emerges only under an extremely rare confluence of environmental and temporal factors unique to the shifting dunes of the Dry Sea. Believed to be a trace remnant of Yom Osiris Neba’al’s passage through the sands centuries ago after his friction-carved breathfields left behind pockets of condensed psychic resonance that surface only when the desert slumbers.
 
-Charciron
+The substance itself appears as fine powder, amber-gold when inert, and a deep copper-burnt red when activated through heat or saliva. Upon ingestion, users experience psionic dilation: a temporary expansion of sensory processing and empathic perception. The Psilophytes of the Dry Sea describe this phenomenon as Hado attunement; they claim the spice allows one to listen to ancestral echoes embedded in sand, blood and memory. For just about anyone else, however, its risk is profound, especially outside of its uses in ritual context, and has been linked to countless cases of paralysis, psychogenic seizures and permanent identity loss throughout history. 
+##### Harvesting 
+Mindust only rises when the sand is utterly still, which typically occurs for only a few hours every lunar cycle, and only along specific migratory dune belts whose movement aligns with deep mineral strata. Even when these conditions are met, mindust doesn’t lie in veins or pods; it seeps upwards through microfractures in the sand crust, appearing as faint copper shimmer across the topmost grain. This top layer must be skimmed with hand-forged obsidian combs, which scatter static charge and allow the Mindust to settle into glass-thread sieves. 
 
+Once collected, it must be sealed within double-walled glass vials or urns lined with desert wax as  exposure to air beyond a few hours causes the psychoactive compounds to lose their potency. Most harvest attempts by the unprepared will fail and on average only a few grams are ever recovered in a successful outing simply as a consequence of both the difficulty in harvesting and the dangers involved; many who attempt the rite unaided suffer fugue states and hallucinations at best or full psychic breakdown at worst as a consequence of overexposure to the substance temporarily lingering in the air. 
 # Magic 
 
 ## The Essences
@@ -2781,12 +2795,15 @@ Habitat: 
 # Cosmology
 
 ## The Planes 
-
-The most popular methodology for visualising the ordering of The Planes comes from Master Illuminator Dante O'Leary, a cosmologist who famously traversed the plane of 
+The most popular methodology for visualising the ordering of The Planes comes from Master Illuminator Dante O'Leary, a cosmologist who famously traversed the corridors of the Chaos Channels.
 
 The ‘material’ plane is encompassed by waters which stretch on as far as the eye can see. In the Age of Ascension, it was possible for powerful navigator wizards to transpose their ships from one side of the plane to the other, though this art eventually became lost to time. 
-##### Valanar
+### Valanar
 Otherwise known as the material plane. 
+
+### Morrowsea
+While not technically an entirely different plane of existence to Valanar, Morrowsea is considered to be the original home of all living life in Valanar and is by all accounts impossible to 
+
 ### Positive Energy Planes
 
 ##### The Positive Polaris 
@@ -2818,4 +2835,4 @@ It is within this framework that the Gods manifest, not as sovereign beings of d
 
 To worship a God is to be possessed of their ideals and tenets; such strongly held ideals exist within this metaphysical space as tangible psionic energy, growing in influence and reach over time. However, it is not only the pious who have access to the astral ocean; indeed, sometimes, it isn’t even the Gods who are listening, for they too are made of such ideals, and all ideals come from somewhere much more ancient. 
 
-We know not how to traverse the Astral Ocean, if indeed it can even be traversed at all; the elemental chaos channels are impossible to navigate, let alone survive for the required timeframe. Perhaps the Elder Gods intended for it to be a barrier between the material plane and the Primordial Void. Perhaps it is all a coincidence. We simply cannot know.
+We know not how to traverse the Astral Ocean, if indeed it can even be traversed at all; the elemental chaos channels alone are mostly insurmountable to navigate. Perhaps the Elder Gods intended for it to be a barrier between the material plane and the Primordial Void. Perhaps it is all a coincidence. We simply cannot know.
