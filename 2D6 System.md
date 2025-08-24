@@ -255,12 +255,8 @@ These feats are available to **all characters**, regardless of class, and can be
 | **Fleet-Footed**       | Dexterity +2                         | *Your movement speed increases by 5 feet and you ignore difficult terrain when dashing.*                     |
 | **Silver Tongue**      | Charisma +2                          | *Gain Advantage on Deception and Persuasion checks.*                                                         |
 | **Hardy Constitution** | Endurance Proficiency                | *Gain Advantage on resisting Poisoned and Diseased conditions.*                                              |
-| **Battle Instincts**   | None                                 | *Gain Advantage on Initiative rolls.*                                                                        |
-| **Fast Reflexes**      | Dexterity +3                         | *You can use your reaction to halve falling damage.*                                                         |
-| **Lockbreaker**        | Dexterity +3                         | *Gain Major Advantage on lockpicking and can pick magic locks with a TN 12 Spellcasting check.*              |
-| **Battle-Hardened**    | Strength +3 or Endurance Proficiency | *Gain Advantage against being Stunned, Disarmed, or Knocked Prone.*                                          |
-| **Opportunist**        | Dexterity +3                         | *When an enemy within 5 feet takes damage from another source, make an opportunity attack.*                  |
-| **Iron Grip**          | Strength +4                          | *Gain Major Advantage on resisting disarm attempts, grapples, or holding onto ledges.*                       |
+| **Roll Out**           | Dexterity +3                         | *You can use your reaction to halve falling damage.*                                                         |
+| **Locksmith**          | Dexterity +3                         | *Gain Major Advantage on lockpicking and can pick magic locks with a TN 12 Spellcasting check.*              |
 | **Ghost Step**         | Stealth Proficiency                  | *Once per short rest, you may pass through one enemy’s space without provoking opportunity attacks.*         |
 | **Savage Momentum**    | Strength +3                          | *Once per turn, if you reduce an enemy to 0 HP, gain +10 feet movement.*                                     |
 | **Unshakable**         | Strength +4 or Endurance Proficiency | *Gain Advantage on all saves against Fear and Intimidation effects.*                                         |
@@ -284,7 +280,7 @@ These feats are available to **all characters**, regardless of class, and can be
 - **Weapon Proficiencies:** Light, Medium, Heavy
 - **Armour Proficiencies:** Light, Medium, Heavy, Shields
 
-At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd**, **5th**, **7th** and **9th** level. 
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
 
 | **Feat Level** | **Feat Name**             | **Prerequisites**           | **Effect**                                                                                                                                                          |
 | -------------- | ------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -313,14 +309,14 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |                | **Iron Grip**             | None                        | *You cannot be disarmed or knocked prone unless failing a TN 16 check.*                                                                                             |
 |                | **Heavy Strikes**         | Strength +2                 | *Your melee attacks deal +2 damage when using two-handed weapons.*                                                                                                  |
 | **3**rd        | **Cleave**                | Strength +3                 | *When you reduce an enemy to 0 HP, make another attack against an adjacent enemy.*                                                                                  |
-|                | **Savage Assault**        | None                        | *Once per round, make an additional melee attack as part of your action.*                                                                                           |
+|                | **Extra Attack**          | None                        | *Once per round, make an additional melee attack as part of your action.*                                                                                           |
 |                | **Shield Wall**           | Shield Expert               | *Allies within 5ft gain +1 to their TN while you are wielding a shield.*                                                                                            |
 |                | **Precision Strike**      | Dexterity +3                | *Once per encounter, roll with Major Advantage on an attack.*                                                                                                       |
 |                | **Sixth Sense**           | Defensive Reflex            | *Gain Major Advantage on initiative rolls and cannot be surprised while conscious.*                                                                                 |
-|                | **Unstoppable Charge**    | Charge                      | *Add +1D6 damage to your charge attack and force the target to make a TN 12 Strength check or be knocked prone.*                                                    |
-|                | **Brutal Momentum**       | Strength +3                 | *If you hit with a melee attack, gain Advantage on your next attack against the same target.*                                                                       |
-|                | **Bastion**               | Stalwart Guard              | *Gain +1 TN permanently.*                                                                                                                                           |
-|                | **Fury of Blades**        | Dual Weapon Training        | *When dual-wielding, make a third attack once per encounter.*                                                                                                       |
+|                | **Furious Charge**        | Charge                      | *Add +1D6 damage to your charge attack and force the target to make a TN 12 Strength check or be knocked prone.*                                                    |
+|                | **Rhythmic Momentum**     | Strength +3                 | *If you hit with a melee attack, gain Advantage on your next attack against the same target.*                                                                       |
+|                | **Hard To Kill**          | Stalwart Guard              | *Gain +1 TN permanently.*                                                                                                                                           |
+|                | **Fury of Blades**        | Dual Weapon Training        | *When dual-wielding, make a second attack with your off-hand weapon once per encounter.*                                                                            |
 |                | **Rallying Cry**          | Charisma +2                 | *Allies within 10 feet regain 1D6 HP when you reduce an enemy to 0 HP.*                                                                                             |
 |                | **Executioner’s Blow**    | None                        | *If an enemy is below half health, you deal +2D6 damage.*                                                                                                           |
 |                | **Tactical Mastery**      | None                        | *Once per encounter, take an extra turn after your current one.*                                                                                                    |
@@ -360,7 +356,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium
 - **Armour Proficiencies:** Light, Medium, Shields
 
-At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd**, **5th**, **7th** and **9th** level. 
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
 
 | **Feat Tier** | **Feat Name**            | **Prerequisites**           | **Effect**                                                                                                                                       |
 | ------------- | ------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -436,6 +432,8 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium
 - **Armour Proficiencies:** Light, Medium, Shields
 
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
+
 | Tier | **Feat Name**                | **Prerequisites**       | **Effect**                                                                                                                                                          |
 | ---- | ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1st  | **Weight of the Oath**       | None                    | *Oaths have mechanical significance. Breaking an Oath removes divine abilities for 24 hours. While upholding faith, gain Advantage on Willpower saves.*             |
@@ -509,7 +507,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
     c) Crossbow (20 bolts), Leather Armour, 1x Medium Weapon 
     d) 1x Medium Weapon, Shortbow (10 arrows), Scale Mail
 
-At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher-level feats at **3rd**, **5th**, **7th**, and **9th** level.
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
 
 | Tier | **Feat Name**              | **Prerequisites**           | **Effect**                                                                                                 |
 | ---- | -------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -586,7 +584,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium, Heavy
 - **Armor Proficiencies:** Light, Medium
 
-At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher tier feats at **3rd**, **5th**, **7th**, and **9th** CL.
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
 
 | Tier    | **Feat Name**              | **Prerequisites**      | **Effect**                                                                                                     |
 | ------- | -------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -663,7 +661,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 - **Weapon Proficiencies:** Light, Medium
 - **Armor Proficiencies:** Light
 
-At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher tier feats at **3rd**, **5th**, **7th**, and **9th** CL.
+At level 1, choose **two** starting feats. You may take one additional feat each level, gaining access to higher level feats at **3rd** (2nd Tier), **5th** (3rd Tier), **7th** (4th Tier) and **9th** (5th Tier) level. 
 
 | **Tier** | **Feat Name**               | **Prerequisites**      | **Effect**                                                                                                                                               |
 | -------- | --------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |

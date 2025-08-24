@@ -2566,6 +2566,13 @@ A glass-like formation of ice by appearance but with a surface temperature of -2
 #### Atmaglas
 A conductive, translucent 
 #### Whale Oil
+Sourced from the monumental leviathans known as **Deepwhales**, this iridescent oil remains one of the most prized organic exports in maritime commerce. Valued for both its arcane conductivity and exceptional combustion stability.
+
+Every six years, Deepwhales enter their mating season, migrating to the **Summer Sea**, drawn by geothermal shallows and mating currents that bring them closer to the coastlines. This period—known among Tohren Islanders as _Selyraan’s Bowing_—is one of the only windows during which trained whaling vessels attempt to intercept them. Even then, the act of harvesting Deep Whale Oil is considered high-risk, highly taboo, or outright blasphemous depending on jurisdiction.
+
+The oil itself is thick, iridescent, and paradoxically lightweight—capable of maintaining combustion at low temperatures and enhancing magical circuitry when refined. Its applications range from:
+
+Powers cold-burn furnaces, airborne engines, and heat-resistant lubricants.
 #### Charciron
 
 #### Mindust
@@ -2607,15 +2614,17 @@ Void energy is pulled (or channelled) from either the Positive or Negative Poral
 
 Since void is considered as a negative force, it often finds usage in counter-spells, spells which affect gravity, or spells that cause physical or mental decay. Void energy is often extremely powerful when harnessed improperly and can lead to catastrophes such as black holes. 
 ## The Hado
-The Hado is a form of oral psionic manipulation used for commanding and dominating the psyche of one or multiple creatures who hear the voice of the practitioner. For the vast majority of ordinary people, the Hado is almost impossible to withstand without magical defences; spoken commands are followed automatically and interrogations are answered promptly and truthfully. 
+The Hado is a form of oral psionic manipulation used for commanding and dominating the psyche of one or multiple creatures who hear the voice of the practitioner. For the vast majority of ordinary people, the Hado is almost impossible to withstand without magical defences; spoken commands are followed automatically and interrogations are answered promptly and truthfully. A practitioner fluent in the Hado can bend perception, bypass rational defences, and elicit involuntary compliance from targets with little more than vocal inflection.
 
-The origins of this psychic power are vague. Initial evidence garnered from Orcish scriptures around 130BV suggests the Enadriel were the first race to use this power after settling Tae’eel and establishing themselves as the dominant sentient race of the Worldcaves - no doubt these things are related. Even following the Duskryn Ascension, the Eighth Eye were known for their use of the Hado to recruit and indoctrinate servants into their ranks. 
+Natural affinity for the Hado is, like many things, almost entirely down to genetics. Though spells of an extremely similar ilk are not impossible to learn for a well-practiced mage, and while such spells do indeed harness a form of the Hado for the purposes of mental interrogation or compulsion, fluency in the Hado cannot be taught. 
 
-The Psilophytes of the Dry Sea are similarly known for their mastery
+It is possible to build a resistance to the Hado's influence, though extremely difficult; training involves learning how to recognise and disrupt psionic invasions, mostly through repeated exposure and a painful emotional trauma conditioning or chemical augmentation to blur suggestibility. Even with training, full immunity is nearly unattainable and most resistance efforts are practiced only in espionage circles or in very specific institutions. 
+
+The origins of this psychic power are vague, but most historians agree that the Psilophytes of the Dry Sea were likely the first ever organisation of Hadoites; sandbound mystics who paired Mindust induced trance states with vocal manipulation to probe the thoughts of kin and stranger alike.  
+
+The Enadriel of Tae'eel and beyond are likewise genetically predisposed to the Hado due to their proximity to the latent psionic energy that is believed to be constantly radiating from cracks in the deepest and darkest depths of the Worldcaves. As seen with The Sisterhood of Tae’eel, ordained by Nashandra the Serpent Queen, who weaponised the Hado as a mechanism of control; using it primarily to maintain order among noble houses, enforce matriarchal law and ensure that no political actor could act without awareness that she was being watched. 
 
 Orcs themselves have also been observed to be partial users of the Hado, as they use vocal magics during various rituals and pre-battle orations to inspire bloodlust or eradicate fear. 
-
-It is possible to build a resistance to the Hado's influence, though extremely difficult; training involves learning how to recognise and disrupt psionic invasions, mostly through repeated exposure and a painful 
 
 ## The Eight Schools
 Any Wizard worth his salt will categorise themselves as a practitioner of one or more of the eight (8) recognised schools of magic in Valanar, these are: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. These titles are used to quickly identify a given spell’s use or function, but these descriptions barely scratch the surface as to what this magic is able to do; obviously, nothing so powerful and multifaceted could ever be that simple.
