@@ -37,13 +37,13 @@ In the Primordial Void, an unknowable vacuum of infinite possibility, twin flame
 **I. The Genesis of Manamaterium**
 In the beginning, there was only the Primordial Void, an endless vacuum of infinite possibility, where time and space held no meaning. Within this emptiness, two flames flickered to life—the Elder Gods. These twin beings, born of the void itself, shared a dual consciousness, their sentience drawn from the boundless potential of the cosmos. For untold eons, they existed in contemplation, their powers and knowledge growing as they explored the limitless scope of their existence.
 
-As the Elder Gods' understanding deepened, so did their curiosity. It was this curiosity that led them to their first great experiment—the attempt to weave psionic energy into something tangible. In this act, they gave birth to the essence of Manamaterium, the raw fabric of magic and material reality. Where there had once been nothing, there was now something—a great roar echoed across the void as the Material Plane sprang into existence. This was the first creation, the beginning of all substance and form.
+As the Elder Gods' understanding deepened, so did their curiosity. It was this curiosity that led them to their first great experiment; an attempt to weave psionic energy into something tangible. In this act, they gave birth to the essence of Manamaterium, the raw fabric of magic and material reality. Where there had once been nothing, there was now something, and a great roar echoed across the void as the Material Plane sprang into existence. This was the first creation, the beginning of all substance and form.
 
-The Material Plane, however, was initially a grey and lifeless place—a vast expanse of static, unmoving land, devoid of meaning or purpose. The Elder Gods, unsatisfied with this empty world, sought to introduce the elements of change and movement. They conjured the four primary elements—earth, air, fire, and water—and created planes in which these elements could thrive, separate yet interconnected with the Material Plane. Each element became a primordial force, its nature wild and untamed, setting the stage for the further evolution of the cosmos.
+The Material Plane, however, was initially a grey and lifeless place; a vast expanse of static, unmoving land, devoid of meaning or purpose. The Elder Gods, unsatisfied with this empty world, sought to introduce the elements of change and movement. They conjured the four primary elements: earth, air, fire, and water, and created planes in which these elements could thrive, separate yet interconnected with the Material Plane. Each element became a primordial force, its nature wild and untamed, setting the stage for the further evolution of the cosmos.
 
 Yet, these elements needed pathways to flow between their planes and the Material Plane, and so the Elder Gods devised the Chaos Channels. These channels served as conduits through which the primal forces of earth, air, fire, and water could intermingle in the Material Realm. Through their interplay, the natural world began to form. Mountains rose from the earth, oceans spread across the land, and the winds of air swept across the seas, while fire provided warmth and energy. This was the birth of natural order, the first step in the transformation of the Material Plane from a barren place to one filled with the potential for life.
 
-The Elder Gods marvelled at their creation, but they knew it was not yet complete. The elements alone could not sustain the complexity of life they envisioned. There needed to be a force that balanced the creation of form and matter with the metaphysical—a force that could support the essence of thought, consciousness, and the abstract. To achieve this, the Elder Gods conceived the planes of Positive and Negative Energy. These two forces were the opposite poles of existence—one giving life and creation, the other governing death, decay, and entropy. Together, they brought balance to the Material Plane on a metaphysical level, ensuring that life could thrive and that all things would eventually return to the void from which they came.
+The Elder Gods marvelled at their creation, but they knew it was not yet complete. The elements alone could not sustain the complexity of life they envisioned. There needed to be a force that balanced the creation of form and matter with the metaphysical; a force that could support the essence of thought, consciousness, and the abstract. To achieve this, the Elder Gods conceived the planes of Positive and Negative Energy. These two forces were the opposite poles of existence, one giving life and creation, the other governing death, decay, and entropy. Together, they brought balance to the Material Plane on a metaphysical level, ensuring that life could thrive and that all things would eventually return to the void from which they came.
 
 **II. The Ordering of the Planes**
 The Twin Gods knew that in order for these beings to more closely resemble the consciousness they shared, they would need a deeper understanding of what it was to exist. 
@@ -65,7 +65,7 @@ As the aeons passed, however, the perfection the Elder Gods sought began to unra
 
 Amid these growing doubts, a forgotten consequence of the Elder Gods' past experiments stirred in the Primordial Void. The Archfiends—beings cast away as failed creations—had not perished. Instead, they had festered, feeding on the psionic energy that had originally been their undoing. These twisted entities, bathed in eternal anguish, had become something new: powerful, vindictive, and driven by hatred for the world that had rejected them.
 
-In the early days of the Material Plane, the Titans ruled as divine stewards of creation. Among them, Upir, the Titan of Fate and Knowledge, had long held secret knowledge of their mortality. Upir foresaw the end of the Titans’ reign and orchestrated a grand plan that would bring forth a new order: the Higher Pantheon. But for this to happen, an event of monumental importance—a catalyst—was necessary: the first murder in history.
+In the early days of the Material Plane, the Titans ruled as divine stewards of creation. Among them, Upir, the Titan of Fate and Knowledge, had long held secret knowledge of their mortality. Upir foresaw the end of the Titans’ reign and orchestrated a grand plan that would bring forth a new order: the Higher Pantheon. But for this to happen, an event of monumental importance - a catalyst - was necessary: the first murder.
 
 Malkis, the Titan of Death, was a being of great ambition, often described as the Master of Chaos. He was proud, powerful, and loved by Paletress, the Titaness of Life and Creation. Paletress represented everything Malkis did not: she was nurturing, wise, and calm, wielding the Verdant Oath, a rod that could grant life and ensure the health of all living things.
 
@@ -73,31 +73,31 @@ The Archfiends, twisted beings born from the Elder Gods' early failed creations,
 
 Consumed by grief and paranoia, Malkis sought answers from Upir. On the Night of Grand Deception, he confronted Upir, accusing him of treachery and betrayal. Upir, knowing that this confrontation was necessary to his plan, responded cryptically, refusing to give Malkis the answers he sought. In a blind rage, Malkis struck Upir down, committing the first murder in history.
 
-This act shattered the Titans’ belief in their immortality. Upir’s death revealed the truth: the Titans, like all things bound to Manamaterium, were mortal. Malkis, horrified by what he had done, fled to Paletress, seeking her comfort in the wake of his crime. In his desperation and grief, Malkis sought not only comfort but solace in Paletress’ presence. Overcome by his emotions, Malkis forced himself upon her, and from this violation, the first of the gods was conceived: Kane.
+This act shattered the Titans’ belief in their immortality. Upir’s death revealed the truth: the Titans, like all things bound to Manamaterium, were mortal. Malkis, horrified by what he had done, fled to Paletress, seeking her comfort in the wake of his crime. In his desperation and grief, Malkis was overcome by his emotions and is said to have forced himself upon her; from this violation, the first of the Gods was conceived: Kane.
 
-Kane, born shortly after this terrible act, embodied the dual nature of his father’s malice and his mother’s purity. He was a being caught between life and death, representing both humanity and destruction. Kane’s birth was a harbinger of the end of the Titans' reign. He was not a force of balance like his siblings but a god of malice and anger, forever cursed by the circumstances of his conception.
+Kane, born into the world shortly after this terrible act, embodied the dual nature of his father’s malice and his mother’s purity. He was a being caught between life and death, representing both humanity and destruction. Kane’s birth was foretold to Malkis as the harbinger of the end of the Titans' reign;  not a force of balance like his siblings would come to be but a god of malice and anger, forever cursed by the circumstances of his conception, and as a result he was locked away and isolated on a mountainous prison island, the land that would come to be known as Kane's Valley.
 
-Following this event, Magnus was born—Kane’s younger half-brother. Unlike Kane, Magnus inherited his mother’s wisdom and compassion. He was beloved by all the Titans, embodying the hope and order that the new gods would need to guide the world. The other Titans believed that Kane and Magnus were twins, unaware of the dark truth behind Kane’s conception.
+Following this event, Magnus was born; Kane’s younger half-brother. Unlike Kane, Magnus inherited his mother’s wisdom and compassion and was beloved by all the Titans, embodying the hope and order that the new gods would need to guide the world. The other Titans believed that Kane and Magnus were twins, unaware of the dark truth behind Kane’s conception.
 
-While the Titans mourned Upir’s death, Upir himself had ascended to the Astral Ocean, as he had planned all along. From his new vantage, Upir revealed the truth of Kane’s birth to Kane himself: Malkis had not conceived him out of love but in an act of violence. Paletress had not chosen Malkis at that moment; she had been violated, and Kane’s very existence was a product of rage and despair. This revelation shattered Kane’s fragile sense of identity, filling him with an anger that would eventually consume him. Upir’s plan had been set in motion. He had orchestrated his own death so that the Titans’ reign would give way to the Higher Pantheon, and it was Kane’s rage that would bring about the fall of the Titans.
+While the Titans mourned Upir’s death, Upir himself had ascended to the Astral Ocean, as he had planned all along. From his new vantage, he one day visited Kane in his prison realm and revealed to him the truth of his birth and the circumstances of his imprisonment: this revelation shattered Kane’s fragile sense of identity, filling him with an anger that would eventually consume him. Upir’s plan had been set in motion: he had orchestrated his own death so that the Titans’ reign would give way to the Higher Pantheon, and just as he foretold to Malkis, it was Kane’s rage that would bring about the fall of the Titans.
 
 **IV. The Shattering & The Great Exodus**
 Kane, filled with anger and sorrow at the truth of his birth, confronted Malkis, accusing him of the rape of Paletress and of lying about the nature of their existence. Malkis, already burdened by the guilt of Upir’s murder, could not deny the accusations. Kane, in a fit of fury, struck down his father, killing Malkis with the use of his own fabled Pillar; the Horn of Malkis.
 
-This act—the Shattering—marked the beginning of the end for the Titans. With Malkis’ death, the Titans’ authority was irrevocably broken. The remaining Titans, devastated by the loss of their kin and the knowledge of their own mortality, retreated into the Outer Planes, leaving the Material Plane to the Higher Pantheon. 
+This act marked the beginning of the end for the Titans. With Malkis’ death, the Titans’ authority was irrevocably broken. The remaining Titans - devastated by the loss of their kin and fearing future retribution from Kane - retreated into the Outer Planes, forever leaving the material plane to the High Pantheon. 
 
-Thus, Magnus, filled with sorrow but determined to forge a new path, declared the beginning of the Great Exodus. Alongside him were the other gods of the High Pantheon, including Seradriel, the God of the Elves, and his Serende’hel followers. Kane, consumed by his rage and guilt, ruled in isolation, his malice darkening the skies of his homeland. No god could remain there without being consumed by the tragedy that had unfolded. It was Magnus, the god of Order and Justice, who declared it was time to leave. A new world lay across the great seas—a land untouched by the crimes of the Titans, a blank slate where the gods could begin anew: Valanar.
+Thus, Magnus, filled with sorrow but determined to forge a new path, declared the beginning of the Great Exodus. Alongside him were the other gods of the High Pantheon, including Seradriel, the God of the Elves, and his Serende’hel followers. Kane, consumed by his rage and guilt, ruled in isolation, his malice darkening the skies of his homeland. No god could remain there without being consumed by the tragedy that had unfolded. It was Magnus, the god of Order and Justice, who declared it was time to leave. A new world lay across the great seas, a land untouched by the crimes of the Titans, a blank slate where the gods could begin anew: Valanar.
 
-Magnus led the gods across the waters in what would be known as ‘The Great Exodus’ by future generations, and with him came their followers—mortals who had devoted themselves to the Higher Pantheon. They followed their gods, leaving behind the ashes of their old lives to seek a new destiny in a land they had only heard whispers of in ancient myths. The journey across the great ocean was long and perilous, but for these mortals, it was not just a physical journey—it was the start of a new age.
+Magnus led the gods across the waters in what would be known as ‘The Great Exodus’ by future generations, and with him came their followers; mortals who had devoted themselves to the Higher Pantheon. They followed their gods, leaving behind the ashes of their old lives to seek a new destiny in a land they had only heard whispers of in ancient myths. The journey across the great ocean was long and perilous, but for these mortals, it was not just a physical journey but the start of an entirely new age.
 
-**V. The Primordial Sacrifice**
-The Primordial Dragons were created by the Gods upon their arrival in Valanar, their purpose clear: to serve as the protectors of the Material Plane, maintaining the boundaries between the planes and ensuring that the forces of chaos—especially those from the Abyssal Planes—could not breach the sanctity of creation. These dragons, imbued with immense power, became the eternal guardians of Valanar, existing beyond the passage of time itself. They were timeless, ageless, and unrelenting in their mission to preserve balance across the cosmos.
+**V. The Primordial Sacrifice & The Night of the Ten Thousand Suns**
+The Primordial Dragons were created by the Gods upon their arrival in Valanar, their purpose clear: to serve as the protectors of the Material Plane, maintaining the boundaries between the planes and ensuring that the forces of chaos, especially those from the Abyss, could not breach the walls of creation. These dragons, imbued with immense power, became the eternal guardians of Valanar, existing beyond the passage of time itself. They were timeless, ageless, and unrelenting in their mission to preserve balance across the cosmos.
 
 But as the ages passed, the Primordials came to realise the limitations of their immortality. Though powerful, they understood that no force, not even they, could hold back the chaos of the Abyss forever. Time, while not affecting their physical form, was eroding their strength, and the threats they faced from the Outer Planes were only growing more numerous and relentless. Eventually, they would falter. And should they fail, the world would be swallowed by chaos.
 
 It was in this moment of foresight that the Primordial Dragons came together and made a decision that would forever shape the fate of Valanar: they would exchange their immortality for the ability to procreate. The logic was simple, yet profound: their children, unlike themselves, would be able to grow, to adapt, and to multiply. Each generation would be stronger than the last, evolving to meet the rising challenges of the universe.
 
-They petitioned Bælthatrax, the overseer of their kind and a wise and revered force among the dragons. Understanding the gravity of their request, Bælthatrax granted them this sacrifice, allowing the Primordials to become the first mortal dragons. In doing so, the Primordials set the stage for the birth of dragonkind—a lineage that would extend far beyond their own time, ensuring that Valanar would be defended for millennia to come.
+They petitioned Bælthatrax, the overseer of their kind and a wise and revered force among the dragons. Understanding the gravity of their request, Bælthatrax granted them this sacrifice, allowing the Primordials to become the first mortal dragons. In doing so, the Primordials set the stage for the birth of dragonkind, a lineage that would extend far beyond their own time, ensuring that Valanar would be defended for millennia to come.
 
 As the centuries wore on, a day came when the sky itself was torn open. A rift, blacker than the darkest night, appeared above Valanar, and from it poured forth the twisted, unspeakable creatures of the Abyssal Planes—chaos given form, seeking to consume the world. The very fabric of reality seemed on the verge of collapse, as these creatures spilled into the Material Plane, threatening to undo all that the Gods and the Primordials had worked so hard to protect.
 
@@ -138,7 +138,7 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **482BR** - *Formation of the Circle of Mages*
 	The organisation forms after thousands of years of magic users going entirely unchecked, originating in Draymond and eventually spreading throughout Dol-Calandria. 
 - **410BR** - *The Elven Civil War*
-	Nashandra’s repeated incursions against Orc settlements spark an ideological and political schism. Armed conflict breaks out between the Serenadriel (those who follow Nashandra) and Serende’hel loyalists. The war lasts around a decade.
+	Nashandra’s repeated incursions against Orc settlements spark an ideological and political schism. After many years of socio-political conflict, armed conflict breaks out between the Serenadriel (those who follow Nashandra) and Serende’hel loyalists. The conflict lasts around two years before the Enadriel are driven from the isle.
 - **400BR** - *Exile of the Enadriel*
 	Nashandra and her followers are exiled following a narrow defeat. They flee to the Ancient Isles to the South, landing in Nydessa, where they are immediately beset upon by the native Orc population. 
 - **~380BR** - _Rise of Tae’eel_
@@ -179,94 +179,102 @@ Characterised by the rise and fall of various kingdoms and empires, the Age of A
 	The two were originally settled as two separate entities, with chromatic Dragonborn residing within Agrassilla and metallic Dragonborn taking Kunthropia as their home. Through a combination of racism, need of land, and blatant greed, Kunthropia eventually began a crusade on Agrassilla - a war raged for five years, until the war was won by Kunthropia. After the crusades, the lands were united to become Agrassilla’Kunthropia. The war left its scars, with strong racial tensions standing between the two differentiations of colours.
 - **155SR** - *Draymond Conquers Caldwynn*
 	Draymond manages to secure victory over Caldwynn by capturing its Capital. After fifteen years of conflict, the Northern Independents sign a peace treaty to end the war, relinquishing Caldwynn as a member of its Coalition. 
-- **156SR** - 
-	Both Nydessa and Einartoft officially break away from the Draymond Empire. 
-- **157SR** - 
+- **156SR** - *Einartoft & Nydessa Claim Sovereignty*
+	Both Nydessa and Einartoft officially break away from the Draymond Empire in a coordinated coup d'état 
+- **157SR** - *The Siege of Tae'eel*
 	Tae’eel is besieged by the Eighth Eye. They execute most of the city’s nobility and begin enslaving the rest in the worship of Nashandra. 
-- **160SR** - 
-	The [[#The Watcher Schools]] are all established in their respective countries, and Masters from each are elected to represent the organisation as a whole. Though many of the schools existed before this time, it was in this year that they all officially deemed themselves as Watchers, serving a common purpose.
-- **162SR** - 
-	Haydn Duskryn is crowned as the first King of the Enadriel. In the same year, diplomacy with King Brandon Steel of Nydessa enables the Enadriel to lawfully return to the surface world for the first time in centuries. 
-- **220SR** - *The Khard Civil War* 
-	Fuelled by generations of internal conflict and greed, the Khard Civil War lasted for four of the longest years in the Dwarrow's history. 
+- **160SR** - *The Dawn of the Watchers*
+	[[#The Watcher Schools]] are all established in their respective countries, and Masters from each are elected to represent the organisation as a whole. Though many of the schools existed before this time, it was in this year that they all officially titled themselves as Watchers, serving a common purpose in the defence of the people of Valanar.
+- **162SR** - *The Unification of the Dark Elves*
+	Haydn Duskryn is crowned as the first King of the Enadriel as the Eighth Eye War reaches a close. In the same year, diplomacy with King Brandon Steel of Nydessa enables the Enadriel to lawfully return to the surface world for the first time in centuries. 
+- **220SR/224SR** - *The Khard Civil War* 
+	Fuelled by generations of internal conflict and greed, the Khard Civil War lasts for four of the longest years in the Dwarrow's history. 
 ---
 ### The Age of Heroes
-As the kingdoms of the world settle into a time of relative peace, the Age of Heroes is characterised not by the movements of Empires but individuals. 
+As the kingdoms of the world settle into a time of relative peace, the Age of Heroes is characterised not by the movements of Empires but heroes.
 
-- **278SR** - 
-	The Age of Heroes begins. The world is rife with knowledge and awe inspiring sights - people aspire to one day discover these for themselves. An age of prosperity and heroism is starting.
-- **300SR** - 
-	The Free City of Arcade is founded after the Paschas who previously ruled the City are methodically assassinated within days of one another, leading to a people’s revolt. 
-- **313SR** - 
-	The Gomodo Observatory is completed. Astrologists begin observing the constellations of the High Pantheon. 
+- **278SR** - *The Age of Heroes Begins*
+	The world is rife with knowledge and awe inspiring sights - people aspire to one day discover these for themselves. An age of prosperity and heroism is starting.
+- **300SR** - *Arcade Revolts Against Drak'Thill*
+	The Free City of Arcade is founded after the Paschas who previously ruled the City are methodically assassinated within days of one another, leading to a people’s revolt. The resulting loss of access to trade and resources from foreign Paschas in other parts of Drak'Thill cause them to denounce the city and its new leadership.
+- **313SR** - *Gomodo Observatory Constructed*
+	The Gomodo Mountain Observatory is completed as astrologists begin observing the movements of constellations and the High Pantheon with much greater clarity.
 - **317SR** - *Morrowsea Discovered*
 	Morrowsea’s Moon becomes visible for the first time, vindicating scholars who had debated its existence since before the Serende’hel Reformation. 
+- **317SR** - *Fall of the Hanari Shogunate*
+	Clan Hanari, which occupied the seat of the Shogunate for several centuries, is eliminated in a political coup by their once trusted allies, Clan Harimau.
 - **342SR** - *The Bloodfire Epidemic*
 	An airborne disease known as bloodfire first appears in the Westerlands before quickly spreading across parts of Brutayne, devastating local populations all across Dol’Calenon. It is noted as being the first disease which no known magic could cure. 
 - **360SR** - *The White Wall Rebellion*
 	Skaldava attempts to break away from the Empire in a short uprising known as the White Wall Rebellion.  
 - **514SR/524SR** - *The Nydessan Purge*
-	Relations were always strained between the native Orcs of Nydessa and the force of Men who took the land as their own - it was an unspoken rule that going into the Thornwood Forest would result in death by the Orcs, but attacks on roads and even sometimes to towns were common problems. This all boiled over when a regiment of soldiers led by King Uriel's brother in law, Lord Thackton Virt, was sacked and mutilated a few miles east of Stonereach. This caused the king to go into a great rage, ordering the eradication of the native Orcs from Nydessa. The bloody war lasted ten years, with heavy casualties being suffered on both sides; although the Humans had equipment and manpower, they were still in unnatural territory - most wars were fought in fields, and the forests were a completely different situation, with the Orcs using this to their advantage their lack of manpower did not hinder them. After these years though Human scouting parties began to find less and less camps, seeing that the Orcs had either fled or been wiped out, the war was called to an end. Although the humans see this as a victory on their side, there still live remnants of the native Orcs in Thornwood.
+	Relations were always strained between the native Orcs of Nydessa and the force of Men who took the land as their own - it was an unspoken rule that going into the Thornwood Forest would result in death by the Orcs, but attacks on roads and even sometimes to towns were common problems. This all boiled over when a regiment of soldiers led by King Uriel's brother in law, Lord Thackton Virt, was sacked and mutilated a few miles east of Stonereach, causing the king to go into a great rage and ordering the eradication of the native Orcs from Nydessa. The bloody war lasted ten years, with heavy casualties being suffered on both sides; although the Humans had equipment and manpower, they were still in unnatural territory - most wars were fought in fields, and the forests were a completely different situation, with the Orcs using this to their advantage their lack of manpower did not hinder them. After these years though Human scouting parties began to find less and less camps, seeing that the Orcs had either fled or been wiped out, the war was called to an end. 
 **924SR** - *The Great God War*
-	Also referred to as The Ancient Dragon War, which was the first worldwide conflict between the Demigods of the Lower Pantheon and the Lower Fiends of Valanar. Due to the overpopulation of beings with powers which rivalled them, many had disputes with each other over who governed what. Over time, the Archfiends built up groups led by Lower Fiends, and erupted into war when one of these groups began launching attacks onto the Material Plane of Valanar. The ascended beings attacked their rivals, using Valanar as a staging ground. The residents of The Ancient Isles were dragged into holy conquests which they had no hopes of winning. Some of the Demigods collaborated to a point where they altered the beings of the Draconic creatures in The Ancient Isles, and created the powerful and destructive dragons that were the norm from then onwards. In the end the Ancient Isles were ravished with no clear victors. Many beings fled, including those of great renown, leaving behind nothing but destruction, and terribly weakened communities. The Gods, seeing the effects of the allure of power on their subjects, chose then to take a step back, vowing to never interfere as recklessly as they had, choosing instead to live in forbearance.
-	Those left behind were left to herald their own fates - creating a new age of Man. In the aftermath of Valanar’s first great war nothing was left unchanged; Einartoft’s southern ocean was frozen over, magical beings rose to power in their respective realms, and many powerful entities were banished amongst the planes.
+	Also referred to as The Ancient Dragon War, which was the first worldwide conflict between the Demigods of the Lower Pantheon and the Lower Fiends of Valanar. Due to the overpopulation of beings with powers which rivalled them, many had disputes with each other over who governed what. Over time, the Archfiends built up groups led by Lower Fiends, and erupted into war when one of these groups began launching attacks onto the Material Plane of Valanar. The ascended beings attacked their rivals, using Valanar as a staging ground. 
+	Some of the Demigods collaborated to the point where they successfully altered the Dragons in The Ancient Isles, creating the powerful and destructive dragons that were the norm from then onwards. In the end the Ancient Isles were ravished with no clear victors. Many beings fled, including those of great renown, leaving behind nothing but destruction, and terribly weakened communities. The Gods, seeing the effects of their alluring divine power on their subjects, chose then to take a step back, vowing to never interfere as recklessly as they had, choosing instead to live in forbearance.
+	
 
 ---
 ### The Age of Man
-In the aftermath of the Great God War
+In the aftermath of the Great God War, those left behind were left to herald their own fates - creating a new age of Man. In the aftermath of Valanar’s first great war nothing was left unchanged; Einartoft’s southern ocean was frozen over, many powerful entities were banished amongst the planes and many other magical beings rose to power in their respective realms.  
 
-- **925SR** - 
-	The Age of Man begins. The remaining Gods begin to help humanity rebuild itself, this time with a less heavy handed approach - beings are left to try and find their ways on their own, with the subtle guidance of the Gods. Men experiment and build, creating a society and world for themselves. In this age a man truly does forge his own fate. 
-- **942SR** - 
+- **925SR** - *The Age of Man*
+	The remaining Gods who weren't expelled by the High Pantheon begin to help humanity rebuild, this time with a less heavy handed approach - beings are left to try and find their ways on their own, without as much interference from those beyond the astral veil.
+- **942SR** - *King Snowden Assassinated*
 	King of Einartoft is assassinated, his only son, Eryk, immediately assumes the throne at the age of sixteen.
-- **950SR** - Einartoft Invades Draymond
-	Einartoft sparks a war with Draymond after years of building tensions over trade and tax. 
+- **950SR** - *Einartoft Invades Draymond*
+	Einartoft sparks a war with Draymond after years of building tensions over trade and tax, the first time the nation would ever encroach to the north of their own borders. 
+	..
+	..
+	..
+	WIP
+
 ---
 ### The Age of War
+Before the end of the 21st century, after a millennia of the Gods growing further astray from mankind, the God-Queen Verassi would come to power following the culmination of a cunning plot devised by the Arch Lich known as Dalamar.  
 
-- **2283SR/2284AV** - *Birth of Verassi*
-	A powerful Lich known as Dalamar takes control of eight extremely powerful Dragons, using them to wipe out the Holy City of Nassau. The Draymond Empire surrenders shortly after, and Dalamar is free to summon the God-Queen, Verassi.
-- **2363AV** - *The Battle of Snowden* 
-	Snowden is besieged by Verassi's forces and are eventually repelled. 
-- **2365AV** - Assault on Sadurak
-- **2366AV** - 
-	The Order of the Hammer, led by a man known as “The Abbot”, quickly takes control over what remains of Draymond’s military forces and makes concerted efforts towards rebuilding civilization. This enables them to enforce their dogmatic creed onto the public, outlawing magics and religion, amongst other things. 
-- **2399AV** - The Age of Strife Begins
-	The dissolution of Verassi’s empire leads to a time of great change and turmoil, including mass famines and genocides across the world. This is known as the era of darkness, as the days progressively grew shorter and the sun grew dimmer, until all that was left… was strife.
+- **2083SR/2084AV** - *Birth of Verassi / Death of Bannon*
+	The powerful and infamous Lich known as Dalamar takes control of eight extremely powerful Dragons, using them to wipe out the Holy City of Nassau. The Draymond Empire surrenders shortly after, and Dalamar is free to summon the God-Queen, Verassi. The constellation for the God of Death, Bannon, disappears from the night sky. Shortly after, Verassi assumes control of the Draymond Empire through force, beginning the Age of War.
+- **2263AV** - *The Battle for Snowden* 
+	Snowden is besieged by Verassi's forces and are eventually repelled at great cost on both sides. The siege lasts for seven months as the city is protected by powerful magic barriers. 
+- **2265AV** - Assault on Sadurak
+	Verassi's forces are routed back to the capital city of Sadurak by rebel forces, who besiege the city in one final attempt to banish her back to the Astral Ocean, which they are successful in doing; the climax of this weeks long siege culminating in a duel between her physical avatar and the last vestiges of humanity's strongest heroes. 
+- **2266AV** - *The Order of the Hammer Dissolves the Black Empire*
+	The Order of the Hammer, led by a man known as “The Abbot”, quickly takes control over what remains of Draymond’s military forces and makes concerted efforts towards rebuilding civilization, enabling them to enforce their dogmatic creed onto the public and outlawing all forms of magic and religion, amongst other things. They declare all nations of the Black Empire sovereign once more, leaving the Empire's former constituents to fend for themselves.
+	
+	The dissolution of Verassi’s empire leads to a time of great change and turmoil, including mass famines and genocides across the world. This is known as the era of darkness, as the days progressively grew shorter and the sun grew dimmer - until all that was left was *strife*.
+	
 ---
 ### The Age of Strife
-- **2400AV** - 
-	From the ashes of the old world, and the shadows of the last great war, the last of Man remains huddled in overcrowded cities, fighting against the encroaching tides of decay. 
-	
-	The world was shattered by magic; plains became deserts, mountains crumbled, storms raged. Where once was law, order and empire, now only hardship and savagery remain. In a time where a man's worth is measured by his word, might makes right, and a quick death is a mercy, only those who are foolish or brave venture far from home.
-- **2414AV** - 
+From the ashes of the old world, and the shadows of the last great war, the last of Man remains huddled in overcrowded cities, fighting against the encroaching tides of decay. The world was shattered by magic; plains became deserts, mountains crumbled, storms raged. Where once was law, order and empire, now only hardship and savagery remain. In a time where a man's worth is measured by his word, might makes right, and a quick death is a mercy, only those who are foolish or brave venture far from home.
+
+- **2400AV** - *The Age of Strife Begins*
+	The devastation wrought all across Valanar forces civilisations of every kind to adapt to a harsher way of living. Entities from other planes begin to appear much more frequently and travelling in small numbers becomes extremely dangerous wherever you are in the world. 
+- **2403AV** - *The Elven Isle Sinks*
+	The Capital City, along with many other settlements of the Elven Isle, collapses into the ocean after years of inclement weather decimating the landscape. Once again left without a home, the Elves scatter to the far corners of the seas.
+- **2414AV** - *Desolation of The Snow Kingdom*
 	Earthquakes cause irrevocable change as the mountain valleys of Einartoft shift and crack, destroying towns and cities all across the Snow Kingdom. Communities are either divided or wiped out; in many cases citizens flee to Snowden where conditions were not much better. King Willhelm V declares martial law and closes the gates to the city.   
-- **2415AV** -
-	Serpent’s Pass is felled, as the Dwarves seal Khard off from the rest of the world. 
-	
-	The Capital City of the Elven Isle collapses into the ocean, after years of inclement weather decimating the landscape. Once again left without a home, the Elves scatter to the far corners of the world.
-	
-	Witches and heretics are burned in the streets.
+- **2415AV** - *Khard Isolates from Vitgaard*
+	Serpent’s Pass is felled as the Dwarves seal Khard off from Vitgaard, and ultimately the rest of Dol'Calandria. 
+
 ---
 ### The Age of Ash
-- **???AV** -
+All great things must come to an end.
+
+- **???AV** - *The Fire Fades*
 	When the Elder Gods, the mightiest of all beings, created the Titans and had their first attempt at granting life, they watched and observed. As their children worked to paint the details on the grand canvas their creators had given them, they noticed a fatal flaw in their design; for the Titans were immortal, and their world was too grand, their picture too perfect. The Elder Gods created the concept of chaos to balance order, night to balance the day, winter to balance the summer, and death to balance life. All things were made of magic; the sun, the Gods which would become the stars, the flowers, the creatures, but even the most powerful of magic is finite, and thus the Elder God’s creation was finally put in perfect balance, for in time, all magic would begin to fade.
 	
 	The Gods, creatures of incredible magic, protectors to all of the life the Titans had crafted and guardians of mankind, disappeared from the world. Their planes, which themselves were magical representations of the roles they played in this dance of order and chaos, fade into the void from whence the Elder Gods came. The stars no longer shine in the night sky, and almost as a cruel metaphor, the days are dim and the nights pitch black.
 	
-	Other creatures of intense power are weakened as the magic which once upheld all life begins to vanish, and many die out. As the non-material planes begin to shrink in size until eventually ceasing to exist, so too does the strength of their boundaries to the other planes of Valanar, and many demons desperately flee to the prime material plane where they might cling to their meagre power before they too fade away.  
+	Other creatures of intense power are weakened as the magic which once upheld all life begins to vanish, and many die out. As the non-material planes begin to shrink in size until eventually ceasing to exist, so too does the strength of their boundaries to the other planes of Valanar, and many demons desperately flee to the prime material plane where they might cling to their meagre power before they too fade away.  Beings in the spectral realms, who avoided returning to the Well of Souls through devotion to their deity or by circumstance alone, return to the void, as the Well ceases to churn. 
 	
-	Beings in the spectral realms, who avoided returning to the Well of Souls through devotion to their deity or by circumstance alone, return to the void, as the Well ceases to churn. 
-	
-	The magical essence in all life begins to fade; crops cease to grow, roving bands of warriors stalk the lands in search of prey, and the world, just as all that came before it, slowly dies.
-	
-	One day, the Elder Gods may return, and in their infinite wisdom, see it fit to continue their experiment. A plant will grow, a baby will be born, a lone star will appear in the night sky. 
+	The magical essence in all life begins to fade; crops cease to grow, roving bands of warriors stalk the lands in search of prey, and the world, just as all that came before it, slowly dies. One day, the Elder Gods may return, and in their infinite wisdom, see it fit to continue their experiment. A plant will grow, a baby will be born, a lone star will appear in the night sky. 
 	
 	Or, perhaps not. Who could possibly know?
 
 ---
 # Geography
-Valanar is home to six continents and dozens of small island nations. 
+Valanar is home to six continents and dozens of small island nations and city states.
 
 ---
 ## Dol-Calandria
@@ -711,12 +719,42 @@ The average diet of an Elven commoner consists of fish, rice and a handful of na
 ##### Geography and Landmarks
 Despite the island’s relatively small surface area, there are two mountains to the north and south of the country which are regarded as sacred landmarks; Mt. Astrid and Mt. Kalan, the latter being a dormant volcano. Much of the fertile ground 
 
-While not as verdant as their ancestral homelands, the forests on the island are all full of 
+While not as verdant as their ancestral homelands, the forests on the island are all full of exotic fauna and flora; most rare of which being the sacred grove of Waking Trees that exists. Waking trees are considered special for their connection to Seradriel, who granted the waking trees life merely by being in their presence. He gave them all names and nurtured their growth, and from these saplings, the race of Elves were born. 
+
+Pixies and Fairies are two lesser known subspecies who are all but extinct in Valanar, with much of their home being destroyed by the Orcs and Giants in the War of the Chosen. 
 ##### Settlements & Structures
 
 ##### Military and Naval Power 
 While the Ende’hel are not particularly militaristic, it is common for Ende’hel males to be learned in at least the fundamentals of swordplay. 
 
+### The Lost Lands
+##### Population and Demographics 
+
+##### History and Founding
+Once known as The Fane by the Elves who inhabited it, The Lost Lands is an area of disputed territory ruled over by disparate clans of Giants and Orcs who were the original inhabitants of the lands before the Elves came over some time during the Great Exodus. With superior knowledge and arcane mastery, the Elves quickly became the dominant force on the island but did not subjugate or wipe the Orcs out completely, instead driving them to the Eastern Coast where they were forced to compete with the Giants for territory. By that point, the Giants had mainly inhabited their own smaller island, aptly known as Giant Isle. 
+
+For thousands of years, these borders were respected. Orcs lived in small conclaves and were never again unified enough to ever pose a threat to their Elvish neighbours; that was until the Enadriel began to overstep their bounds, performing night time raids on Orcish border settlements and sewing chaos in their wake, targeting both civilian and military forces alike in an effort to further push the Orcs into the sea, prompting the leaders of warring Orc Clans to hold a strategic summit for the first time in millennia. In response to these
+
+###### The Elven Civil War
+
+
+##### Economy and Currency
+The currency of the Elven Isle is the Endelian Denar, which is a gold plated coin which comes in denominations of one, two, five and ten denar. They are thinner than a Draymond ducat by half an inch and the vast majority of the coins in circulation contain a depiction of Tairon Silverbark on one side and the national emblem on the other. 
+
+While the isle itself is plenty rich in beauty, it isn’t known for having any particularly rare natural resources save for perhaps jadestone and a particularly fragrant halite which is collected from coastal estuaries. 
+##### Culture and Society 
+One need only take a cursory look at Ende’hel society to see a trend toward a more meritocratic society than any other race, similar to their Enadriel cousins; their pragmatic and egalitarian approach to governance has formed a 
+
+The average diet of an Elven commoner consists of fish, rice and a handful of native vegetables. 
+##### Geography and Landmarks
+Despite the island’s relatively small surface area, there are two mountains to the north and south of the country which are regarded as sacred landmarks; Mt. Astrid and Mt. Kalan, the latter being a dormant volcano. Much of the fertile ground 
+
+While not as verdant as their ancestral homelands, the forests on the island are all full of exotic fauna and flora; most rare of which being the sacred grove of Waking Trees that exists. Waking trees are considered special for their connection to Seradriel, who granted the waking trees life merely by being in their presence. He gave them all names and nurtured their growth, and from these saplings, the race of Elves were born. 
+
+Pixies and Fairies are two lesser known subspecies who are all but extinct in Valanar, with much of their home being destroyed by the Orcs and Giants in the War of the Chosen. 
+##### Settlements & Structures
+
+##### Military and Naval Power 
 ---
 ## Dol-Calenon
 
@@ -916,7 +954,7 @@ The Malyrian Isles are functionally uninhabited. What remains of its population 
 
 The Malyrian Isles are infested with creatures that defy taxonomy; beasts twisted by centuries of magical fallout, planar instability, and psionic corruption. These are not natural predators, but aberrations born from the Desolation itself. Some were once native fauna, warped beyond recognition by ley surges and arcane radiation. Others are planar spillovers, entities that slipped through the wound in reality and now stalk the land in search of sustenance, power, or escape.
 ##### History and Founding
-The Malyrian Isles were first settled in the wake of the Great Exodus, when Dwarrow and Orkryn refugees—bound by the ancient Emberstone Pact—sought sanctuary from the divine upheavals that had shattered the old world. Their alliance, forged in the fires of Morrowsea and tempered by centuries of shared struggle, was more than political—it was cultural, spiritual, and deeply personal. Together, they established the Kingdom of Malyria, a hybrid civilization that blended Dwarrow engineering with Orkryn spiritualism. Its capital, Kar’Thendal, rose from the obsidian cliffs like a monument to unity, its towers forged from volcanic glass and its halls carved deep into the stone.
+The Malyrian Isles were first settled in the wake of the Great Exodus, when Dwarrow and Orkryn refugees—bound by the ancient Emberstone Pact—sought sanctuary from the divine upheavals that had shattered the old world. Together, they established the Kingdom of Malyria, a hybrid civilization that blended Dwarrow engineering with Orkryn spiritualism. Its capital, Kar’Thendal, rose from obsidian cliffs like a monument to unity.
 
 For centuries, Malyria thrived. Its forges burned with soulglass, its rituals echoed with ancestral power, and its scholars pushed the boundaries of arcane understanding. But ambition proved fatal. In their pursuit of metaphysical mastery, the kingdom’s leaders attempted a ritual known as **The Folding**—an experiment meant to merge psionic energy with the material plane. The result was catastrophic. The ley grid ruptured, the land screamed, and the Isles were torn apart in a single, apocalyptic moment.
 
@@ -2140,11 +2178,11 @@ Due to the structure of their faces, the Kanin have a limited spoken vocabulary,
 While the Kanin share a similar lifespan to humans, typically living around seventy to eighty years, they reach maturity much faster. By the age of fourteen or fifteen, a Kanin is considered an adult, having undergone rigorous training in their chosen role within their clan. 
 
 ##### Heritage & History
-The Kanin are a people shaped by cycles of unification and conflict; their history is largely defined by the rise and fall of Shogunates—a system in which one clan temporarily rises above the others to unite the clans under one banner. However, these periods of unity have always been fragile, and betrayal or assassination often leads to the collapse of these regimes, plunging Nauska back into inter-clan warfare.
+The Kanin are a people shaped by cycles of unification and conflict; their history is largely defined by the rise and fall of Shogunates; a system in which one clan temporarily rises above the others to unite the clans under one banner. However, these periods of unity have always been fragile, and betrayal or assassination often leads to the collapse of these regimes, plunging Nauska back into inter-clan warfare.
 
 The first major unification of the Kanin came with the Sadao Shogunate, led by the legendary Shogun Sadao. Sadao rose to power in a time of external threat, when the Kanin were being invaded by the forces of Old Vitgaard, a powerful foreign empire. With cunning strategy and unmatched martial prowess, Sadao united the warring clans and led them to victory against the invaders, driving them from Kanin lands. His reign is remembered as a time of strength, unity, and honour, though it was short-lived. Following his death, the Sadao Shogunate quickly crumbled as the clans vied to fill the power vacuum, leading to a new era of clan wars.
 
-After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate too fell victim to internal strife; in one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup.
+After centuries of intermittent warfare, the Kanin were once again united under the Hanari Shogunate, which is remembered for its strict enforcement of the Samurai code and the establishment of the Northern Concordat, a treaty that brought relative peace to the region. Under the Hanari, the laws governing the Samurai were codified, and Nauska enjoyed an extended period of stability. However, the Hanari Shogunate too fell victim to internal strife; in one of the most infamous moments in Kanin history, Clan Harimau, long-standing allies of the Hanari, betrayed them, assassinating the entire ruling family in a bloody coup in the Age of Heroes. 
 ##### Society
 At the heart of Kanin life is the clan, a family unit extended across generations, with each clan ruling over a specific territory in Nauska. The clan is the ultimate source of identity and protection for its members, and the concept of individualism is largely absent; one’s actions reflect upon the entire clan. Clan loyalty is paramount, and betraying one's clan is one of the greatest shames a Kanin can endure.
 
@@ -2185,9 +2223,9 @@ Their grand Undercities, carved out of vast caverns, are a testament to their in
 Tall and lithe with angular facial features. Mature very slowly at a 10th of the rate of Humans. They can naturally attain any eye colour though they appear much brighter under visible light, turning deep browns to magnificent hazel, or yellow eyes into golden, sunstreaked iris. 
 
 ##### Heritage & History
-The Ende'hel, known for their profound connection to the sacred lands of 'The Fane' in the Lost Lands, originated as a people blessed by Seradriel in the Age of Mist. Initially, their existence was marked by a delicate balance of power, achieved through strategic manipulation of the Orcs and Giants who also inhabited the region. This approach underscored their diplomatic and cunning nature, in contrast to the more aggressive tendencies of the Enadriel, their darker skinned cousins. This balance allowed the Ende'hel to maintain their consecrated grounds and uphold their traditions in relative peace. 
+The Ende'hel, known for their profound connection to the sacred lands of 'The Fane' in the Lost Lands, originated as a people blessed by Seradriel in the Age of Mist. Initially, their existence was marked by a delicate balance of power, achieved through strategic manipulation of the Orcs and Giants who also inhabited the region. This approach underscored their diplomatic and cunning nature, in contrast to the more aggressive tendencies of the Enadriel, their darker skinned cousins. This balance allowed the Ende'hel to maintain their consecrated grounds and uphold their traditions in relative peace for thousands of years. 
 
-Over time, internal divisions emerged, particularly between Nashandra, who advocated aggressive tactics against the Orcs, and Tairon Silverbark, who preferred a more cautious approach. Nashandra's insistence on military confrontation over diplomacy, despite the risks it posed to their society, led to increasing racial tensions. This discord eventually escalated into a civil war, pitting the Enadriel against the Ende'hel, and culminating in the exile of the Enadriel from the lands.
+Over time, internal divisions emerged, particularly between Nashandra, who advocated aggressive tactics against the Orcs, and Tairon Silverbark, who preferred a more cautious approach. Nashandra's insistence on military confrontation over diplomacy, despite the risks it posed to their society, led to increasing racial tensions. This discord eventually escalated into the Elven Civil War which pitted the Enadriel against the Ende'hel in political and eventually armed conflict, eventually  culminating in the exile of the Enadriel from the lands. 
 
 The unification of their ancient enemies, the Orcs and Giants, forced the Ende'hel to flee their homeland. Led by Lord Tairon, they embarked on a perilous journey across the Krallen Ocean to the Draymond Empire, losing much of their number to the sea. Displaced from their homeland, they faced initial apprehension from the Human population, but eventually found refuge, exchanging their knowledge and cultural heritage for citizenship and a new home. This political alliance and ultimate integration of the Ende’hel into wider society marked the beginning of a significant cultural renaissance in Valanar, influencing various fields of study and leading to advancements in both magic and conventional knowledge. This integration, while preserving some elements of their isolationist heritage, signified a new phase of cultural exchange and intellectual contribution, particularly in the realms of both science and theology.
 ##### Society
@@ -2575,14 +2613,19 @@ The oil itself is thick, iridescent, and paradoxically lightweight—capable of 
 Powers cold-burn furnaces, airborne engines, and heat-resistant lubricants.
 #### Charciron
 
-#### Mindust
+#### Lith Dust
 This psychoactive mineral-spore compound emerges only under an extremely rare confluence of environmental and temporal factors unique to the shifting dunes of the Dry Sea. Believed to be a trace remnant of Yom Osiris Neba’al’s passage through the sands centuries ago after his friction-carved breathfields left behind pockets of condensed psychic resonance that surface only when the desert slumbers.
 
 The substance itself appears as fine powder, amber-gold when inert, and a deep copper-burnt red when activated through heat or saliva. Upon ingestion, users experience psionic dilation: a temporary expansion of sensory processing and empathic perception. The Psilophytes of the Dry Sea describe this phenomenon as Hado attunement; they claim the spice allows one to listen to ancestral echoes embedded in sand, blood and memory. For just about anyone else, however, its risk is profound, especially outside of its uses in ritual context, and has been linked to countless cases of paralysis, psychogenic seizures and permanent identity loss throughout history. 
 ##### Harvesting 
-Mindust only rises when the sand is utterly still, which typically occurs for only a few hours every lunar cycle, and only along specific migratory dune belts whose movement aligns with deep mineral strata. Even when these conditions are met, mindust doesn’t lie in veins or pods; it seeps upwards through microfractures in the sand crust, appearing as faint copper shimmer across the topmost grain. This top layer must be skimmed with hand-forged obsidian combs, which scatter static charge and allow the Mindust to settle into glass-thread sieves. 
+Lith Dust only rises when the sand is utterly still, which typically occurs for only a few hours every lunar cycle, and only along specific migratory dune belts whose movement aligns with deep mineral strata. Even when these conditions are met, mindust doesn’t lie in veins or pods; it seeps upwards through microfractures in the sand crust, appearing as faint copper shimmer across the topmost grain. This top layer must be skimmed with hand-forged obsidian combs, which scatter static charge and allow the Mindust to settle into glass-thread sieves. 
 
 Once collected, it must be sealed within double-walled glass vials or urns lined with desert wax as  exposure to air beyond a few hours causes the psychoactive compounds to lose their potency. Most harvest attempts by the unprepared will fail and on average only a few grams are ever recovered in a successful outing simply as a consequence of both the difficulty in harvesting and the dangers involved; many who attempt the rite unaided suffer fugue states and hallucinations at best or full psychic breakdown at worst as a consequence of overexposure to the substance temporarily lingering in the air. 
+
+#### Waking Wood
+Wood carved from a Waking Tree, the ancient species of tree originating from the Waking Wood in Morrowsea. Saplings and acorns were brought over and replanted in the Lost Lands. 
+
+Typically ashen grey and textured with many layers of grooves and strange wood grain patterns.  
 # Magic 
 
 ## The Essences
