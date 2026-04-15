@@ -14,7 +14,7 @@ This superdocument is intended as a reference sheet for every component that mak
 | Harvests End          | September - October |
 | Borealis              | November - December |
 **The Celestial Calendar**
-The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a new age; an age without the Primordials. By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
+By a twist of fate, there are six months to a calendar year, and so the Illuminators chose to name their celestial calendar in honour of the Primordials. Celestial events are recorded in six year intervals, so it is a useful metric, and also an important reminder to remember the titles of the ones who stood watch over all life on the material plane; they ensured its continued survival for at least as long as the Elder Gods deigned. 
 
 - Year 1 - Year of the Dawn
 - Year 2 - Year of the Lamprey
@@ -23,16 +23,16 @@ The Illuminators of Draconia dubbed the Day of Sacrifice to be the start of a ne
 - Year 5 - Year of the West
 - Year 6 - Year of the Many 
 
-| The Dawn<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFyF1fwGVQq2b9UIRutwJA0ydyBKNkt0KZVI3lH9_xDMN8b1USmqWGandpZdqd-CT3Ikq4X__I1KeRgPF5p3Zecy2piqTsHOPau9BsPhVKZfEEJR_HcgKhICJ9iRd0rufQ-3MRZnVW4H_E5pKO-3xNqMU?key=c_Hw5z9fTzrl07kBf1qtvA)    | The Lamprey<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXec47n6Lc0akEWnQv_mtYF1bP_2rFMz6tzKB4aUwVHZLmnMnz_uP-Pe4x7Dpz-yHELSt0yzNVq3xXwrKaQTAiMBM5UwvY5iYW7RLLQO2_yFKf5r1MZ9b12qI4ACjmBHxmNCIyOishswfMDWUPF8H9iLlDnt?key=c_Hw5z9fTzrl07kBf1qtvA) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The Ardent<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXchnPVXBH0DXw7wiQmiJZgLu3E2qpprlhp36fsEIUV6u-jhH-adyehDeahQXIfBYRsHLjGYPqUvGZTPCAqgxvG0sww89Tt6BtNuJRgPwIxr2iNMTN-uTa1DDlOG_ld-po9LiGIaWwdlf0_aoiJxOr1kD4N7?key=c_Hw5z9fTzrl07kBf1qtvA) | The Arbiter<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXesPeH2fW8IXmJvPzHkJQfly_9uxENkAB2gQ7PfGWlF-XsaMpvKRkvl2bBel3UxaGyxh8hWIQhGg9BAYTAka4eb8GmWABOiaaRJ3PuNQ99kiFpGbcV_Nn5anWixXHBzIKR5gupukOqorTyn8UDKOvnjsmM?key=c_Hw5z9fTzrl07kBf1qtvA)  |
-| The West<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdt-5Dk219f8VdMvSXKaYiQTd-QGGE_96Lnefsu_JNKyNFcoOhADLapFEr-898D8NOhykjFUcXtr2VuXhpJa_Gjzh3gDX8i199z2sJtHgxzAZa_5igae7Dq1DUBQWrL4rOof4xyOxmigAF1Wh9238oCBr52?key=c_Hw5z9fTzrl07kBf1qtvA)   | The Many<br><br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLVU--D0OU2K_a0zSW9nALpeVsm_CtkVNaW1QAYR2bN7pKISfhjc--eH_u3HO9l02TSkyygLyNC8mWlHvOpsompN-pH8EuB-CWQLFJ4x8Zk0bo66qEfeYt81e1bpFMLWhotGD7R9AKWYpUOOX0-BFZjb9?key=c_Hw5z9fTzrl07kBf1qtvA)    |
+| The Dawn<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFyF1fwGVQq2b9UIRutwJA0ydyBKNkt0KZVI3lH9_xDMN8b1USmqWGandpZdqd-CT3Ikq4X__I1KeRgPF5p3Zecy2piqTsHOPau9BsPhVKZfEEJR_HcgKhICJ9iRd0rufQ-3MRZnVW4H_E5pKO-3xNqMU?key=c_Hw5z9fTzrl07kBf1qtvA)    | The Lamprey<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXec47n6Lc0akEWnQv_mtYF1bP_2rFMz6tzKB4aUwVHZLmnMnz_uP-Pe4x7Dpz-yHELSt0yzNVq3xXwrKaQTAiMBM5UwvY5iYW7RLLQO2_yFKf5r1MZ9b12qI4ACjmBHxmNCIyOishswfMDWUPF8H9iLlDnt?key=c_Hw5z9fTzrl07kBf1qtvA) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Ardent<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXchnPVXBH0DXw7wiQmiJZgLu3E2qpprlhp36fsEIUV6u-jhH-adyehDeahQXIfBYRsHLjGYPqUvGZTPCAqgxvG0sww89Tt6BtNuJRgPwIxr2iNMTN-uTa1DDlOG_ld-po9LiGIaWwdlf0_aoiJxOr1kD4N7?key=c_Hw5z9fTzrl07kBf1qtvA) | The Arbiter<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXesPeH2fW8IXmJvPzHkJQfly_9uxENkAB2gQ7PfGWlF-XsaMpvKRkvl2bBel3UxaGyxh8hWIQhGg9BAYTAka4eb8GmWABOiaaRJ3PuNQ99kiFpGbcV_Nn5anWixXHBzIKR5gupukOqorTyn8UDKOvnjsmM?key=c_Hw5z9fTzrl07kBf1qtvA)  |
+| The West<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdt-5Dk219f8VdMvSXKaYiQTd-QGGE_96Lnefsu_JNKyNFcoOhADLapFEr-898D8NOhykjFUcXtr2VuXhpJa_Gjzh3gDX8i199z2sJtHgxzAZa_5igae7Dq1DUBQWrL4rOof4xyOxmigAF1Wh9238oCBr52?key=c_Hw5z9fTzrl07kBf1qtvA)   | The Many<br>![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLVU--D0OU2K_a0zSW9nALpeVsm_CtkVNaW1QAYR2bN7pKISfhjc--eH_u3HO9l02TSkyygLyNC8mWlHvOpsompN-pH8EuB-CWQLFJ4x8Zk0bo66qEfeYt81e1bpFMLWhotGD7R9AKWYpUOOX0-BFZjb9?key=c_Hw5z9fTzrl07kBf1qtvA)    |
 
 ---
 ## Story of Creation
-In the yawning void, two swirling masses appeared. Where there was nothing, conscience emerged. These twin consciences were the Elder Gods, and with their birth, the void began to churn.    
+In the yawning void there was nothing; no form, no vibration, no measure of time. From this blank expanse two swirling masses appeared, and within them conscience arose. These twin consciences became the Elder Gods. With their birth, the void began to churn and the first stirrings of thought rippled through the infinite dark.
 
-In the Primordial Void, an unknowable vacuum of infinite possibility, twin flames began to flicker to life; The Elder Gods. They shared a dual consciousness, and for an unknowable length of time, the Elder Gods harnessed sentience from the cosmos, causing their powers as well as their understanding of them to grow exponentially. In an act of curiosity, they successfully attempted to weave the psionic energy they had been granted into Manamaterium; suddenly, where there was once nothing, there was magic, the antithesis of the void, and with magic came a great roar; the advent of the prime material planes; one for each of them.
+For an immeasurable span the Elder Gods drifted through the Primordial Void, the endless vacuum where possibility slept without shape. They developed sentience by drawing it from the potential of the cosmos. Their power increased in proportion to their understanding, and understanding grew without limit. Curiosity emerged, and with curiosity came the first act of deliberate creation. They gathered psionic energy and folded it into new substance. Through this weave they produced Manamaterium, the raw fusion of material and magical essence. The silence of the void broke with a thunderous upheaval as the first Material Planes ignited into existence, one for each of the twin deities.
 
 **I. The Genesis of Manamaterium**
 In the beginning, there was only the Primordial Void, an endless vacuum of infinite possibility, where time and space held no meaning. Within this emptiness, two flames flickered to life—the Elder Gods. These twin beings, born of the void itself, shared a dual consciousness, their sentience drawn from the boundless potential of the cosmos. For untold eons, they existed in contemplation, their powers and knowledge growing as they explored the limitless scope of their existence.
@@ -118,8 +118,8 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **2500+BR** - *The Great Exodus*
 	The Gods lead the higher races from the mythological land known as Morrowsea to the shores of Valanar.
 - **1903BR** - *The Primordial Sacrifice*
-	The Primordial Dragons are wiped out as the material plane is assaulted by the Greater Fiends. Their 
-- **1900BR** - *The Desolation of Malyria*
+	The Primordial Dragons are wiped out as the material plane is assaulted by Greater Fiends, sacrificing themselves for the good of Valanar.
+- **~1900BR** - *The Desolation of Malyria*
 	The nation of Malyria is obliterated as a magical cataclysm sunders the land and permanently taints the neighbouring region of Nazkuga.  
 - **1888BR** - *The First Black Empire*
 	Francis the Black is coronated as the new ruler of Doyverd and the kingdom begins its aggressive expansion into imperialism as new territories are conquered in rapid succession all across Dol-Calandria. This would come to be known as the first 'Black Empire'. 
@@ -128,7 +128,7 @@ A large majority of the Age of Mists remain obfuscated and thus all dates are ap
 - **1790BR** - *Doyverd Penal Colonies Established*
 	Crude stone forts and warden camps established by the Kingdom of Doyverd along Sah’Raza’s coastal edge, used to house dissidents, military exiles, and debt-bound peasants.
 - **1650BR/950BR** - _Formation of Proto-Tribes_
-	Crude stone forts and warden camps established by the Kingdom of Doyverd along Sah’Raza’s coastal edge, used to house dissidents, military exiles, and debt-bound peasants.
+	
 - **850/800BR** - *Fall of Doyverd*
 	After almost a thousand years, the world's largest kingdom steadily collapses under its own weight as each of its constituent states declare independence over a period of half a century. 
 - **850BR** - *Greater Witzia Founded*
@@ -187,6 +187,8 @@ Characterised by the rise and fall of various kingdoms and empires, the Age of A
 	[[#The Watcher Schools]] are all established in their respective countries, and Masters from each are elected to represent the organisation as a whole. Though many of the schools existed before this time, it was in this year that they all officially titled themselves as Watchers, serving a common purpose in the defence of the people of Valanar.
 - **162SR** - *The Unification of the Dark Elves*
 	Haydn Duskryn is crowned as the first King of the Enadriel as the Eighth Eye War reaches a close. In the same year, diplomacy with King Brandon Steel of Nydessa enables the Enadriel to lawfully return to the surface world for the first time in centuries. 
+- **198SR** - *The Grand Melee Opens*
+	Emperor Albrecht II invites warriors and competitors from all over Valanar to compete in the upcoming Grand Melee for the first time, marking a pivotal moment in the competition's long history.
 - **220SR/224SR** - *The Khard Civil War* 
 	Fuelled by generations of internal conflict and greed, the Khard Civil War lasts for four of the longest years in the Dwarrow's history. 
 ---
@@ -221,7 +223,7 @@ In the aftermath of the Great God War, those left behind were left to herald the
 - **925SR** - *The Age of Man*
 	The remaining Gods who weren't expelled by the High Pantheon begin to help humanity rebuild, this time with a less heavy handed approach - beings are left to try and find their ways on their own, without as much interference from those beyond the astral veil.
 - **942SR** - *King Snowden Assassinated*
-	King of Einartoft is assassinated, his only son, Eryk, immediately assumes the throne at the age of sixteen.
+	The King of Einartoft, Laurence Snowden is assassinated by Barbarian Chief Hudsonson. He is succeeded by his only son, Eryk, who immediately assumes the throne at the age of sixteen and becomes the youngest to rule in the Snow Kingdom's history.
 - **950SR** - *Einartoft Invades Draymond*
 	Einartoft sparks a war with Draymond after years of building tensions over trade and tax, the first time the nation would ever encroach to the north of their own borders. 
 	..
@@ -237,9 +239,9 @@ Before the end of the 21st century, after a millennia of the Gods growing furthe
 	The powerful and infamous Lich known as Dalamar takes control of eight extremely powerful Dragons, using them to wipe out the Holy City of Nassau. The Draymond Empire surrenders shortly after, and Dalamar is free to summon the God-Queen, Verassi. The constellation for the God of Death, Bannon, disappears from the night sky. Shortly after, Verassi assumes control of the Draymond Empire through force, beginning the Age of War.
 - **2263AV** - *The Battle for Snowden* 
 	Snowden is besieged by Verassi's forces and are eventually repelled at great cost on both sides. The siege lasts for seven months as the city is protected by powerful magic barriers. 
-- **2265AV** - Assault on Sadurak
+- **2265AV** - *Assault on Sadurak*
 	Verassi's forces are routed back to the capital city of Sadurak by rebel forces, who besiege the city in one final attempt to banish her back to the Astral Ocean, which they are successful in doing; the climax of this weeks long siege culminating in a duel between her physical avatar and the last vestiges of humanity's strongest heroes. 
-- **2266AV** - *The Order of the Hammer Dissolves the Black Empire*
+- **2266AV** - *The Order of the Hammer dissolves the Black Empire*
 	The Order of the Hammer, led by a man known as “The Abbot”, quickly takes control over what remains of Draymond’s military forces and makes concerted efforts towards rebuilding civilization, enabling them to enforce their dogmatic creed onto the public and outlawing all forms of magic and religion, amongst other things. They declare all nations of the Black Empire sovereign once more, leaving the Empire's former constituents to fend for themselves.
 	
 	The dissolution of Verassi’s empire leads to a time of great change and turmoil, including mass famines and genocides across the world. This is known as the era of darkness, as the days progressively grew shorter and the sun grew dimmer - until all that was left was *strife*.
@@ -299,7 +301,6 @@ Doyverd collapsed sometime around 850BR following almost a milennia of war with 
 Draymond, the central constituency and throne of both the first and second Black Empire(s), remained uniquely politically steadfast during its initial dissolution. 
 
 Despite the collapse of the central authority within Draymond (or perhaps because of it), the country prospered under a deliberate shift in focus toward domestic development, which they achieved in a few key ways: by allowing local rulers to govern their own regions with relative autonomy, Draymond’s central leadership was able to placate rival factions that might have otherwise been inclined to rebel. The system of regional rule kept power decentralised enough to avoid revolt, while still ensuring that the overarching authority of the throne remained intact. In addition to military diplomacy, Draymond struck trade deals with nearby kingdoms and fiefdoms, ensuring the flow of resources into its cities and reinforcing its status as a prosperous and influential nation. This economic interdependence helped prevent hostile actions from neighbours, as they relied on Draymond for vital goods and infrastructure.
-
 ###### Annexation of Skaldava
 Around 1600BR, the leaders of Skaldava, a harsh and impoverished region east of Draymond, found themselves in desperate need of resources. Isolated and economically deprived, they saw an opportunity in attacking one of Draymond's smaller border cities. Believing that Draymond, in its period of internal consolidation, would be too distracted or weakened to retaliate, they launched a months-long siege on the city, hoping to capture its resources and gain a foothold in the more prosperous western regions.
 
@@ -329,7 +330,7 @@ Magic shops are abundant in Draymond, as merchants from all over the world trave
 ##### Culture and Society 
 The first banner of the Black Empire notably depicted a soaring griffon, meant to represent their place in the world as noble and sophisticated predators. Kings of the Doyverd Lineage were known to ride Griffons into battle, and they are considered a protected species even in modern Draymond. 
 
-Draymond was the first country to integrate the Ende’hel by assimilating many parts of their culture. The Ende’hel significantly impacted many areas of society after the Reformation, and though some were slow to adapt to the changes and the Ende’hel faced initial xenophobia, the sociopolitical landscape of the Empire drastically shifted as a whole following that point. 
+Draymond was the first country to integrate the Ende’hel by assimilating many parts of their culture. The Ende’hel significantly impacted many areas of society after the Reformation, and though some were slow to adapt to the changes and the Ende’hel faced initial xenophobia, the socio-political landscape of the Empire drastically shifted as a whole following that point. 
 
 The Elves also brought knowledge of exotic plants and agricultural techniques that allowed for year-round cultivation, diversifying the diet of Draymond's populace and leading to a surge in population growth and urban development.
 
@@ -338,16 +339,30 @@ Citizens of the Empire are often both patriotic and well versed in the Empire’
 Prior to the Serende’hel Reformation, bathhouses existed mostly as private institutions owned by women of the peasant class, with more lavish establishments existing only for royalty or nobility. However, among the technologies granted to Draymond as part of their mutual alliance with the Serende’hel was the introduction of a primitive form of indoor plumbing, as well as many advancements in architecture, physics and mathematics. Cities were no longer constructed of wood and stone, but brick, mortar and iron, and this meant that public bathhouses could be constructed by anyone with the means and resources. 
 
 Access to these bathhouses is, on average, very affordable. Some bathhouses are more lavish or pampered than others, but most will get the job done and are maintained and cleaned by law. Private bath houses operated by criminal syndicates sometimes offer ‘alternative’ services, though the legality of these services can only be described as questionable at best. 
+
+###### The Grand Melee
+While plenty of nations boast rich and storied histories in several different combat sports, none are quite as prestigious or as famous as the Grand Melee. Held once every three years on Francis' Field just outside of Sadurak, the Grand Melee is a tournament held over the course of five days and encompassing multiple disciplines with competitors arriving from every province, vassal state, and nation in and beyond the Empire's borders. It is a festival of combat, drawing thousands of spectators who fill temporary grandstands and tent-cities that sprawl across the field.
+
+The tournament unfolds discipline by discipline. The first day belongs to the horse and rider, with lancers, mounted archers, and griffon-riders demonstrating their mastery of speed, formation, and precision.
+
+The Grand Melee began in 200BR under Emperor Albrecht II, conceived as a spectacle to unify Draymond’s vassals through martial competition rather than perpetual border wars. For nearly four centuries the tournament remained an imperial affair, with only Draymond’s own subjects permitted to compete. This exclusivity lent the Melee a reputation as a proving ground for the Black Empire’s best, and its champions became household names across Dol’Calandria. In 198SR, the new Emperor and successor to Ludvik the Black, declared the Melee open to the world. Emissaries were sent to every major capital offering a seat for their strongest competitors. The decision transformed the Melee overnight, shifting it from a national spectacle into the greatest martial contest in Valanar. 
+
+Victors receive purses of ducats, trophies cast in precious metal, and ceremonial arms commissioned from the Empire’s finest smiths. Repeat champions are offered honours beyond wealth: titles of knighthood, the right to sit in council as martial advisors, land, or even a position of command within the imperial host. 
+
+The opening day belongs to mounted combat. Cavalry charges thunder across Francis’ Field, with riders testing their skill in jousts, races, and mounted archery contests. Griffon-riders from the north of Draymond are permitted a separate trial of aerial jousting, though their numbers are few. Notable champions include Ser Armand de Veyre, whose undefeated streak in the joust from 74BR to 68BR cemented the lance as a nobleman’s weapon, and Dame Eryn of Caldwynn, the first woman to win the mounted archery contest in 92SR, her precision likened to “a falcon stooping on prey.” 
+
+The second day is dedicated to single combat. Warriors step into the ring with the weapon of their choice: longsword, axe, spear, with or without a shield, until one yields or is disarmed. In earlier centuries, deaths were common; in modern times, bouts end on surrender, though blood still flows freely.
 ##### Geography and Landmarks 
 A mostly temperate climate, Draymond is flanked by two mountain ranges with verdant forests toward the northern border of Florence and sparse stretches of hills and plains in the south. Most of the cities and larger settlements are located in the warmer and more fertile northern regions, though there are many older settlements in the south which have been built upon over the centuries. 
 ##### Settlements & Structures
 
-
-Illuminator HQ
-Secretive meetings are often held here as ambassadors from every walk of life are treated with neutrality. Within the walls of the Illuminator’s vast fortress of knowledge and magic, one can find themselves lost amidst a sea of ancient texts, artefacts, and long kept secrets. It is here that the Grand Illuminators are honoured with statues depicting their visage, lining the courtyards of the meticulously kept gardens at the front of the castle, where all different kinds of plants, flowers and herbs are cultivated.
-
 Sadurak City
 Once separated into two settlements on both sides of the River Brynth. It is the largest city in the world with an approximate population of 200,000, growing to 300,000 by the Age of Man. 
+
+
+
+Illuminator Headquarters
+Secretive meetings are often held here as ambassadors from every walk of life are treated with neutrality. Within the walls of the Illuminator’s vast fortress of knowledge and magic, one can find themselves lost amidst a sea of ancient texts, artefacts, and long kept secrets. It is here that the Grand Illuminators are honoured with statues depicting their visage, lining the courtyards of the meticulously kept gardens at the front of the castle, where all different kinds of plants, flowers and herbs are cultivated.
 ##### Military and Naval Power 
 Given Draymond’s considerable size and wealth, it is no wonder that its military has long been considered one of the most powerful mobile forces in the world. The Empire’s Military follows a much more stringent doctrine of routine discipline and individual excellence, which like many things, they inherited from the Serende’hel and their military structure. 
 
@@ -374,7 +389,7 @@ Despite its connection and proximity to Draymond, Nassau is among the few countr
 ##### Geography and Landmarks 
 The most history landmark outside of the Holy City and perhaps one of the most famous landmarks in the world 
 
-Titan Rock
+Titan Rock is believed to have been moulded by Samson himself in a display of his powers to mortal beings some time before the Age of Mists had even begun.  
 ##### Settlements & Structures
 The Holy City itself is naturally the largest settlement in the country, accounting for the vast majority of the population and receiving significant expansion and development as the centuries progress. 
 
@@ -458,7 +473,9 @@ With no navy to speak of, Florence does not spend much of its gold maintaining a
 ##### Population and Demographics 
 Shortly before the Serende’hel Reformation, a small population of Ende’hel settled in Lesser Morovia after landing on the Blythe Coast. 
 ##### History and Founding
-Originally founded in 270BR as the Kingdom of Greater Witzia, the country experienced a turbulent history marked by a civil war that eventually led to its division into Lesser Morovia and the Blythe Coast. Lesser Morovia retained the highland territories, developing a distinct cultural identity shaped by its isolation and the rugged landscape.
+Morovia traces its lineage to the old Kingdom of Greater Witzia, founded in the late Age of Mists. When Witzia began to cohere as a realm around 600BR, it was the highland clans who rose to dominance. From their fortified ridges and valleys, they consolidated power over the lowlands through conquest, marriages, and the extraction of labour. The kingdom endured for nearly a millennium, its highland aristocracy growing entrenched and wealthy while coastal settlements bore much of the burden.
+
+The Serende’hel Reformation marked a turning point. While Elves brought new knowledge and settled in lowland ports, the highlands remained comparatively insular, the nobility continuing to draw wealth from their ancestral estates. This imbalance sowed division that deepened across the centuries. By the 4th century SR, the lowlands had grown restless under their upland lords, and the kingdom collapsed into the Witzian Civil War. When it ended, the highlands remained in the hands of the old nobility, who reconstituted their power in a smaller, harder kingdom that became known as Lesser Morovia.
 ##### Economy and Currency
 Morovia’s economy is largely based on its rich natural resources, particularly animal produce and hunting trophies, which are highly prized in neighbouring regions. Leatherworking and fur trade are significant economic activities, supplemented by small-scale agriculture suited to the highland climate. The currency, the Morovian Taler, is adorned with the reigning monarch on one side and a depiction of their chosen animal on the other. 
 ##### Culture and Society 
@@ -618,7 +635,7 @@ The Kanin live relatively frugal lives and their culture of shared pragmatism an
 
 Nauska’s leadership is likewise characterised by its pragmatic approach to governance, they are unyieldingly fair in their administration yet uncompromising in their enforcement of the law; a kind of authoritarianism which has maintained a strict control on cultural and intellectual fronts, with little room for dissent or deviation from the established order. Orthodoxy, whether in faith or form, is the expectation.
 
-Daily life is steeped in ritual. Even the mundane is formalised: there are prescribed methods for pouring drink, sitting in company, addressing superiors, and walking through gates. Breaches in etiquette can have real social consequences, especially in courtly or military settings. For example, shirozu, which is a form of rice wine fermented in ceramic kilns and aged beneath the earth, is commonly enjoyed across all castes, but even its consumption is heavily codified; when shared, it must be poured by another, never by oneself, to pour for oneself implies arrogance or solitude—both socially suspect.
+For many, daily life is steeped in ritual. Even the mundane is formalised: there are prescribed methods for pouring drink, sitting in company, addressing superiors, and walking through gates. Breaches in etiquette can have real social consequences, especially in courtly or military settings. For example, shirozu, which is a form of rice wine fermented in ceramic kilns and aged beneath the earth, is commonly enjoyed across all castes, but even its consumption is heavily codified; when shared, it must be poured by another, never by oneself, to pour for oneself implies arrogance or solitude - both socially suspect.
 
 The Lady of Wolves, Goddess of The Hunt, holds a special place in the Kanin spiritual imagination. Her shrines, often built near roads or in wooded glades, serve as quiet gathering points for offerings of grain, pelts and bone, as well as shirozu. Hunting, fishing, and dry-field farming form the backbone of Kanin subsistence; though their diet is plain, they consume in volume, owing to their lean, fast-burning physiques.
 
@@ -626,8 +643,6 @@ Perhaps as a consequence of their lithe physicality, Nauskan art is often consid
 
 Bloodlines and ancestry are often seen as the primary means of not only conflict but also categorising social groups; peasant families rarely rise beyond their station and powerful clans stay powerful for as long as there is someone in the family carrying the banner. 
 ##### Geography and Landmarks 
-The trees in Nauska are famously very tall, 
-
 The lakes of Nauska are rich with gold, leading many to take up gold panning.
 There are several species of sweet plants and fruits which are native to Nauska. 
 
@@ -654,7 +669,7 @@ The Kanin have a deeply intimate understanding of space and distance and this en
 
 Commoners are permitted ownership and open carry of swords as long as they are hiltless as well as being both worn on the back and concealed within a cloth bag in order to increase their draw time - fractions of seconds that could spell the difference between life and death. This policy was enacted by the Hanari Shogunate as both a means to militarise the populace as well as reduce the rates of impulsive violence - especially between commoners and the samurai themselves - and has has impacted Kanin society impermeably; 
 
-The Kanin have an extremely small naval force, with only one operational port out of Nayakami Bay. 
+The Kanin have an extremely small naval force, with only one military dockyard in Nayakami Bay. 
 
 ---
 ### Terracotta Landmass
@@ -848,6 +863,11 @@ Einartoft was settled by nomads from all across Dol-Calandria sometime during th
 The mountain regions of Einartoft were originally inhabited by Orcs and Giants, who constantly feuded over territory and the fertile ground at the base of the Primordial Valley. The Orcs received significant military aid from the Humans and the Giants were overthrown soon after, establishing the first of many victories shared between the two species. 
 
 Native tribes of barbarians who were known to worship old Gods, contemporary beings of great strength from the mythology of their ancestors, were initially extremely resilient to foreign invasion and wrought havoc upon Lord Kel’s ranks. They proved a great hindrance to the initial settling, attacking supply lines and setting up traps along well-travelled roads. In spite of the counsel given by his Generals, Lord Kel subscribed to a rather famously bold tactic; he travelled with a small contingent of personal bodyguards to one of the largest camps of barbarians belonging to the Einar Tribe, where he was led to their chieftain. Outnumbered almost one hundred to one, the barbarian lord humoured the brash young lord to a private audience, where Kel proved himself both a wise negotiator and talented orator; 
+
+
+###### The War of the North
+In XXSR, King Laurence Snowden is assassinated by the Chieftain of the Valley Clans, James Hudsonson, after enlisting him to fight back against a clan of malignant Frost Giants operating in the mountains. After a two month campaign, Chief Hudsonson and his entourage travelled with King Snowden back to Castle Snowden where a feast was to be held in celebration of their victorious return. Seeing the moment as an opportunity to take the King and his son Eryk unawares, Hudsonson lured the pair out into the woods under the guise of wishing to honour the pair with a ceremonial induction into their clan
+
 ##### Economy and Currency
 Historically, Einartoft has never been a particularly affluent country; despite this, or perhaps as a consequence, 
 ##### Culture and Society 
@@ -1049,7 +1069,9 @@ Text here.
 ##### Population and Demographics 
 Sandwyrms, Scorpids and Duneracers are the largest predators of the sands. 
 
-Lizardfolk are known to make their home in the 
+Lizardmen
+
+There are human 
 ##### History and Founding
 In the Age of Mists the Dry Sea was believed to have been much more hospitable and fertile, serving as the homeland for at least half of the hill tribes and clans of Drak'Thill.
 ##### Economy and Currency
@@ -1198,11 +1220,24 @@ The construction of indomitable warships made almost exclusively from ironwood p
 ---
 ### Thanem
 ##### Population and Demographics 
-Avian races. 
+The population of Thanem is largely dominated by the Avian races who make up the vast majority of its inhabitants, a collection of distinct peoples adapted to the jagged landscapes of the south westernmost territories of the Ancient Isles; broad-winged highlanders dwelt in cliffside eyries, their wings suited for long glides between crags, while smaller, nimbler Avian clans inhabited forested valleys and coastal ridges where flight was less practical but agility was paramount. 
+
+Humans were-slash-are present in Thanem, but always as a minority. Most lived in coastal enclaves or river-valleys where agriculture was possible, often serving as vassals to Avian lords or intermediaries in rare trade with Wodin, while the rest of the Higher Races such as the Dwarrow and the Elves are almost entirely absent; the barren and dangerous valleys and isolationist society offering them little to no incentive to settle.
+
+Thanem’s population has never been particularly never large; restricted by the sheer difficulty of sustaining life in a mountainous and storm-battered landscape, communities are small, tightly-knit, and insular, numbering no more than a few hundred to a few thousand in any given village or enclave. Despite this, the balance between clan population and territory was a constant source of tension: fertile valleys were rare, flat ground for crops rarer still, and access to hunting or fishing grounds could mean the difference between survival and starvation.
+
+The lower valleys and crags of Thanem are alive with colossal reptiles and carrion birds, the most infamous of which are the Thunderbeasts; immense quadrupedal reptiles whose hide is thick as stone and whose voices carry like rolling storms across the crags. They wander along ancient migratory paths, trampling valleys and uprooting forests with their passing. To kill one is an act that brings fame, but to even attempt such is often spoken of as folly and a waste of strength.
+
+Beyond these titans are a host of lesser reptilian predators, Stormwhelps. These swift pack-hunting lizards are notorious for ambushing caravans and isolated mountain villages. The deeper forests are prowled by the docile Rockbacks, massive quadrupeds covered in stony plates whose grazing can strip entire valleys bare in weeks.
 ##### History and Founding
-Thanem has long been the home of the Avian races and was likely the first region of the Ancient Isles to be settled, though the country was not officially declared as such until 145SR. 
+Thanem’s earliest history was the domain of scattered Avian clans, each clinging to its crag or valley and tracing its lineage back to a mythic progenitor. The fractured terrain of the Ancient Isles made centralisation impossible. Clans fought endlessly for control of sacred eyries, hunting grounds, and defensive ridges. These early conflicts created the feudal traditions that would define Thanem for millennia: loyalty to clan above all, a cycle of alliance and betrayal, and the constant expectation of war.
+
+From the Serende’hel Reformation into the early centuries of the Age of Strife, Thanem continued as a land of isolationist clans. Every few generations, a powerful house would rise to dominate its rivals, enforcing relative peace through fragile alliances. But these hegemonies never lasted. Rival clans struck down strong leaders as soon as weakness appeared, ensuring that no dynasty or shogunate ever truly unified the isles. Espionage, assassination, and ritualised duels became as common as open warfare, further entrenching a martial culture. Thanem remained inward-facing, uninterested in the great continental shifts that swept across Dol’Calandria.
+
+**The Black Empire’s Arrival (145BV – 146BV)**  
+The expansion of the Black Empire into the Ancient Isles brought Draymondian settlers to Wodin in 145BV. The following year, a coalition of Thanem’s most powerful clans dispatched ambassadors to the new colony. Their message was clear: trade would be permitted under strict conditions, but there would be no diplomacy, no treaties, and no wars. Even if they had not done so, the likelihood of the Black Empire ever bothering to command Wodin into conflict with Thanem was virtually nil; the country was much too fractious to conquer, too inhospitable to occupy, and too costly to subdue. 
 ##### Economy and Currency
-Text here.
+
 ##### Culture and Society 
 Much like the Kanin, the Avians follow a stringent clan structure and code of ethics which they rarely deviate from. In matters of warfare, disputes are typically settled by clan elders with a public duel. 
 ##### Geography and Landmarks 
@@ -2006,54 +2041,48 @@ The first of the Primordials, he was entrusted with the power of light - his tas
 
 He was perhaps the people's favourite when it came to the Primordials, his stature as the smallest of the Primordials as well as his willingness to sometimes parley with the people of the land helped him a great deal with his public appearance. He was even known to sometimes spend great times slumbering in fields not too far from civilization, and people would willingly bring him tithes of food or gold for protecting their lands.
 
-Borrsundrutherxes is also well known from a tale in Bælthatrax’s holy book, he is never named directly but is widely believed to be the main focus of the story ‘The Wyrm who Loved’. There are many similarities between the story told in the holy tome and the tales passed down of the relationship between Borrsundrutherxes and the second Princess of Draymond. Both tales go on to explain how the two spent many days together talking in the castle courtyard, and they even speak of the Primordial allowing the Princess to mount and ride him; commoners would spread tales of messages written in the clouds proclaiming their princess’ beauty, and for years their friendship flourished. Rumours arose amongst the common folk that when the Princess took no husband on her eighteenth birthday, she was instead to marry Borrsundrutherxes. Nothing came of this, of course, but the Princess never took a husband for as long as she lived. When the time came where the Princess grew old and weary, the Dragon visited every day - until the bells tolled for death, and a great shadow was cast over the city. 
-
-Borrsundrutherxes never spoke to a Human again after that day, though he did resume his duties as the power of light.
+Borrsundrutherxes is also well known from a tale in Bælthatrax’s holy book, he is never named directly but is widely believed to be the main focus of the story ‘The Wyrm who Loved’. There are many similarities between the story told in the holy tome and the tales passed down of the relationship between Borrsundrutherxes and the second Princess of Draymond. Both tales go on to explain how the two spent many days together talking in the castle courtyard, and they even speak of the Primordial allowing the Princess to mount and ride him; commoners would spread tales of messages written in the clouds proclaiming their princess’ beauty, and for years their friendship flourished. Rumours arose amongst the common folk that when the Princess took no husband on her eighteenth birthday, she was instead to marry Borrsundrutherxes. Nothing came of this, of course, but the Princess never took a husband for as long as she lived. When the time came where the Princess grew old and weary, the Dragon visited every day - until the bells tolled for death, and a great shadow was cast over the city. Borrsundrutherxes never spoke to a Human again after that day, though he did resume his duties as the power of light.
 ##### Iourmudralferion, the First Lamprey
 The second of the Primordials, she was entrusted with the power of the seas - her task, to conquer the sapphire wastes and take them as her own, watching over the planar split at the bottom of the world.
 
-Her scales were that of cobalt and amethyst, her body long and slender. She sported no appendages, taking a form closer to a water serpent. When measured from her base she was roughly twelve (12) feet tall (or wide, depending on how you look at it), and from head to tail she was thought to be just over four hundred (400) feet long.
+Her scales were that of cobalt and amethyst, her body long and slender. She sported no appendages, taking a form closer to a water serpent. When measured from her base she was roughly twelve feet tall (or wide, depending on how you look at it), and from head to tail she was thought to be just over four hundred feet long.
 
 To the common people of Valanar, she was known as the forebearer mother of Dragons - not only to the many offspring she produced, but to any who graced her seas; notoriously inhospitable to any who went against her will. To many she was a being to be feared, often the topic of many a bedtime story to teach children to not tarry in the seas - but to those in the know (sailors, and the like) she acted an ardent protector of the people, taking up the thankless task of taming the nefarious waters of Valanar.
 
 Any offerings left to her were customarily thrown into the sea, for even if these valuables are lost to all, she would surely find it.
 
-Her presence in the early world was celebrated, up until her betrayal by the hand of her youngest son - Gargryth, the fury. For all of conceived time, she and her children swore to protect the people of Valanar, but this did not last, as the petulant Gargryth’s ear was turned by the Dragon Queen, Tiamat. When Gargryth told his mother of his ambitions to carve out a piece of land for his family, their fallout was legendary, and still felt for ages to come. Gargryth flew into a rage, forcefully taking the land now known as Wodin, in the process.
-
-Iourmudralferion never sired another child, drifting to the lowest depths of the seas, where she hid her shame until the sacrifice of the immortals.
+Her presence in the early world was celebrated, up until her betrayal by the hand of her youngest son, Gargryth the Fury. When Gargryth told his mother of his ambitions to carve out a piece of land for his family, their fallout was legendary, and still felt for ages to come. Gargryth flew into a rage, forcefully taking the land now known as Wodin, in the process. Iourmudralferion never sired another child, drifting to the lowest depths of the seas, where she hid her shame until the day of the Sacrifice.
 ##### Rasmundarthaxus, Ardent Rex 
 The third of the Primordials, Rasmundarthaxus was given the responsibility of ensuring the frozen wastes of Valanar remained as such - cold.
 
 His scales were that of ivory, and any who beheld him claimed he emanated morning-dew like frost; voluminous to cover large swathes of land wherever he resided, and with the strength to freeze water.
 
-When stood on four legs his resting height reached 50 (fifty) feet, and from head to tail he was roughly 140 (one hundred and fourty) feet long.
+When stood on four legs his resting height reached fifty feet and from head to tail he was roughly one hundred and fourty feet long.
 
 Rasmundarthaxus originally claimed the desolate plains of the forbidden lands, before migrating south to main-land Valanar to resume his duties. In the Age of Mist, a large planar rift tore open to the south of Einartoft, from which demons of the abyss spewed forth. The Ardent Rex harnessed his powers to freeze over a significant portion of the ocean where the rift began, turning its surface to ice so cold and solid that no abyssal could ever break through without being frozen to death. As time passed, the ice eventually thawed and cracked away, leaving behind only glaciers and icebergs, though the memory and legend of his great power remain. The colloquially named ‘frozen ocean’ still hums with magic to this day, standing as a stalwart gate between Valanar and the Abyss.
 
 Rasmundarthaxus’ name inspired thoroughness, being known as the most diligent of the Primordials. He was indifferent to the people of his domains, and known to more commonly prefer the isolated peaks of mountaintops, over areas where he would more likely be disturbed. He chose the highest peak of Valanar, now known as ‘Primordial Valley’, as his main domicile for this very reason. Unlike the other Primordials, he cared not for offerings or gold, and hoarded no treasures; he instead opted to live in forbearance, patiently waiting for his domain to be disrupted so that he may rise to meet the challenge.
 ##### Nhifogihr’Tharakandrom, the Arbiter of the Gods
-The fourth of the primordials, Nhifoghir held one of the most holy duties - to ensure that no single entity in Valanar threatened the delicate balance of power, not even the Gods. His scales were that of iridescent obsidian, thick and chitinous; he was known as the largest of the primordials, and possibly the most revered, his prodigious size alone enough to hush any words of rebellion against the status quo. When stood on four legs, his resting height reached roughly 80 (eighty) feet, and from head to tail he was roughly 180 (one hundred and eighty) feet long.
+The fourth of the primordials, Nhifoghir held perhaps the most important duty of all: to ensure that no single entity in Valanar threatened the delicate balance of power, not even the Gods. He was known as the largest of the primordials, and possibly the most revered; his prodigious size alone enough to hush any thought of rebellion against the status quo. When stood on four legs his resting height reached roughly eighty feet, and from head to tail he was roughly 180 one hundred and eighty feet long. His scales were that of iridescent obsidian, thick and chitinous and nigh indestructible.  
 
+He was the largest of the Primordials, an obsidian titan whose chitinous plates clattered like stone against stone, and whose burrowing tunnels reshaped entire mountain ranges. He was said to _eat demons whole_, grinding their essence into harmless ash.
 
-Huge
+Though periods of long hibernation are certainly not uncommon for any Dragon, Nhifogihr worked in long cycles; centuries of tireless activity followed by centuries of rest. To awake Nhifogihr during his long slumbers was to evoke a wrath not unlike 
 
-Ate demons, loved fighting
-Cave crawler, dug through dirt
-Worked for long periods then rested equally as long
-Believed to be created to rival the gods
-Accepted gifts for his horde but preferred delicious food
-Topic of book ‘conversations w/ a dragon’
+His hoard contained little gold, instead he coveted rare delicacies such as parfum and  and offered cryptic counsel to the few mortals ever granted audience. A widely circulated text, _Conversations with a Dragon_, is attributed to one such encounter.
 ##### Yom Osiris Neba’al, the Western Sun
-A wingless wyrm who was capable of flight but nonetheless resided in the sands of the Dry Sea, creating the entire desert landscape with his movements
-Heated sands with friction, slept at night
-Kept sands warm with his constant movement, let them cool as he slept
-Creator of ‘atmaglas’ magic glass resource; shed very strong translucent carapace scales which act as rare conductors of magical energy
-Accepted live sacrifices by creating sand/worm holes
+A wingless wyrm capable of flight through sheer arcane propulsion, Yom Osiris Neba’al dwelled in the great desert that would later be named the Dry Sea. His passage through the dunes is said to have given the landmass its distinct red hue as the heat generated through the friction of his scales would rise to the surface and melt the sands, a theory which has little evidence but is nonetheless hard to dispute. 
+
+His translucent carapace-scales shed naturally over centuries, forming atmaglas, an exceptionally rare magical conductor prized by arcanists throughout the early ages.
+
+During the Age of Mists he accepted only living sacrifices, delivered into sinkholes he created: feeding pits that doubled as planar vents, drawing off harmful energies accumulating beneath the desert.
+
+He served as the Primordial responsible for **the western reaches of Valanar**, keeping dormant rifts sealed by his constant movement and heat.
 
 ##### Zephyra’Kermes, the Many Tailed
-With her nine serpentine tails, Zerphyra’Kermes was known for her size as the second largest Primordial.
+Second in size only to Nhifogihr, Zephyra’Kermes possessed nine immense serpentine tails, each strong enough to uproot a tree or stir a volcano’s heart. Her charge, granted by Bælthatrax, was to regulate the great volcanic spine that would one day define the Dwarrow homeland. She regulated the immense power and heat of the volcanoes by fanning magma vents and cycling eruptions to release pressure through controlled plumes that fertilised the land rather than annihilating it, allowing entire forests to flourish as her tails also directed ashfall away from the most crucially fertile ground. Early Dwarrow legends speak of “Zephyra’s breath” as a warm seasonal wind that lengthened their harvests.
 
-Her primary responsibility was using her magnificently sized tails to fan the volcanoes of Khard, hence the name of its largest peak; Mt. Zephyra. 
+The great volcano Mount Zephyra was of course named after her shortly after the Primordial Sacrifice. Her temperament was famously unpredictable: capable of devastating wrath at mortal intrusion yet also known to blow entire ash storms clear with the mere gust of her wings which would have otherwise destroyed crops or killed livestock. 
 
 ---
 ## The Archfiends
@@ -2289,7 +2318,7 @@ Halfling cuisine is world famous, as even long before Halflings settled in The W
 Due to their physicality, Halflings prefer warmer climates. The majority of the Halflings in Valanar live in The Westerlands as part of one of the world’s most homogenous societies. 
 ### Draconians
 ##### Physical Traits
-The Drakkahn are the hybrid descendants of dragons and humans, their appearance embodying the formidable traits of their draconic ancestors. Towering over most other races, Drakkahn typically stand six to eight feet tall, with broad, powerful builds that emphasize their natural strength. Their bodies are covered in tough, reptilian scales that shimmer in hues tied to their lineage: vibrant reds, blues, and greens for chromatic Drakkahn, and metallic golds, silvers, and bronzes for metallics. These scales, while not as durable as those of true dragons, offer significant natural protection, particularly against the elements.
+The Drakkahn are the hybrid descendants of dragons and humans, their appearance embodying the formidable traits of their draconic ancestors. Towering over most other races, Drakkahn typically stand six to seven feet tall, with broad, powerful builds that emphasize their natural strength. Their bodies are covered in tough, reptilian scales that shimmer in hues tied to their lineage: vibrant reds, blues, and greens for chromatic Drakkahn, and metallic golds, silvers, and bronzes for metallics. These scales, while not as durable as those of true dragons, offer significant natural protection, particularly against the elements.
 
 They possess angular, elongated faces crowned with rows of horns and facial spikes, which vary in size and shape depending on ancestry. Their eyes are strikingly dark with vertical, reptilian pupils and their mouths are filled with sharp teeth and a long, forked tongue to enhance their speech, lending it a sibilant quality that carries the deep pitch of a draconic growl.
 ##### Heritage & History
@@ -2335,9 +2364,9 @@ The latter theory would serve as a possible explanation for the organisation’s
 
 Investigators have tried to trace the supply of these materials, particularly focusing on the origin of the House’s opulent daggers, swords, and armour, as well as the rare potions or magical items found on captured members. Merchants and blacksmiths have been interviewed and audited in attempts to uncover any records of orders for large quantities of rare metals, jewels, or enchanted items, but these investigations have always led to false leads or obscure proxies. Many merchants claim they sold one-off pieces to wealthy patrons, but can never recall who those patrons were, and no names have ever been linked back to the House.
 
-Attempts to trace large sums of money have likewise failed to produce any evidence. Even assassins who have been captured or killed carry no sign of personal wealth—only the weapons and clothing on their bodies. These killers seem to live completely off the grid, with no land, property, or financial assets to their name.  
+Attempts to trace large sums of money have likewise failed to produce any evidence. Even assassins who have been captured or killed carry no sign of personal wealth; only the weapons and clothing on their bodies. These killers seem to live completely off the grid, with no land, property, or financial assets to their name.  
 
-While several members of the House have been captured, attempts to extract meaningful information from them have proven nearly impossible. Of the seven recorded captures of House members, four committed suicide before they could be interrogated, and the remaining three gave conflicting or nonsensical accounts before being executed. One captured assassin claimed that she did not know her employer, and that her contract had come from a “messenger in shadow”—a being with no face, no voice, and no tangible form. Another insisted that the House was a myth, claiming she had never heard of it even while wearing their distinctive weaponry and bearing the missing ring finger.
+While several members of the House have been captured, attempts to extract meaningful information from them have proven nearly impossible. Of the seven recorded captures of House members, four committed suicide before they could be interrogated and the remaining three gave conflicting or nonsensical accounts before being executed. 
 
 The House of Daggers itself is said to be located somewhere within the vast desert of the Dry Sea, but its exact location remains unknown. No maps, guides, or markers lead to the House, and those who attempt to find it rarely return. 
 

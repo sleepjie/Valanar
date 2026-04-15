@@ -16,12 +16,13 @@ Sometimes, Target Numbers will be simplified by a difficulty rating; these ratin
 
 If a Target Number is not explicitly set, players may compare their result against this table to determine its success:
 
-| Roll Total    | Outcome                                                                |
-| ------------- | ---------------------------------------------------------------------- |
-| **12+**       | Critical Success: Exceptional results. May grant extra benefits.       |
-| **10-11**     | Full Success: The action succeeds as intended.                         |
-| **7-9**       | Partial Success: The action succeeds, but with complications or costs. |
-| **6 or less** | Failure: The action fails, and something bad may happen.               |
+| Roll Total    | Outcome                                                                      |
+| ------------- | ---------------------------------------------------------------------------- |
+| **12+**       | Critical Success: Exceptional results. May grant extra benefits.             |
+| **10-11**     | Full Success: The action succeeds as intended.                               |
+| **7-9**       | Partial Success: The action succeeds, but with complications or costs.       |
+| **6 or less** | Failure: The action fails, and something bad may happen.                     |
+| < 1           | Critical Failure: The action fails horribly and has unintended consequences. |
 ### **Advantage & Disadvantage**
 Certain abilities or effects allow players to roll with advantage, increasing their odds of success significantly. Disadvantage is likewise imposed when making a skill check without the relevant proficiency, attacking with a weapon you are not familiar with, or when rolling for Defence while wearing armour without proficiency. In certain situations, Major Advantage or Major Disadvantage can apply:
 
@@ -33,15 +34,15 @@ Certain abilities or effects allow players to roll with advantage, increasing th
 Since the D6 system is designed to remove as many barriers to entry as possible, there are many rules that are 
 - **Improvisation Check**:
     - Any mundane item can be used creatively for a temporary mechanical effect if the player describes a plausible use. 
-    - The DM may call for an **Improvisation Check** (using a relevant skill, such as Tinkering, Persuasion, or even a generic "Creativity" roll if desired) to determine the effectiveness of the improvised use.
+    - The player or DM may call for an *improvisation check* (using a relevant skill, such as Tinkering, Persuasion, or even a generic chance roll if desired) to determine the effectiveness of the improvised use.
 - **Guidelines for Improvised Actions**:
-    - **Improvised Weapon**: For example, a chair, a bedroll, or even a bucket can be thrown as an improvised weapon. A common guideline might be that an improvised weapon deals **1D6 damage** (or modified by its weight/size) and may have additional effects if described well (e.g., knocking an enemy off balance).
+    - **Improvised Weapon**: For example, a chair, a bedroll, or even a bucket can be thrown as an improvised weapon. A common guideline might be that an improvised weapon deals **1D6 damage** (or modified by its weight/size) and may have additional effects if described (e.g., knocking an enemy off balance) to compensate for lacking any weapon properties.
     - **Combined Utility**: Items like a piece of rope plus a grappling hook might be combined to secure an area or create a makeshift trap.
-    - **Crafting and Puzzle Solving**: Even if an item isn't used in combat, it might be essential for overcoming environmental obstacles (e.g., using a mirror to reflect light onto a specific symbol) or for crafting new gear (e.g., combining leather scraps, thread, and a needle to mend torn clothing).
+    - **Crafting and Puzzle Solving**: Even if an item isn't used in combat, it might be essential for overcoming environmental obstacles or for crafting new gear (e.g., combining leather scraps, thread, and a needle to mend torn clothing).
 - **Improvisation Table (Optional)**:  
     The DM might maintain a table for quick reference. For example:
     - Roll a D6 when improvising:
-        - 1: The item fails to produce any effect.
+        - 1: The action fails or has no effect.
         - 2–3: The item produces a minor effect (1D4 bonus or improvised tool for a brief period).
         - 4–5: The item produces a useful effect equivalent to a standard item of its type (e.g., an improvised club dealing 1D6 damage).
         - 6: The improvisation is particularly clever, granting a unique temporary benefit or bonus (DM’s discretion).
@@ -127,7 +128,26 @@ Free actions don’t require a roll and can be done at any time on your turn. Ex
 - Dropping an item.
 - Looking around (basic Perception).
 - Glancing at a map or reading a short message.
-- Gesturing to a teammate.
+- Gesturing to an ally.
+## Other Rules
+
+### Training & Learning 
+Characters may train to gain:
+- **Proficiencies** (skills, tools, weapon/armour)
+- **Feats** (if prerequisites are met)
+- **Languages** or other narrative knowledge
+- **Techniques** (unique to your world or martial traditions)
+
+Training requires **time**, **money**, and **access** to an **Instructor** or **Facility**. Progress is tracked in **Training Points (TP)**.
+
+| **Tier**   | **What Can Be Learned**                   | **Time (Downtime)** | **Cost (Instructor)** | **TN (Self-Taught)** |
+| ---------- | ----------------------------------------- | ------------------- | --------------------- | -------------------- |
+| **Tier 1** | Skills, basic weapons, simple feats       | 1 week              | 25 gp                 | TN 8                 |
+| **Tier 2** | Advanced weapons, tools, or general feats | 2 weeks             | 75 gp                 | TN 10                |
+| **Tier 3** | Complex or cross-class feats              | 3 weeks             | 150 gp                | TN 12                |
+| **Tier 4** | Elite or specialized feats                | 4 weeks             | 300 gp                | TN 14                |
+| **Tier 5** | Legendary or master-tier feats            | 6 weeks             | 600 gp                | TN 15+               |
+### Crafting Items 
 
 # **Character Creation**
 Decide on your character’s general idea and role. This includes:
@@ -207,7 +227,7 @@ The Drakkahn are the hybrid descendants of dragons and humans, their appearance 
 They possess angular, elongated faces crowned with rows of horns and facial spikes, which vary in size and shape depending on ancestry. Their eyes are strikingly dark with vertical, reptilian pupils and their mouths are filled with sharp teeth and a long, forked tongue to enhance their speech, lending it a sibilant quality that carries the deep pitch of a draconic growl.
 ##### **Kanin (Rabbitkin)**
 - **Long Jumper**: Gain Advantage on Acrobatics rolls. Jump distance is doubled.
-- **Superior Senses**: Gain Advantage on Tracking and Perception rolls. 
+- **Superior Hearing**: Gain Advantage on Tracking and Perception rolls. 
 
 The Kanin are believed to have been created by Eldain, the Lady of Wolves, a surprising origin given their rabbit-like appearance. Standing between five to seven feet tall, they are tall for their form, with long, powerful legs and large ears that provide keen hearing. Their bodies are covered in short, dense fur that ranges in colour from shades of earthy brown and grey to snowy white, with some regional variations occurring in colder climates where white fur provides natural camouflage.
 
@@ -217,19 +237,19 @@ Due to the structure of their faces, the Kanin have a limited spoken vocabulary,
 
 While the Kanin share a similar lifespan to humans, typically living around seventy to eighty years, they reach maturity much faster. By the age of fourteen or fifteen, a Kanin is considered an adult, having undergone rigorous training in their chosen role within their clan.
 ##### **Glimmerhin (Gnomes)**
-- **Lucky Stars**: Once per session, reroll any failed roll (does not stack with the Lucky feat)
 - **Lateral Thinker**: Gain Advantage on Engineering or Tinkering rolls. 
+- **Stubborn Spirit**: Once per long rest, resist being frightened or charmed.
 
 The Glimmerhin are a diminutive race, rarely exceeding three feet in height, with lithe, flexible bodies built for precision rather than strength. Their defining traits are their exceptional intelligence and instinctual curiosity, both of which drive them toward an almost obsessive pursuit of knowledge. Their sharp, angular facial features and quick, darting eyes betray the sheer speed at which their minds operate, making them seem restless or impatient when interacting with other races. Their hair, which is coarse yet light in weight, grows in thick, chaotic tufts and tends to gray early, often before their fourth decade. Despite this, Glimmerhin do not experience significant age-related baldness, maintaining a full head of hair well into old age.
 
 Their most distinguishing feature is their eyes, which are disproportionately large in relation to their skull size. These eyes possess highly developed irises, which can range from shades of steel gray to bright gold, with some rare instances of violet pigmentation. Their speech patterns and body language often appear erratic or hurried due to a natural predisposition for rapid cognitive processing.
 ##### **Lithfolk (Halflings)**
 - **Shrewd Bargains**: Gain Advantage on (and against) Bartering checks. 
-- **Stubborn Spirit**: Once per long rest, resist being frightened or charmed.
+- **Lucky Stars**: Once per session, reroll any failed roll (does not stack with the Lucky feat)
 
 Halflings are a small yet robust race, standing between 4’2 and 5 feet with a naturally compact and well-muscled build. Their bone structure is dense but not heavy, with wide torsos and thick limbs that grant them excellent endurance and balance. Unlike Glimmerhin, whose bodies favor dexterity, Halflings are built for efficiency in physical tasks, allowing them to carry significant weight relative to their size without compromising agility. Their musculature develops evenly, making them naturally resilient to fatigue. They tend to be slightly rounder in the face, with prominent cheekbones and wide, expressive eyes that come in rich shades of brown, hazel, and deep green. Their noses are often small but slightly upturned, and their smiles are broad, revealing strong, well-kept teeth.
 
-Hair is a defining trait of Halflings—naturally thick, wavy, or curly, it often grows wild but is meticulously groomed. Dark browns and warm chestnuts are the most common shades, with golden highlights appearing in those who spend much of their lives outdoors. Their skin is warm-toned, ranging from fair to deep olive, often with a healthy, ruddy glow that hints at a life well-fed and well-lived. Halflings also have an advanced sense of taste and smell, and it's this heightened sensory perception plays a significant role in their cultural and social habits, particularly in the appreciation of fine food, drink, and aromatics.
+Halflings possess naturally thick, wavy or curly hair which often grows wild and requires meticulous grooming; dark browns and warm chestnuts are the most common shades with golden highlights appearing in those who spend much of their lives outdoors. Their skin is warm-toned, ranging from fair to deep olive, often with a healthy, ruddy glow that hints at a life well-fed and well-lived. Halflings also have an advanced sense of taste and smell, and it's this heightened sensory perception plays a significant role in their cultural and social habits, particularly in the appreciation of fine food, drink, and aromatics.
 
 ---
 ### **Step 1: Attributes & Feats**
@@ -244,7 +264,7 @@ All characters start with a base HP of **6 + (Strength × 2)** and increase thei
 | **Intellect** | Intelligence, problem-solving, and magical aptitude. |
 | **Charisma**  | Social skills, persuasion, and intimidation.         |
 #### General Feats
-These feats are available to **all characters**, regardless of class, and can be taken at level-up **instead of a class-specific feat** if desired. Every character gets a free feat at level 0. 
+These feats are available to all characters, regardless of class, and can be taken at level-up instead of a class-specific feat if desired. Every character gets a free feat at level 0. 
 
 | **Feat Name**          | **Prerequisites**                    | **Effect**                                                                                                   |
 | ---------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -268,10 +288,11 @@ These feats are available to **all characters**, regardless of class, and can be
 | **Perfect Timing**     | None                                 | *Once per short rest, you may delay your turn to act at any point in the round.*                             |
 
 ---
+
 ### **Step 2: Class**
 #### **Fighter**
 - **Starting Proficiencies:** Any two from the following: 
-	Athletics, Endurance, Intimidation, Blacksmithing, Perception, Horseriding.
+	Athletics, Endurance, Acrobatics, Intimidation, Blacksmithing, Perception, Horseriding.
 - **Starting Gear Options**:
 	a) 1x Heavy Weapon, Chainmail, Shield
 	b) 2x Medium Weapons, Leather Armour  
@@ -286,7 +307,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 | -------------- | ------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**st        | **Powerful Strikes**      | None                        | *Add +2 to a damage roll once per turn.*                                                                                                                            |
 |                | **Armour Mastery**        | None                        | *Add +1 to your TN when wearing Medium or Heavy armour.*                                                                                                            |
-|                | **Riposte**               | Dexterity +2                | *When an enemy misses you with a melee attack, make a counterattack as a reaction.*                                                                                 |
+|                | **Riposte**               | Dexterity +2                | *When an enemy misses you with a melee attack, make a counterattack as a reaction once per encounter.*                                                              |
 |                | **Dual Wield**            | Dexterity +2                | *Gain Advantage on your second attack when dual-wielding Light Weapons.*                                                                                            |
 |                | **Shield Wall**           | None                        | *Negate 1 damage from every attack when wielding a shield and gain Major Advantage on Strength checks to shove enemies.*                                            |
 |                | **Tactical Insight**      | None                        | *Once per round, grant an ally within 20ft Major Advantage on their next attack or saving throw.*                                                                   |
@@ -411,8 +432,8 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |               | **Spell Eater**          | Greater Counterspell        | *Once per day, when you successfully counter a spell, regain the same number of spell points it would have cost.*                                |
 |               | **Echo Caster**          | Echo of Magic               | *The first time you cast a spell each combat, you may repeat it on the next turn without spending points.*                                       |
 |               | **Voidheart**            | Void Tap                    | *Whenever you kill a creature with a spell, regain 1D6 spell points (max once per round).*                                                       |
-|               | **Mindjolt**             | Intellect +4                | *Casting a spell also causes 1D6 psychic damage to anyone who can see you cast it.*                                                              |
-|               | **Occulted Gravity**     | Arcane Phasing              | *Enemies within 15ft of you treat the area as difficult terrain and must succeed a TN 14 save or be knocked prone if they cast a spell.*         |
+|               | **Mindjolt**             | Intellect +4                | *Casting a spell also causes 1D6 psychic damage to anyone who can see you cast it. You may selectively shield allies from this effect.*          |
+|               |                          |                             |                                                                                                                                                  |
 |               | **Power Cast**           | Spell Savant, Arcane Focus  | *Once per day, cast any known spell without components or counters—it simply happens.*                                                           |
 |               | **Death Signal**         | Arcane Explosion            | *Once per encounter, when a creature dies within 30ft, you may cast a spell as a free reaction.*                                                 |
 |               | **Back At Ya'**          | Spell Bending               | *Once per day, reflect a spell back at its caster without a roll. The spell must be Tier 3 or lower.*                                            |
@@ -441,7 +462,7 @@ At level 1, choose **two** starting feats. You may take one additional feat each
 |      | **Righteous Fury**           | None                    | *Gain Major Advantage on an attack against an enemy who harmed a helpless creature.*                                                                                |
 |      | **Shield of Conviction**     | None                    | *Increase TN by +1 while wearing armor.*                                                                                                                            |
 |      | **Divine Channel**           | None                    | *Once per long rest, cast a Miracle without spending Spell Points.*                                                                                                 |
-|      | **Sacred Armaments**         | None                    | *Your melee weapon is considered magical and deals +1D6 Radiant damage.*                                                                                            |
+|      | **Sacred Armaments**         | None                    | *Your melee weapon is considered magical and deals +1 Radiant damage.*                                                                                              |
 |      | **Commanding Presence**      | None                    | *You can issue a single-word command (e.g., Halt, Drop, Flee). Non-hostile creatures within 30ft must make a TN 12 Willpower save or obey.*                         |
 |      | **Defiance**                 | None                    | *Gain Advantage on rolls against being Frightened or Charmed.*                                                                                                      |
 |      | **Steel Conviction**         | None                    | *Taking damage while conscious grants +1 to attack rolls until end of next turn.*                                                                                   |
@@ -762,6 +783,7 @@ Each background grants:
 | **Priest**      | *A devout follower of a deity, studious in theology.*                 | Lore, Diplomacy, Medicine            |                                                     |
 
 ---
+
 ### **Step 4: Proficiencies**
 At level 1, you have access to **five** skill proficiencies by default, two from your background and two from your class and one based on your highest statistic (if multiple stats are the same e.g you have a character with 3-3-2-0 or 4-4-0-0 etc, pick between them). Rolling a skill that you are not proficient in will impose regular Disadvantage unless specified by the DM. 
 #### **Skill Proficiencies**
@@ -771,7 +793,7 @@ At level 1, you have access to **five** skill proficiencies by default, two from
 | **Physical**    | Athletics       | *Physical feats such as swimming, climbing, jumping, and grappling.*                  | Strength                 |
 |                 | Acrobatics      | *Balance, coordination, and agility.*                                                 | Dexterity                |
 |                 | Endurance       | *Stamina and perseverance during prolonged activity or hardship.*                     | Strength                 |
-| **Wilderness**  | Survival        | *Hunting, foraging, trapping and surviving in the wild.*                              | Intellect                |
+| **Wilderness**  | Survival        | *Hunting, foraging, trapping and surviving in the wild.*                              | Intellect or Strength    |
 |                 | Animal Handling | *Taming or training animals and understanding their behavior.*                        | Charisma                 |
 |                 | Herblore        | *Identifying and crafting items using plants (e.g., potions, salves, remedies).*      | Intellect                |
 |                 | Tracking        | *Following trails and interpreting environmental clues to locate creatures.*          | Intellect                |
@@ -835,10 +857,11 @@ Attempting to wear armour you are not proficient in reduces your dexterity bonus
 | Heavy Armor    | +5 to +6     | Max +1            |
 
 ---
-## **Miracles**
-Just like magic, miracles are manifestations of the caster's will, and the process of casting them is largely similar; the primary component of any magical process is mental in nature - the spell has to be first cast in the mind, just as the prayer has to be chanted in the eye of the caster's thoughts. The main difference is that spells are almost exclusively rooted in manamaterium, while miracles mostly rely on the second primary essence; metamaterium. 
 
-Clerics are the only class 
+## **Miracles**
+Just like magic, miracles are manifestations of the caster's will and the process of casting them is largely similar; the main difference is that spells are almost exclusively rooted in manamaterium, while miracles mostly rely on the second primary essence; metamaterium. 
+
+
 # **Spellcasting**
 Spellcasting represents the ability to channel and manipulate Manamaterium. In the 2D6 system, Spellcasting is treated as a proficiency that determines a character’s ability to reliably use magic.  Any character can attempt to cast spells, but non-proficient characters must roll at Disadvantage to determine success. Mages and Clerics automatically gain the proficiency at level 1. Other classes may gain the Spellcasting proficiency through feats, backgrounds, or multiclassing.
 
@@ -852,8 +875,8 @@ At **level 1**, a character with **Spellcasting Proficiency** gains **a pool of 
 	- To cast a spell, roll 2D6 + Intellect Modifier. Compare the result to the spell’s Target Number (TN):
 		- A roll equal to or higher than the TN means the spell succeeds.
 		- A roll lower than the TN results in failure, and the Spell Points are still consumed.
-	- The majority of spells in the 2D6 system are mental in nature—spells can be cast silently without the need for spoken words or prepared components.
-	- Spellcasters can use any spell in their spell repertoire without needing to prepare them beforehand. The only restriction is Spell Points and proficiency.
+	- The majority of spells in the 2D6 System are mental in nature and therefore spells can be cast silently without the need for spoken words or semantic components (dancing, hand gesturing or kneeling for example). This may not apply to spells which are cast through rituals though this will ultimately rest with the DM.
+	- Spellcasters can use any spell in their spell repertoire without needing to prepare them beforehand or at the start of every day. The only restrictions to spellcasting is Spell Points and having proficiency.
 	- Only spells above Level 3 require valuable material components.
 
 **Multiclass Spellcasters:**
@@ -1029,8 +1052,8 @@ You may cast multiple scaling options together at the same time at different tie
 ---
 #### Ranged Weapons 
 
-| **Weapon Name**      | **Weight Class** | **Damage** | **Range** | **Weight** | **Price** | **Properties**                                          |
-| -------------------- | ---------------- | ---------- | --------- | ---------- | --------- | ------------------------------------------------------- |
+| **Weapon Name**      | **Weight Class** | **Damage** | **Range** | **Weight** | **Price** | **Properties**                                            |
+| -------------------- | ---------------- | ---------- | --------- | ---------- | --------- | --------------------------------------------------------- |
 | **Shortbow**         | Light            | 1D6        | 60 ft     | 2 lb       | 15 gp     | *Simple and easy to use, lightweight.*                    |
 | **Longbow**          | Medium           | 1D6A       | 120 ft    | 3 lb       | 50 gp     | *Requires two hands, longer range, high accuracy.*        |
 | **Crossbow (Light)** | Medium           | 1D6A       | 80 ft     | 5 lb       | 25 gp     | *Can be used while crouched, takes one action to reload.* |
@@ -1039,8 +1062,8 @@ You may cast multiple scaling options together at the same time at different tie
 | **Throwing Spear**   | Medium           | 1D6A       | 40 ft     | 5 lb       | 10 gp     | *Effective against charging enemies.*                     |
 #### Armour 
 
-| **Armour Name**         | **Weight Class** | **TN Bonus** | **Dex Cap** | **Weight** | **Price** | **Special Properties**                                                |
-| ----------------------- | ---------------- | ------------ | ----------- | ---------- | --------- | --------------------------------------------------------------------- |
+| **Armour Name**         | **Weight Class** | **TN Bonus** | **Dex Cap** | **Weight** | **Price** | **Special Properties**                                                  |
+| ----------------------- | ---------------- | ------------ | ----------- | ---------- | --------- | ----------------------------------------------------------------------- |
 | **Traveler's Clothes**  | Light            | +1           | +3          | 8 lb       | 3 gp      | *Comfortable, grants +1 to endurance checks related to travel fatigue.* |
 | **Padded Jacket**       | Light            | +2           | +3          | 10 lb      | 6 gp      | *Grants +1 to resist cold damage.*                                      |
 | **Reinforced Clothing** | Light            | +2           | +3          | 12 lb      | 12 gp     | *Provides extra padding, +1 to resist bludgeoning damage.*              |
